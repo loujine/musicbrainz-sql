@@ -1,6 +1,7 @@
 -- pianist as recording artist but no artist-recording AR at all
 -- 2020-04: 2994
 -- 2020-05-20: 2257
+-- 2020-09-16: 2260
 
 SELECT
     a.sort_name,
@@ -23,6 +24,7 @@ ORDER BY
 -- conductor as recording artist but no artist-recording AR at all
 -- 2020-04: 1892
 -- 2020-05-20: 1700
+-- 2020-09-16: 1679
 
 SELECT
     a.sort_name,
@@ -42,6 +44,7 @@ ORDER BY
 -- violinist as recording artist but no artist-recording AR at all
 -- 2020-04: 113
 -- 2020-05-20: 113
+-- 2020-09-16: 102
 
 SELECT
     a.sort_name,
@@ -61,6 +64,7 @@ ORDER BY
 -- quartet as recording artist but no artist-recording AR at all
 -- 2020-04: 1041
 -- 2020-05-20: 1114
+-- 2020-09-16: 1073
 
 SELECT
     a.sort_name,

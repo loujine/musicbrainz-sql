@@ -1,6 +1,7 @@
 -- instrument "strings" with annotation "[string quartet]"
 -- 2020-04: 2570
 -- 2020-05-20: 1529
+-- 2020-09-16: 920
 
 WITH
 string_type AS (

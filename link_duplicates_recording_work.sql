@@ -1,5 +1,7 @@
 -- duplicate relationships between work and recording (filtered on main composers)
 
+-- 2020-09-16: 41
+
 WITH
 results AS (
     SELECT

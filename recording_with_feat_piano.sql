@@ -2,6 +2,7 @@
 -- 2017: 496
 -- 2020-04: 119
 -- 2020-05-20: 119
+-- 2020-09-16: 105
 
 SELECT
     to_recording_url(r.gid) AS recording_url,

@@ -1,6 +1,9 @@
 -- release catno like LC-xxxxx that are probably label codes
+-- Available in MBS as "Releases with catalog numbers that look like Label Codes"
+
 -- 2020-04: 66
 -- 2020-05-20: 53
+-- 2020-09-16: 30
 
 SELECT
     to_release_url(r.gid),

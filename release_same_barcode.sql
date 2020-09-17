@@ -1,4 +1,5 @@
 -- same barcode on more than 5 releases
+-- not all in same RG or country
 
 SELECT
     barcode,

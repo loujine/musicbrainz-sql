@@ -6,8 +6,9 @@ results AS (
     SELECT
         gid,
         LEVENSHTEIN_LESS_EQUAL(
-            'andante',
-            REGEXP_SPLIT_TO_TABLE(LOWER(SUBSTRING(name for 255)), '[\s:;.,()"]+'),
+            /* 'andante', */
+            'adagio',
+            REGEXP_SPLIT_TO_TABLE(LOWER(SUBSTRING(name for 255)), '[\s:;.,()\[\]"]+'),
             3) AS distance,
         name
     FROM recording

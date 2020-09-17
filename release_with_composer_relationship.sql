@@ -1,5 +1,6 @@
 -- release with relationship to composer (should be on related works)
 -- 2020-04: 121
+-- 2020-09-16: 125
 
 SELECT
     a.sort_name AS artist_name,

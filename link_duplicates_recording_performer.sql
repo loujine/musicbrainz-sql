@@ -1,6 +1,8 @@
 -- duplicate relationships between performer and recording (filtered on main composers)
 -- TODO unselect performer with different instruments
 
+-- 2020-09-16: 1167
+
 SELECT
     SUBSTRING(a.sort_name for 25) AS performer_name,
     to_recording_url(r.gid) AS recording_url,

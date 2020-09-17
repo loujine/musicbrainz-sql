@@ -1,7 +1,7 @@
 -- main works without imslp links
 
--- 2020-04 Beethoven: 465
--- 2020-04 Debussy: 67
+-- 2020-04 : 532
+-- 2020-09-16: 500
 
 SELECT
     to_work_url(w.gid) AS work_url,
@@ -13,8 +13,7 @@ FROM
     INNER JOIN link          AS l   ON l.id = law.link
     INNER JOIN link_type     AS lt  ON lt.id = l.link_type
 WHERE
-    a.name = 'Ludwig van Beethoven'
-    /* a.name = 'Claude Debussy' */
+    (a.name = 'Ludwig van Beethoven' OR a.name = 'Claude Debussy')
     AND lt.name = 'composer'
     /* AND w.name like '%WoO%' */
 EXCEPT (

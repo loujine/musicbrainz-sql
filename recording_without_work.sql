@@ -1,6 +1,7 @@
 -- find recordings from pianists not linked to any work
 -- 2020-04-22: 2149
 -- 2020-05-20: 2905
+-- 2020-09-16: 2318
 
 SELECT
     to_recording_url(r.gid) AS recording_url,

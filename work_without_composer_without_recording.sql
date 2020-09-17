@@ -1,6 +1,7 @@
 -- works with 'major' or 'minor' in title, without composer without recording
 -- 2020-04: 43
 -- 2020-05-20: 44
+-- 2020-09-16: 33
 
 SELECT
     to_work_url(w.gid) AS work_url,
