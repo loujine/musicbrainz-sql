@@ -66,8 +66,8 @@ CREATE OR REPLACE
 
 
 CREATE OR REPLACE
-    FUNCTION to_seconds(integer) RETURNS integer
-    AS 'select $1/60;'
+    FUNCTION to_md(text) RETURNS text
+    AS $$ SELECT text '[' || $1 || '](' || $1 || ')' ; $$
     LANGUAGE SQL
     IMMUTABLE
     RETURNS NULL ON NULL INPUT

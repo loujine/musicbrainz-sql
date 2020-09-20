@@ -2,9 +2,9 @@
 -- 2020-09-16: 219
 
 SELECT
-    medium_format.name,
-    to_cdtoc_url(cdtoc.discid),
-    cdtoc.leadout_offset / 60 / 75 AS duration_minutes
+    to_md(to_cdtoc_url(cdtoc.discid)) AS discid,
+    medium_format.name AS format,
+    JUSTIFY_INTERVAL(cdtoc.leadout_offset / 75 * INTERVAL '1 second') AS duration
 FROM
     cdtoc
     INNER JOIN medium_cdtoc ON medium_cdtoc.cdtoc = cdtoc.id
