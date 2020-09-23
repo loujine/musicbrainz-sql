@@ -4,3 +4,4 @@
  - [Tonalities frequencies](20200916/tonalities_frequencies.md)
  - [SQ credited as strings](20200916/instrument_strings_credited_string_quartet.md)
  - [Works with movement parts](20200916/works_with_movements.md)
+ - [Recordings with performers as artist and no relation to performer](20200916/performer_as_rec_artist_no_ar.md)
