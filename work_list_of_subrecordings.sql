@@ -8,13 +8,14 @@ subworks AS (
         lww.link_order,
         sw.name
     FROM
-        work             AS w
+        work                   AS w
         INNER JOIN l_work_work AS lww ON w.id = lww.entity0
         INNER JOIN work        AS sw  ON sw.id = lww.entity1
         INNER JOIN link        AS li  ON li.id = lww.link
         INNER JOIN link_type   AS lt  ON lt.id = li.link_type
     WHERE
-        w.gid = '15e0a721-5332-3452-8a56-e00af7b9e4ca'
+        w.gid = 'f8013df4-d091-4233-ba2e-ed564b3b42b2'
+        -- w.gid = '15e0a721-5332-3452-8a56-e00af7b9e4ca'
         AND lt.name = 'parts'
     ORDER BY
         lww.link_order
