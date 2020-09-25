@@ -6,7 +6,7 @@
 -- 2020-09-16: 599
 
 SELECT
-    to_work_url(gid),
+    to_md(to_work_url(gid)),
     name
 FROM
     work
@@ -17,7 +17,7 @@ WHERE
 -- 2020-09-16: 119
 
 SELECT
-    to_work_url(gid),
+    to_md(to_work_url(gid)),
     name
 FROM
     work
