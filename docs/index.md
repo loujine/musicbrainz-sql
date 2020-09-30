@@ -7,3 +7,4 @@
  - [Recordings with performers as artist and no relation to performer](20200916/performer_as_rec_artist_no_ar.md)
  - [Work title with "Op."](20200916/work_title_with_Op.md)
  - [Work with no composer and no linked recording](20200916/work_without_composer_without_recording.md)
+ - [Recording dates missing on work or performer link](20200916/recording_date_on_work_link_xor_on_performer_link.md)

@@ -6,7 +6,7 @@
 -- 2020-09-16: 1062
 
 SELECT
-    to_recording_url(r.gid) AS recording_url,
+    to_md(to_recording_url(r.gid)) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
     recording               AS r
@@ -28,7 +28,7 @@ WHERE
 -- 2020-09-16: 12
 
 SELECT
-    to_recording_url(r.gid) AS recording_url,
+    to_md(to_recording_url(r.gid)) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
     recording               AS r
@@ -50,7 +50,7 @@ WHERE
 -- 2020-09-16: 25
 
 SELECT
-    to_recording_url(r.gid) AS recording_url,
+    to_md(to_recording_url(r.gid)) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
     recording               AS r
@@ -72,7 +72,7 @@ WHERE
 -- 2020-09-16: 807
 
 SELECT
-    to_recording_url(r.gid) AS recording_url,
+    to_md(to_recording_url(r.gid)) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
     recording               AS r
