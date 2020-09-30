@@ -74,12 +74,17 @@ CREATE TABLE pianist AS (
         name in (
             'Alfred Brendel',
             'Alfred Cortot',
+            'Andreas Staier',
             'András Schiff',
             'Annie Fischer',
             'Arthur Rubinstein',
             'Artur Schnabel',
             'Arturo Benedetti Michelangeli',
             'Bertrand Chamayou',
+            'Blandine Rannou',
+            'Blandine Verlet',
+            'Christiane Jaccottet',
+            'Christophe Rousset',
             'Claudio Arrau',
             'Cyprien Katsaris',
             'Cédric Pescia',
@@ -118,6 +123,7 @@ CREATE TABLE pianist AS (
             'Nelson Freire',
             'Nicholas Angelich',
             'Nikita Magaloff',
+            'Olivier Baumont',
             'Paul Badura-Skoda',
             'Philippe Cassard',
             'Pierre Barbizet',
@@ -125,6 +131,7 @@ CREATE TABLE pianist AS (
             'Rudolf Buchbinder',
             'Rudolf Serkin',
             'Samson François',
+            'Trevor Pinnock',
             'Vladimir Ashkenazy',
             'Víkingur Ólafsson',
             'Walter Gieseking',
@@ -159,12 +166,19 @@ CREATE TABLE conductor AS (
             'Carlo Maria Giulini',
             'Carlos Kleiber',
             'Claudio Abbado',
+            'Eugen Jochum',
+            'Felix Weingartner',
             'Franz Konwitschny',
             'Hans Knappertsbusch',
             'Jean Martinon',
             'Karl Böhm',
+            'Lorin Maazel',
+            'Nikolaus Harnoncourt',
             'Otto Klemperer',
             'Pierre Boulez',
+            'Riccardo Muti',
+            'Sergiu Celibidache',
+            'Simon Rattle',
             'Wilhelm Furtwängler'
         )
     ORDER BY
@@ -191,13 +205,26 @@ CREATE TABLE quartet AS (
             'Busch Quartet',
             'Emerson String Quartet',
             'Eþos kvartettinn',
+            'Fine Arts Quartet',
             'Guarneri Quartet',
+            'Hagen Quartett',
+            'Hungarian Quartet',
             'Juilliard String Quartet',
             'LaSalle Quartet',
             'Lindsay String Quartet',
+            'Loewenguth Quartet',
+            'Melos Quartett',
             'Quartetto Italiano',
+            'Quatuor Diotima',
             'Quatuor Debussy',
             'Quatuor Ébène',
+            'Quatuor Hermès',
+            'Quatuor Mosaïques',
+            'Skálholt Quartet',
+            'Smetana Quartet',
+            'Takács Quartet',
+            'Talichovo kvarteto',
+            'Tokyo String Quartet',
             'Végh Quartet'
         )
     ORDER BY
@@ -218,7 +245,8 @@ CREATE TABLE violinist AS (
             'Ferras, Christian'
             'Menuhin, Yehudi',
             'Milstein, Nathan',
-            'Oistrakh, David Fiodorovich'
+            'Oistrakh, David Fiodorovich',
+            'Szigeti, Joseph'
         )
     ORDER BY
         sort_name
