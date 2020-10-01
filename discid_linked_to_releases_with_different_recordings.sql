@@ -28,7 +28,7 @@ results AS (
         INNER JOIN track AS t ON t.medium = mc.medium
         INNER JOIN recording AS r ON t.recording = r.id
     WHERE
-        t.position = 10
+        t.position = 8
     GROUP BY
         toc.discid, t.name, r.gid
 )
