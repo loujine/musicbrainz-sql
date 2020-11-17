@@ -1,5 +1,9 @@
--- discid above 90 minutes
+-- discid above X minutes
+-- https://beta.musicbrainz.org/edit/74026794
 -- 2020-09-16: 219
+-- 2020-11-14: > 100min: 0
+-- 2020-11-14: >  90min: 24
+-- 2020-11-14: >  86min: 272
 
 SELECT
     to_md(to_cdtoc_url(cdtoc.discid)) AS discid,
@@ -11,7 +15,7 @@ FROM
     INNER JOIN medium ON medium_cdtoc.medium = medium.id
     INNER JOIN medium_format ON medium.format = medium_format.id
 WHERE
-    leadout_offset > 75 * 60 * 90
+    leadout_offset > 75 * 60 * 86
 ORDER BY
     medium_format.name,
     cdtoc.leadout_offset DESC
