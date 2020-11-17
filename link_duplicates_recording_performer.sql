@@ -17,6 +17,8 @@ WHERE
     a.begin_date_year < 1900
 GROUP BY
     r.id,
+    r.gid,
+    r.name,
     a.sort_name,
     lt.name
 HAVING
