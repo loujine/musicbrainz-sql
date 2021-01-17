@@ -14,7 +14,8 @@ subworks AS (
         INNER JOIN link        AS li  ON li.id = lww.link
         INNER JOIN link_type   AS lt  ON lt.id = li.link_type
     WHERE
-        w.gid = 'f8013df4-d091-4233-ba2e-ed564b3b42b2'
+        w.gid = 'c35b4956-d4f8-321a-865b-5b13d9ed192b'
+        -- w.gid = 'f8013df4-d091-4233-ba2e-ed564b3b42b2'
         -- w.gid = '15e0a721-5332-3452-8a56-e00af7b9e4ca'
         AND lt.name = 'parts'
     ORDER BY
