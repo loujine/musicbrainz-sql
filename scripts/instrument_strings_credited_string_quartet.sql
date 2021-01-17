@@ -13,7 +13,7 @@ string_type AS (
         name = 'strings'
 )
 SELECT
-    to_md(to_recording_url(r.gid)),
+    to_recording_url(r.gid) AS recording_url,
     r.name
 FROM
     l_artist_recording AS lar

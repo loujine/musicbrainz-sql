@@ -19,7 +19,7 @@ WHERE
     AND lww.link_order != 0
 )
 SELECT
-    to_md(to_work_url(gid)),
+    to_work_url(gid) AS work_url,
     name,
     COUNT(gid) AS nb_mvmts
 FROM

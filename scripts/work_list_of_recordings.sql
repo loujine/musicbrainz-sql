@@ -1,7 +1,7 @@
 -- recordings durations for a given work
 
 SELECT
-    to_recording_url(r.gid),
+    to_recording_url(r.gid) AS recording_url,
     r.length,
     ac.name
 FROM

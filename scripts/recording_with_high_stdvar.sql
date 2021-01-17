@@ -28,7 +28,7 @@ GROUP BY
     gid, artist_name, name
 )
 SELECT
-    to_md(to_recording_url(gid)) AS recording_url,
+    to_recording_url(gid) AS recording_url,
     artist_name,
     SUBSTRING(name for 50) AS recording_name
 FROM
@@ -68,7 +68,7 @@ GROUP BY
     gid, artist_name, name
 )
 SELECT
-    to_md(to_recording_url(gid)) AS recording_url,
+    to_recording_url(gid) AS recording_url,
     artist_name,
     SUBSTRING(name for 50) AS recording_name
 FROM
@@ -108,7 +108,7 @@ GROUP BY
     gid, artist_name, name
 )
 SELECT
-    to_md(to_recording_url(gid)) AS recording_url,
+    to_recording_url(gid) AS recording_url,
     artist_name,
     SUBSTRING(name for 50) AS recording_name
 FROM
@@ -148,7 +148,7 @@ GROUP BY
     gid, artist_name, name
 )
 SELECT
-    to_md(to_recording_url(gid)) AS recording_url,
+    to_recording_url(gid) AS recording_url,
     artist_name,
     SUBSTRING(name for 50) AS recording_name
 FROM

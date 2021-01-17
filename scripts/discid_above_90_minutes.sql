@@ -6,7 +6,7 @@
 -- 2020-11-14: >  86min: 272
 
 SELECT
-    to_md(to_cdtoc_url(cdtoc.discid)) AS discid,
+    to_cdtoc_url(cdtoc.discid) AS discid,
     medium_format.name AS format,
     JUSTIFY_INTERVAL(cdtoc.leadout_offset / 75 * INTERVAL '1 second') AS duration
 FROM

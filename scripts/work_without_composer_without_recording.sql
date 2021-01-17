@@ -4,7 +4,7 @@
 -- 2020-09-16: 33
 
 SELECT
-    to_md(to_work_url(w.gid)) AS work_url,
+    to_work_url(w.gid) AS work_url,
     w.name AS work_name
 FROM
     work AS w

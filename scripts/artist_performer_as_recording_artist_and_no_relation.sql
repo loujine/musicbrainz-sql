@@ -6,7 +6,7 @@
 SELECT
     a.sort_name,
     /* COUNT(*) */
-    to_md(to_recording_url(r.gid)) AS recording
+    to_recording_url(r.gid) AS recording
 FROM
     artist_credit_name AS acn
     INNER JOIN pianist      AS a  ON a.id = acn.artist
@@ -28,7 +28,7 @@ ORDER BY
 
 SELECT
     a.sort_name,
-    to_md(to_recording_url(r.gid)) AS recording
+    to_recording_url(r.gid) AS recording
 FROM
     artist_credit_name AS acn
     INNER JOIN conductor    AS a  ON a.id = acn.artist
@@ -48,7 +48,7 @@ ORDER BY
 
 SELECT
     a.sort_name,
-    to_md(to_recording_url(r.gid)) AS recording
+    to_recording_url(r.gid) AS recording
 FROM
     artist_credit_name AS acn
     INNER JOIN violinist    AS a  ON a.id = acn.artist
@@ -68,7 +68,7 @@ ORDER BY
 
 SELECT
     a.sort_name,
-    to_md(to_recording_url(r.gid)) AS recording
+    to_recording_url(r.gid) AS recording
 FROM
     artist_credit_name AS acn
     INNER JOIN quartet      AS a  ON a.id = acn.artist

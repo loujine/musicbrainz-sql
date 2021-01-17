@@ -33,7 +33,7 @@ results AS (
         toc.discid, t.name, r.gid
 )
 SELECT
-    to_md(to_cdtoc_url(discid)),
+    to_cdtoc_url(discid) AS discid,
     ARRAY_AGG(track) AS track_names
 FROM
     results

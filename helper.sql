@@ -3,7 +3,7 @@
 
 CREATE OR REPLACE
     FUNCTION to_artist_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/artist/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/artist/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -11,7 +11,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_cdtoc_url(character) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/cdtoc/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/cdtoc/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -19,7 +19,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_label_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/label/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/label/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -27,7 +27,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_recording_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/recording/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/recording/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -35,7 +35,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_release_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/release/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/release/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -43,7 +43,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_release_group_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/release-group/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/release-group/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -51,7 +51,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_track_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/track/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/track/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
@@ -59,7 +59,7 @@ CREATE OR REPLACE
 
 CREATE OR REPLACE
     FUNCTION to_work_url(uuid) RETURNS text
-    AS $$ SELECT text 'https://musicbrainz.org/work/' || $1 ; $$
+    AS $$ SELECT text '<https://beta.musicbrainz.org/work/' || $1 || '>' ; $$
     LANGUAGE SQL
     IMMUTABLE
 ;
