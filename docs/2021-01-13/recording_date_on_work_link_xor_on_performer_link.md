@@ -1,2427 +1,2427 @@
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-|                                                                  recording_url                                                                   |                   recording_name                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [https://musicbrainz.org/recording/8ad750e6-935f-42fc-9b91-206f1c619486](https://musicbrainz.org/recording/8ad750e6-935f-42fc-9b91-206f1c619486) | Symphony No. 4 "Symphonie Concertante", Op. 60: II |
-| [https://musicbrainz.org/recording/08df444e-5f47-40a0-8b24-de0899c84a52](https://musicbrainz.org/recording/08df444e-5f47-40a0-8b24-de0899c84a52) | Lyric Pieces, op. 62 no. 6: Drømmesyn              |
-| [https://musicbrainz.org/recording/3984d8ae-ffc6-4ad5-b5fc-7787ae1dfd8a](https://musicbrainz.org/recording/3984d8ae-ffc6-4ad5-b5fc-7787ae1dfd8a) | Piano Concerto no. 1 in B-flat minor, op. 23: I. A |
-| [https://musicbrainz.org/recording/e835cc3a-3052-4160-9f05-9938556fd9c6](https://musicbrainz.org/recording/e835cc3a-3052-4160-9f05-9938556fd9c6) | Piano Concerto no. 1 in B-flat minor, op. 23: II.  |
-| [https://musicbrainz.org/recording/7e57cb59-03d8-483c-90f1-b842551ecfff](https://musicbrainz.org/recording/7e57cb59-03d8-483c-90f1-b842551ecfff) | Piano Concerto no. 1 in B-flat minor, op. 23: III. |
-| [https://musicbrainz.org/recording/d8946091-193d-4a5a-97c4-e53101c1b621](https://musicbrainz.org/recording/d8946091-193d-4a5a-97c4-e53101c1b621) | Sonata for Violin and Piano no. 1: I. Allegro appa |
-| [https://musicbrainz.org/recording/613a6d27-2ce6-4f1f-bf5c-ef9cabd17208](https://musicbrainz.org/recording/613a6d27-2ce6-4f1f-bf5c-ef9cabd17208) | Danzas argentinas, op. 2: I. Danza del viejo boyer |
-| [https://musicbrainz.org/recording/aadfd0f1-639c-49f4-910d-f9b127244315](https://musicbrainz.org/recording/aadfd0f1-639c-49f4-910d-f9b127244315) | Danzas argentinas, op. 2: II. Danza de la moza don |
-| [https://musicbrainz.org/recording/87007324-9c21-434b-8315-1572d6770c40](https://musicbrainz.org/recording/87007324-9c21-434b-8315-1572d6770c40) | Danzas argentinas, op. 2: III. Danza del gaucho ma |
-| [https://musicbrainz.org/recording/9f2f0577-c1ef-46dc-940f-cfd7b49319a2](https://musicbrainz.org/recording/9f2f0577-c1ef-46dc-940f-cfd7b49319a2) | Piano Trio in D major, Op. 70, No. 1 "Ghost": II.  |
-| [https://musicbrainz.org/recording/943862b8-8bc2-4ef9-b8ab-85f9f21e05d2](https://musicbrainz.org/recording/943862b8-8bc2-4ef9-b8ab-85f9f21e05d2) | Piano Trio No. 1 in D minor, Op. 49: III. Scherzo: |
-| [https://musicbrainz.org/recording/e9c79eee-cd87-423e-be46-18134bd4963b](https://musicbrainz.org/recording/e9c79eee-cd87-423e-be46-18134bd4963b) | Partita Nr. 2 c-Moll, BWV 826                      |
-| [https://musicbrainz.org/recording/c47c9aea-7674-4bd7-8a87-192acccbbfb5](https://musicbrainz.org/recording/c47c9aea-7674-4bd7-8a87-192acccbbfb5) | Drei Fantasiestücke, Op. 73: II. Lebhaft, leicht   |
-| [https://musicbrainz.org/recording/50b31d0a-2e77-40d5-9b6d-97d2dc4c6e65](https://musicbrainz.org/recording/50b31d0a-2e77-40d5-9b6d-97d2dc4c6e65) | Waltz from the Ballet Stone Flower                 |
-| [https://musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc](https://musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc) | Sonata in D Major for 2 Pianos, K.448: III. Molto  |
-| [https://musicbrainz.org/recording/42fc20ab-1315-4569-bccf-428eef8e9957](https://musicbrainz.org/recording/42fc20ab-1315-4569-bccf-428eef8e9957) | Prélude e-moll op.28 Nr.4                          |
-| [https://musicbrainz.org/recording/2c254f31-ad59-4d89-a28e-5179752ba457](https://musicbrainz.org/recording/2c254f31-ad59-4d89-a28e-5179752ba457) | Piano Concerto no. 2: Allegro vivace (excerpt)     |
-| [https://musicbrainz.org/recording/080a30af-1d59-40cd-83da-81173a613ca5](https://musicbrainz.org/recording/080a30af-1d59-40cd-83da-81173a613ca5) | Piano Concerto in A minor op. 54: Allegro vivace ( |
-| [https://musicbrainz.org/recording/faf676f1-a2d3-47fe-bef5-8e0ddf469865](https://musicbrainz.org/recording/faf676f1-a2d3-47fe-bef5-8e0ddf469865) | Fantasiestücke, op. 12: II. Aufschwung             |
-| [https://musicbrainz.org/recording/0b058a7d-32db-4cb6-941e-54f09047e695](https://musicbrainz.org/recording/0b058a7d-32db-4cb6-941e-54f09047e695) | Trois Nouvelles Études: No.2 in D Flat Major       |
-| [https://musicbrainz.org/recording/ea9615d9-9053-4a29-9e3f-120a71000ac2](https://musicbrainz.org/recording/ea9615d9-9053-4a29-9e3f-120a71000ac2) | Trois Nouvelles Études: No.3 in A Flat Major       |
-| [https://musicbrainz.org/recording/f64aaa8f-a495-4d5d-bde6-da99e4689b7e](https://musicbrainz.org/recording/f64aaa8f-a495-4d5d-bde6-da99e4689b7e) | Kreisleriana, Op. 16: II. Con molta espressione, n |
-| [https://musicbrainz.org/recording/3312e691-85de-49b0-a626-d33851367f7c](https://musicbrainz.org/recording/3312e691-85de-49b0-a626-d33851367f7c) | Piano Sonata no. 9 in E major, op. 14 no. 1: I. Al |
-| [https://musicbrainz.org/recording/0e9aefbc-89c5-41dc-a287-da5dde727d02](https://musicbrainz.org/recording/0e9aefbc-89c5-41dc-a287-da5dde727d02) | Piano Sonata no. 28 in A major, op. 101: III. Lang |
-| [https://musicbrainz.org/recording/31bc802f-282d-439b-b902-1de0946aa0b8](https://musicbrainz.org/recording/31bc802f-282d-439b-b902-1de0946aa0b8) | Sonate Nr. 8 in C-moll, Op.13 "Pathétique" - 1. Gr |
-| [https://musicbrainz.org/recording/1a400695-2725-44d8-9772-da501e001be4](https://musicbrainz.org/recording/1a400695-2725-44d8-9772-da501e001be4) | Ballade No. 3 in A-flat Major, Op. 4               |
-| [https://musicbrainz.org/recording/3f92a7f7-33c3-4f8c-a353-d712c0b7ac0e](https://musicbrainz.org/recording/3f92a7f7-33c3-4f8c-a353-d712c0b7ac0e) | Concerto no. 3 in D minor, op. 30: I. Allegro ma n |
-| [https://musicbrainz.org/recording/5b65c62b-8ba9-4ff2-89b9-715da8dfc172](https://musicbrainz.org/recording/5b65c62b-8ba9-4ff2-89b9-715da8dfc172) | Variations and Fugue on a Theme of Handel, op. 24: |
-| [https://musicbrainz.org/recording/a0c0261f-b117-49b4-95e6-9bd43ae58876](https://musicbrainz.org/recording/a0c0261f-b117-49b4-95e6-9bd43ae58876) | Prelude no. 1. in C-Sharp minor, op. 3 no. 2       |
-| [https://musicbrainz.org/recording/d222fce9-4887-4b72-b751-fc242fbeaff3](https://musicbrainz.org/recording/d222fce9-4887-4b72-b751-fc242fbeaff3) | Transcendental Etude No. 5 in B-flat, Feux Follets |
-| [https://musicbrainz.org/recording/ec2446c3-170e-4651-927c-e5036924ce61](https://musicbrainz.org/recording/ec2446c3-170e-4651-927c-e5036924ce61) | "Souvenir de Paganini" Variations in A major, Op.  |
-| [https://musicbrainz.org/recording/76e8e6ef-7266-48a1-bd01-bb02c62b4b54](https://musicbrainz.org/recording/76e8e6ef-7266-48a1-bd01-bb02c62b4b54) | Variations brillantes on "Je vends des scapulaires |
-| [https://musicbrainz.org/recording/dac2b92e-501f-4f6f-ba39-d62eb481c834](https://musicbrainz.org/recording/dac2b92e-501f-4f6f-ba39-d62eb481c834) | Quatre morceaux, op. 51                            |
-| [https://musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1](https://musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1) | Concerto No. 3 in D Minor, Op 30: II. Intermezzo:  |
-| [https://musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1](https://musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1) | Concerto No. 3 in D Minor, Op 30: II. Intermezzo:  |
-| [https://musicbrainz.org/recording/11668d6b-9c87-4e2a-a00b-627956cd0b3e](https://musicbrainz.org/recording/11668d6b-9c87-4e2a-a00b-627956cd0b3e) | 4 Pieces, op. 51: Prélude                          |
-| [https://musicbrainz.org/recording/1d559515-887f-4aac-aa5a-b5ca369f8182](https://musicbrainz.org/recording/1d559515-887f-4aac-aa5a-b5ca369f8182) | The Nursery: 2. In The Corner                      |
-| [https://musicbrainz.org/recording/634865c1-fae8-41e3-a47d-9727f230f251](https://musicbrainz.org/recording/634865c1-fae8-41e3-a47d-9727f230f251) | Variations on a Theme of Corelli, op. 42           |
-| [https://musicbrainz.org/recording/a9f1b15d-a462-4ee7-ac40-61efb5710f74](https://musicbrainz.org/recording/a9f1b15d-a462-4ee7-ac40-61efb5710f74) | By the Gates of the Holy Dwelling                  |
-| [https://musicbrainz.org/recording/7a7e00f9-9c52-43c5-b204-af3634a7ff7f](https://musicbrainz.org/recording/7a7e00f9-9c52-43c5-b204-af3634a7ff7f) | 3 Pièces, op. 2: I. Étude: Andante (C-sharp minor) |
-| [https://musicbrainz.org/recording/4b973e61-232b-42e1-8071-7f092835e7e8](https://musicbrainz.org/recording/4b973e61-232b-42e1-8071-7f092835e7e8) | Piano Concerto no. 4 in G major: I. Andante con mo |
-| [https://musicbrainz.org/recording/e72cff83-1e3a-4587-8524-1a022ed1ab69](https://musicbrainz.org/recording/e72cff83-1e3a-4587-8524-1a022ed1ab69) | Rhapsody on a Theme of Paganini, op. 43: Introduct |
-| [https://musicbrainz.org/recording/b9537ec8-de8c-449a-9d83-7f60a0900f11](https://musicbrainz.org/recording/b9537ec8-de8c-449a-9d83-7f60a0900f11) | Piano Sonata No. 8 in B-flat major, Op. 84: II. An |
-| [https://musicbrainz.org/recording/55b7f693-b16f-4d3e-960c-057850084d17](https://musicbrainz.org/recording/55b7f693-b16f-4d3e-960c-057850084d17) | Mazurka no. 5 in B-flat op. 7 No.1                 |
-| [https://musicbrainz.org/recording/199d3f51-1d57-4415-9d64-dafbe0a64165](https://musicbrainz.org/recording/199d3f51-1d57-4415-9d64-dafbe0a64165) | Impromptu no. 4 in C-sharp minor, op. 66 "Fantaisi |
-| [https://musicbrainz.org/recording/5015f320-781f-4b81-89a6-12d7a9449db1](https://musicbrainz.org/recording/5015f320-781f-4b81-89a6-12d7a9449db1) | 12 Etudes, op. 10: no. 3 in E major                |
-| [https://musicbrainz.org/recording/5e1150e0-b399-404b-a244-773137abbb42](https://musicbrainz.org/recording/5e1150e0-b399-404b-a244-773137abbb42) | Nocturne no. 5 in F-sharp, op. 15 No.2             |
-| [https://musicbrainz.org/recording/2c05ec2a-557a-4068-b66f-5084adaf0cf0](https://musicbrainz.org/recording/2c05ec2a-557a-4068-b66f-5084adaf0cf0) | Mazurka no. 46 in C op. 67 No.3                    |
-| [https://musicbrainz.org/recording/acde93b6-e5fa-4f84-98e0-3ebfaa6cf2bb](https://musicbrainz.org/recording/acde93b6-e5fa-4f84-98e0-3ebfaa6cf2bb) | Waltz no. 11 in G-flat, op. 70 No.1                |
-| [https://musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c](https://musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c) | Pictures at an Exhibition, for Piano: Promenade: G |
-| [https://musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c](https://musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c) | Pictures at an Exhibition, for Piano: Promenade: G |
-| [https://musicbrainz.org/recording/88ddbb99-43aa-41c5-85f2-a9211a9891ac](https://musicbrainz.org/recording/88ddbb99-43aa-41c5-85f2-a9211a9891ac) | 12 Etudes, op. 10: no. 12 in C minor               |
-| [https://musicbrainz.org/recording/56906ba7-f97a-4982-a82b-77eea1a27604](https://musicbrainz.org/recording/56906ba7-f97a-4982-a82b-77eea1a27604) | 12 Etudes, op. 25: no. 11 in A minor "Winter Wind" |
-| [https://musicbrainz.org/recording/cb36c32b-b81b-4fd4-9837-987d55bb2439](https://musicbrainz.org/recording/cb36c32b-b81b-4fd4-9837-987d55bb2439) | Mazurka no. 23 in D op. 33 No.2                    |
-| [https://musicbrainz.org/recording/f73b7910-3690-4419-afce-94f288b68e5f](https://musicbrainz.org/recording/f73b7910-3690-4419-afce-94f288b68e5f) | Nocturne no. 15 in F minor, op. 55 No.1            |
-| [https://musicbrainz.org/recording/acc86839-fb65-4d99-98f0-bc0e277873a7](https://musicbrainz.org/recording/acc86839-fb65-4d99-98f0-bc0e277873a7) | Nocturne no. 9 in B, op. 32 No.1                   |
-| [https://musicbrainz.org/recording/7158d77c-d5b8-414d-a5f5-2634c6477967](https://musicbrainz.org/recording/7158d77c-d5b8-414d-a5f5-2634c6477967) | Ballade No.2 in F Major, Op.38                     |
-| [https://musicbrainz.org/recording/cc87567e-3d07-40ee-a38e-5c2b370b2da1](https://musicbrainz.org/recording/cc87567e-3d07-40ee-a38e-5c2b370b2da1) | Mazurka No.21 in C Sharp Minor, Op.30 No.4         |
-| [https://musicbrainz.org/recording/ee6b563c-bd77-4764-b05a-48a602d74d96](https://musicbrainz.org/recording/ee6b563c-bd77-4764-b05a-48a602d74d96) | Mazurka No.29 in A Flat Major, Op.41 No.4          |
-| [https://musicbrainz.org/recording/7020a720-0c81-4950-957e-d146a8354675](https://musicbrainz.org/recording/7020a720-0c81-4950-957e-d146a8354675) | Etude, Op. 10 No. 6 in E-flat minor                |
-| [https://musicbrainz.org/recording/99bc38b6-99e3-4c30-acb7-e500ed1fc406](https://musicbrainz.org/recording/99bc38b6-99e3-4c30-acb7-e500ed1fc406) | Sonate en mi Bemol Majeur, Op. 31 No. 3: II. Scher |
-| [https://musicbrainz.org/recording/fa1f25cb-eed0-49f7-a9a3-544ac170e7bc](https://musicbrainz.org/recording/fa1f25cb-eed0-49f7-a9a3-544ac170e7bc) | Sonate en mi Bemol Majeur, Op. 31 No. 3: III. Minu |
-| [https://musicbrainz.org/recording/e363145c-3f76-4de0-87f8-795fd3da366f](https://musicbrainz.org/recording/e363145c-3f76-4de0-87f8-795fd3da366f) | Sonate en mi Bemol Majeur, Op. 31 No. 3: IV. Prest |
-| [https://musicbrainz.org/recording/6ebca5d6-6f4d-4fd9-8b27-b6051db35e41](https://musicbrainz.org/recording/6ebca5d6-6f4d-4fd9-8b27-b6051db35e41) | Sonate en sol Majeur, Op. 79: I. Presto alla tedes |
-| [https://musicbrainz.org/recording/b72994ab-aaa8-46c9-be7f-d5c5cfe2fcf0](https://musicbrainz.org/recording/b72994ab-aaa8-46c9-be7f-d5c5cfe2fcf0) | Sonate en sol Majeur, Op. 79: II. Andante          |
-| [https://musicbrainz.org/recording/12180b4c-a485-4f70-8f43-141635f0bce3](https://musicbrainz.org/recording/12180b4c-a485-4f70-8f43-141635f0bce3) | Sonate en sol Majeur, Op. 79: III. Vivace          |
-| [https://musicbrainz.org/recording/4a22da25-b3cb-4e38-ba62-12442af87dfa](https://musicbrainz.org/recording/4a22da25-b3cb-4e38-ba62-12442af87dfa) | Sonate en mi Bemol Majeur, Op. 81a: I. Das Lebewoh |
-| [https://musicbrainz.org/recording/2b7b0248-e7d2-4872-8343-8b783ae4981c](https://musicbrainz.org/recording/2b7b0248-e7d2-4872-8343-8b783ae4981c) | Sonate en mi Bemol Majeur, Op. 81a: II. Die Abwese |
-| [https://musicbrainz.org/recording/2b7b0248-e7d2-4872-8343-8b783ae4981c](https://musicbrainz.org/recording/2b7b0248-e7d2-4872-8343-8b783ae4981c) | Sonate en mi Bemol Majeur, Op. 81a: II. Die Abwese |
-| [https://musicbrainz.org/recording/fbf4401b-3606-40df-8561-e69f8a270fb0](https://musicbrainz.org/recording/fbf4401b-3606-40df-8561-e69f8a270fb0) | Larghetto et allegro en Mi bémol majeur pour deux  |
-| [https://musicbrainz.org/recording/9b7195f5-df47-4711-9f35-52e061608b07](https://musicbrainz.org/recording/9b7195f5-df47-4711-9f35-52e061608b07) | Variations symphoniques, FWV 46                    |
-| [https://musicbrainz.org/recording/3ede78ac-0158-4c12-8d8e-333ed2af0464](https://musicbrainz.org/recording/3ede78ac-0158-4c12-8d8e-333ed2af0464) | Piano Concerto, op. 30                             |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf](https://musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf) | Walzerkette (zusammengestellt von Paul Badura-Skod |
-| [https://musicbrainz.org/recording/4f33ab61-6cd7-488e-bac5-80def8e6534c](https://musicbrainz.org/recording/4f33ab61-6cd7-488e-bac5-80def8e6534c) | Walzer h-Moll D 145 (op. 18) No. 6                 |
-| [https://musicbrainz.org/recording/3757d00c-e8f3-4f3f-be69-897a9225215c](https://musicbrainz.org/recording/3757d00c-e8f3-4f3f-be69-897a9225215c) | Deutscher und Ecossaise cis-Moll D 643             |
-| [https://musicbrainz.org/recording/3d90f9e6-8652-4b2f-a51d-7eb0d2a1910c](https://musicbrainz.org/recording/3d90f9e6-8652-4b2f-a51d-7eb0d2a1910c) | Sechs Walzer Fis-Dur/Ges-Dur D 365/722             |
-| [https://musicbrainz.org/recording/3d90f9e6-8652-4b2f-a51d-7eb0d2a1910c](https://musicbrainz.org/recording/3d90f9e6-8652-4b2f-a51d-7eb0d2a1910c) | Sechs Walzer Fis-Dur/Ges-Dur D 365/722             |
-| [https://musicbrainz.org/recording/b0fd1e8d-271b-4ff3-a8da-17d92e7606d5](https://musicbrainz.org/recording/b0fd1e8d-271b-4ff3-a8da-17d92e7606d5) | Sechs Atzenbrugger Deutsche (aus D 145/365)        |
-| [https://musicbrainz.org/recording/b0fd1e8d-271b-4ff3-a8da-17d92e7606d5](https://musicbrainz.org/recording/b0fd1e8d-271b-4ff3-a8da-17d92e7606d5) | Sechs Atzenbrugger Deutsche (aus D 145/365)        |
-| [https://musicbrainz.org/recording/1d41dd47-de8c-4358-a898-1c0a4cdeda4e](https://musicbrainz.org/recording/1d41dd47-de8c-4358-a898-1c0a4cdeda4e) | Valses nobles op. 77 D 969                         |
-| [https://musicbrainz.org/recording/2dbd7e77-5714-4f60-9b9b-ca5f83c2eec3](https://musicbrainz.org/recording/2dbd7e77-5714-4f60-9b9b-ca5f83c2eec3) | Walzer E-Dur D 924 (op. 91) No. 1, 'Farewell Waltz |
-| [https://musicbrainz.org/recording/f1bb8a19-b834-4248-88d3-c11634bb28f2](https://musicbrainz.org/recording/f1bb8a19-b834-4248-88d3-c11634bb28f2) | Fledermaus Polka                                   |
-| [https://musicbrainz.org/recording/46d6b119-cff5-46f3-947c-f347853b3eca](https://musicbrainz.org/recording/46d6b119-cff5-46f3-947c-f347853b3eca) | Pizzicato Polka                                    |
-| [https://musicbrainz.org/recording/45af1d47-8cd3-4e52-8916-32c2f0e79ba6](https://musicbrainz.org/recording/45af1d47-8cd3-4e52-8916-32c2f0e79ba6) | Lerchenwalzer in Des-Dur D 145 (op. 18) Nos. 7,8   |
-| [https://musicbrainz.org/recording/45af1d47-8cd3-4e52-8916-32c2f0e79ba6](https://musicbrainz.org/recording/45af1d47-8cd3-4e52-8916-32c2f0e79ba6) | Lerchenwalzer in Des-Dur D 145 (op. 18) Nos. 7,8   |
-| [https://musicbrainz.org/recording/254aecd0-ffc3-43be-9d2c-e6b3ba27d2b2](https://musicbrainz.org/recording/254aecd0-ffc3-43be-9d2c-e6b3ba27d2b2) | Sonata for Violin & Piano No. 33 in F major, K. 37 |
-| [https://musicbrainz.org/recording/e2dd86c7-2129-4e25-b554-6779b75a8b7d](https://musicbrainz.org/recording/e2dd86c7-2129-4e25-b554-6779b75a8b7d) | Sonata for Violin & Piano No. 43 in F major, K. 54 |
-| [https://musicbrainz.org/recording/4057e939-4239-49bf-8ede-76e71d86e60c](https://musicbrainz.org/recording/4057e939-4239-49bf-8ede-76e71d86e60c) | Cello Sonata in G minor, op. 65: II. Scherzo: Alle |
-| [https://musicbrainz.org/recording/27182883-46f3-4b7c-95cc-694340bda32d](https://musicbrainz.org/recording/27182883-46f3-4b7c-95cc-694340bda32d) | Romanzen und Lieder, op. 84: 4. Vergebliches Ständ |
-| [https://musicbrainz.org/recording/a753755c-d9fe-440c-b073-34c39bc6eba2](https://musicbrainz.org/recording/a753755c-d9fe-440c-b073-34c39bc6eba2) | Concerto for Piano and Orchestra no. 2 in B-flat m |
-| [https://musicbrainz.org/recording/59e3d47f-643e-4581-8bb4-074cff45d608](https://musicbrainz.org/recording/59e3d47f-643e-4581-8bb4-074cff45d608) | Concerto for Piano and Orchestra no. 2 in B-flat m |
-| [https://musicbrainz.org/recording/d430734c-1c9f-42f3-80e3-dc5b7c22f056](https://musicbrainz.org/recording/d430734c-1c9f-42f3-80e3-dc5b7c22f056) | Concerto for Piano and Orchestra no. 2 in B-flat m |
-| [https://musicbrainz.org/recording/da77829b-3886-4ecc-abfe-4c0942f81954](https://musicbrainz.org/recording/da77829b-3886-4ecc-abfe-4c0942f81954) | Concerto for Piano and Orchestra no. 2 in B-flat m |
-| [https://musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc](https://musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc) | Sonata in D Major for 2 Pianos, K.448: III. Molto  |
-| [https://musicbrainz.org/recording/b28a1539-84f3-41a4-8440-5b12534792c8](https://musicbrainz.org/recording/b28a1539-84f3-41a4-8440-5b12534792c8) | La Boucon                                          |
-| [https://musicbrainz.org/recording/36950017-a470-4857-be15-802c26582de2](https://musicbrainz.org/recording/36950017-a470-4857-be15-802c26582de2) | La Monmartel ou la Brunoys (Allegro)               |
-| [https://musicbrainz.org/recording/2e0d48a6-fc5e-44b0-a7a3-2bca111aa13f](https://musicbrainz.org/recording/2e0d48a6-fc5e-44b0-a7a3-2bca111aa13f) | La Latour                                          |
-| [https://musicbrainz.org/recording/b5b0f09b-0058-458a-904c-e014de3148eb](https://musicbrainz.org/recording/b5b0f09b-0058-458a-904c-e014de3148eb) | La de La Tour (Vivement)                           |
-| [https://musicbrainz.org/recording/8affc6d1-6283-4781-862d-2c2bae0ae5c1](https://musicbrainz.org/recording/8affc6d1-6283-4781-862d-2c2bae0ae5c1) | La Princesse Marie (Gracieusement, sans lenteur –  |
-| [https://musicbrainz.org/recording/bd29b94d-caf0-4337-bff7-df284d04750d](https://musicbrainz.org/recording/bd29b94d-caf0-4337-bff7-df284d04750d) | La Dauphine                                        |
-| [https://musicbrainz.org/recording/674cd473-b520-417c-a3b3-52f7bf3b8032](https://musicbrainz.org/recording/674cd473-b520-417c-a3b3-52f7bf3b8032) | La Cupis (Rondement)                               |
-| [https://musicbrainz.org/recording/92df5518-3b31-43ad-982b-8e2ae9686d48](https://musicbrainz.org/recording/92df5518-3b31-43ad-982b-8e2ae9686d48) | Prélude                                            |
-| [https://musicbrainz.org/recording/7eb455c2-9005-420b-8b58-c96774fae645](https://musicbrainz.org/recording/7eb455c2-9005-420b-8b58-c96774fae645) | La Lapopliniere (Rondement)                        |
-| [https://musicbrainz.org/recording/f07bccab-ee7e-43a1-8ff0-6d84709583d3](https://musicbrainz.org/recording/f07bccab-ee7e-43a1-8ff0-6d84709583d3) | Concerto, op. 16: I. Allegro molto moderato        |
-| [https://musicbrainz.org/recording/c08493b6-a839-4d03-a23b-f689783c24b0](https://musicbrainz.org/recording/c08493b6-a839-4d03-a23b-f689783c24b0) | Concerto, op. 16: II. Adagio - Lento               |
-| [https://musicbrainz.org/recording/72986716-5ede-47b0-9948-5e5e2ef4d999](https://musicbrainz.org/recording/72986716-5ede-47b0-9948-5e5e2ef4d999) | Concerto, op. 16: III. Allegro moderato molto e ma |
-| [https://musicbrainz.org/recording/6b49bc84-52dd-4dea-9dc7-1ad862bf0a97](https://musicbrainz.org/recording/6b49bc84-52dd-4dea-9dc7-1ad862bf0a97) | Musical Illustrations                              |
-| [https://musicbrainz.org/recording/4b5b6167-d633-4729-b327-5a91eb9f7b04](https://musicbrainz.org/recording/4b5b6167-d633-4729-b327-5a91eb9f7b04) | Liebestraum no. 3 in A-Flat, S. 541 (Arr. by Liszt |
-| [https://musicbrainz.org/recording/d65fbae2-8481-451e-b242-a28edbb80ad2](https://musicbrainz.org/recording/d65fbae2-8481-451e-b242-a28edbb80ad2) | 6 Etudes d'exécution transcendante d'après Paganin |
-| [https://musicbrainz.org/recording/d7bc0438-9a54-4851-beaf-1a77478c0b56](https://musicbrainz.org/recording/d7bc0438-9a54-4851-beaf-1a77478c0b56) | La Jongleuse, op. 52, no. 4                        |
-| [https://musicbrainz.org/recording/62200dae-5264-4c21-af66-019b40c10a31](https://musicbrainz.org/recording/62200dae-5264-4c21-af66-019b40c10a31) | Rondo capriccioso in E major, op. 14, MWV U67      |
-| [https://musicbrainz.org/recording/66a71282-13a9-4ff7-ad05-a41b58eaee3b](https://musicbrainz.org/recording/66a71282-13a9-4ff7-ad05-a41b58eaee3b) | Lieder ohne Worte, op. 19: no. 3 in A (Molto alleg |
-| [https://musicbrainz.org/recording/f4bcf2a8-db0c-4c69-b168-a5c14f1c9d5e](https://musicbrainz.org/recording/f4bcf2a8-db0c-4c69-b168-a5c14f1c9d5e) | From 53 Studies on Chopin's Études: No.7 in G-flat |
-| [https://musicbrainz.org/recording/77388bdb-7fad-4dc3-be7e-8629721cf5db](https://musicbrainz.org/recording/77388bdb-7fad-4dc3-be7e-8629721cf5db) | Concerto pour deux pianos et orchestre en ré mineu |
-| [https://musicbrainz.org/recording/4f4ae3c1-da88-4e95-b4f1-56a944e00e3a](https://musicbrainz.org/recording/4f4ae3c1-da88-4e95-b4f1-56a944e00e3a) | Piano Concerto No. 2 in B-flat major, Op. 19: III. |
-| [https://musicbrainz.org/recording/9ca61e46-fb93-4247-9b05-0c8039805ca7](https://musicbrainz.org/recording/9ca61e46-fb93-4247-9b05-0c8039805ca7) | Symphonic Etudes for Piano, Op. 13: XIII. Etude No |
-| [https://musicbrainz.org/recording/0a4bf0ad-8600-4760-b1ae-9468fc3562e0](https://musicbrainz.org/recording/0a4bf0ad-8600-4760-b1ae-9468fc3562e0) | Abendlied, Op. 85 No. 12                           |
-| [https://musicbrainz.org/recording/9030f393-a04f-43fc-b04a-533966bc3ffd](https://musicbrainz.org/recording/9030f393-a04f-43fc-b04a-533966bc3ffd) | Piano Sonata no. 31 in A-flat, op. 110: Fuga. Alle |
-| [https://musicbrainz.org/recording/28c61a60-52d9-4d9f-bbf5-5ffed7d14642](https://musicbrainz.org/recording/28c61a60-52d9-4d9f-bbf5-5ffed7d14642) | Années de pèlerinage: 1ère année: Suisse, S160: VI |
-| [https://musicbrainz.org/recording/d52c2ecd-244b-446d-9b28-462b70912a5a](https://musicbrainz.org/recording/d52c2ecd-244b-446d-9b28-462b70912a5a) | Toccata: Preludio, Fantasia, Ciaccona, Kind. 287   |
-| [https://musicbrainz.org/recording/715f65c9-c268-4c4b-b8fa-b2b81d15f545](https://musicbrainz.org/recording/715f65c9-c268-4c4b-b8fa-b2b81d15f545) | Fantasiestücke, op. 73: no. 1 Zart und mit Ausdruc |
-| [https://musicbrainz.org/recording/505bc63c-fcc1-47d7-936f-b515e157037b](https://musicbrainz.org/recording/505bc63c-fcc1-47d7-936f-b515e157037b) | Fantasiestücke, op. 73: no. 2 Lebhaft, leicht      |
-| [https://musicbrainz.org/recording/12c798fd-4bde-4066-8a18-1f30063d0eaa](https://musicbrainz.org/recording/12c798fd-4bde-4066-8a18-1f30063d0eaa) | Fantasiestücke, op. 73: no. 3 Rasch und mit Feuer  |
-| [https://musicbrainz.org/recording/3bd5007a-0ba9-49b2-bfd9-20831ad8e1c7](https://musicbrainz.org/recording/3bd5007a-0ba9-49b2-bfd9-20831ad8e1c7) | Der Wanderer, D 493 (Schmidt von Lübeck)           |
-| [https://musicbrainz.org/recording/1a670269-ca62-4c23-8e1a-16f71c0738b3](https://musicbrainz.org/recording/1a670269-ca62-4c23-8e1a-16f71c0738b3) | Pictures at an Exhibition - Promenade, Gnomus      |
-| [https://musicbrainz.org/recording/b49f78b0-d8ca-49c5-a937-f7b9fcc6af8c](https://musicbrainz.org/recording/b49f78b0-d8ca-49c5-a937-f7b9fcc6af8c) | Diabelli Variations - Theme: Variations 1 - 4      |
-| [https://musicbrainz.org/recording/eb6154fd-88f1-4efc-b763-c84962bf62e7](https://musicbrainz.org/recording/eb6154fd-88f1-4efc-b763-c84962bf62e7) | Variations on the motive by Bach “Weinen, Klagen”  |
-| [https://musicbrainz.org/recording/2a73d132-9973-4d5d-854d-77bd405a307c](https://musicbrainz.org/recording/2a73d132-9973-4d5d-854d-77bd405a307c) | Impromptu no. 2 in F-sharp major, op. 36           |
-| [https://musicbrainz.org/recording/e6afb8a7-d8c2-46e3-bdec-702669472d91](https://musicbrainz.org/recording/e6afb8a7-d8c2-46e3-bdec-702669472d91) | 7 Variations in E-flat major on Mozart's The Magic |
-| [https://musicbrainz.org/recording/7e07b8ce-d35f-4ef6-9827-261130d7a0fe](https://musicbrainz.org/recording/7e07b8ce-d35f-4ef6-9827-261130d7a0fe) | Piano Concerto No. 4 in C minor, Op. 44: Ia. Alleg |
-| [https://musicbrainz.org/recording/df782936-5bdb-4b3b-97a7-387cdb36d4c2](https://musicbrainz.org/recording/df782936-5bdb-4b3b-97a7-387cdb36d4c2) | Piano Concerto No. 4 in C minor, Op. 44: Ib. Andan |
-| [https://musicbrainz.org/recording/14093d20-de78-4c25-a13b-5bdaeac33376](https://musicbrainz.org/recording/14093d20-de78-4c25-a13b-5bdaeac33376) | Sonata for Violin and Piano                        |
-| [https://musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8](https://musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8) | Au bord d'une source                               |
-| [https://musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8](https://musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8) | Au bord d'une source                               |
-| [https://musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8](https://musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8) | Au bord d'une source                               |
-| [https://musicbrainz.org/recording/dce171e0-c793-457c-a712-3502ca9252a7](https://musicbrainz.org/recording/dce171e0-c793-457c-a712-3502ca9252a7) | Aubade                                             |
-| [https://musicbrainz.org/recording/f0d70d87-5c8c-45d4-a38a-98112fcb6215](https://musicbrainz.org/recording/f0d70d87-5c8c-45d4-a38a-98112fcb6215) | Thema Mit Variationen D-Moll (Nach Dem 2. Satz des |
-| [https://musicbrainz.org/recording/8c506d74-03fc-4f2f-b273-6d74d9ebd0d3](https://musicbrainz.org/recording/8c506d74-03fc-4f2f-b273-6d74d9ebd0d3) | Concerto for Piano and Orchestra no. 1 in D minor, |
-| [https://musicbrainz.org/recording/76ff4a68-4c32-4bed-9e3c-faf0de753bda](https://musicbrainz.org/recording/76ff4a68-4c32-4bed-9e3c-faf0de753bda) | Concerto for Piano and Orchestra no. 1 in D minor, |
-| [https://musicbrainz.org/recording/0594a815-4756-4c6a-b220-2a218526e846](https://musicbrainz.org/recording/0594a815-4756-4c6a-b220-2a218526e846) | Concerto for Piano and Orchestra no. 1 in D minor, |
-| [https://musicbrainz.org/recording/234b3d6f-6f41-4b62-8991-f9a668770eb8](https://musicbrainz.org/recording/234b3d6f-6f41-4b62-8991-f9a668770eb8) | Concertino in C major, Hob. XIV:12: I. Allegro     |
-| [https://musicbrainz.org/recording/a2121122-719e-40ec-b765-71247087e7ff](https://musicbrainz.org/recording/a2121122-719e-40ec-b765-71247087e7ff) | Concertino in C major, Hob. XIV:12: II. Adagio     |
-| [https://musicbrainz.org/recording/f64334a9-ee41-4a2c-82f6-5250352cb30f](https://musicbrainz.org/recording/f64334a9-ee41-4a2c-82f6-5250352cb30f) | Concertino in C major, Hob. XIV:12: III. Finale, A |
-| [https://musicbrainz.org/recording/11494a57-625c-4f64-a1a8-8555b020fd9a](https://musicbrainz.org/recording/11494a57-625c-4f64-a1a8-8555b020fd9a) | Concerto in D major, Hob. XVIII:2: I. Allegro mode |
-| [https://musicbrainz.org/recording/611c1f4e-22d7-4436-bed8-7060e3db9079](https://musicbrainz.org/recording/611c1f4e-22d7-4436-bed8-7060e3db9079) | Concerto in D major, Hob. XVIII:2: II. Adagio molt |
-| [https://musicbrainz.org/recording/baf34e3c-948c-487f-9c52-ce8f8ca929e4](https://musicbrainz.org/recording/baf34e3c-948c-487f-9c52-ce8f8ca929e4) | Concerto in D major, Hob. XVIII:2: III. Allegro    |
-| [https://musicbrainz.org/recording/d4d58233-a633-4694-a68c-e932e745440b](https://musicbrainz.org/recording/d4d58233-a633-4694-a68c-e932e745440b) | Concertino in F major, Hob.XVIII:F2: I. Moderato   |
-| [https://musicbrainz.org/recording/ceded2ae-a477-4d90-9e1c-32974ba3dda6](https://musicbrainz.org/recording/ceded2ae-a477-4d90-9e1c-32974ba3dda6) | Concertino in F major, Hob.XVIII:F2: II. Adagio    |
-| [https://musicbrainz.org/recording/d333530e-9781-440d-b963-5d21eefdbeda](https://musicbrainz.org/recording/d333530e-9781-440d-b963-5d21eefdbeda) | Concertino in F major, Hob.XVIII:F2: III. Allegro  |
-| [https://musicbrainz.org/recording/a04b964b-37da-4978-b94d-982281d37a25](https://musicbrainz.org/recording/a04b964b-37da-4978-b94d-982281d37a25) | Carnaval, op. 9: X. A.S.C.H.-S.C.H.A. (Lettres dan |
-| [https://musicbrainz.org/recording/fcc1a961-84e2-44b0-b26a-a159ac667b99](https://musicbrainz.org/recording/fcc1a961-84e2-44b0-b26a-a159ac667b99) | The Well-Tempered Clavier (24), collection of prel |
-| [https://musicbrainz.org/recording/8ed26036-5771-4e52-ad90-734bfcf6b481](https://musicbrainz.org/recording/8ed26036-5771-4e52-ad90-734bfcf6b481) | Die Verschweigung, KV 518                          |
-| [https://musicbrainz.org/recording/b67ce2c5-3c42-46c1-a670-8a2fac361f40](https://musicbrainz.org/recording/b67ce2c5-3c42-46c1-a670-8a2fac361f40) | Lyrische Stücke VII, Op. 62 Nr. 6: Heimwärts       |
-| [https://musicbrainz.org/recording/229588a8-7b87-40c9-88da-ac0760ab3a6b](https://musicbrainz.org/recording/229588a8-7b87-40c9-88da-ac0760ab3a6b) | Le Cygne                                           |
-| [https://musicbrainz.org/recording/290e2068-bf34-42f1-ac37-3626f384a836](https://musicbrainz.org/recording/290e2068-bf34-42f1-ac37-3626f384a836) | Jeux D'Eau                                         |
-| [https://musicbrainz.org/recording/f47208f3-b9d9-4d23-a6fa-83d0d8cde2bf](https://musicbrainz.org/recording/f47208f3-b9d9-4d23-a6fa-83d0d8cde2bf) | Concerto for Piano and Orchestra no. 1 in B-flat m |
-| [https://musicbrainz.org/recording/0058f4f9-7fdf-493b-842e-84f7c0acd184](https://musicbrainz.org/recording/0058f4f9-7fdf-493b-842e-84f7c0acd184) | Daisies, Op. 38 No. 3                              |
-| [https://musicbrainz.org/recording/e06dbba5-0763-4ee4-9167-3231f5b2a5fa](https://musicbrainz.org/recording/e06dbba5-0763-4ee4-9167-3231f5b2a5fa) | The Love for Three Oranges, op. 33: Scherzo        |
-| [https://musicbrainz.org/recording/28758041-9297-401f-8468-4ddef6b52447](https://musicbrainz.org/recording/28758041-9297-401f-8468-4ddef6b52447) | The Love for Three Oranges, op. 33: March          |
-| [https://musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14](https://musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14) | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| [https://musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14](https://musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14) | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| [https://musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14](https://musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14) | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| [https://musicbrainz.org/recording/b5c37a85-5ba4-4e78-9747-d43c9cab6aa2](https://musicbrainz.org/recording/b5c37a85-5ba4-4e78-9747-d43c9cab6aa2) | French Suite No. 4 in E-flat major, BWV 815        |
-| [https://musicbrainz.org/recording/f7c7fb18-f659-4a78-8230-8b11714ba079](https://musicbrainz.org/recording/f7c7fb18-f659-4a78-8230-8b11714ba079) | French Suite No. 5 in G major, BWV 816             |
-| [https://musicbrainz.org/recording/eb243841-8c24-4aa3-a383-fd4b9376c917](https://musicbrainz.org/recording/eb243841-8c24-4aa3-a383-fd4b9376c917) | French Suite No. 6 in E major, BWV 817             |
-| [https://musicbrainz.org/recording/feff41ae-be69-499d-9c0c-f0beb4c1a4cb](https://musicbrainz.org/recording/feff41ae-be69-499d-9c0c-f0beb4c1a4cb) | Overture in the French Style, BWV 831              |
-| [https://musicbrainz.org/recording/f1fc5bb1-59ed-45de-b987-0c0d9b67546a](https://musicbrainz.org/recording/f1fc5bb1-59ed-45de-b987-0c0d9b67546a) | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
-| [https://musicbrainz.org/recording/27e37ee8-a63b-4f84-88ce-6529c89f202d](https://musicbrainz.org/recording/27e37ee8-a63b-4f84-88ce-6529c89f202d) | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
-| [https://musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36](https://musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36) | Suite für Klavier, Op. 25: II. Gavotte; Musette    |
-| [https://musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36](https://musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36) | Suite für Klavier, Op. 25: II. Gavotte; Musette    |
-| [https://musicbrainz.org/recording/e148cb42-d70f-4c41-8405-e6e774058270](https://musicbrainz.org/recording/e148cb42-d70f-4c41-8405-e6e774058270) | Goldberg-Variationen, BWV 988: Variatio XIV. a 2 C |
-| [https://musicbrainz.org/recording/88483ce5-98ec-47ae-a477-7c5e2ce698bc](https://musicbrainz.org/recording/88483ce5-98ec-47ae-a477-7c5e2ce698bc) | Goldberg-Variationen, BWV 988: Variatio XX. a 2 Cl |
-| [https://musicbrainz.org/recording/f52920f5-f72c-4e65-823f-b6c56f4eaad8](https://musicbrainz.org/recording/f52920f5-f72c-4e65-823f-b6c56f4eaad8) | Fantasy for Violin and Piano Accompaniment, Op. 47 |
-| [https://musicbrainz.org/recording/2d2f2b36-b7c4-42bb-86d8-feb91161faab](https://musicbrainz.org/recording/2d2f2b36-b7c4-42bb-86d8-feb91161faab) | Fantasy for Violin and Piano Accompaniment, Op. 47 |
-| [https://musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6](https://musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6) | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| [https://musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6](https://musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6) | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| [https://musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49](https://musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49) | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| [https://musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49](https://musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49) | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| [https://musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee](https://musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee) | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| [https://musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee](https://musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee) | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| [https://musicbrainz.org/recording/f085a93f-7c0f-4690-b499-c410378051be](https://musicbrainz.org/recording/f085a93f-7c0f-4690-b499-c410378051be) | Sonata for Piano No. 6 in D major, K. 205b/284 "Dü |
-| [https://musicbrainz.org/recording/e9fa35d6-e3dc-4a58-a1f7-7cf08a78a9ec](https://musicbrainz.org/recording/e9fa35d6-e3dc-4a58-a1f7-7cf08a78a9ec) | Sonata for Piano No. 9 in D major, K. 284c/311: II |
-| [https://musicbrainz.org/recording/43ac4d16-728a-408e-85bc-2078ccf6e808](https://musicbrainz.org/recording/43ac4d16-728a-408e-85bc-2078ccf6e808) | Suite No. 3 in D minor, HWV 428: V. Air            |
-| [https://musicbrainz.org/recording/e6543851-5281-448e-bfcf-dd9ce76f65bc](https://musicbrainz.org/recording/e6543851-5281-448e-bfcf-dd9ce76f65bc) | Suite No. 3 in D minor, HWV 428: Variatio I        |
-| [https://musicbrainz.org/recording/a3c38ac9-f000-4493-bcc0-8108c5875b0d](https://musicbrainz.org/recording/a3c38ac9-f000-4493-bcc0-8108c5875b0d) | Suite No. 3 in D minor, HWV 428: Variatio II       |
-| [https://musicbrainz.org/recording/fc9d7f21-37b7-4aa8-a8f3-0393ee42162a](https://musicbrainz.org/recording/fc9d7f21-37b7-4aa8-a8f3-0393ee42162a) | Suite No. 3 in D minor, HWV 428: Variatio III      |
-| [https://musicbrainz.org/recording/86c46ead-70ab-4e72-bdbd-eb3f784e685e](https://musicbrainz.org/recording/86c46ead-70ab-4e72-bdbd-eb3f784e685e) | Suite No. 3 in D minor, HWV 428: Variatio IV       |
-| [https://musicbrainz.org/recording/b23af04a-a7c2-42f4-b112-d383c992e617](https://musicbrainz.org/recording/b23af04a-a7c2-42f4-b112-d383c992e617) | Suite No. 3 in D minor, HWV 428: Variatio V        |
-| [https://musicbrainz.org/recording/da306ef8-ea9b-404d-b3dd-af3889d49812](https://musicbrainz.org/recording/da306ef8-ea9b-404d-b3dd-af3889d49812) | Suite No. 3 in D minor, HWV 428: VI. Presto        |
-| [https://musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a](https://musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a) | Sonata for Piano No. 15 in F major, K. 494/533: I. |
-| [https://musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a](https://musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a) | Sonata for Piano No. 15 in F major, K. 494/533: I. |
-| [https://musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a](https://musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a) | Sonata for Piano No. 15 in F major, K. 494/533: I. |
-| [https://musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f](https://musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f) | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| [https://musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f](https://musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f) | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| [https://musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f](https://musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f) | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| [https://musicbrainz.org/recording/b0fce665-24df-484d-9cd7-ac5139f638b3](https://musicbrainz.org/recording/b0fce665-24df-484d-9cd7-ac5139f638b3) | 7 Bagatelles, Op. 33 No. 6 in D major: Allegretto, |
-| [https://musicbrainz.org/recording/3f6f5524-7b23-48a2-91b7-370f045d9a38](https://musicbrainz.org/recording/3f6f5524-7b23-48a2-91b7-370f045d9a38) | 7 Bagatelles, Op. 33 No. 7 in A-flat major: Presto |
-| [https://musicbrainz.org/recording/12c7595c-8ef4-4ea1-810e-7e89fed895c5](https://musicbrainz.org/recording/12c7595c-8ef4-4ea1-810e-7e89fed895c5) | Overture in the French Style, BWV 831: VI. Passepi |
-| [https://musicbrainz.org/recording/1c90a4bf-134e-4bf8-8a10-33d7985c541d](https://musicbrainz.org/recording/1c90a4bf-134e-4bf8-8a10-33d7985c541d) | "Aria variata alla maniera italiana" in A minor, B |
-| [https://musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056](https://musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056) | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| [https://musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056](https://musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056) | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| [https://musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056](https://musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056) | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| [https://musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76](https://musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76) | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| [https://musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76](https://musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76) | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| [https://musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76](https://musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76) | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| [https://musicbrainz.org/recording/abdf9b8f-78ee-4c89-aa58-6f4c09969a8f](https://musicbrainz.org/recording/abdf9b8f-78ee-4c89-aa58-6f4c09969a8f) | Sérénade n° 9 en ré majeur "Posthorn" K. 320 : Iii |
-| [https://musicbrainz.org/recording/56e51e52-cf95-4294-8b5b-4751d41b9c63](https://musicbrainz.org/recording/56e51e52-cf95-4294-8b5b-4751d41b9c63) | Concerto for Piano and Orchestra no. 3 in D major, |
-| [https://musicbrainz.org/recording/9fe02739-5b59-4388-b9e6-7883a6049a8f](https://musicbrainz.org/recording/9fe02739-5b59-4388-b9e6-7883a6049a8f) | Concerto for Piano and Orchestra no. 5 in F minor, |
-| [https://musicbrainz.org/recording/55945c2d-ec52-4408-98cb-523f031db83d](https://musicbrainz.org/recording/55945c2d-ec52-4408-98cb-523f031db83d) | Sonata for Piano, Op. 1                            |
-| [https://musicbrainz.org/recording/55e38ce9-5762-4d79-bf19-1260c6d47a0c](https://musicbrainz.org/recording/55e38ce9-5762-4d79-bf19-1260c6d47a0c) | Suite For Piano, Op. 25: II. Gavotte               |
-| [https://musicbrainz.org/recording/490a4d5f-db80-4255-bf50-05eac74f6a18](https://musicbrainz.org/recording/490a4d5f-db80-4255-bf50-05eac74f6a18) | Suite For Piano, Op. 25: III. Musette              |
-| [https://musicbrainz.org/recording/7ddc7b0f-c19f-42c9-9cba-6e72389c0ca7](https://musicbrainz.org/recording/7ddc7b0f-c19f-42c9-9cba-6e72389c0ca7) | Credo, for Piano, Chorus & Orchestra               |
-| [https://musicbrainz.org/recording/2083e029-f437-4b3b-af4d-78183725cac1](https://musicbrainz.org/recording/2083e029-f437-4b3b-af4d-78183725cac1) | La Valse des regrets                               |
-| [https://musicbrainz.org/recording/4ccb589e-a98e-4e9e-b00f-7faf2ccce1b5](https://musicbrainz.org/recording/4ccb589e-a98e-4e9e-b00f-7faf2ccce1b5) | Piano Concerto no. 2 in C minor, op. 18            |
-| [https://musicbrainz.org/recording/051ea95d-1823-429b-97b9-4aa052d8aac6](https://musicbrainz.org/recording/051ea95d-1823-429b-97b9-4aa052d8aac6) | Choral Fantasy, op. 80                             |
-| [https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628](https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628) | Concerto for Piano no. 23 in A major, K. 488: II.  |
-| [https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628](https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628) | Concerto for Piano no. 23 in A major, K. 488: II.  |
-| [https://musicbrainz.org/recording/4108a773-9516-42f7-92df-7ab8d8af9601](https://musicbrainz.org/recording/4108a773-9516-42f7-92df-7ab8d8af9601) | I Only Have Eyes for You                           |
-| [https://musicbrainz.org/recording/9f8413ef-7deb-494c-878c-b49e7de5a8c0](https://musicbrainz.org/recording/9f8413ef-7deb-494c-878c-b49e7de5a8c0) | What Is This Thing Called Love                     |
-| [https://musicbrainz.org/recording/c6ea8b4f-13a9-4112-90a3-efee700a2803](https://musicbrainz.org/recording/c6ea8b4f-13a9-4112-90a3-efee700a2803) | All Blues                                          |
-| [https://musicbrainz.org/recording/83c75f8c-0d58-4128-a52c-8770df16a2d2](https://musicbrainz.org/recording/83c75f8c-0d58-4128-a52c-8770df16a2d2) | Light My Fire                                      |
-| [https://musicbrainz.org/recording/523978cb-2972-4e01-bef0-cb1928b56711](https://musicbrainz.org/recording/523978cb-2972-4e01-bef0-cb1928b56711) | ’Round Midnight                                    |
-| [https://musicbrainz.org/recording/64e77355-4d6d-465f-9960-80c10d590783](https://musicbrainz.org/recording/64e77355-4d6d-465f-9960-80c10d590783) | East of the Sun                                    |
-| [https://musicbrainz.org/recording/7cab592d-3905-4c28-820d-ae5a0810bf47](https://musicbrainz.org/recording/7cab592d-3905-4c28-820d-ae5a0810bf47) | Klavierkonzert Nr. 25 C-Dur KV 503: I. Allegro Mae |
-| [https://musicbrainz.org/recording/5941b906-31a7-4ee4-8713-d93eba90c21f](https://musicbrainz.org/recording/5941b906-31a7-4ee4-8713-d93eba90c21f) | Klavierkonzert Nr. 25 C-Dur KV 503: II. Andante    |
-| [https://musicbrainz.org/recording/e3f16cbe-3084-433b-ae6b-55f6f05ab2c0](https://musicbrainz.org/recording/e3f16cbe-3084-433b-ae6b-55f6f05ab2c0) | Klavierkonzert Nr. 25 C-Dur KV 503: III. Finale: A |
-| [https://musicbrainz.org/recording/a58b3241-dcd2-4d15-b60f-9a23de02fb66](https://musicbrainz.org/recording/a58b3241-dcd2-4d15-b60f-9a23de02fb66) | Sonate-fantaisie in G-sharp minor, op. posth.      |
-| [https://musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7](https://musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7) | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
-| [https://musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7](https://musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7) | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
-| [https://musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7](https://musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7) | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
-| [https://musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b](https://musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b) | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
-| [https://musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b](https://musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b) | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
-| [https://musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b](https://musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b) | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
-| [https://musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96](https://musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96) | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
-| [https://musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96](https://musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96) | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
-| [https://musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96](https://musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96) | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
-| [https://musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c](https://musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c) | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
-| [https://musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c](https://musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c) | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
-| [https://musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c](https://musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c) | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
-| [https://musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea](https://musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea) | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
-| [https://musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea](https://musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea) | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
-| [https://musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea](https://musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea) | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
-| [https://musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b](https://musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b) | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
-| [https://musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b](https://musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b) | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
-| [https://musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b](https://musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b) | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
-| [https://musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b](https://musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b) | Elegies, BV249: No. 7. Berceuse                    |
-| [https://musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b](https://musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b) | Elegies, BV249: No. 7. Berceuse                    |
-| [https://musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b](https://musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b) | Elegies, BV249: No. 7. Berceuse                    |
-| [https://musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d](https://musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d) | Nuits de Noël, BV251                               |
-| [https://musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d](https://musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d) | Nuits de Noël, BV251                               |
-| [https://musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d](https://musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d) | Nuits de Noël, BV251                               |
-| [https://musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4](https://musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4) | Canonic Variations and Fugue, BVB40                |
-| [https://musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4](https://musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4) | Canonic Variations and Fugue, BVB40                |
-| [https://musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4](https://musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4) | Canonic Variations and Fugue, BVB40                |
-| [https://musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14](https://musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14) | Giga, bolero e variazione, BV254                   |
-| [https://musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14](https://musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14) | Giga, bolero e variazione, BV254                   |
-| [https://musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14](https://musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14) | Giga, bolero e variazione, BV254                   |
-| [https://musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23](https://musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23) | Sonatina, BV257                                    |
-| [https://musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23](https://musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23) | Sonatina, BV257                                    |
-| [https://musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23](https://musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23) | Sonatina, BV257                                    |
-| [https://musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09](https://musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09) | Sonatina seconda, BV259                            |
-| [https://musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09](https://musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09) | Sonatina seconda, BV259                            |
-| [https://musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09](https://musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09) | Sonatina seconda, BV259                            |
-| [https://musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599](https://musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599](https://musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599](https://musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb](https://musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb](https://musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb](https://musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36](https://musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36](https://musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36](https://musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2](https://musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2](https://musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2](https://musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d](https://musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d](https://musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d](https://musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d) | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| [https://musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba](https://musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba) | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
-| [https://musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba](https://musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba) | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
-| [https://musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba](https://musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba) | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
-| [https://musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454](https://musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454) | Sonatina no. 5, brevis “in signo Joannis Sebastini |
-| [https://musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454](https://musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454) | Sonatina no. 5, brevis “in signo Joannis Sebastini |
-| [https://musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454](https://musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454) | Sonatina no. 5, brevis “in signo Joannis Sebastini |
-| [https://musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c](https://musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c) | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
-| [https://musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c](https://musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c) | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
-| [https://musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c](https://musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c) | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
-| [https://musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a](https://musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a) | Indianisches Erntelied                             |
-| [https://musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a](https://musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a) | Indianisches Erntelied                             |
-| [https://musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a](https://musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a) | Indianisches Erntelied                             |
-| [https://musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398](https://musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398) | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
-| [https://musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398](https://musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398) | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
-| [https://musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398](https://musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398) | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
-| [https://musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4](https://musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4) | Indianisches Tagebuch, Book 1, BV267: Vivace       |
-| [https://musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4](https://musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4) | Indianisches Tagebuch, Book 1, BV267: Vivace       |
-| [https://musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4](https://musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4) | Indianisches Tagebuch, Book 1, BV267: Vivace       |
-| [https://musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e](https://musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e) | Indianisches Tagebuch, Book 1, BV267: Andante      |
-| [https://musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e](https://musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e) | Indianisches Tagebuch, Book 1, BV267: Andante      |
-| [https://musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e](https://musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e) | Indianisches Tagebuch, Book 1, BV267: Andante      |
-| [https://musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3](https://musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3) | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
-| [https://musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3](https://musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3) | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
-| [https://musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3](https://musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3) | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
-| [https://musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d](https://musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d) | Three Albumleaves, BV289: Andantino sostenuto      |
-| [https://musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d](https://musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d) | Three Albumleaves, BV289: Andantino sostenuto      |
-| [https://musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d](https://musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d) | Three Albumleaves, BV289: Andantino sostenuto      |
-| [https://musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d](https://musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d) | Three Albumleaves, BV289: Andante                  |
-| [https://musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d](https://musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d) | Three Albumleaves, BV289: Andante                  |
-| [https://musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d](https://musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d) | Three Albumleaves, BV289: Andante                  |
-| [https://musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b](https://musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b) | Three Albumleaves, BV289: Sostenuto religioso (in  |
-| [https://musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b](https://musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b) | Three Albumleaves, BV289: Sostenuto religioso (in  |
-| [https://musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b](https://musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b) | Three Albumleaves, BV289: Sostenuto religioso (in  |
-| [https://musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77](https://musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77) | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
-| [https://musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77](https://musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77) | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
-| [https://musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77](https://musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77) | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
-| [https://musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9](https://musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9) | Prologo, BV279                                     |
-| [https://musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9](https://musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9) | Prologo, BV279                                     |
-| [https://musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9](https://musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9) | Prologo, BV279                                     |
-| [https://musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73](https://musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73) | Klavierübung: Preludio: Allegro festivo            |
-| [https://musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73](https://musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73) | Klavierübung: Preludio: Allegro festivo            |
-| [https://musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73](https://musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73) | Klavierübung: Preludio: Allegro festivo            |
-| [https://musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96](https://musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96) | Klavierübung: Preludio (without the third finger): |
-| [https://musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96](https://musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96) | Klavierübung: Preludio (without the third finger): |
-| [https://musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96](https://musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96) | Klavierübung: Preludio (without the third finger): |
-| [https://musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32](https://musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32) | Klavierübung: Veloce e leggiero                    |
-| [https://musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32](https://musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32) | Klavierübung: Veloce e leggiero                    |
-| [https://musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32](https://musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32) | Klavierübung: Veloce e leggiero                    |
-| [https://musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6](https://musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6) | Klavierübung: Vivace moderato, con precisione      |
-| [https://musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6](https://musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6) | Klavierübung: Vivace moderato, con precisione      |
-| [https://musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6](https://musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6) | Klavierübung: Vivace moderato, con precisione      |
-| [https://musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad](https://musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad) | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
-| [https://musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad](https://musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad) | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
-| [https://musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad](https://musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad) | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
-| [https://musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9](https://musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9) | Klavierübung: Motive: Allegro risoluto             |
-| [https://musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9](https://musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9) | Klavierübung: Motive: Allegro risoluto             |
-| [https://musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9](https://musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9) | Klavierübung: Motive: Allegro risoluto             |
-| [https://musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc](https://musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc) | Klavierübung: Allegro                              |
-| [https://musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc](https://musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc) | Klavierübung: Allegro                              |
-| [https://musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc](https://musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc) | Klavierübung: Allegro                              |
-| [https://musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe](https://musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe) | Nine Variations on a Chopin Prelude (in C minor, o |
-| [https://musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe](https://musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe) | Nine Variations on a Chopin Prelude (in C minor, o |
-| [https://musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe](https://musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe) | Nine Variations on a Chopin Prelude (in C minor, o |
-| [https://musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5](https://musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5](https://musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5](https://musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55](https://musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55](https://musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55](https://musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6](https://musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6](https://musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6](https://musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae](https://musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae](https://musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae](https://musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c](https://musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c](https://musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c](https://musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e](https://musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e](https://musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e](https://musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311](https://musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311](https://musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311](https://musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311) | Seven Short Pieces for the Cultivation of Polyphon |
-| [https://musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653](https://musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653) | Perpetuum mobile, BV 293                           |
-| [https://musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653](https://musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653) | Perpetuum mobile, BV 293                           |
-| [https://musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653](https://musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653) | Perpetuum mobile, BV 293                           |
-| [https://musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2](https://musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2) | Prélude et étude en arpèges, BV 297: Prélude: Ario |
-| [https://musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2](https://musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2) | Prélude et étude en arpèges, BV 297: Prélude: Ario |
-| [https://musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2](https://musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2) | Prélude et étude en arpèges, BV 297: Prélude: Ario |
-| [https://musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746](https://musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746) | Prélude et étude en arpèges, BV 297: Étude: Allegr |
-| [https://musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746](https://musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746) | Prélude et étude en arpèges, BV 297: Étude: Allegr |
-| [https://musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746](https://musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746) | Prélude et étude en arpèges, BV 297: Étude: Allegr |
-| [https://musicbrainz.org/recording/044a6a3c-ad3a-4699-abf4-72bdd011b943](https://musicbrainz.org/recording/044a6a3c-ad3a-4699-abf4-72bdd011b943) | Trois danses du Lac des Cygnes: N°1 Danse Russe (t |
-| [https://musicbrainz.org/recording/0ad2b91b-7cab-4a84-aa7c-b8baaeb157dd](https://musicbrainz.org/recording/0ad2b91b-7cab-4a84-aa7c-b8baaeb157dd) | Moment Musical in F minor, Op. 94 No. 3            |
-| [https://musicbrainz.org/recording/148ede0b-9f5c-4d9c-9410-5fe500ecaa0f](https://musicbrainz.org/recording/148ede0b-9f5c-4d9c-9410-5fe500ecaa0f) | Ballade no. 1 in G minor, op. 23: Largo - Moderato |
-| [https://musicbrainz.org/recording/ad1d862b-52aa-4ef8-85cc-e9474f133375](https://musicbrainz.org/recording/ad1d862b-52aa-4ef8-85cc-e9474f133375) | Spring Song                                        |
-| [https://musicbrainz.org/recording/e806bf99-e37e-40f1-a807-b3444c825b70](https://musicbrainz.org/recording/e806bf99-e37e-40f1-a807-b3444c825b70) | Sonata in B minor                                  |
-| [https://musicbrainz.org/recording/d9b717b2-a32d-49a7-b697-751cc5e6f759](https://musicbrainz.org/recording/d9b717b2-a32d-49a7-b697-751cc5e6f759) | Consolation No. 3                                  |
-| [https://musicbrainz.org/recording/d9b717b2-a32d-49a7-b697-751cc5e6f759](https://musicbrainz.org/recording/d9b717b2-a32d-49a7-b697-751cc5e6f759) | Consolation No. 3                                  |
-| [https://musicbrainz.org/recording/6372ca9d-9fea-4945-b90e-559e2cf390c4](https://musicbrainz.org/recording/6372ca9d-9fea-4945-b90e-559e2cf390c4) | Mephisto Waltz No. 1                               |
-| [https://musicbrainz.org/recording/2bb54688-ad9e-4d9f-9ccc-2e93aee506f1](https://musicbrainz.org/recording/2bb54688-ad9e-4d9f-9ccc-2e93aee506f1) | Variations on Themes from Carmen                   |
-| [https://musicbrainz.org/recording/faa1b0bf-741f-4e6d-8a12-0fd330240569](https://musicbrainz.org/recording/faa1b0bf-741f-4e6d-8a12-0fd330240569) | Paganini Etude no. 5 in E major                    |
-| [https://musicbrainz.org/recording/36882412-4e9e-4c94-8e3b-7df98fb9c0ff](https://musicbrainz.org/recording/36882412-4e9e-4c94-8e3b-7df98fb9c0ff) | Piano Concerto no. 1 in B-flat minor, op. 23: II.  |
-| [https://musicbrainz.org/recording/fe1a1982-0e9c-496c-b7cd-ad0fb9e071d7](https://musicbrainz.org/recording/fe1a1982-0e9c-496c-b7cd-ad0fb9e071d7) | Piano Concerto no. 1 in B-flat minor, op. 23: III. |
-| [https://musicbrainz.org/recording/d6a8f662-512b-4efc-8ac2-65751a4c4dbd](https://musicbrainz.org/recording/d6a8f662-512b-4efc-8ac2-65751a4c4dbd) | Orgel-Büchlein No. 41: Chorale Prelude "Ich ruf zu |
-| [https://musicbrainz.org/recording/02ea067b-a423-4ebc-9ad1-e050f372bfe4](https://musicbrainz.org/recording/02ea067b-a423-4ebc-9ad1-e050f372bfe4) | Ballade no. 1 in G minor, op. 23                   |
-| [https://musicbrainz.org/recording/9b333cf5-ced7-4bde-8253-299f016e8e28](https://musicbrainz.org/recording/9b333cf5-ced7-4bde-8253-299f016e8e28) | Sonata in F-sharp major, K 319                     |
-| [https://musicbrainz.org/recording/3e9f2eb8-33d7-48a0-8187-52a23ab13b65](https://musicbrainz.org/recording/3e9f2eb8-33d7-48a0-8187-52a23ab13b65) | Sonata in G major, K 260                           |
-| [https://musicbrainz.org/recording/44077733-5501-4214-8b74-4f407a816fb5](https://musicbrainz.org/recording/44077733-5501-4214-8b74-4f407a816fb5) | Nocturne no. 13 in B minor, op. 119                |
-| [https://musicbrainz.org/recording/b90427a3-63d7-4acd-bf21-f260b9b753a7](https://musicbrainz.org/recording/b90427a3-63d7-4acd-bf21-f260b9b753a7) | Presto in B-flat major                             |
-| [https://musicbrainz.org/recording/2dd72fa8-7708-44e7-8645-e184f725d5cf](https://musicbrainz.org/recording/2dd72fa8-7708-44e7-8645-e184f725d5cf) | Étude in A-flat major, Op. 72 No. 11               |
-| [https://musicbrainz.org/recording/89044966-6f3c-4f9e-ae3d-318796527acb](https://musicbrainz.org/recording/89044966-6f3c-4f9e-ae3d-318796527acb) | Danse macabre                                      |
-| [https://musicbrainz.org/recording/dd596d15-080d-450c-ab1f-a6c1515e5d36](https://musicbrainz.org/recording/dd596d15-080d-450c-ab1f-a6c1515e5d36) | Danse excentrique                                  |
-| [https://musicbrainz.org/recording/b1b440a0-7021-4866-9c34-cbd0bd03ab52](https://musicbrainz.org/recording/b1b440a0-7021-4866-9c34-cbd0bd03ab52) | Funerailles (No. 7 from Harmonies poetiques et rel |
-| [https://musicbrainz.org/recording/f29b1a95-e2c3-4dff-9dc6-8c08ef667671](https://musicbrainz.org/recording/f29b1a95-e2c3-4dff-9dc6-8c08ef667671) | Piano Concerto no. 3 in D minor, op. 30: I. Allegr |
-| [https://musicbrainz.org/recording/7c34384d-6498-4d5f-973a-dae4f0708566](https://musicbrainz.org/recording/7c34384d-6498-4d5f-973a-dae4f0708566) | Piano Concerto no. 3 in D minor, op. 30: II. Inter |
-| [https://musicbrainz.org/recording/e5019c31-2e80-43ba-ae87-c22291a29179](https://musicbrainz.org/recording/e5019c31-2e80-43ba-ae87-c22291a29179) | Piano Concerto no. 3 in D minor, op. 30: III. Fina |
-| [https://musicbrainz.org/recording/666ed891-7728-482c-ac2e-1de2f9cf29d8](https://musicbrainz.org/recording/666ed891-7728-482c-ac2e-1de2f9cf29d8) | Toccata in C major, BWV 564 (arr. Busoni)          |
-| [https://musicbrainz.org/recording/5e0e7aa8-881e-46f3-9f0c-c896db1228a2](https://musicbrainz.org/recording/5e0e7aa8-881e-46f3-9f0c-c896db1228a2) | Sonata no. 7 in B-flat major, op. 83: I. Allegro i |
-| [https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73](https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73) | Poème in F-sharp major, op. 32, no. 1              |
-| [https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73](https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73) | Poème in F-sharp major, op. 32, no. 1              |
-| [https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73](https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73) | Poème in F-sharp major, op. 32, no. 1              |
-| [https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73](https://musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73) | Poème in F-sharp major, op. 32, no. 1              |
-| [https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea](https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea) | Étude in C-sharp minor, op. 2, no. 1               |
-| [https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea](https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea) | Étude in C-sharp minor, op. 2, no. 1               |
-| [https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea](https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea) | Étude in C-sharp minor, op. 2, no. 1               |
-| [https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea](https://musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea) | Étude in C-sharp minor, op. 2, no. 1               |
-| [https://musicbrainz.org/recording/a3f96d59-2823-4c07-b4a5-48e4e950f9ca](https://musicbrainz.org/recording/a3f96d59-2823-4c07-b4a5-48e4e950f9ca) | Feuillet d'album, op. 58                           |
-| [https://musicbrainz.org/recording/a3f96d59-2823-4c07-b4a5-48e4e950f9ca](https://musicbrainz.org/recording/a3f96d59-2823-4c07-b4a5-48e4e950f9ca) | Feuillet d'album, op. 58                           |
-| [https://musicbrainz.org/recording/8ccaa495-c420-4bf7-a374-afca5db31c57](https://musicbrainz.org/recording/8ccaa495-c420-4bf7-a374-afca5db31c57) | Étude, op. 65, no. 3                               |
-| [https://musicbrainz.org/recording/8ccaa495-c420-4bf7-a374-afca5db31c57](https://musicbrainz.org/recording/8ccaa495-c420-4bf7-a374-afca5db31c57) | Étude, op. 65, no. 3                               |
-| [https://musicbrainz.org/recording/1a122872-c99e-4baf-bebd-8c83b1d1152d](https://musicbrainz.org/recording/1a122872-c99e-4baf-bebd-8c83b1d1152d) | Flute Sonata in A major, BWV 1032: I. Vivace       |
-| [https://musicbrainz.org/recording/1635b2c1-211b-4d10-801a-0e73897ff553](https://musicbrainz.org/recording/1635b2c1-211b-4d10-801a-0e73897ff553) | Flute Sonata in A major, BWV 1032: II. Largo e dol |
-| [https://musicbrainz.org/recording/cd68e5ef-7295-4247-b0b7-03029606acf0](https://musicbrainz.org/recording/cd68e5ef-7295-4247-b0b7-03029606acf0) | Flute Sonata in A major, BWV 1032: III. Allegro    |
-| [https://musicbrainz.org/recording/d26f168a-ec15-43d6-92d9-5154535de772](https://musicbrainz.org/recording/d26f168a-ec15-43d6-92d9-5154535de772) | Flute Sonata in B minor, BWV 1030: I. Andante      |
-| [https://musicbrainz.org/recording/acf28b36-a316-49b1-868a-10e7f0041a7b](https://musicbrainz.org/recording/acf28b36-a316-49b1-868a-10e7f0041a7b) | Flute Sonata in B minor, BWV 1030: II. Largo e dol |
-| [https://musicbrainz.org/recording/c186c101-58d1-460b-a65a-d73be9b504ab](https://musicbrainz.org/recording/c186c101-58d1-460b-a65a-d73be9b504ab) | Flute Sonata in B minor, BWV 1030: III. Presto     |
-| [https://musicbrainz.org/recording/f6b6cdf8-00ba-4425-b526-72f8b1058982](https://musicbrainz.org/recording/f6b6cdf8-00ba-4425-b526-72f8b1058982) | Flute Sonata in E major, BWV 1035: I. Adagio ma no |
-| [https://musicbrainz.org/recording/3530cbf9-e634-4155-93de-269f8f43242c](https://musicbrainz.org/recording/3530cbf9-e634-4155-93de-269f8f43242c) | Flute Sonata in E major, BWV 1035: II. Allegro     |
-| [https://musicbrainz.org/recording/54275fad-62d6-4bb2-9683-cd7fe4313443](https://musicbrainz.org/recording/54275fad-62d6-4bb2-9683-cd7fe4313443) | Flute Sonata in E major, BWV 1035: III. Sicilano   |
-| [https://musicbrainz.org/recording/a30ad72d-2407-4908-a6ca-d2eac1c030c6](https://musicbrainz.org/recording/a30ad72d-2407-4908-a6ca-d2eac1c030c6) | Flute Sonata in E major, BWV 1035: IV. Allegro ass |
-| [https://musicbrainz.org/recording/0dd4ff1e-b748-48c9-8fa8-e640d084134c](https://musicbrainz.org/recording/0dd4ff1e-b748-48c9-8fa8-e640d084134c) | Flute Sonata in E minor, BWV 1034: I. Adagio ma no |
-| [https://musicbrainz.org/recording/52c955af-eb15-4349-b03b-7e51e9df149c](https://musicbrainz.org/recording/52c955af-eb15-4349-b03b-7e51e9df149c) | Flute Sonata in E minor, BWV 1034: II. Allegro     |
-| [https://musicbrainz.org/recording/d934fbb9-bdb0-4bb2-b5dd-3e053aeed9d3](https://musicbrainz.org/recording/d934fbb9-bdb0-4bb2-b5dd-3e053aeed9d3) | Flute Sonata in E minor, BWV 1034: III. Andante    |
-| [https://musicbrainz.org/recording/97e4c9b6-926d-41e8-9fb7-96bcb7dc6fe4](https://musicbrainz.org/recording/97e4c9b6-926d-41e8-9fb7-96bcb7dc6fe4) | Flute Sonata in E minor, BWV 1034: IV. Allegro     |
-| [https://musicbrainz.org/recording/605658c0-bfd9-4014-9a0f-d94e62246594](https://musicbrainz.org/recording/605658c0-bfd9-4014-9a0f-d94e62246594) | Prelude and Fugue No. 24 in B minor, BWV 869       |
-| [https://musicbrainz.org/recording/66883010-8cfd-44a0-8407-2ac95b3610f3](https://musicbrainz.org/recording/66883010-8cfd-44a0-8407-2ac95b3610f3) | Italian Concerto in F major, BWV 971               |
-| [https://musicbrainz.org/recording/dbffe985-38b2-491b-b315-2a5e74014de5](https://musicbrainz.org/recording/dbffe985-38b2-491b-b315-2a5e74014de5) | Prelude in C major, BWV 846                        |
-| [https://musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde](https://musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde) | Prelude and Fugue No. 2 in C minor, BWV 847        |
-| [https://musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde](https://musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde) | Prelude and Fugue No. 2 in C minor, BWV 847        |
-| [https://musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27](https://musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27) | Variations Goldberg - Variatio 19 à 1 clav.        |
-| [https://musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27](https://musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27) | Variations Goldberg - Variatio 19 à 1 clav.        |
-| [https://musicbrainz.org/recording/32e82a98-7c30-49fd-aa0f-e921a23b5528](https://musicbrainz.org/recording/32e82a98-7c30-49fd-aa0f-e921a23b5528) | French Suite no. 6, E major                        |
-| [https://musicbrainz.org/recording/0b07c39e-48ea-406a-a20d-0c93bf2aa13d](https://musicbrainz.org/recording/0b07c39e-48ea-406a-a20d-0c93bf2aa13d) | Konzert Nr. 1 d-Moll für Klavier und Streichorches |
-| [https://musicbrainz.org/recording/95c0f2a2-e175-4dda-9731-d2923b3017d7](https://musicbrainz.org/recording/95c0f2a2-e175-4dda-9731-d2923b3017d7) | "Es ist gewisslich an der Zeit", BWV 307 et 734: C |
-| [https://musicbrainz.org/recording/689dbe56-249e-42b6-80f3-2b75d15a677c](https://musicbrainz.org/recording/689dbe56-249e-42b6-80f3-2b75d15a677c) | Choral-Prélude "In dulci jubilo", BWV 751          |
-| [https://musicbrainz.org/recording/303b79e0-3966-48e5-a13b-c41d50b7efae](https://musicbrainz.org/recording/303b79e0-3966-48e5-a13b-c41d50b7efae) | "Orphée et Eurydice": Acte I. Plainte d'Orphée     |
-| [https://musicbrainz.org/recording/aa824688-371b-41bf-a914-91b7f21bf6e1](https://musicbrainz.org/recording/aa824688-371b-41bf-a914-91b7f21bf6e1) | "Orphée et Eurydice": Acte II. Danse des ombres he |
-| [https://musicbrainz.org/recording/5892df2b-9a6e-4c2b-9bf3-9ae1d5b89d62](https://musicbrainz.org/recording/5892df2b-9a6e-4c2b-9bf3-9ae1d5b89d62) | Le Clavier bien tempéré : "Prélude n°1"            |
-| [https://musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb](https://musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb) | Fantasias, op. 116: VI. Intermezzo in E            |
-| [https://musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb](https://musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb) | Fantasias, op. 116: VI. Intermezzo in E            |
-| [https://musicbrainz.org/recording/e66f39df-944b-42b6-9532-c87e91de833a](https://musicbrainz.org/recording/e66f39df-944b-42b6-9532-c87e91de833a) | Suite anglaise no. 3 en sol mineur, BWV 808: IVb.  |
-| [https://musicbrainz.org/recording/7fc24ec7-f050-417a-be6c-c686f9850206](https://musicbrainz.org/recording/7fc24ec7-f050-417a-be6c-c686f9850206) | Wachet auf, ruft uns die Stimme, BWV 140           |
-| [https://musicbrainz.org/recording/6893a61b-06ff-4a4e-b846-a3ff03af3792](https://musicbrainz.org/recording/6893a61b-06ff-4a4e-b846-a3ff03af3792) | Adagio from Violin Sonata No. 4 in C minor         |
-| [https://musicbrainz.org/recording/22a179c5-d086-4398-a134-967bea425c9d](https://musicbrainz.org/recording/22a179c5-d086-4398-a134-967bea425c9d) | Adagio from Violin Sonata No. 5 in F minor         |
-| [https://musicbrainz.org/recording/daef5add-e26f-476f-9f86-4292ad148e38](https://musicbrainz.org/recording/daef5add-e26f-476f-9f86-4292ad148e38) | Kanonische Veränderungen über "Vom Himmel hoch, da |
-| [https://musicbrainz.org/recording/0bd62eac-9219-4d9b-b0a7-785a0c462aa8](https://musicbrainz.org/recording/0bd62eac-9219-4d9b-b0a7-785a0c462aa8) | Kanonische Veränderungen über "Vom Himmel hoch, da |
-| [https://musicbrainz.org/recording/afe37a77-52b0-4a0a-85d5-ed0798133a91](https://musicbrainz.org/recording/afe37a77-52b0-4a0a-85d5-ed0798133a91) | Kanonische Veränderungen über "Vom Himmel hoch, da |
-| [https://musicbrainz.org/recording/47b36650-a055-41e2-ac3e-eacb887974b8](https://musicbrainz.org/recording/47b36650-a055-41e2-ac3e-eacb887974b8) | Kanonische Veränderungen über "Vom Himmel hoch, da |
-| [https://musicbrainz.org/recording/5004a0c5-f8f9-4c80-a454-382149543efa](https://musicbrainz.org/recording/5004a0c5-f8f9-4c80-a454-382149543efa) | Kanonische Veränderungen über "Vom Himmel hoch, da |
-| [https://musicbrainz.org/recording/0bc69817-ca83-472d-ae11-38bde7e07fe0](https://musicbrainz.org/recording/0bc69817-ca83-472d-ae11-38bde7e07fe0) | Flute Sonata in B minor, BWV 1030: I. Andante      |
-| [https://musicbrainz.org/recording/67028611-a9c5-4305-a147-6f188f8d6ce8](https://musicbrainz.org/recording/67028611-a9c5-4305-a147-6f188f8d6ce8) | Flute Sonata in B minor, BWV 1030: II. Largo e dol |
-| [https://musicbrainz.org/recording/aacad11a-1921-41e9-ac4d-f0c405b8dd92](https://musicbrainz.org/recording/aacad11a-1921-41e9-ac4d-f0c405b8dd92) | Flute Sonata in B minor, BWV 1030: III. Presto     |
-| [https://musicbrainz.org/recording/b91d73b8-65e7-441a-a0e7-af2dff529c24](https://musicbrainz.org/recording/b91d73b8-65e7-441a-a0e7-af2dff529c24) | Concerto No. 3 in G, BWV 1048: Allegro             |
-| [https://musicbrainz.org/recording/0ba13319-c13f-4636-a690-f11d165247ed](https://musicbrainz.org/recording/0ba13319-c13f-4636-a690-f11d165247ed) | Kyrie, Gott heiliger Geist, BWV 671                |
-| [https://musicbrainz.org/recording/608f62ce-ef94-423e-a512-552a362b6b85](https://musicbrainz.org/recording/608f62ce-ef94-423e-a512-552a362b6b85) | Pieces de clavecin en concerts: La Coulicam        |
-| [https://musicbrainz.org/recording/5b38da80-e024-4d12-bd4f-4b2dcf9964ca](https://musicbrainz.org/recording/5b38da80-e024-4d12-bd4f-4b2dcf9964ca) | Pieces de clavecin en concerts: La Livri           |
-| [https://musicbrainz.org/recording/6ea1ab4c-d19b-4d48-b6ff-835c7c64723a](https://musicbrainz.org/recording/6ea1ab4c-d19b-4d48-b6ff-835c7c64723a) | Pieces de clavecin en concerts: La Vezinet         |
-| [https://musicbrainz.org/recording/2e13a92a-70fa-44b0-9ac1-adadd9f626dc](https://musicbrainz.org/recording/2e13a92a-70fa-44b0-9ac1-adadd9f626dc) | Deuxieme Concert: La Laborde                       |
-| [https://musicbrainz.org/recording/2f555fe0-dfc3-473f-b5fc-f1848454b556](https://musicbrainz.org/recording/2f555fe0-dfc3-473f-b5fc-f1848454b556) | Deuxieme Concert: La Boucan                        |
-| [https://musicbrainz.org/recording/efc3cbc1-00b0-407a-b704-53a1412c5398](https://musicbrainz.org/recording/efc3cbc1-00b0-407a-b704-53a1412c5398) | Deuxieme Concert: L'Agacante                       |
-| [https://musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff](https://musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff) | Deuxieme Concert: Menuet (I | II)                  |
-| [https://musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff](https://musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff) | Deuxieme Concert: Menuet (I | II)                  |
-| [https://musicbrainz.org/recording/02547073-2603-4672-8439-2e472ed0af4e](https://musicbrainz.org/recording/02547073-2603-4672-8439-2e472ed0af4e) | Troisieme Concert: La Poupliniere                  |
-| [https://musicbrainz.org/recording/536aa030-7289-4c6a-92be-977a4e002b20](https://musicbrainz.org/recording/536aa030-7289-4c6a-92be-977a4e002b20) | Troisieme Concert: La Timide                       |
-| [https://musicbrainz.org/recording/17bd2642-0cb7-49c7-a07a-c7cee8ef54e0](https://musicbrainz.org/recording/17bd2642-0cb7-49c7-a07a-c7cee8ef54e0) | Troisieme Concert: Tambourin - Tambourin en Rondea |
-| [https://musicbrainz.org/recording/38a61a13-8b14-472e-bd2a-7cc869a111c1](https://musicbrainz.org/recording/38a61a13-8b14-472e-bd2a-7cc869a111c1) | Quatrieme Concert: La Pantomime                    |
-| [https://musicbrainz.org/recording/e0978d54-b228-4def-a379-0a6f89fd9527](https://musicbrainz.org/recording/e0978d54-b228-4def-a379-0a6f89fd9527) | Quatrieme Concert: L'Indiscrette                   |
-| [https://musicbrainz.org/recording/577472f1-fef1-48c8-92c8-86354c4ce621](https://musicbrainz.org/recording/577472f1-fef1-48c8-92c8-86354c4ce621) | Quatrieme Concert: La Rameau                       |
-| [https://musicbrainz.org/recording/04ea0e98-da39-4cf0-ba41-7268dc416b60](https://musicbrainz.org/recording/04ea0e98-da39-4cf0-ba41-7268dc416b60) | Cinquieme Concert: La Forqueray                    |
-| [https://musicbrainz.org/recording/efce85c6-3906-4aa9-a92b-71164ae949c1](https://musicbrainz.org/recording/efce85c6-3906-4aa9-a92b-71164ae949c1) | Cinquieme Concert: La Cupis                        |
-| [https://musicbrainz.org/recording/a4e75c48-b185-4275-83fa-3992bc2578db](https://musicbrainz.org/recording/a4e75c48-b185-4275-83fa-3992bc2578db) | Cinquieme Concert: La Marais                       |
-| [https://musicbrainz.org/recording/3c7fe616-f479-40c6-8ce9-01fdeb84f322](https://musicbrainz.org/recording/3c7fe616-f479-40c6-8ce9-01fdeb84f322) | Fantasia                                           |
-| [https://musicbrainz.org/recording/e4ccbcef-29ef-432e-b65a-f501524fa7ad](https://musicbrainz.org/recording/e4ccbcef-29ef-432e-b65a-f501524fa7ad) | Corranto                                           |
-| [https://musicbrainz.org/recording/af9bc8d0-d2bc-46d8-b158-709def76b427](https://musicbrainz.org/recording/af9bc8d0-d2bc-46d8-b158-709def76b427) | Fantasia II                                        |
-| [https://musicbrainz.org/recording/c150e1d1-162e-4802-a0c5-773d5f072854](https://musicbrainz.org/recording/c150e1d1-162e-4802-a0c5-773d5f072854) | Ich ruf' zu dir, Herr Jesu Christ BWV 639 (arr Bus |
-| [https://musicbrainz.org/recording/eb69e573-383e-45f6-ab13-ae3eb9145032](https://musicbrainz.org/recording/eb69e573-383e-45f6-ab13-ae3eb9145032) | Piano Concerto No. 1 in E minor, Op. 11: II. Roman |
-| [https://musicbrainz.org/recording/b3598fe7-52f4-4851-8362-1744effdaca9](https://musicbrainz.org/recording/b3598fe7-52f4-4851-8362-1744effdaca9) | Étude in E minor, Op. 25 No. 5                     |
-| [https://musicbrainz.org/recording/5e8800c9-ac36-42a5-bcb2-b0fbfb094067](https://musicbrainz.org/recording/5e8800c9-ac36-42a5-bcb2-b0fbfb094067) | Étude in G-flat major, Op. 10 No. 5                |
-| [https://musicbrainz.org/recording/1a954cd9-c6b7-4562-bbba-2654cd103536](https://musicbrainz.org/recording/1a954cd9-c6b7-4562-bbba-2654cd103536) | Walzer zu vier Händen, op. 39: Nr. 1 H-Dur / Nr. 2 |
-| [https://musicbrainz.org/recording/f4374bda-35be-4997-8690-cef023a82757](https://musicbrainz.org/recording/f4374bda-35be-4997-8690-cef023a82757) | Jesus bleibet meine Freude from Cantata BWV 147    |
-| [https://musicbrainz.org/recording/a8ad1479-17a6-4f81-862b-da49bfa77d11](https://musicbrainz.org/recording/a8ad1479-17a6-4f81-862b-da49bfa77d11) | Nocturne no. 8 in D-flat major, op. 27 no. 2 with  |
-| [https://musicbrainz.org/recording/22323abc-3404-4f58-a743-f35f69fc9f40](https://musicbrainz.org/recording/22323abc-3404-4f58-a743-f35f69fc9f40) | Waltz No. 17 in E-flat major, B. 46                |
-| [https://musicbrainz.org/recording/f3568cd1-95c4-4c65-8179-22c85e7cb7d7](https://musicbrainz.org/recording/f3568cd1-95c4-4c65-8179-22c85e7cb7d7) | Violin Partita No. 2 in D minor, BWV 1004: Chaconn |
-| [https://musicbrainz.org/recording/42cf6715-703d-47e0-9184-d79a4b2284dc](https://musicbrainz.org/recording/42cf6715-703d-47e0-9184-d79a4b2284dc) | BWV 971, Italienisches Konzert : III. Presto       |
-| [https://musicbrainz.org/recording/e42554cd-3e99-40c0-b62b-459bdbe79828](https://musicbrainz.org/recording/e42554cd-3e99-40c0-b62b-459bdbe79828) | Allegro                                            |
-| [https://musicbrainz.org/recording/8f75f9bf-090d-4e9a-8d47-5940abf87e90](https://musicbrainz.org/recording/8f75f9bf-090d-4e9a-8d47-5940abf87e90) | Der Kuß, op. 19 no. 1: Unter Blüten des Mais spiel |
-| [https://musicbrainz.org/recording/826888e4-1ef6-4bc1-ab97-fbc45465b714](https://musicbrainz.org/recording/826888e4-1ef6-4bc1-ab97-fbc45465b714) | In der Ferne, op. 19 no. 3: Will ruhen unter den B |
-| [https://musicbrainz.org/recording/75d2e420-df24-4fac-b490-b9d34b816335](https://musicbrainz.org/recording/75d2e420-df24-4fac-b490-b9d34b816335) | Vollendung D 579A (D 989A)                         |
-| [https://musicbrainz.org/recording/fff9e42d-1c7a-4ffb-ad9a-d7823e1299bd](https://musicbrainz.org/recording/fff9e42d-1c7a-4ffb-ad9a-d7823e1299bd) | Die Erde D 579B (D 989)                            |
-| [https://musicbrainz.org/recording/fb33ee98-76ba-4bcd-980e-9a33e7254e40](https://musicbrainz.org/recording/fb33ee98-76ba-4bcd-980e-9a33e7254e40) | "To music"                                         |
-| [https://musicbrainz.org/recording/6fda5825-74c1-4e34-ad6d-8524575a4d7c](https://musicbrainz.org/recording/6fda5825-74c1-4e34-ad6d-8524575a4d7c) | "Where the bee sucks"                              |
-| [https://musicbrainz.org/recording/4bfaf761-ffe6-4d9b-8a30-1bf0cedfdb84](https://musicbrainz.org/recording/4bfaf761-ffe6-4d9b-8a30-1bf0cedfdb84) | Mörike-Lieder: Begegnung                           |
-| [https://musicbrainz.org/recording/3cd13422-cee6-4a28-9bb7-45fcfa6f973c](https://musicbrainz.org/recording/3cd13422-cee6-4a28-9bb7-45fcfa6f973c) | Mörike-Lieder: Verborgenheit                       |
-| [https://musicbrainz.org/recording/1d1d0137-74e8-4451-8a62-6c35bb80b5af](https://musicbrainz.org/recording/1d1d0137-74e8-4451-8a62-6c35bb80b5af) | Ave Maria                                          |
-| [https://musicbrainz.org/recording/421bf5cf-0a0d-4af4-abf4-a8030db11b73](https://musicbrainz.org/recording/421bf5cf-0a0d-4af4-abf4-a8030db11b73) | Gretchen am Spinnrade, D.118                       |
-| [https://musicbrainz.org/recording/a239e096-45b7-4e71-b952-c2d51c4d1183](https://musicbrainz.org/recording/a239e096-45b7-4e71-b952-c2d51c4d1183) | Der Musensohn, D.764                               |
-| [https://musicbrainz.org/recording/57467de7-70d9-459b-9fea-e9fa2ed430ae](https://musicbrainz.org/recording/57467de7-70d9-459b-9fea-e9fa2ed430ae) | Wiegenlied, D.498                                  |
-| [https://musicbrainz.org/recording/a51dd438-7e46-4a13-aab5-4e11a174a43d](https://musicbrainz.org/recording/a51dd438-7e46-4a13-aab5-4e11a174a43d) | Schlechtes Wetter, op. 69 no. 5                    |
-| [https://musicbrainz.org/recording/3e54fb15-eb7e-45ac-a9c3-6d489c5970b2](https://musicbrainz.org/recording/3e54fb15-eb7e-45ac-a9c3-6d489c5970b2) | Storchenbotschaft (1948)                           |
-| [https://musicbrainz.org/recording/ded65524-524a-40ec-bf6e-bc2974e4f65d](https://musicbrainz.org/recording/ded65524-524a-40ec-bf6e-bc2974e4f65d) | Storchenbotschaft (1951)                           |
-| [https://musicbrainz.org/recording/ea22d37a-2cde-4acf-934f-3d9d86468ae6](https://musicbrainz.org/recording/ea22d37a-2cde-4acf-934f-3d9d86468ae6) | Schweig' einmal still                              |
-| [https://musicbrainz.org/recording/691b508b-ba8f-45d8-b1d5-0dcbe1705902](https://musicbrainz.org/recording/691b508b-ba8f-45d8-b1d5-0dcbe1705902) | Wer tat deinem Füßlein weh?                        |
-| [https://musicbrainz.org/recording/9f9497cd-346a-46b0-a5ea-291f5a6fd60a](https://musicbrainz.org/recording/9f9497cd-346a-46b0-a5ea-291f5a6fd60a) | Nixe Binsefuss                                     |
-| [https://musicbrainz.org/recording/3eb8e1bb-e171-4d58-af26-e5a561385581](https://musicbrainz.org/recording/3eb8e1bb-e171-4d58-af26-e5a561385581) | Die Bekehrte                                       |
-| [https://musicbrainz.org/recording/fff3881e-58aa-4b47-8373-10fbae3b18fa](https://musicbrainz.org/recording/fff3881e-58aa-4b47-8373-10fbae3b18fa) | Mausfallen-sprüchlein                              |
-| [https://musicbrainz.org/recording/17fecd7d-f2f5-4b5a-a471-ecdf367a8882](https://musicbrainz.org/recording/17fecd7d-f2f5-4b5a-a471-ecdf367a8882) | Wiegenlied im Sommer                               |
-| [https://musicbrainz.org/recording/1412fc59-f57a-490d-8265-030585c2a2be](https://musicbrainz.org/recording/1412fc59-f57a-490d-8265-030585c2a2be) | Eichendorff-Lieder: Der Musikant "Wandern lieb ich |
-| [https://musicbrainz.org/recording/b8b52622-8d34-4a05-8400-a7eb6d26671e](https://musicbrainz.org/recording/b8b52622-8d34-4a05-8400-a7eb6d26671e) | Eichendorff-Lieder: Der Soldat I "Ist auch schmuck |
-| [https://musicbrainz.org/recording/ca210f95-0cd6-4d21-a7a5-49b36e76655e](https://musicbrainz.org/recording/ca210f95-0cd6-4d21-a7a5-49b36e76655e) | Eichendorff-Lieder: Der Schreckenberger "Aufs Wohl |
-| [https://musicbrainz.org/recording/1381b300-4b50-402c-a712-1265430f45f2](https://musicbrainz.org/recording/1381b300-4b50-402c-a712-1265430f45f2) | Goethe-Lieder: Cophtisches Lied I "Laßet Gelehrte  |
-| [https://musicbrainz.org/recording/05c398f3-28cb-4e51-8a2f-8d2ea6471a23](https://musicbrainz.org/recording/05c398f3-28cb-4e51-8a2f-8d2ea6471a23) | Erinnerung "Ihr wunderschönen Augenblicke", op. 63 |
-| [https://musicbrainz.org/recording/72399f65-94c9-44f3-80e7-94a35b0835e6](https://musicbrainz.org/recording/72399f65-94c9-44f3-80e7-94a35b0835e6) | Ständchen "Der Mond steht über dem Berge", op. 106 |
-| [https://musicbrainz.org/recording/9d8e67a3-5cfb-44e6-862a-e944a2a628a1](https://musicbrainz.org/recording/9d8e67a3-5cfb-44e6-862a-e944a2a628a1) | Das Wohltemperierte Klavier, Book I: Prelude and F |
-| [https://musicbrainz.org/recording/0ca43729-f177-45f9-a1a7-4d88528ce170](https://musicbrainz.org/recording/0ca43729-f177-45f9-a1a7-4d88528ce170) | Prelude and Fugue in A, op 87/7                    |
-| [https://musicbrainz.org/recording/c2e197c0-9e64-4cc4-96a5-1378840996d9](https://musicbrainz.org/recording/c2e197c0-9e64-4cc4-96a5-1378840996d9) | The Well-tempered Clavier (excerpts): Prelude and  |
-| [https://musicbrainz.org/recording/9ade10f5-405c-4765-85c1-5d615b797262](https://musicbrainz.org/recording/9ade10f5-405c-4765-85c1-5d615b797262) | The Well-tempered Clavier (excerpts): Prelude and  |
-| [https://musicbrainz.org/recording/53e0a403-f7df-4d7f-a937-f41b30fcd62c](https://musicbrainz.org/recording/53e0a403-f7df-4d7f-a937-f41b30fcd62c) | The Well-tempered Clavier (excerpts): Prelude and  |
-| [https://musicbrainz.org/recording/2c24cff1-5d9a-49e1-a5a0-1528be33265e](https://musicbrainz.org/recording/2c24cff1-5d9a-49e1-a5a0-1528be33265e) | The Well-tempered Clavier (excerpts): Prelude and  |
-| [https://musicbrainz.org/recording/242f4e69-384c-4fbb-8505-c806d565f99f](https://musicbrainz.org/recording/242f4e69-384c-4fbb-8505-c806d565f99f) | Sonata in C major, BWV 1033: I. Andante            |
-| [https://musicbrainz.org/recording/0291649d-56fd-46ad-a501-5c65326ae08d](https://musicbrainz.org/recording/0291649d-56fd-46ad-a501-5c65326ae08d) | Sonata in C major, BWV 1033: II. Allegro           |
-| [https://musicbrainz.org/recording/598f32bb-7658-4ea3-87ae-ff918ba201aa](https://musicbrainz.org/recording/598f32bb-7658-4ea3-87ae-ff918ba201aa) | Sonata in C major, BWV 1033: III. Adagio           |
-| [https://musicbrainz.org/recording/f1adfc0f-75c2-4714-971f-8f6c1041d969](https://musicbrainz.org/recording/f1adfc0f-75c2-4714-971f-8f6c1041d969) | Sonata in C major, BWV 1033: IV. Menuet I & II     |
-| [https://musicbrainz.org/recording/f1adfc0f-75c2-4714-971f-8f6c1041d969](https://musicbrainz.org/recording/f1adfc0f-75c2-4714-971f-8f6c1041d969) | Sonata in C major, BWV 1033: IV. Menuet I & II     |
-| [https://musicbrainz.org/recording/e9e4ae6a-8a5e-476c-8993-ecdf354d0df5](https://musicbrainz.org/recording/e9e4ae6a-8a5e-476c-8993-ecdf354d0df5) | Sonata in E minor, BWV 1034: I. Adagio ma non tant |
-| [https://musicbrainz.org/recording/fdd9e0a9-be05-4b56-a8a9-6f4cacb161b8](https://musicbrainz.org/recording/fdd9e0a9-be05-4b56-a8a9-6f4cacb161b8) | Sonata in E minor, BWV 1034: II. Allegro           |
-| [https://musicbrainz.org/recording/79c84244-1aaa-484f-8722-a297dda7ba28](https://musicbrainz.org/recording/79c84244-1aaa-484f-8722-a297dda7ba28) | Sonata in E minor, BWV 1034: III. Andante          |
-| [https://musicbrainz.org/recording/f6b5c8f1-eded-4e3c-ad6c-8f9847953428](https://musicbrainz.org/recording/f6b5c8f1-eded-4e3c-ad6c-8f9847953428) | Sonata in E minor, BWV 1034: IV. Allegro           |
-| [https://musicbrainz.org/recording/2fe8db23-88dd-4463-a94b-a307554140cc](https://musicbrainz.org/recording/2fe8db23-88dd-4463-a94b-a307554140cc) | Sonata in E major, BWV 1035: I. Adagio ma non tant |
-| [https://musicbrainz.org/recording/874f7a10-421f-4c5b-b3fc-0aa47bdc950b](https://musicbrainz.org/recording/874f7a10-421f-4c5b-b3fc-0aa47bdc950b) | Sonata in E major, BWV 1035: II. Allegro           |
-| [https://musicbrainz.org/recording/cb780a9c-20ca-433b-b7bf-80b4a22bf701](https://musicbrainz.org/recording/cb780a9c-20ca-433b-b7bf-80b4a22bf701) | Sonata in E major, BWV 1035: III. Siciliano        |
-| [https://musicbrainz.org/recording/90e7760a-330c-4471-9e2d-3674ddb9d1f8](https://musicbrainz.org/recording/90e7760a-330c-4471-9e2d-3674ddb9d1f8) | Sonata in E major, BWV 1035: IV. Allegro assai     |
-| [https://musicbrainz.org/recording/86f186b6-4732-4954-ada1-a49c991d7e0b](https://musicbrainz.org/recording/86f186b6-4732-4954-ada1-a49c991d7e0b) | Sonata in B minor, BWV 1030: I. Andante            |
-| [https://musicbrainz.org/recording/5d9b0067-2e0e-4799-a117-0ab37d97465a](https://musicbrainz.org/recording/5d9b0067-2e0e-4799-a117-0ab37d97465a) | Sonata in B minor, BWV 1030: II. Largo e dolce     |
-| [https://musicbrainz.org/recording/70250dda-eadd-4ad7-af05-d1f186d8214b](https://musicbrainz.org/recording/70250dda-eadd-4ad7-af05-d1f186d8214b) | Sonata in B minor, BWV 1030: III. Presto           |
-| [https://musicbrainz.org/recording/e9af588e-c794-4853-8e2c-6bd154736918](https://musicbrainz.org/recording/e9af588e-c794-4853-8e2c-6bd154736918) | Sonata in E-flat major, BWV 1031: I. Allegro moder |
-| [https://musicbrainz.org/recording/c10f69bf-0f48-4dae-83db-67d58be4a7ec](https://musicbrainz.org/recording/c10f69bf-0f48-4dae-83db-67d58be4a7ec) | Sonata in E-flat major, BWV 1031: II. Siciliano    |
-| [https://musicbrainz.org/recording/630ec138-dafd-4684-9c5f-2bf82dec675f](https://musicbrainz.org/recording/630ec138-dafd-4684-9c5f-2bf82dec675f) | Sonata in E-flat major, BWV 1031: III. Allegro     |
-| [https://musicbrainz.org/recording/cdf21329-9e6d-4200-995b-72459e4dca04](https://musicbrainz.org/recording/cdf21329-9e6d-4200-995b-72459e4dca04) | Sonata in A major, BWV 1032: I. Vivace             |
-| [https://musicbrainz.org/recording/ab13ccde-af9b-4d82-9a43-25578adcebf8](https://musicbrainz.org/recording/ab13ccde-af9b-4d82-9a43-25578adcebf8) | Sonata in A major, BWV 1032: II. Largo e dolce     |
-| [https://musicbrainz.org/recording/8bb0198f-5629-45b3-bff9-077997d278f0](https://musicbrainz.org/recording/8bb0198f-5629-45b3-bff9-077997d278f0) | Sonata in A major, BWV 1032: III. Allegro          |
-| [https://musicbrainz.org/recording/501d17fa-1298-494a-913b-6ea20c6c357a](https://musicbrainz.org/recording/501d17fa-1298-494a-913b-6ea20c6c357a) | Canon and Gigue in D major, T. 377: I. Canon       |
-| [https://musicbrainz.org/recording/f987fbe8-c123-408e-82dd-dd2cc6ae2fae](https://musicbrainz.org/recording/f987fbe8-c123-408e-82dd-dd2cc6ae2fae) | Canon and Gigue: II. Gigue                         |
-| [https://musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b](https://musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b) | Deuxième concert: Premier menuet en rondeau. Deuxi |
-| [https://musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b](https://musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b) | Deuxième concert: Premier menuet en rondeau. Deuxi |
-| [https://musicbrainz.org/recording/044655a4-71ae-4376-be4c-01983cbca73e](https://musicbrainz.org/recording/044655a4-71ae-4376-be4c-01983cbca73e) | Trosième concert: La Timide, Premier rondeau graci |
-| [https://musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01](https://musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01) | Trosième concert: Premier tambourin en rondeau. De |
-| [https://musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01](https://musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01) | Trosième concert: Premier tambourin en rondeau. De |
-| [https://musicbrainz.org/recording/d61d6425-0567-4a53-a16d-a3ddfa35aa91](https://musicbrainz.org/recording/d61d6425-0567-4a53-a16d-a3ddfa35aa91) | Concerto for Violin, Strings and Continuo in D maj |
-| [https://musicbrainz.org/recording/598e7cd1-44b3-4754-9f22-afd04ae95340](https://musicbrainz.org/recording/598e7cd1-44b3-4754-9f22-afd04ae95340) | Concerto for Violin, Strings and Continuo in C maj |
-| [https://musicbrainz.org/recording/d63a5974-6193-4b83-8897-d513d7fc910d](https://musicbrainz.org/recording/d63a5974-6193-4b83-8897-d513d7fc910d) | Concerto for Flute, Strings and Continuo in D majo |
-| [https://musicbrainz.org/recording/397c6034-ad5c-4a94-9973-ff76da647aea](https://musicbrainz.org/recording/397c6034-ad5c-4a94-9973-ff76da647aea) | Concerto for Cello, Strings and Continuo in B mino |
-| [https://musicbrainz.org/recording/164e15d2-2c08-4dcf-ae09-2fa37c3fb068](https://musicbrainz.org/recording/164e15d2-2c08-4dcf-ae09-2fa37c3fb068) | Italienisches Konzert F-dur, BWV 971: Allegro      |
-| [https://musicbrainz.org/recording/e1e550bc-ec04-4f8b-a6fc-f0499fe41b8c](https://musicbrainz.org/recording/e1e550bc-ec04-4f8b-a6fc-f0499fe41b8c) | Italienisches Konzert F-dur, BWV 971: Andante      |
-| [https://musicbrainz.org/recording/bc82ec35-d2c4-4368-b08a-9c2a2e05d918](https://musicbrainz.org/recording/bc82ec35-d2c4-4368-b08a-9c2a2e05d918) | Italienisches Konzert F-dur, BWV 971: Presto       |
-| [https://musicbrainz.org/recording/8e8ae4a3-de59-4858-a6b8-2dab97d9b5fc](https://musicbrainz.org/recording/8e8ae4a3-de59-4858-a6b8-2dab97d9b5fc) | Toccata in F sharp minor, BWV 910: [no tempo indic |
-| [https://musicbrainz.org/recording/349b083e-79bd-4f69-8a58-e3a7612839cb](https://musicbrainz.org/recording/349b083e-79bd-4f69-8a58-e3a7612839cb) | Toccata in F sharp minor, BWV 910: [no tempo indic |
-| [https://musicbrainz.org/recording/fc496ef4-3a06-4cc2-9c55-45ffdd046f69](https://musicbrainz.org/recording/fc496ef4-3a06-4cc2-9c55-45ffdd046f69) | Toccata in F sharp minor, BWV 910: [no tempo indic |
-| [https://musicbrainz.org/recording/60db03a6-75c3-4bfe-a76f-cd8bfd3bc1be](https://musicbrainz.org/recording/60db03a6-75c3-4bfe-a76f-cd8bfd3bc1be) | Toccata in F sharp minor, BWV 910: [no tempo indic |
-| [https://musicbrainz.org/recording/f4aa3193-221b-4811-84df-b9f54cf9a00e](https://musicbrainz.org/recording/f4aa3193-221b-4811-84df-b9f54cf9a00e) | Prelude and Fugue in A minor, BWV 894: Praeludium  |
-| [https://musicbrainz.org/recording/d3546ec4-d99c-45fd-bff0-b8e45c4bcaf1](https://musicbrainz.org/recording/d3546ec4-d99c-45fd-bff0-b8e45c4bcaf1) | Prelude and Fugue in A minor, BWV 894: Fughetta    |
-| [https://musicbrainz.org/recording/52a710d6-d8b3-47fb-9918-e5a6d07ebefc](https://musicbrainz.org/recording/52a710d6-d8b3-47fb-9918-e5a6d07ebefc) | Allegro in B minor, Op. 8                          |
-| [https://musicbrainz.org/recording/9ae63334-43ba-4d6c-bac0-3b2d7096f94b](https://musicbrainz.org/recording/9ae63334-43ba-4d6c-bac0-3b2d7096f94b) | Arabeske in C major, Op. 18                        |
-| [https://musicbrainz.org/recording/4db4a58b-705e-4e48-84f5-239e0811cb2a](https://musicbrainz.org/recording/4db4a58b-705e-4e48-84f5-239e0811cb2a) | Piano Concerto, op. 42: I. Andante                 |
-| [https://musicbrainz.org/recording/98358d92-e749-4f72-a7f6-8d85c8e2d9de](https://musicbrainz.org/recording/98358d92-e749-4f72-a7f6-8d85c8e2d9de) | Piano Concerto, op. 42: II. Molto allegro          |
-| [https://musicbrainz.org/recording/b17649c6-cb52-451a-9063-07c196aefd73](https://musicbrainz.org/recording/b17649c6-cb52-451a-9063-07c196aefd73) | Piano Concerto, op. 42: III. Adagio                |
-| [https://musicbrainz.org/recording/3eb99afa-808d-4130-a59a-d4f55b3b0d85](https://musicbrainz.org/recording/3eb99afa-808d-4130-a59a-d4f55b3b0d85) | Piano Concerto, op. 42: IV. Giocoso (moderato)     |
-| [https://musicbrainz.org/recording/bbe5be3b-f541-47cd-82ec-f1bb5f522eeb](https://musicbrainz.org/recording/bbe5be3b-f541-47cd-82ec-f1bb5f522eeb) | Etude, op. 10, no. 1                               |
-| [https://musicbrainz.org/recording/9780534a-1b30-4c80-8bb8-9f9dcccb9afd](https://musicbrainz.org/recording/9780534a-1b30-4c80-8bb8-9f9dcccb9afd) | Konzert für Klavier und Orchester, op. 42: Molto a |
-| [https://musicbrainz.org/recording/318ffb17-2f44-403c-ac21-2ea4de3242fb](https://musicbrainz.org/recording/318ffb17-2f44-403c-ac21-2ea4de3242fb) | Etudes-Tableaux, Op. 33, No 6 in E-flat minor      |
-| [https://musicbrainz.org/recording/0b04c587-bb14-443d-b20b-59e4a38629f4](https://musicbrainz.org/recording/0b04c587-bb14-443d-b20b-59e4a38629f4) | Klaviertrio a-Moll, op. 50: Tema con variazioni. A |
-| [https://musicbrainz.org/recording/80aa02f3-442b-4c16-a453-b4b7bac0f814](https://musicbrainz.org/recording/80aa02f3-442b-4c16-a453-b4b7bac0f814) | Pictures at an Exhibition - V. Promenade           |
-| [https://musicbrainz.org/recording/c5f78eae-f31c-4399-9a2e-894a8ae2c750](https://musicbrainz.org/recording/c5f78eae-f31c-4399-9a2e-894a8ae2c750) | Pictures at an Exhibition - XIII. The Catacombs. S |
-| [https://musicbrainz.org/recording/5a4a8b88-4e31-424b-8c31-ef4d433ed9f6](https://musicbrainz.org/recording/5a4a8b88-4e31-424b-8c31-ef4d433ed9f6) | Pictures at an Exhibition: XIV. Cum mortuis in lin |
-| [https://musicbrainz.org/recording/a6975ff7-dda9-4dcb-a59e-736865211ec0](https://musicbrainz.org/recording/a6975ff7-dda9-4dcb-a59e-736865211ec0) | Étude in C major, Op. 10 No. 1: Allegro            |
-| [https://musicbrainz.org/recording/3b7effe9-13d5-4f0c-81e6-750d0badb951](https://musicbrainz.org/recording/3b7effe9-13d5-4f0c-81e6-750d0badb951) | Sonata for Piano No. 3 in C major, Op. 2 No. 3: I. |
-| [https://musicbrainz.org/recording/6615569e-d1ac-40ee-87d8-105793f61730](https://musicbrainz.org/recording/6615569e-d1ac-40ee-87d8-105793f61730) | Sonata for Piano No. 3 in C major, Op. 2 No. 3: II |
-| [https://musicbrainz.org/recording/3dbe0f1a-92b7-42c4-8094-419b6a08b7b6](https://musicbrainz.org/recording/3dbe0f1a-92b7-42c4-8094-419b6a08b7b6) | Sonata for Piano No. 3 in C major, Op. 2 No. 3: II |
-| [https://musicbrainz.org/recording/f54bf04e-20b0-4208-ac17-9bf5ca9e68de](https://musicbrainz.org/recording/f54bf04e-20b0-4208-ac17-9bf5ca9e68de) | Sonata for Piano No. 3 in C major, Op. 2 No. 3: IV |
-| [https://musicbrainz.org/recording/0fa327df-483b-42a4-9fca-1bc301aa66fd](https://musicbrainz.org/recording/0fa327df-483b-42a4-9fca-1bc301aa66fd) | Piano sonata No. 1, Op. 1: IV. Finale: Allegro con |
-| [https://musicbrainz.org/recording/e596678d-ee1e-4734-99a2-a55e11aab546](https://musicbrainz.org/recording/e596678d-ee1e-4734-99a2-a55e11aab546) | Symphonic Studies, op. 13: Thema. Andante          |
-| [https://musicbrainz.org/recording/e44808e5-6671-4e3a-adbf-cc187b9b88dc](https://musicbrainz.org/recording/e44808e5-6671-4e3a-adbf-cc187b9b88dc) | Symphonic Studies, op. 13: Etüde I. Un poco più vi |
-| [https://musicbrainz.org/recording/3309b498-4948-42ba-ab1b-dab7fe12dfb5](https://musicbrainz.org/recording/3309b498-4948-42ba-ab1b-dab7fe12dfb5) | Symphonic Studies, op. 13: Etüde II. Marcato il ca |
-| [https://musicbrainz.org/recording/47d41714-b767-41a3-8a60-c1958faaa9ff](https://musicbrainz.org/recording/47d41714-b767-41a3-8a60-c1958faaa9ff) | Symphonic Studies, op. 13: Etüde III. Vivace       |
-| [https://musicbrainz.org/recording/9a6d9516-226d-40f9-a6e6-23b68b2dd1d2](https://musicbrainz.org/recording/9a6d9516-226d-40f9-a6e6-23b68b2dd1d2) | Symphonic Studies, op. 13: Etüde IV. (Variation II |
-| [https://musicbrainz.org/recording/b745f04f-63e5-4ba0-9b0d-09b5e75f5dfd](https://musicbrainz.org/recording/b745f04f-63e5-4ba0-9b0d-09b5e75f5dfd) | Symphonic Studies, op. 13: Etüde V. (Variation IV) |
-| [https://musicbrainz.org/recording/9d476938-851e-490f-ba0c-0e8969bdf2c9](https://musicbrainz.org/recording/9d476938-851e-490f-ba0c-0e8969bdf2c9) | Symphonic Études, Op. 13: Variation I              |
-| [https://musicbrainz.org/recording/da511204-ead4-4b43-ab42-f41999bad5b3](https://musicbrainz.org/recording/da511204-ead4-4b43-ab42-f41999bad5b3) | Symphonic Études, Op. 13: Variation II             |
-| [https://musicbrainz.org/recording/288344a6-b24c-48e5-b074-b2831661eac9](https://musicbrainz.org/recording/288344a6-b24c-48e5-b074-b2831661eac9) | Symphonic Études, Op. 13: Variation III            |
-| [https://musicbrainz.org/recording/68a8c9f9-8531-4d87-bdd3-137bb028adfa](https://musicbrainz.org/recording/68a8c9f9-8531-4d87-bdd3-137bb028adfa) | Symphonic Études, Op. 13: Variation IV             |
-| [https://musicbrainz.org/recording/bca0a4a1-c4f6-4283-bdf0-21aa5e6ff6b8](https://musicbrainz.org/recording/bca0a4a1-c4f6-4283-bdf0-21aa5e6ff6b8) | Symphonic Études, Op. 13: Variation V              |
-| [https://musicbrainz.org/recording/2aef9fe4-a2ae-4e31-9eaa-33df4e805d22](https://musicbrainz.org/recording/2aef9fe4-a2ae-4e31-9eaa-33df4e805d22) | Symphonic Studies, op. 13: Etüde VI (Variation V). |
-| [https://musicbrainz.org/recording/f57a5ed0-5686-4b93-97a6-313bde73d437](https://musicbrainz.org/recording/f57a5ed0-5686-4b93-97a6-313bde73d437) | Symphonic Studies, op. 13: Etüde VII (Variation VI |
-| [https://musicbrainz.org/recording/f348c461-ad01-45db-b253-73a21f116c03](https://musicbrainz.org/recording/f348c461-ad01-45db-b253-73a21f116c03) | Symphonic Studies, op. 13: Etüde XI (Variation IX) |
-| [https://musicbrainz.org/recording/c7668141-f821-4e02-a522-ac89f7842201](https://musicbrainz.org/recording/c7668141-f821-4e02-a522-ac89f7842201) | Symphonic Studies, op. 13: Etüde XII (Finale). All |
-| [https://musicbrainz.org/recording/a24c138d-cf68-4ec7-b645-1457b6d62694](https://musicbrainz.org/recording/a24c138d-cf68-4ec7-b645-1457b6d62694) | French Suite No. 4 in E flat, BWV 815: Gavotte I-I |
-| [https://musicbrainz.org/recording/070c53cb-de87-4e6f-9d06-c40450388b1e](https://musicbrainz.org/recording/070c53cb-de87-4e6f-9d06-c40450388b1e) | Piano Sonata no. 5, op. 53                         |
-| [https://musicbrainz.org/recording/6a5843ff-e99b-4ebc-b83e-0e044c1e164d](https://musicbrainz.org/recording/6a5843ff-e99b-4ebc-b83e-0e044c1e164d) | Violin Sonata in G, K. 379: I. Adagio – Allegretto |
-| [https://musicbrainz.org/recording/fe5a705e-519d-48f4-9c9e-59759df57dfb](https://musicbrainz.org/recording/fe5a705e-519d-48f4-9c9e-59759df57dfb) | Scherzo no. 4 in E major, op. 54 — Presto          |
-| [https://musicbrainz.org/recording/3f499f59-3a72-4c1b-8456-031d8f96e908](https://musicbrainz.org/recording/3f499f59-3a72-4c1b-8456-031d8f96e908) | Impromptu No. 2 in A-Flat Major, D. 935, No. 2     |
-| [https://musicbrainz.org/recording/17c54ca6-0c8f-431f-aa2e-c77ae6f97b63](https://musicbrainz.org/recording/17c54ca6-0c8f-431f-aa2e-c77ae6f97b63) | Piano Sonata no. 21 in B-flat major, D. 960: II. A |
-| [https://musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661](https://musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661) | Fairest Isle of Isles Excelling                    |
-| [https://musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661](https://musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661) | Fairest Isle of Isles Excelling                    |
-| [https://musicbrainz.org/recording/b5a88a42-f194-4d2e-9f62-2d4acc52b847](https://musicbrainz.org/recording/b5a88a42-f194-4d2e-9f62-2d4acc52b847) | L'Uniforme                                         |
-| [https://musicbrainz.org/recording/63fe9dfc-734b-40cc-90b9-a2b0715ea9c2](https://musicbrainz.org/recording/63fe9dfc-734b-40cc-90b9-a2b0715ea9c2) | Italian Concerto, for solo keyboard in F major (Cl |
-| [https://musicbrainz.org/recording/339b64f5-3838-4fb9-85f1-587e46de71fe](https://musicbrainz.org/recording/339b64f5-3838-4fb9-85f1-587e46de71fe) | Overture in the French Manner, partita for keyboar |
-| [https://musicbrainz.org/recording/47af724c-c69d-41a1-a66d-aa482a0b2851](https://musicbrainz.org/recording/47af724c-c69d-41a1-a66d-aa482a0b2851) | Chromatic Fantasia and Fugue, for keyboard in D mi |
-| [https://musicbrainz.org/recording/9d32bd73-5c14-4cba-921c-730ab52b47bf](https://musicbrainz.org/recording/9d32bd73-5c14-4cba-921c-730ab52b47bf) | Pièces de clavecin en concerts. Premier concert: I |
-| [https://musicbrainz.org/recording/1dff307a-041a-4fa4-ae29-5a0bda580046](https://musicbrainz.org/recording/1dff307a-041a-4fa4-ae29-5a0bda580046) | Concerto for 2 Keyboards in C major, BWV 1061a: 1. |
-| [https://musicbrainz.org/recording/daff0a08-234c-47f3-8381-2310ff855d4f](https://musicbrainz.org/recording/daff0a08-234c-47f3-8381-2310ff855d4f) | Concerto for 2 Keyboards in C major, BWV 1061a: 2. |
-| [https://musicbrainz.org/recording/7c1a375e-b3f3-43a7-842e-5fcf8e0a33e1](https://musicbrainz.org/recording/7c1a375e-b3f3-43a7-842e-5fcf8e0a33e1) | Concerto for 2 Keyboards in C major, BWV 1061a: 3. |
-| [https://musicbrainz.org/recording/4adec401-827b-49e8-b48d-2eb02eaed7b1](https://musicbrainz.org/recording/4adec401-827b-49e8-b48d-2eb02eaed7b1) | Barcarolle, Op. 60 in F-sharp major                |
-| [https://musicbrainz.org/recording/078a8875-46fe-4e80-9dcd-d6cf0d964e8a](https://musicbrainz.org/recording/078a8875-46fe-4e80-9dcd-d6cf0d964e8a) | Fantasia on Polish Airs, op. 13 in A: Andantino    |
-| [https://musicbrainz.org/recording/604bf651-caf4-4a7a-9a91-0a31b9c1fc0a](https://musicbrainz.org/recording/604bf651-caf4-4a7a-9a91-0a31b9c1fc0a) | Piano Concerto no. 5 in E-flat major, op. 73 "Empe |
-| [https://musicbrainz.org/recording/ed6ee248-dc75-48cf-98aa-136783f9b46a](https://musicbrainz.org/recording/ed6ee248-dc75-48cf-98aa-136783f9b46a) | Andante spianato and Grande Polonaise in E-flat ma |
-| [https://musicbrainz.org/recording/e262a8ce-61f5-4160-80b8-a9f226587767](https://musicbrainz.org/recording/e262a8ce-61f5-4160-80b8-a9f226587767) | Nocturne No. 15 in F minor, Op. 55 No. 1           |
-| [https://musicbrainz.org/recording/13ff9288-45fb-4f84-b8a9-aaf32dd8239c](https://musicbrainz.org/recording/13ff9288-45fb-4f84-b8a9-aaf32dd8239c) | Piano Concerto in A minor, Op. 16: I. Allegro molt |
-| [https://musicbrainz.org/recording/676fa90c-6c91-45b9-a0bc-5e120a9ab35c](https://musicbrainz.org/recording/676fa90c-6c91-45b9-a0bc-5e120a9ab35c) | Piano Concerto in A minor, Op. 16: III. Allegro mo |
-| [https://musicbrainz.org/recording/d941933a-906e-41c1-933a-d5743bc79b56](https://musicbrainz.org/recording/d941933a-906e-41c1-933a-d5743bc79b56) | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
-| [https://musicbrainz.org/recording/632a1d8a-e32b-4d64-a638-798340d9e643](https://musicbrainz.org/recording/632a1d8a-e32b-4d64-a638-798340d9e643) | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
-| [https://musicbrainz.org/recording/13d0babf-14c7-472e-96b9-951457c06c28](https://musicbrainz.org/recording/13d0babf-14c7-472e-96b9-951457c06c28) | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
-| [https://musicbrainz.org/recording/a8b3ec8e-0bed-4c85-bb8f-3a00ead2a96f](https://musicbrainz.org/recording/a8b3ec8e-0bed-4c85-bb8f-3a00ead2a96f) | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
-| [https://musicbrainz.org/recording/6bb7dd84-6766-4c36-9e23-dd18d0a3d1b1](https://musicbrainz.org/recording/6bb7dd84-6766-4c36-9e23-dd18d0a3d1b1) | Piano Concerto in A minor, Op. 54: I. Allegro affe |
-| [https://musicbrainz.org/recording/b9e8f53c-aff5-4eae-a219-201b45dbd80d](https://musicbrainz.org/recording/b9e8f53c-aff5-4eae-a219-201b45dbd80d) | Piano Concerto in A minor, Op. 54: II. Intermezzo. |
-| [https://musicbrainz.org/recording/3bb14e66-b596-4d08-9c30-2408e2f48bb1](https://musicbrainz.org/recording/3bb14e66-b596-4d08-9c30-2408e2f48bb1) | Piano Concerto in A minor, Op. 54: III. Allegro vi |
-| [https://musicbrainz.org/recording/b6ca7777-87f7-498a-8573-3926ba2f9268](https://musicbrainz.org/recording/b6ca7777-87f7-498a-8573-3926ba2f9268) | Andante spianato & Grande Polonaise, E-flat major, |
-| [https://musicbrainz.org/recording/b0e71fb9-310e-4124-968d-cd84352dc874](https://musicbrainz.org/recording/b0e71fb9-310e-4124-968d-cd84352dc874) | Intermezzo in E minor, Op. 115, No. 5              |
-| [https://musicbrainz.org/recording/7aa4c85a-ee60-4763-bcca-cc3dfd348c1f](https://musicbrainz.org/recording/7aa4c85a-ee60-4763-bcca-cc3dfd348c1f) | Symphonic Variations: Poco allegro                 |
-| [https://musicbrainz.org/recording/e8800fcb-1bac-4b7c-b992-5e9af3718091](https://musicbrainz.org/recording/e8800fcb-1bac-4b7c-b992-5e9af3718091) | Symphonic Variations: Allegro non troppo           |
-| [https://musicbrainz.org/recording/d469a3f9-6267-4400-bca4-676fce9dd260](https://musicbrainz.org/recording/d469a3f9-6267-4400-bca4-676fce9dd260) | Piano Concerto No. 4 in G major, Op. 58: III. Rond |
-| [https://musicbrainz.org/recording/43241f16-0489-4584-bca0-92bb1f2dd36a](https://musicbrainz.org/recording/43241f16-0489-4584-bca0-92bb1f2dd36a) | Sonata for Piano No. 26 in E-flat major, Op. 81a " |
-| [https://musicbrainz.org/recording/a61933d6-3eee-449c-83b2-30f648147019](https://musicbrainz.org/recording/a61933d6-3eee-449c-83b2-30f648147019) | Piano Concerto no. 4 in G major, op. 58: III. Rond |
-| [https://musicbrainz.org/recording/5fcb9644-06ec-4144-91a6-327b901ee8e9](https://musicbrainz.org/recording/5fcb9644-06ec-4144-91a6-327b901ee8e9) | Polonaise op. 40 no. 3 in A major                  |
-| [https://musicbrainz.org/recording/f5a474d9-94ea-441e-9e2c-e6d6e0d7d3d6](https://musicbrainz.org/recording/f5a474d9-94ea-441e-9e2c-e6d6e0d7d3d6) | Widmung op. 25 no. 1                               |
-| [https://musicbrainz.org/recording/0a4e1128-7f20-497b-bc0f-52318a284aa1](https://musicbrainz.org/recording/0a4e1128-7f20-497b-bc0f-52318a284aa1) | Wiegenlied op. 49 no. 4                            |
-| [https://musicbrainz.org/recording/80a339ae-5624-43e3-86eb-21c17f6ca18c](https://musicbrainz.org/recording/80a339ae-5624-43e3-86eb-21c17f6ca18c) | Piano Concerto no. 21 "Elvira Madigan": I. Allegro |
-| [https://musicbrainz.org/recording/32c79977-8671-472f-b22e-8698a685d20a](https://musicbrainz.org/recording/32c79977-8671-472f-b22e-8698a685d20a) | Piano Concerto no. 21 "Elvira Madigan": II. Andant |
-| [https://musicbrainz.org/recording/fd255c3f-07a0-4482-932d-d72414eec342](https://musicbrainz.org/recording/fd255c3f-07a0-4482-932d-d72414eec342) | Piano Concerto no. 21 "Elvira Madigan": III. Alleg |
-| [https://musicbrainz.org/recording/5df13400-339c-40ea-b97c-fa3dca7a2cb7](https://musicbrainz.org/recording/5df13400-339c-40ea-b97c-fa3dca7a2cb7) | Ballade No. 1 in G minor, Op. 23                   |
-| [https://musicbrainz.org/recording/5df13400-339c-40ea-b97c-fa3dca7a2cb7](https://musicbrainz.org/recording/5df13400-339c-40ea-b97c-fa3dca7a2cb7) | Ballade No. 1 in G minor, Op. 23                   |
-| [https://musicbrainz.org/recording/25c49db3-f832-4fd2-8e5d-8335ecf7dc18](https://musicbrainz.org/recording/25c49db3-f832-4fd2-8e5d-8335ecf7dc18) | Ballade No. 2 in F major, Op. 38                   |
-| [https://musicbrainz.org/recording/1612b091-8200-407b-8d13-b4318244afc4](https://musicbrainz.org/recording/1612b091-8200-407b-8d13-b4318244afc4) | Ballade No. 3 in A-flat major, Op. 47              |
-| [https://musicbrainz.org/recording/498b6837-f1b7-4774-836c-b0e02ab26547](https://musicbrainz.org/recording/498b6837-f1b7-4774-836c-b0e02ab26547) | Ballade No. 4 in F minor, Op. 52                   |
-| [https://musicbrainz.org/recording/0bfa8d26-57a0-4e8f-8c1c-1e0560219d96](https://musicbrainz.org/recording/0bfa8d26-57a0-4e8f-8c1c-1e0560219d96) | Noches en los jardines de Espana: I. en el General |
-| [https://musicbrainz.org/recording/4da8927b-c926-4cac-83d9-468a6ea10f01](https://musicbrainz.org/recording/4da8927b-c926-4cac-83d9-468a6ea10f01) | Noches en los jardines de Espana: II. Danza lejana |
-| [https://musicbrainz.org/recording/97f02524-abe7-4250-8001-cd0b9e99cb56](https://musicbrainz.org/recording/97f02524-abe7-4250-8001-cd0b9e99cb56) | Noches en los jardines de Espana: III. En los jard |
-| [https://musicbrainz.org/recording/aaf826a1-15d5-4354-84e1-4c4149963314](https://musicbrainz.org/recording/aaf826a1-15d5-4354-84e1-4c4149963314) | Concerto for Piano and Orchestra in a Minor, Op. 1 |
-| [https://musicbrainz.org/recording/a81ddfe2-b047-4835-956f-80f83b1e0652](https://musicbrainz.org/recording/a81ddfe2-b047-4835-956f-80f83b1e0652) | 20 Mazurkas, op. 50: no. 4: Vivace                 |
-| [https://musicbrainz.org/recording/69839619-9b0f-4dac-b627-78ab81ec01ed](https://musicbrainz.org/recording/69839619-9b0f-4dac-b627-78ab81ec01ed) | Visions fugitives, op. 22: no. 2: Andante          |
-| [https://musicbrainz.org/recording/3fbf2500-d3c1-4972-b34d-48b32ad83c69](https://musicbrainz.org/recording/3fbf2500-d3c1-4972-b34d-48b32ad83c69) | Prole do bebe no. 1: no. 6: A pobresinha - a bonec |
-| [https://musicbrainz.org/recording/55b960c5-3495-4db2-93ae-c5c9c80cb1cf](https://musicbrainz.org/recording/55b960c5-3495-4db2-93ae-c5c9c80cb1cf) | Piano Sonata no. 14 in C-sharp minor, op. 27/2 "Mo |
-| [https://musicbrainz.org/recording/38ca15e8-45dd-4c7a-acad-324040d8b179](https://musicbrainz.org/recording/38ca15e8-45dd-4c7a-acad-324040d8b179) | 5 Lieder, op. 49: no. IV. Wiegenlied (arr. A. Rubi |
-| [https://musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe](https://musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe) | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
-| [https://musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe](https://musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe) | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
-| [https://musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe](https://musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe) | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
-| [https://musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024](https://musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024) | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
-| [https://musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024](https://musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024) | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
-| [https://musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024](https://musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024) | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
-| [https://musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da](https://musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da) | Mazurka no. 3 in E major, op. 6, no. 3             |
-| [https://musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da](https://musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da) | Mazurka no. 3 in E major, op. 6, no. 3             |
-| [https://musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da](https://musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da) | Mazurka no. 3 in E major, op. 6, no. 3             |
-| [https://musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d](https://musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d) | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
-| [https://musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d](https://musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d) | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
-| [https://musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d](https://musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d) | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
-| [https://musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd](https://musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd) | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
-| [https://musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd](https://musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd) | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
-| [https://musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd](https://musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd) | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
-| [https://musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a](https://musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a) | Mazurka no. 6 in A minor, op. 7, no. 2             |
-| [https://musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a](https://musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a) | Mazurka no. 6 in A minor, op. 7, no. 2             |
-| [https://musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a](https://musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a) | Mazurka no. 6 in A minor, op. 7, no. 2             |
-| [https://musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b](https://musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b) | Mazurka no. 7 in F minor, op. 7, no. 3             |
-| [https://musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b](https://musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b) | Mazurka no. 7 in F minor, op. 7, no. 3             |
-| [https://musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b](https://musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b) | Mazurka no. 7 in F minor, op. 7, no. 3             |
-| [https://musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34](https://musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34) | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
-| [https://musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34](https://musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34) | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
-| [https://musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34](https://musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34) | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
-| [https://musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce](https://musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce) | Mazurka no. 9 in C major, op. 7, no. 5             |
-| [https://musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce](https://musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce) | Mazurka no. 9 in C major, op. 7, no. 5             |
-| [https://musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce](https://musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce) | Mazurka no. 9 in C major, op. 7, no. 5             |
-| [https://musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8](https://musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8) | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
-| [https://musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8](https://musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8) | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
-| [https://musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8](https://musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8) | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
-| [https://musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d](https://musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d) | Mazurka no. 11 in E minor, op. 17, no. 2           |
-| [https://musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d](https://musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d) | Mazurka no. 11 in E minor, op. 17, no. 2           |
-| [https://musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d](https://musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d) | Mazurka no. 11 in E minor, op. 17, no. 2           |
-| [https://musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da](https://musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da) | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
-| [https://musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da](https://musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da) | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
-| [https://musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da](https://musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da) | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
-| [https://musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07](https://musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07) | Mazurka no. 13 in A minor, op. 17, no. 4           |
-| [https://musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07](https://musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07) | Mazurka no. 13 in A minor, op. 17, no. 4           |
-| [https://musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07](https://musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07) | Mazurka no. 13 in A minor, op. 17, no. 4           |
-| [https://musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a](https://musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a) | Mazurka no. 14 in G minor, op. 24, no. 1           |
-| [https://musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a](https://musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a) | Mazurka no. 14 in G minor, op. 24, no. 1           |
-| [https://musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a](https://musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a) | Mazurka no. 14 in G minor, op. 24, no. 1           |
-| [https://musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe](https://musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe) | Mazurka no. 15 in C major, op. 24, no. 2           |
-| [https://musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe](https://musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe) | Mazurka no. 15 in C major, op. 24, no. 2           |
-| [https://musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe](https://musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe) | Mazurka no. 15 in C major, op. 24, no. 2           |
-| [https://musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9](https://musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9) | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
-| [https://musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9](https://musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9) | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
-| [https://musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9](https://musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9) | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
-| [https://musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1](https://musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1) | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
-| [https://musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1](https://musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1) | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
-| [https://musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1](https://musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1) | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
-| [https://musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf](https://musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf) | Mazurka no. 18 in C minor, op. 30, no. 1           |
-| [https://musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf](https://musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf) | Mazurka no. 18 in C minor, op. 30, no. 1           |
-| [https://musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf](https://musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf) | Mazurka no. 18 in C minor, op. 30, no. 1           |
-| [https://musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0](https://musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0) | Mazurka no. 19 in B minor, op. 30, no. 2           |
-| [https://musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0](https://musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0) | Mazurka no. 19 in B minor, op. 30, no. 2           |
-| [https://musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0](https://musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0) | Mazurka no. 19 in B minor, op. 30, no. 2           |
-| [https://musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa](https://musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa) | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
-| [https://musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa](https://musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa) | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
-| [https://musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa](https://musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa) | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
-| [https://musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5](https://musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5) | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
-| [https://musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5](https://musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5) | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
-| [https://musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5](https://musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5) | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
-| [https://musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5](https://musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5) | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
-| [https://musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5](https://musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5) | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
-| [https://musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5](https://musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5) | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
-| [https://musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f](https://musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f) | Mazurka no. 23 in D major, op. 33, no. 2           |
-| [https://musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f](https://musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f) | Mazurka no. 23 in D major, op. 33, no. 2           |
-| [https://musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f](https://musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f) | Mazurka no. 23 in D major, op. 33, no. 2           |
-| [https://musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1](https://musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1) | Mazurka no. 24 in C major, op. 33, no. 3           |
-| [https://musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1](https://musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1) | Mazurka no. 24 in C major, op. 33, no. 3           |
-| [https://musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1](https://musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1) | Mazurka no. 24 in C major, op. 33, no. 3           |
-| [https://musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb](https://musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb) | Mazurka no. 25 in B minor, op. 33, no. 4           |
-| [https://musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb](https://musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb) | Mazurka no. 25 in B minor, op. 33, no. 4           |
-| [https://musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb](https://musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb) | Mazurka no. 25 in B minor, op. 33, no. 4           |
-| [https://musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb](https://musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb) | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
-| [https://musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb](https://musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb) | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
-| [https://musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb](https://musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb) | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
-| [https://musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49](https://musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49) | Mazurka no. 27 in E minor, op. 41, no. 2           |
-| [https://musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49](https://musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49) | Mazurka no. 27 in E minor, op. 41, no. 2           |
-| [https://musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49](https://musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49) | Mazurka no. 27 in E minor, op. 41, no. 2           |
-| [https://musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865](https://musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865) | Mazurka no. 28 in B major, op. 41, no. 3           |
-| [https://musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865](https://musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865) | Mazurka no. 28 in B major, op. 41, no. 3           |
-| [https://musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865](https://musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865) | Mazurka no. 28 in B major, op. 41, no. 3           |
-| [https://musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1](https://musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1) | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
-| [https://musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1](https://musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1) | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
-| [https://musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1](https://musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1) | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
-| [https://musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7](https://musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7) | Mazurka no. 30 in G major, op. 50, no. 1           |
-| [https://musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7](https://musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7) | Mazurka no. 30 in G major, op. 50, no. 1           |
-| [https://musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7](https://musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7) | Mazurka no. 30 in G major, op. 50, no. 1           |
-| [https://musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a](https://musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a) | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
-| [https://musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a](https://musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a) | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
-| [https://musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a](https://musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a) | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
-| [https://musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa](https://musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa) | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
-| [https://musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa](https://musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa) | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
-| [https://musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa](https://musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa) | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
-| [https://musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5](https://musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5) | Mazurka no. 33 in B major, op. 56, no. 1           |
-| [https://musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5](https://musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5) | Mazurka no. 33 in B major, op. 56, no. 1           |
-| [https://musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5](https://musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5) | Mazurka no. 33 in B major, op. 56, no. 1           |
-| [https://musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9](https://musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9) | Mazurka no. 34 in C major, op. 56, no. 2           |
-| [https://musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9](https://musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9) | Mazurka no. 34 in C major, op. 56, no. 2           |
-| [https://musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9](https://musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9) | Mazurka no. 34 in C major, op. 56, no. 2           |
-| [https://musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287](https://musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287) | Mazurka no. 35 in C minor, op. 56, no. 3           |
-| [https://musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287](https://musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287) | Mazurka no. 35 in C minor, op. 56, no. 3           |
-| [https://musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287](https://musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287) | Mazurka no. 35 in C minor, op. 56, no. 3           |
-| [https://musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892](https://musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892) | Mazurka no. 36 in A minor, op. 59, no. 1           |
-| [https://musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892](https://musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892) | Mazurka no. 36 in A minor, op. 59, no. 1           |
-| [https://musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892](https://musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892) | Mazurka no. 36 in A minor, op. 59, no. 1           |
-| [https://musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d](https://musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d) | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
-| [https://musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d](https://musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d) | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
-| [https://musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d](https://musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d) | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
-| [https://musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4](https://musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4) | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
-| [https://musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4](https://musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4) | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
-| [https://musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4](https://musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4) | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
-| [https://musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51](https://musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51) | Mazurka no. 39 in B major, op. 63, no. 1           |
-| [https://musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51](https://musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51) | Mazurka no. 39 in B major, op. 63, no. 1           |
-| [https://musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51](https://musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51) | Mazurka no. 39 in B major, op. 63, no. 1           |
-| [https://musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90](https://musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90) | Mazurka no. 40 in F minor, op. 63, no. 2           |
-| [https://musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90](https://musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90) | Mazurka no. 40 in F minor, op. 63, no. 2           |
-| [https://musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90](https://musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90) | Mazurka no. 40 in F minor, op. 63, no. 2           |
-| [https://musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1](https://musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1) | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
-| [https://musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1](https://musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1) | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
-| [https://musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1](https://musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1) | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
-| [https://musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf](https://musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf) | Mazurka no. 42 in G major, op. 67, no. 1           |
-| [https://musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf](https://musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf) | Mazurka no. 42 in G major, op. 67, no. 1           |
-| [https://musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf](https://musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf) | Mazurka no. 42 in G major, op. 67, no. 1           |
-| [https://musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494](https://musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494) | Mazurka no. 43 in G minor, op. 67, no. 2           |
-| [https://musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494](https://musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494) | Mazurka no. 43 in G minor, op. 67, no. 2           |
-| [https://musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494](https://musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494) | Mazurka no. 43 in G minor, op. 67, no. 2           |
-| [https://musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc](https://musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc) | Mazurka no. 44 in C major, op. 67, no. 3           |
-| [https://musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc](https://musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc) | Mazurka no. 44 in C major, op. 67, no. 3           |
-| [https://musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc](https://musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc) | Mazurka no. 44 in C major, op. 67, no. 3           |
-| [https://musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da](https://musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da) | Mazurka no. 45 in A minor, op. 67, no. 4           |
-| [https://musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da](https://musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da) | Mazurka no. 45 in A minor, op. 67, no. 4           |
-| [https://musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da](https://musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da) | Mazurka no. 45 in A minor, op. 67, no. 4           |
-| [https://musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba](https://musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba) | Mazurka no. 46 in C major, op. 68, no. 1           |
-| [https://musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba](https://musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba) | Mazurka no. 46 in C major, op. 68, no. 1           |
-| [https://musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba](https://musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba) | Mazurka no. 46 in C major, op. 68, no. 1           |
-| [https://musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f](https://musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f) | Mazurka no. 47 in A minor, op. 68, no. 2           |
-| [https://musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f](https://musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f) | Mazurka no. 47 in A minor, op. 68, no. 2           |
-| [https://musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f](https://musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f) | Mazurka no. 47 in A minor, op. 68, no. 2           |
-| [https://musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0](https://musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0) | Mazurka no. 48 in F major, op. 68, no. 3           |
-| [https://musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0](https://musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0) | Mazurka no. 48 in F major, op. 68, no. 3           |
-| [https://musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0](https://musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0) | Mazurka no. 48 in F major, op. 68, no. 3           |
-| [https://musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf](https://musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf) | Mazurka no. 49 in F minor, op. 68, no. 4           |
-| [https://musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf](https://musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf) | Mazurka no. 49 in F minor, op. 68, no. 4           |
-| [https://musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf](https://musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf) | Mazurka no. 49 in F minor, op. 68, no. 4           |
-| [https://musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153](https://musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153) | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
-| [https://musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153](https://musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153) | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
-| [https://musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153](https://musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153) | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
-| [https://musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184](https://musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184) | Mazurka no. 50 in A minor, op. posth., "Notre temp |
-| [https://musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184](https://musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184) | Mazurka no. 50 in A minor, op. posth., "Notre temp |
-| [https://musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184](https://musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184) | Mazurka no. 50 in A minor, op. posth., "Notre temp |
-| [https://musicbrainz.org/recording/13fc90b0-6458-4756-b883-0d35400a8b7b](https://musicbrainz.org/recording/13fc90b0-6458-4756-b883-0d35400a8b7b) | Impromptu no. 1 in A-flat, op. 29                  |
-| [https://musicbrainz.org/recording/3d1f42ce-2b21-40af-870c-64eed9a621e9](https://musicbrainz.org/recording/3d1f42ce-2b21-40af-870c-64eed9a621e9) | Impromptu no. 2 in F-sharp, op. 36                 |
-| [https://musicbrainz.org/recording/c2dc870f-e1aa-4e91-9821-b57651e58ebe](https://musicbrainz.org/recording/c2dc870f-e1aa-4e91-9821-b57651e58ebe) | Impromptu no. 3 in G-flat, op. 51                  |
-| [https://musicbrainz.org/recording/15e3d30f-1641-4e50-b21e-f4502b428ed5](https://musicbrainz.org/recording/15e3d30f-1641-4e50-b21e-f4502b428ed5) | Fantaisie-Impromptu in C-sharp minor, op. 66       |
-| [https://musicbrainz.org/recording/017abb8f-20c9-42d5-9f9d-33ebcd8908a5](https://musicbrainz.org/recording/017abb8f-20c9-42d5-9f9d-33ebcd8908a5) | Waltz, Op. 64, No.1, in D-flat major "Minute"      |
-| [https://musicbrainz.org/recording/358d4151-fcab-459e-a3be-6a1ac3423569](https://musicbrainz.org/recording/358d4151-fcab-459e-a3be-6a1ac3423569) | Barcarolle Op. 60 in F-sharp major                 |
-| [https://musicbrainz.org/recording/92580862-4995-41e4-a5fe-f092e156ee56](https://musicbrainz.org/recording/92580862-4995-41e4-a5fe-f092e156ee56) | Mazurka, Op. 33, No.2, in D major                  |
-| [https://musicbrainz.org/recording/a1e77272-db5f-4524-a6ef-132ed17fc01d](https://musicbrainz.org/recording/a1e77272-db5f-4524-a6ef-132ed17fc01d) | Nocturne, Op. 37, No.1, in G minor                 |
-| [https://musicbrainz.org/recording/ee0fe77a-cb97-40ed-a473-fb4b583f9d41](https://musicbrainz.org/recording/ee0fe77a-cb97-40ed-a473-fb4b583f9d41) | Polonaise, Op. 53, in A-Flat major "Heroique"      |
-| [https://musicbrainz.org/recording/0447dffa-3b49-4a2d-9615-8acd44cd0167](https://musicbrainz.org/recording/0447dffa-3b49-4a2d-9615-8acd44cd0167) | Berceuse Op. 57 in D-flat major                    |
-| [https://musicbrainz.org/recording/a81ee781-088e-407e-b5ec-4d67ca73a37e](https://musicbrainz.org/recording/a81ee781-088e-407e-b5ec-4d67ca73a37e) | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
-| [https://musicbrainz.org/recording/3fe07fb8-beb5-45a7-8adf-d5b152e49d88](https://musicbrainz.org/recording/3fe07fb8-beb5-45a7-8adf-d5b152e49d88) | Im Nebel: I. Andante                               |
-| [https://musicbrainz.org/recording/0c6a4756-af99-4244-955d-0c9ae22a9f98](https://musicbrainz.org/recording/0c6a4756-af99-4244-955d-0c9ae22a9f98) | Im Nebel: II. Molto adagio                         |
-| [https://musicbrainz.org/recording/4d6e437e-e0ea-4643-bd75-7751a8850eaa](https://musicbrainz.org/recording/4d6e437e-e0ea-4643-bd75-7751a8850eaa) | Im Nebel: III. Andante                             |
-| [https://musicbrainz.org/recording/49aff9cc-1788-4e8e-b8b0-fd80688cd6ea](https://musicbrainz.org/recording/49aff9cc-1788-4e8e-b8b0-fd80688cd6ea) | Im Nebel: IV. Presto                               |
-| [https://musicbrainz.org/recording/256ab9b4-370a-477c-ac58-d84ce2d68ada](https://musicbrainz.org/recording/256ab9b4-370a-477c-ac58-d84ce2d68ada) | Sonate 1.X.1905: Die Ahnung: Con moto              |
-| [https://musicbrainz.org/recording/4d07c0d0-c17a-453f-a60d-6e9da86b20ca](https://musicbrainz.org/recording/4d07c0d0-c17a-453f-a60d-6e9da86b20ca) | Sonate 1.X.1905: Der Tod: Adagio                   |
-| [https://musicbrainz.org/recording/e7e4f99d-ffa7-40ff-b1ee-11d6d1ca56db](https://musicbrainz.org/recording/e7e4f99d-ffa7-40ff-b1ee-11d6d1ca56db) | Auf verwachsenem Pfade I: Unsere Abende: Moderato  |
-| [https://musicbrainz.org/recording/a1997f67-b54a-4695-848e-c440ec8efee7](https://musicbrainz.org/recording/a1997f67-b54a-4695-848e-c440ec8efee7) | Auf verwachsenem Pfade I: Ein verwehtes Blatt: And |
-| [https://musicbrainz.org/recording/8d169829-cc09-4416-9cba-806dc6a14090](https://musicbrainz.org/recording/8d169829-cc09-4416-9cba-806dc6a14090) | Auf verwachsenem Pfade I: Kommt mit!: Andante      |
-| [https://musicbrainz.org/recording/f2571bd8-5509-4e2b-b2be-8850a9f40321](https://musicbrainz.org/recording/f2571bd8-5509-4e2b-b2be-8850a9f40321) | Auf verwachsenem Pfade I: Die Friedeker Mutter Got |
-| [https://musicbrainz.org/recording/fbdea71e-84b0-47af-938f-59120b241a96](https://musicbrainz.org/recording/fbdea71e-84b0-47af-938f-59120b241a96) | Auf verwachsenem Pfade I: Sie schwatzen wie die Sc |
-| [https://musicbrainz.org/recording/e1343454-730a-4af5-a9be-1e758a669a91](https://musicbrainz.org/recording/e1343454-730a-4af5-a9be-1e758a669a91) | Auf verwachsenem Pfade I: Es stockt das Wort!: And |
-| [https://musicbrainz.org/recording/25509055-cdff-4245-b9eb-2ccf3076d174](https://musicbrainz.org/recording/25509055-cdff-4245-b9eb-2ccf3076d174) | Auf verwachsenem Pfade I: Gute Nacht!: Andante     |
-| [https://musicbrainz.org/recording/8b6195f6-e210-4c03-a199-32ead517238e](https://musicbrainz.org/recording/8b6195f6-e210-4c03-a199-32ead517238e) | Auf verwachsenem Pfade I: So namenlos bange: Andan |
-| [https://musicbrainz.org/recording/4e6f4691-2562-4b7b-b345-c47dac34a73a](https://musicbrainz.org/recording/4e6f4691-2562-4b7b-b345-c47dac34a73a) | Auf verwachsenem Pfade I: In Tränen: Larghetto     |
-| [https://musicbrainz.org/recording/a5d9870f-1d5b-4e42-a528-399b75b7b8be](https://musicbrainz.org/recording/a5d9870f-1d5b-4e42-a528-399b75b7b8be) | Auf verwachsenem Pfade I: Das Käuzchen ist nicht f |
-| [https://musicbrainz.org/recording/90d58c34-0a88-425f-9f0c-0757c924602e](https://musicbrainz.org/recording/90d58c34-0a88-425f-9f0c-0757c924602e) | Auf verwachsenem Pfade II: I. Andante              |
-| [https://musicbrainz.org/recording/966e7ba8-22ae-4ab3-b109-24f99d067fed](https://musicbrainz.org/recording/966e7ba8-22ae-4ab3-b109-24f99d067fed) | Auf verwachsenem Pfade II: II. Allegretto          |
-| [https://musicbrainz.org/recording/ff9d5b77-8fc0-4224-ab25-5f759772ad91](https://musicbrainz.org/recording/ff9d5b77-8fc0-4224-ab25-5f759772ad91) | Auf verwachsenem Pfade (Paralipomena): I. Piu moss |
-| [https://musicbrainz.org/recording/134c0eff-e361-438b-aeca-241d522e7096](https://musicbrainz.org/recording/134c0eff-e361-438b-aeca-241d522e7096) | Auf verwachsenem Pfade (Paralipomena): II. Allegro |
-| [https://musicbrainz.org/recording/f553c6f7-dbb4-4be4-80d7-6d58b12bb159](https://musicbrainz.org/recording/f553c6f7-dbb4-4be4-80d7-6d58b12bb159) | Auf verwachsenem Pfade (Paralipomena): III. Vivo   |
-| [https://musicbrainz.org/recording/1c21706a-b751-4da2-8f19-54134a6ab652](https://musicbrainz.org/recording/1c21706a-b751-4da2-8f19-54134a6ab652) | Eine Erinnerung: Con moto                          |
-| [https://musicbrainz.org/recording/cd8f95d0-7561-4c37-8c3d-853ae0888964](https://musicbrainz.org/recording/cd8f95d0-7561-4c37-8c3d-853ae0888964) | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
-| [https://musicbrainz.org/recording/709b90e3-1265-4b96-852f-059b765780de](https://musicbrainz.org/recording/709b90e3-1265-4b96-852f-059b765780de) | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
-| [https://musicbrainz.org/recording/3b3bc7c4-c469-4708-b089-281809ffed41](https://musicbrainz.org/recording/3b3bc7c4-c469-4708-b089-281809ffed41) | Suite no. 2 in A minor, BWV 807: V. Bourrée I alte |
-| [https://musicbrainz.org/recording/63ec0e9f-cc1a-4f8e-b9cc-a6db06127aa2](https://musicbrainz.org/recording/63ec0e9f-cc1a-4f8e-b9cc-a6db06127aa2) | Piano Quintet in A major, Op. 114, D 667, "The Tro |
-| [https://musicbrainz.org/recording/d22633cb-4a99-42c4-9b69-74dc03378fc7](https://musicbrainz.org/recording/d22633cb-4a99-42c4-9b69-74dc03378fc7) | Piano Quintet in A major, Op. 114, D 667, "The Tro |
-| [https://musicbrainz.org/recording/f7444d64-d50b-4bbd-9853-4f796edb0b4b](https://musicbrainz.org/recording/f7444d64-d50b-4bbd-9853-4f796edb0b4b) | Piano Quintet in A major, Op. 114, D 667, "The Tro |
-| [https://musicbrainz.org/recording/7b81d519-ea37-424f-98ab-19dd7a44d253](https://musicbrainz.org/recording/7b81d519-ea37-424f-98ab-19dd7a44d253) | Piano Quintet in A major, Op. 114, D 667, "The Tro |
-| [https://musicbrainz.org/recording/eb7a5518-4aa8-41b7-a65a-b82642894dc2](https://musicbrainz.org/recording/eb7a5518-4aa8-41b7-a65a-b82642894dc2) | Venetian Boat Song op. 19, no. 6                   |
-| [https://musicbrainz.org/recording/1cd14107-6936-499c-b44c-0e35eab1f84e](https://musicbrainz.org/recording/1cd14107-6936-499c-b44c-0e35eab1f84e) | Concerto for Piano and Orchestra no. 1 in C major, |
-| [https://musicbrainz.org/recording/a2a9ad0d-59fe-4f71-a0e2-e1b9b0c6eacc](https://musicbrainz.org/recording/a2a9ad0d-59fe-4f71-a0e2-e1b9b0c6eacc) | Fantasie C-Dur für Klavier, D 760 "Wanderer-Fantas |
-| [https://musicbrainz.org/recording/001d7c2b-ea40-4bfb-9beb-989ee74e7f3e](https://musicbrainz.org/recording/001d7c2b-ea40-4bfb-9beb-989ee74e7f3e) | Fantasie C-Dur für Violine and Klavier, D 934      |
-| [https://musicbrainz.org/recording/c830938b-c021-45ae-9764-ceacb5cfa6b3](https://musicbrainz.org/recording/c830938b-c021-45ae-9764-ceacb5cfa6b3) | Sonata no. 32 in C minor, op. 111: Maestoso-Allegr |
-| [https://musicbrainz.org/recording/e92227b8-c0c5-4dd0-a151-00cc818a778b](https://musicbrainz.org/recording/e92227b8-c0c5-4dd0-a151-00cc818a778b) | Sonata no. 32 in C minor, op. 111: Arietta. Adagio |
-| [https://musicbrainz.org/recording/4577863a-43cb-486d-b5c7-8619f1ad9684](https://musicbrainz.org/recording/4577863a-43cb-486d-b5c7-8619f1ad9684) | Diabelli-Variationen op. 120: Thema. Vivace        |
-| [https://musicbrainz.org/recording/e7007385-64c7-4f4c-a95b-1547f867bf65](https://musicbrainz.org/recording/e7007385-64c7-4f4c-a95b-1547f867bf65) | Diabelli-Variationen op. 120: Var. I Alla marcia m |
-| [https://musicbrainz.org/recording/6e70e222-7d59-4e88-8242-19fff75c6faa](https://musicbrainz.org/recording/6e70e222-7d59-4e88-8242-19fff75c6faa) | Diabelli-Variationen op. 120: Var. II Poco allegro |
-| [https://musicbrainz.org/recording/9349927c-a46f-4217-a8dd-a4d703d71cdb](https://musicbrainz.org/recording/9349927c-a46f-4217-a8dd-a4d703d71cdb) | Diabelli-Variationen op. 120: Var. III L’istesso t |
-| [https://musicbrainz.org/recording/9cb3ddb5-1d02-4362-a126-72f16c1b6f42](https://musicbrainz.org/recording/9cb3ddb5-1d02-4362-a126-72f16c1b6f42) | Diabelli-Variationen op. 120: Var. IV Un poco più  |
-| [https://musicbrainz.org/recording/931ea55c-4a79-4de7-b32d-a54039220f63](https://musicbrainz.org/recording/931ea55c-4a79-4de7-b32d-a54039220f63) | Diabelli-Variationen op. 120: Var. V Allegro vivac |
-| [https://musicbrainz.org/recording/99079a18-5ab5-480c-a4f1-b2e6f2b683e0](https://musicbrainz.org/recording/99079a18-5ab5-480c-a4f1-b2e6f2b683e0) | Diabelli-Variationen op. 120: Var. VI Allegro ma n |
-| [https://musicbrainz.org/recording/d048790d-2e56-4344-bc4c-69717ca16bd1](https://musicbrainz.org/recording/d048790d-2e56-4344-bc4c-69717ca16bd1) | Diabelli-Variationen op. 120: Var. VII Un poco più |
-| [https://musicbrainz.org/recording/ee5049fd-d191-45eb-854f-deabd82e33bc](https://musicbrainz.org/recording/ee5049fd-d191-45eb-854f-deabd82e33bc) | Diabelli-Variationen op. 120: Var. VIII Poco vivac |
-| [https://musicbrainz.org/recording/af4e9e7f-4b20-4f05-8df3-6f62d0e27611](https://musicbrainz.org/recording/af4e9e7f-4b20-4f05-8df3-6f62d0e27611) | Diabelli-Variationen op. 120: Var. IX Allegro pesa |
-| [https://musicbrainz.org/recording/1853f7bd-f729-423a-8168-c27e2e4632e9](https://musicbrainz.org/recording/1853f7bd-f729-423a-8168-c27e2e4632e9) | Diabelli-Variationen op. 120: Var. X Presto        |
-| [https://musicbrainz.org/recording/58ebf9b0-ebcd-40a1-a369-be2ef0c6e0ca](https://musicbrainz.org/recording/58ebf9b0-ebcd-40a1-a369-be2ef0c6e0ca) | Diabelli-Variationen op. 120: Var. XI Allegretto   |
-| [https://musicbrainz.org/recording/5879912c-9ae8-4a43-8300-09f7ad46e9af](https://musicbrainz.org/recording/5879912c-9ae8-4a43-8300-09f7ad46e9af) | Diabelli-Variationen op. 120: Var. XII Un poco più |
-| [https://musicbrainz.org/recording/39aec795-0d78-4569-8972-dace19ee1a19](https://musicbrainz.org/recording/39aec795-0d78-4569-8972-dace19ee1a19) | Diabelli-Variationen op. 120: Var. XIII Vivace     |
-| [https://musicbrainz.org/recording/610b3e0a-1357-4f5e-93c8-8d3a0e98c98b](https://musicbrainz.org/recording/610b3e0a-1357-4f5e-93c8-8d3a0e98c98b) | Diabelli-Variationen op. 120: Var. XIV Grave e mae |
-| [https://musicbrainz.org/recording/e7fc3bbd-31d2-405d-a4a7-87d05345d414](https://musicbrainz.org/recording/e7fc3bbd-31d2-405d-a4a7-87d05345d414) | Diabelli-Variationen op. 120: Var. XV Presto scher |
-| [https://musicbrainz.org/recording/b4346bac-39c3-4267-9021-894474840a6d](https://musicbrainz.org/recording/b4346bac-39c3-4267-9021-894474840a6d) | Diabelli-Variationen op. 120: Var. XVI Allegro     |
-| [https://musicbrainz.org/recording/266ce7dd-2da8-4064-886f-094f1469cae4](https://musicbrainz.org/recording/266ce7dd-2da8-4064-886f-094f1469cae4) | Diabelli-Variationen op. 120: Var. XVII            |
-| [https://musicbrainz.org/recording/12c69197-dba5-40f2-9ec6-b38628c84c26](https://musicbrainz.org/recording/12c69197-dba5-40f2-9ec6-b38628c84c26) | Diabelli-Variationen op. 120: Var. XVIII Poco mode |
-| [https://musicbrainz.org/recording/37b72dd2-8eff-422f-8e93-a88b436ec912](https://musicbrainz.org/recording/37b72dd2-8eff-422f-8e93-a88b436ec912) | Diabelli-Variationen op. 120: Var. XIX Presto      |
-| [https://musicbrainz.org/recording/5daf144e-19b6-4b91-b298-68d7787332ec](https://musicbrainz.org/recording/5daf144e-19b6-4b91-b298-68d7787332ec) | Diabelli-Variationen op. 120: Var. XX Andante      |
-| [https://musicbrainz.org/recording/326bad24-91ea-4769-964c-2f10fad74f78](https://musicbrainz.org/recording/326bad24-91ea-4769-964c-2f10fad74f78) | Diabelli-Variationen op. 120: Var. XXI Allegro con |
-| [https://musicbrainz.org/recording/c39f3404-2fef-4805-b1b7-7986da274e64](https://musicbrainz.org/recording/c39f3404-2fef-4805-b1b7-7986da274e64) | Diabelli-Variationen op. 120: Var. XXII Allegro mo |
-| [https://musicbrainz.org/recording/cbb4830b-c185-4f61-b480-4cda0bd7e2a5](https://musicbrainz.org/recording/cbb4830b-c185-4f61-b480-4cda0bd7e2a5) | Diabelli-Variationen op. 120: Var. XXIII Allegro a |
-| [https://musicbrainz.org/recording/cee3ca7c-9553-4833-942e-e190d07beec3](https://musicbrainz.org/recording/cee3ca7c-9553-4833-942e-e190d07beec3) | Diabelli-Variationen op. 120: Var. XXIV Fughetta.  |
-| [https://musicbrainz.org/recording/ca207dc5-b783-4eab-bcbe-39477a4e06be](https://musicbrainz.org/recording/ca207dc5-b783-4eab-bcbe-39477a4e06be) | Diabelli-Variationen op. 120: Var. XXV Allegro     |
-| [https://musicbrainz.org/recording/4a27bcce-654c-4b6a-9e9d-1d9f73021da2](https://musicbrainz.org/recording/4a27bcce-654c-4b6a-9e9d-1d9f73021da2) | Diabelli-Variationen op. 120: Var. XXVI            |
-| [https://musicbrainz.org/recording/9d74ca54-f0e2-48fc-97be-61609e99a89b](https://musicbrainz.org/recording/9d74ca54-f0e2-48fc-97be-61609e99a89b) | Diabelli-Variationen op. 120: Var. XXVII Vivace    |
-| [https://musicbrainz.org/recording/b715cbee-9416-4006-8276-a633cabdea8f](https://musicbrainz.org/recording/b715cbee-9416-4006-8276-a633cabdea8f) | Diabelli-Variationen op. 120: Var. XXVIII Allegro  |
-| [https://musicbrainz.org/recording/21ecbded-a5af-45d3-a33a-15d9dc67de50](https://musicbrainz.org/recording/21ecbded-a5af-45d3-a33a-15d9dc67de50) | Diabelli-Variationen op. 120: Var. XXIX Adagio ma  |
-| [https://musicbrainz.org/recording/54d8aa5f-3de4-4d94-b669-4d86e818320d](https://musicbrainz.org/recording/54d8aa5f-3de4-4d94-b669-4d86e818320d) | Diabelli-Variationen op. 120: Var. XXX Andante, se |
-| [https://musicbrainz.org/recording/dc89a8ef-239e-42a0-b39c-c66be8ab9e8c](https://musicbrainz.org/recording/dc89a8ef-239e-42a0-b39c-c66be8ab9e8c) | Diabelli-Variationen op. 120: Var. XXXI Largo molt |
-| [https://musicbrainz.org/recording/a6e30527-60b3-4035-b166-b011c30548e9](https://musicbrainz.org/recording/a6e30527-60b3-4035-b166-b011c30548e9) | Diabelli-Variationen op. 120: Var. XXXII Fuga. All |
-| [https://musicbrainz.org/recording/e719887e-a057-4a5a-ba15-3a8c986a4fb9](https://musicbrainz.org/recording/e719887e-a057-4a5a-ba15-3a8c986a4fb9) | Diabelli-Variationen op. 120: Var. XXXIII Tempo di |
-| [https://musicbrainz.org/recording/9b78ff91-ec88-457e-9350-095b33f6153d](https://musicbrainz.org/recording/9b78ff91-ec88-457e-9350-095b33f6153d) | Diabelli-Variationen, op. 120: Thema. Vivace       |
-| [https://musicbrainz.org/recording/9e742e6b-f4ab-4c9d-b58f-2baf4e5fbd4d](https://musicbrainz.org/recording/9e742e6b-f4ab-4c9d-b58f-2baf4e5fbd4d) | Diabelli-Variationen, op. 120: Var. I Alla marcia  |
-| [https://musicbrainz.org/recording/def200db-ee70-42fe-bf22-40fea674a2a7](https://musicbrainz.org/recording/def200db-ee70-42fe-bf22-40fea674a2a7) | Diabelli-Variationen, op. 120: Var. II Poco allegr |
-| [https://musicbrainz.org/recording/8cc1435c-eeb8-40f6-bf0c-8adf8695b70f](https://musicbrainz.org/recording/8cc1435c-eeb8-40f6-bf0c-8adf8695b70f) | Diabelli-Variationen, op. 120: Var. III L’istesso  |
-| [https://musicbrainz.org/recording/5d5c816b-16c0-48ae-884b-5e193a24602e](https://musicbrainz.org/recording/5d5c816b-16c0-48ae-884b-5e193a24602e) | Diabelli-Variationen, op. 120: Var. IV Un poco più |
-| [https://musicbrainz.org/recording/446b193e-1b53-4864-ab5b-1360b2b66bb3](https://musicbrainz.org/recording/446b193e-1b53-4864-ab5b-1360b2b66bb3) | Diabelli-Variationen, op. 120: Var. V Allegro viva |
-| [https://musicbrainz.org/recording/e5041bb3-3aa3-4342-a1e3-60d856e0aceb](https://musicbrainz.org/recording/e5041bb3-3aa3-4342-a1e3-60d856e0aceb) | Diabelli-Variationen, op. 120: Var. VI Allegro ma  |
-| [https://musicbrainz.org/recording/304204d5-c739-4835-a9db-05ba62a0d3dd](https://musicbrainz.org/recording/304204d5-c739-4835-a9db-05ba62a0d3dd) | Diabelli-Variationen, op. 120: Var. VII Un poco pi |
-| [https://musicbrainz.org/recording/90c158e2-b333-4670-9a8c-c7fe4f898e9a](https://musicbrainz.org/recording/90c158e2-b333-4670-9a8c-c7fe4f898e9a) | Diabelli-Variationen, op. 120: Var. VIII Poco viva |
-| [https://musicbrainz.org/recording/c98dd0f0-4155-486c-99f3-b000d2a75630](https://musicbrainz.org/recording/c98dd0f0-4155-486c-99f3-b000d2a75630) | Diabelli-Variationen, op. 120: Var. IX Allegro pes |
-| [https://musicbrainz.org/recording/b5325baf-b0b8-4220-817a-56daf405aafe](https://musicbrainz.org/recording/b5325baf-b0b8-4220-817a-56daf405aafe) | Diabelli-Variationen, op. 120: Var. X Presto       |
-| [https://musicbrainz.org/recording/bf3ba5df-3143-417a-8f88-4d6cd7ef789b](https://musicbrainz.org/recording/bf3ba5df-3143-417a-8f88-4d6cd7ef789b) | Diabelli-Variationen, op. 120: Var. XI Allegretto  |
-| [https://musicbrainz.org/recording/d3b6ccd3-a59f-45d9-ae89-acc1bb576388](https://musicbrainz.org/recording/d3b6ccd3-a59f-45d9-ae89-acc1bb576388) | Diabelli-Variationen, op. 120: Var. XII Un poco pi |
-| [https://musicbrainz.org/recording/b6235a24-b1b5-4d7d-9616-7cfa72dba0a3](https://musicbrainz.org/recording/b6235a24-b1b5-4d7d-9616-7cfa72dba0a3) | Diabelli-Variationen, op. 120: Var. XIII Vivace    |
-| [https://musicbrainz.org/recording/cbd25504-bd74-47dc-b3dd-edbc9858e95e](https://musicbrainz.org/recording/cbd25504-bd74-47dc-b3dd-edbc9858e95e) | Diabelli-Variationen, op. 120: Var. XIV Grave e ma |
-| [https://musicbrainz.org/recording/7292e004-e6f7-4dc3-b841-6dbaec4d0eb1](https://musicbrainz.org/recording/7292e004-e6f7-4dc3-b841-6dbaec4d0eb1) | Diabelli-Variationen, op. 120: Var. XV Presto sche |
-| [https://musicbrainz.org/recording/e64b6e78-fcf6-4df8-b733-e6c8bbc67dde](https://musicbrainz.org/recording/e64b6e78-fcf6-4df8-b733-e6c8bbc67dde) | Diabelli-Variationen, op. 120: Var. XVI Allegro    |
-| [https://musicbrainz.org/recording/93904fd2-c8fd-4125-95eb-97f46f2f7f8f](https://musicbrainz.org/recording/93904fd2-c8fd-4125-95eb-97f46f2f7f8f) | Diabelli-Variationen, op. 120: Var. XVII           |
-| [https://musicbrainz.org/recording/845daec3-482c-4038-b23f-18b38ff35693](https://musicbrainz.org/recording/845daec3-482c-4038-b23f-18b38ff35693) | Diabelli-Variationen, op. 120: Var. XVIII Poco mod |
-| [https://musicbrainz.org/recording/1ce38d9a-ca81-4c86-8afc-0e8290bd0e8b](https://musicbrainz.org/recording/1ce38d9a-ca81-4c86-8afc-0e8290bd0e8b) | Diabelli-Variationen, op. 120: Var. XIX Presto     |
-| [https://musicbrainz.org/recording/fbeb432c-48e7-4d15-a4dc-4e7e8e205255](https://musicbrainz.org/recording/fbeb432c-48e7-4d15-a4dc-4e7e8e205255) | Diabelli-Variationen, op. 120: Var. XX Andante     |
-| [https://musicbrainz.org/recording/dfd13ff1-188c-44bc-8752-45ba6f6b317b](https://musicbrainz.org/recording/dfd13ff1-188c-44bc-8752-45ba6f6b317b) | Diabelli-Variationen, op. 120: Var. XXI Allegro co |
-| [https://musicbrainz.org/recording/0f2d30fe-4c75-4eb3-b20c-63a38c3ffd77](https://musicbrainz.org/recording/0f2d30fe-4c75-4eb3-b20c-63a38c3ffd77) | Diabelli-Variationen, op. 120: Var. XXII Allegro m |
-| [https://musicbrainz.org/recording/e521c0fb-e6c9-45cb-83a4-7d8d8bb5fbbe](https://musicbrainz.org/recording/e521c0fb-e6c9-45cb-83a4-7d8d8bb5fbbe) | Diabelli-Variationen, op. 120: Var. XXIII Allegro  |
-| [https://musicbrainz.org/recording/1643235d-0f80-4de7-aa90-51f1025c1ded](https://musicbrainz.org/recording/1643235d-0f80-4de7-aa90-51f1025c1ded) | Diabelli-Variationen, op. 120: Var. XXIV Fughetta. |
-| [https://musicbrainz.org/recording/009b8848-0df1-43c7-a1b8-5ef4d8a2c4b7](https://musicbrainz.org/recording/009b8848-0df1-43c7-a1b8-5ef4d8a2c4b7) | Diabelli-Variationen, op. 120: Var. XXV Allegro    |
-| [https://musicbrainz.org/recording/62422a8b-9fa9-42be-8aa5-63ffed1a4339](https://musicbrainz.org/recording/62422a8b-9fa9-42be-8aa5-63ffed1a4339) | Diabelli-Variationen, op. 120: Var. XXVI           |
-| [https://musicbrainz.org/recording/36b9ea3c-834b-42cf-a479-0f187dab28d3](https://musicbrainz.org/recording/36b9ea3c-834b-42cf-a479-0f187dab28d3) | Diabelli-Variationen, op. 120: Var. XXVII Vivace   |
-| [https://musicbrainz.org/recording/c80b04f3-d17a-4a9b-9c30-c636d1bf85bf](https://musicbrainz.org/recording/c80b04f3-d17a-4a9b-9c30-c636d1bf85bf) | Diabelli-Variationen, op. 120: Var. XXVIII Allegro |
-| [https://musicbrainz.org/recording/4c25ffde-6ee1-4209-9588-011f73b52907](https://musicbrainz.org/recording/4c25ffde-6ee1-4209-9588-011f73b52907) | Diabelli-Variationen, op. 120: Var. XXIX Adagio ma |
-| [https://musicbrainz.org/recording/4ccef10e-1e9f-4ac7-8ea3-e557b19f928e](https://musicbrainz.org/recording/4ccef10e-1e9f-4ac7-8ea3-e557b19f928e) | Diabelli-Variationen, op. 120: Var. XXX Andante, s |
-| [https://musicbrainz.org/recording/b27d5b00-d984-405d-bcf3-02262515c394](https://musicbrainz.org/recording/b27d5b00-d984-405d-bcf3-02262515c394) | Diabelli-Variationen, op. 120: Var. XXXI Largo mol |
-| [https://musicbrainz.org/recording/28310c26-382f-4a9e-abbf-d70c9f2ce31f](https://musicbrainz.org/recording/28310c26-382f-4a9e-abbf-d70c9f2ce31f) | Diabelli-Variationen, op. 120: Var. XXXII Fuga. Al |
-| [https://musicbrainz.org/recording/198bcf10-3183-4c63-a899-a529a401330a](https://musicbrainz.org/recording/198bcf10-3183-4c63-a899-a529a401330a) | Diabelli-Variationen, op. 120: Var. XXXIII Tempo d |
-| [https://musicbrainz.org/recording/44087d86-8b92-4c8f-ad50-bfa172bd7303](https://musicbrainz.org/recording/44087d86-8b92-4c8f-ad50-bfa172bd7303) | Sechs Bagatellen, op. 126: Andante con moto cantab |
-| [https://musicbrainz.org/recording/1f40134b-0c63-49d6-8681-12a4c593654b](https://musicbrainz.org/recording/1f40134b-0c63-49d6-8681-12a4c593654b) | Sechs Bagatellen, op. 126: Allegro                 |
-| [https://musicbrainz.org/recording/4d1025f3-1d9b-41e1-91c9-19029bc2c7b4](https://musicbrainz.org/recording/4d1025f3-1d9b-41e1-91c9-19029bc2c7b4) | Sechs Bagatellen, op. 126: Andante cantabile e gra |
-| [https://musicbrainz.org/recording/7870cbf2-35fc-4200-947d-b3f8b8753216](https://musicbrainz.org/recording/7870cbf2-35fc-4200-947d-b3f8b8753216) | Sechs Bagatellen, op. 126: Presto                  |
-| [https://musicbrainz.org/recording/e97c9d54-b0a6-413b-98e5-ab2bec5fd519](https://musicbrainz.org/recording/e97c9d54-b0a6-413b-98e5-ab2bec5fd519) | Sechs Bagatellen, op. 126: Quasi Allegretto        |
-| [https://musicbrainz.org/recording/5d86c2bf-11c3-4339-b013-96276e16c154](https://musicbrainz.org/recording/5d86c2bf-11c3-4339-b013-96276e16c154) | Sechs Bagatellen, op. 126: Presto-Andante amabile  |
-| [https://musicbrainz.org/recording/e15a59f1-5618-498d-a150-2c2e72c4565f](https://musicbrainz.org/recording/e15a59f1-5618-498d-a150-2c2e72c4565f) | Sonata in E minor, K. 304: II. Tempo di menuetto   |
-| [https://musicbrainz.org/recording/c08ea6cd-c738-4de3-98c2-ff7b60bf7f5a](https://musicbrainz.org/recording/c08ea6cd-c738-4de3-98c2-ff7b60bf7f5a) | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
-| [https://musicbrainz.org/recording/cda116b9-b2a3-4346-bee3-9879a408b6d4](https://musicbrainz.org/recording/cda116b9-b2a3-4346-bee3-9879a408b6d4) | Three Piano Pieces, D. 946: No. 1 in E-flat minor. |
-| [https://musicbrainz.org/recording/6343fcfb-f0ed-4af6-b8f9-d7b10db509d3](https://musicbrainz.org/recording/6343fcfb-f0ed-4af6-b8f9-d7b10db509d3) | Allegretto in C minor, D. 915                      |
-| [https://musicbrainz.org/recording/faf7ec2e-f818-41c9-a239-f6f09c625d89](https://musicbrainz.org/recording/faf7ec2e-f818-41c9-a239-f6f09c625d89) | Eine kleine Gigue in G major, KV 574               |
-| [https://musicbrainz.org/recording/66eb2cfa-1abd-482e-b437-281d2547e7d7](https://musicbrainz.org/recording/66eb2cfa-1abd-482e-b437-281d2547e7d7) | Sonata in G minor, Hob. XVI:44: I. Moderato        |
-| [https://musicbrainz.org/recording/7d88cca3-44f7-47f6-ac66-4af3c3aca7d7](https://musicbrainz.org/recording/7d88cca3-44f7-47f6-ac66-4af3c3aca7d7) | Sonata in G minor, Hob. XVI:44: II. Allegretto     |
-| [https://musicbrainz.org/recording/2ced2556-60b5-4bc7-9e77-81d3693bfffc](https://musicbrainz.org/recording/2ced2556-60b5-4bc7-9e77-81d3693bfffc) | Hungarian Melody in B minor, D. 817                |
-| [https://musicbrainz.org/recording/2b334baf-e460-4520-afc4-922ac8f0a62a](https://musicbrainz.org/recording/2b334baf-e460-4520-afc4-922ac8f0a62a) | Andante favori in F major, WoO 57                  |
-| [https://musicbrainz.org/recording/78533547-fcc7-47be-8bdf-5faa05c9fbec](https://musicbrainz.org/recording/78533547-fcc7-47be-8bdf-5faa05c9fbec) | Partita no. 1 in B-flat major, BWV 825: Menuet I & |
-| [https://musicbrainz.org/recording/78533547-fcc7-47be-8bdf-5faa05c9fbec](https://musicbrainz.org/recording/78533547-fcc7-47be-8bdf-5faa05c9fbec) | Partita no. 1 in B-flat major, BWV 825: Menuet I & |
-| [https://musicbrainz.org/recording/e46eae6c-b610-4ae0-848b-0755ea2144b9](https://musicbrainz.org/recording/e46eae6c-b610-4ae0-848b-0755ea2144b9) | Partita no. 1 in B-flat major, BWV 825: Gigue      |
-| [https://musicbrainz.org/recording/6687837b-f750-4f4b-a56c-4eb1c58e9b9d](https://musicbrainz.org/recording/6687837b-f750-4f4b-a56c-4eb1c58e9b9d) | Prelude and Fugue in B-flat minor, BWV 867: Prelud |
-| [https://musicbrainz.org/recording/492093a4-85db-4545-9288-10b269b3274c](https://musicbrainz.org/recording/492093a4-85db-4545-9288-10b269b3274c) | Prelude and Fugue in B-flat minor, BWV 867: Fugue  |
-| [https://musicbrainz.org/recording/4f835f0c-d675-41fe-9367-0b329c6b76a6](https://musicbrainz.org/recording/4f835f0c-d675-41fe-9367-0b329c6b76a6) | Lieder ohne Worte, op. 62: no. 1 Andante espressiv |
-| [https://musicbrainz.org/recording/f6f7c3a9-7bf1-49b4-b9b0-c25d5775f2d5](https://musicbrainz.org/recording/f6f7c3a9-7bf1-49b4-b9b0-c25d5775f2d5) | Lieder ohne Worte, op. 67, Arr. Hardenberger/Pönti |
-| [https://musicbrainz.org/recording/a494a5fb-ba8f-4e6b-959e-12205e46cc33](https://musicbrainz.org/recording/a494a5fb-ba8f-4e6b-959e-12205e46cc33) | Piano Concerto no. 1 in B-Flat minor, op. 23, TH 5 |
-| [https://musicbrainz.org/recording/18a6910b-750e-4a1c-a65b-66c1ecbae962](https://musicbrainz.org/recording/18a6910b-750e-4a1c-a65b-66c1ecbae962) | Piano Concerto no. 1 in B-Flat minor, op. 23, TH 5 |
-| [https://musicbrainz.org/recording/1b31bea7-5bd9-4b8a-b81e-1a3b623b43e5](https://musicbrainz.org/recording/1b31bea7-5bd9-4b8a-b81e-1a3b623b43e5) | Piano Concerto no. 1 in B-Flat minor, op. 23, TH 5 |
-| [https://musicbrainz.org/recording/73bd7891-318f-4dbd-acdb-0fdae3533407](https://musicbrainz.org/recording/73bd7891-318f-4dbd-acdb-0fdae3533407) | Variations on a Nursery Song, op. 25: Introduzione |
-| [https://musicbrainz.org/recording/39d9ce18-b741-4974-8d40-8445fb4a5e92](https://musicbrainz.org/recording/39d9ce18-b741-4974-8d40-8445fb4a5e92) | Variations on a Nursery Song, op. 25: Tema (Allegr |
-| [https://musicbrainz.org/recording/f062be0b-37c7-41ce-8a8a-86ef55145984](https://musicbrainz.org/recording/f062be0b-37c7-41ce-8a8a-86ef55145984) | Variations on a Nursery Song, op. 25: Var.1: Poco  |
-| [https://musicbrainz.org/recording/59e103f4-77b1-4b70-844f-f24744dceadb](https://musicbrainz.org/recording/59e103f4-77b1-4b70-844f-f24744dceadb) | Variations on a Nursery Song, op. 25: Var.2: Risol |
-| [https://musicbrainz.org/recording/e6496dc6-17f9-4392-9676-deef802a94fe](https://musicbrainz.org/recording/e6496dc6-17f9-4392-9676-deef802a94fe) | Variations on a Nursery Song, op. 25: Var.3        |
-| [https://musicbrainz.org/recording/84ed6a06-3d8d-45ce-b3a3-6d1c8aaef539](https://musicbrainz.org/recording/84ed6a06-3d8d-45ce-b3a3-6d1c8aaef539) | Variations on a Nursery Song, op. 25: Var.4: Molto |
-| [https://musicbrainz.org/recording/3e998e77-7a35-4b09-9d23-d68305afd4b9](https://musicbrainz.org/recording/3e998e77-7a35-4b09-9d23-d68305afd4b9) | Variations on a Nursery Song, op. 25: Var.5: Più m |
-| [https://musicbrainz.org/recording/e527746d-c0d4-4cbb-bf48-26edd41ebba3](https://musicbrainz.org/recording/e527746d-c0d4-4cbb-bf48-26edd41ebba3) | Variations on a Nursery Song, op. 25: Var.6: Ancor |
-| [https://musicbrainz.org/recording/3a9faec4-5d52-4c00-9dd9-5b9f7f181835](https://musicbrainz.org/recording/3a9faec4-5d52-4c00-9dd9-5b9f7f181835) | Variations on a Nursery Song, op. 25: Var.7: Walze |
-| [https://musicbrainz.org/recording/e274c154-2d5a-47f1-a8d9-dc2c2ca63664](https://musicbrainz.org/recording/e274c154-2d5a-47f1-a8d9-dc2c2ca63664) | Variations on a Nursery Song, op. 25: Var.8: Alla  |
-| [https://musicbrainz.org/recording/e514ba74-c903-4f4b-9a77-b311e347fe33](https://musicbrainz.org/recording/e514ba74-c903-4f4b-9a77-b311e347fe33) | Variations on a Nursery Song, op. 25: Var.9: Prest |
-| [https://musicbrainz.org/recording/40c769de-87c3-48f7-9c90-00b74ef6809b](https://musicbrainz.org/recording/40c769de-87c3-48f7-9c90-00b74ef6809b) | Variations on a Nursery Song, op. 25: Var.10: Pass |
-| [https://musicbrainz.org/recording/1f3e3fbe-0644-475f-a9f7-9e47c3865d80](https://musicbrainz.org/recording/1f3e3fbe-0644-475f-a9f7-9e47c3865d80) | Variations on a Nursery Song, op. 25: Var.11: Chor |
-| [https://musicbrainz.org/recording/0c39961b-e470-4d52-b17f-5ef06389d415](https://musicbrainz.org/recording/0c39961b-e470-4d52-b17f-5ef06389d415) | Variations on a Nursery Song, op. 25: Finale Fugat |
-| [https://musicbrainz.org/recording/3fec7567-12e0-45d6-adf4-b236c836bf1d](https://musicbrainz.org/recording/3fec7567-12e0-45d6-adf4-b236c836bf1d) | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
-| [https://musicbrainz.org/recording/14156adf-3143-4812-ac32-5e4519c99a42](https://musicbrainz.org/recording/14156adf-3143-4812-ac32-5e4519c99a42) | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
-| [https://musicbrainz.org/recording/5d45ece6-8ae2-4e84-b658-6a1784410fd8](https://musicbrainz.org/recording/5d45ece6-8ae2-4e84-b658-6a1784410fd8) | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
-| [https://musicbrainz.org/recording/9a684bb2-1997-4d5a-858b-0d12796ce4ba](https://musicbrainz.org/recording/9a684bb2-1997-4d5a-858b-0d12796ce4ba) | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
-| [https://musicbrainz.org/recording/71dc8d5a-7bbf-4cd1-a0a6-4a823da4a1c5](https://musicbrainz.org/recording/71dc8d5a-7bbf-4cd1-a0a6-4a823da4a1c5) | Sonata for Piano No. 32 in C minor, Op. 111: Ia. M |
-| [https://musicbrainz.org/recording/068095b6-c609-42ca-b4f0-503a26108659](https://musicbrainz.org/recording/068095b6-c609-42ca-b4f0-503a26108659) | Sonata for Piano No. 32 in C minor, Op. 111: Ib. A |
-| [https://musicbrainz.org/recording/6f16e5c7-ec44-4e9e-923c-1ffed54f4380](https://musicbrainz.org/recording/6f16e5c7-ec44-4e9e-923c-1ffed54f4380) | Sonata no. 3 for Cello and Piano in A major, op. 6 |
-| [https://musicbrainz.org/recording/beca747d-e4ed-4a2e-9e4a-4265b9d1ea4a](https://musicbrainz.org/recording/beca747d-e4ed-4a2e-9e4a-4265b9d1ea4a) | Divertissement sur des motifs originaux francais:  |
-| [https://musicbrainz.org/recording/1caebb25-d3c5-44aa-add5-5fcee6ab6a27](https://musicbrainz.org/recording/1caebb25-d3c5-44aa-add5-5fcee6ab6a27) | Quatre impromptus D 935, op. posth. 142: n° 4 en f |
-| [https://musicbrainz.org/recording/f2ee775f-82ac-4cbf-bce6-348c5fecfdfc](https://musicbrainz.org/recording/f2ee775f-82ac-4cbf-bce6-348c5fecfdfc) | John Come Kiss Me Now (In G)                       |
-| [https://musicbrainz.org/recording/5c392e15-7b4b-451c-9009-ad6e5a84ee71](https://musicbrainz.org/recording/5c392e15-7b4b-451c-9009-ad6e5a84ee71) | Sonata in D major, K. 119: Allegro                 |
-| [https://musicbrainz.org/recording/004cf57b-dc81-4627-b9cc-ba3f4cfbf3df](https://musicbrainz.org/recording/004cf57b-dc81-4627-b9cc-ba3f4cfbf3df) | Sonata in G major, K. 454: Andante spirituoso      |
-| [https://musicbrainz.org/recording/ffd169ce-8a0b-4ce7-8bb4-ee5d92142879](https://musicbrainz.org/recording/ffd169ce-8a0b-4ce7-8bb4-ee5d92142879) | Sonata in G major, BWV 968: I. Adagio              |
-| [https://musicbrainz.org/recording/dc42a379-b5f0-4d39-99d1-466deaac49cf](https://musicbrainz.org/recording/dc42a379-b5f0-4d39-99d1-466deaac49cf) | Sonata in G major, BWV 968: II. Fuga               |
-| [https://musicbrainz.org/recording/ce8bd6ab-9ac8-497b-9a92-000f6f5440fd](https://musicbrainz.org/recording/ce8bd6ab-9ac8-497b-9a92-000f6f5440fd) | Sonata in G major, BWV 968: III. Largo             |
-| [https://musicbrainz.org/recording/e5ec18a9-3aca-49b5-82d6-1d87a3c44dcd](https://musicbrainz.org/recording/e5ec18a9-3aca-49b5-82d6-1d87a3c44dcd) | Sonata in G major, BWV 968: IV. Allegro assai      |
-| [https://musicbrainz.org/recording/ca1a8ca3-d585-4bae-9565-62c0e1dd8dcd](https://musicbrainz.org/recording/ca1a8ca3-d585-4bae-9565-62c0e1dd8dcd) | Sonata for 2 Harpsichords in F major, F 10: 1. [Al |
-| [https://musicbrainz.org/recording/0cc67f8d-ab99-4473-9710-2cbe9490f120](https://musicbrainz.org/recording/0cc67f8d-ab99-4473-9710-2cbe9490f120) | Sonata for 2 Harpsichords in F major, F 10: 2. And |
-| [https://musicbrainz.org/recording/705afcae-3bed-40af-addf-e2551598e2b3](https://musicbrainz.org/recording/705afcae-3bed-40af-addf-e2551598e2b3) | Sonata for 2 Harpsichords in F major, F 10: 3. Pre |
-| [https://musicbrainz.org/recording/bfc21d23-c115-4e9e-92ef-c1acd54ca30c](https://musicbrainz.org/recording/bfc21d23-c115-4e9e-92ef-c1acd54ca30c) | Piano Concerto no. 2 in C minor, op. 18: II. Adagi |
-| [https://musicbrainz.org/recording/44e0e289-3e9f-4fca-a12e-5c6553f8f4f4](https://musicbrainz.org/recording/44e0e289-3e9f-4fca-a12e-5c6553f8f4f4) | Canto negro                                        |
-| [https://musicbrainz.org/recording/d6789205-330c-464d-b7f8-1326548f9a45](https://musicbrainz.org/recording/d6789205-330c-464d-b7f8-1326548f9a45) | Concerto in G major: 1. Allegramente               |
-| [https://musicbrainz.org/recording/da14d309-a2a8-4b17-945e-26e52a1608ea](https://musicbrainz.org/recording/da14d309-a2a8-4b17-945e-26e52a1608ea) | Concerto in G major: 3. Presto                     |
-| [https://musicbrainz.org/recording/90e485e5-3258-404e-9059-cc67fe025ef9](https://musicbrainz.org/recording/90e485e5-3258-404e-9059-cc67fe025ef9) | Variations in G major on “La bergère Célimène”, K3 |
-| [https://musicbrainz.org/recording/effc3feb-8871-43a0-9aa1-23e8aef3a1d1](https://musicbrainz.org/recording/effc3feb-8871-43a0-9aa1-23e8aef3a1d1) | Cinq pièces (1741), La Livri                       |
-| [https://musicbrainz.org/recording/353f9c35-0038-478a-83b9-912be0a10039](https://musicbrainz.org/recording/353f9c35-0038-478a-83b9-912be0a10039) | Cinq pièces (1741), L'Agaçante                     |
-| [https://musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1](https://musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1) | Cinq pièces (1741), La Timide : 1er Rondeau, 2e Ro |
-| [https://musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1](https://musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1) | Cinq pièces (1741), La Timide : 1er Rondeau, 2e Ro |
-| [https://musicbrainz.org/recording/75a8df7e-6fd9-4281-bf75-c18ebbc051db](https://musicbrainz.org/recording/75a8df7e-6fd9-4281-bf75-c18ebbc051db) | Cinq pièces (1741), L'Indiscrète                   |
-| [https://musicbrainz.org/recording/c6c9cb32-d206-4f13-a2a1-655ec2e9a3ec](https://musicbrainz.org/recording/c6c9cb32-d206-4f13-a2a1-655ec2e9a3ec) | Gigues en Rondeau                                  |
-| [https://musicbrainz.org/recording/795bac72-c588-44bc-982a-62500e19c351](https://musicbrainz.org/recording/795bac72-c588-44bc-982a-62500e19c351) | 2-Part Inventions: Inventio 4 in D minor, BWV 775  |
-| [https://musicbrainz.org/recording/c6ea38f9-1136-4176-a41b-cad547458de0](https://musicbrainz.org/recording/c6ea38f9-1136-4176-a41b-cad547458de0) | La damoiselle élue, L. 62: Prélude                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+|                                 recording_url                                 |                   recording_name                   |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+| <https://beta.musicbrainz.org/recording/8ad750e6-935f-42fc-9b91-206f1c619486> | Symphony No. 4 "Symphonie Concertante", Op. 60: II |
+| <https://beta.musicbrainz.org/recording/08df444e-5f47-40a0-8b24-de0899c84a52> | Lyric Pieces, op. 62 no. 6: Drømmesyn              |
+| <https://beta.musicbrainz.org/recording/3984d8ae-ffc6-4ad5-b5fc-7787ae1dfd8a> | Piano Concerto no. 1 in B-flat minor, op. 23: I. A |
+| <https://beta.musicbrainz.org/recording/e835cc3a-3052-4160-9f05-9938556fd9c6> | Piano Concerto no. 1 in B-flat minor, op. 23: II.  |
+| <https://beta.musicbrainz.org/recording/7e57cb59-03d8-483c-90f1-b842551ecfff> | Piano Concerto no. 1 in B-flat minor, op. 23: III. |
+| <https://beta.musicbrainz.org/recording/d8946091-193d-4a5a-97c4-e53101c1b621> | Sonata for Violin and Piano no. 1: I. Allegro appa |
+| <https://beta.musicbrainz.org/recording/613a6d27-2ce6-4f1f-bf5c-ef9cabd17208> | Danzas argentinas, op. 2: I. Danza del viejo boyer |
+| <https://beta.musicbrainz.org/recording/aadfd0f1-639c-49f4-910d-f9b127244315> | Danzas argentinas, op. 2: II. Danza de la moza don |
+| <https://beta.musicbrainz.org/recording/87007324-9c21-434b-8315-1572d6770c40> | Danzas argentinas, op. 2: III. Danza del gaucho ma |
+| <https://beta.musicbrainz.org/recording/9f2f0577-c1ef-46dc-940f-cfd7b49319a2> | Piano Trio in D major, Op. 70, No. 1 "Ghost": II.  |
+| <https://beta.musicbrainz.org/recording/943862b8-8bc2-4ef9-b8ab-85f9f21e05d2> | Piano Trio No. 1 in D minor, Op. 49: III. Scherzo: |
+| <https://beta.musicbrainz.org/recording/e9c79eee-cd87-423e-be46-18134bd4963b> | Partita Nr. 2 c-Moll, BWV 826                      |
+| <https://beta.musicbrainz.org/recording/c47c9aea-7674-4bd7-8a87-192acccbbfb5> | Drei Fantasiestücke, Op. 73: II. Lebhaft, leicht   |
+| <https://beta.musicbrainz.org/recording/50b31d0a-2e77-40d5-9b6d-97d2dc4c6e65> | Waltz from the Ballet Stone Flower                 |
+| <https://beta.musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc> | Sonata in D Major for 2 Pianos, K.448: III. Molto  |
+| <https://beta.musicbrainz.org/recording/42fc20ab-1315-4569-bccf-428eef8e9957> | Prélude e-moll op.28 Nr.4                          |
+| <https://beta.musicbrainz.org/recording/2c254f31-ad59-4d89-a28e-5179752ba457> | Piano Concerto no. 2: Allegro vivace (excerpt)     |
+| <https://beta.musicbrainz.org/recording/080a30af-1d59-40cd-83da-81173a613ca5> | Piano Concerto in A minor op. 54: Allegro vivace ( |
+| <https://beta.musicbrainz.org/recording/faf676f1-a2d3-47fe-bef5-8e0ddf469865> | Fantasiestücke, op. 12: II. Aufschwung             |
+| <https://beta.musicbrainz.org/recording/0b058a7d-32db-4cb6-941e-54f09047e695> | Trois Nouvelles Études: No.2 in D Flat Major       |
+| <https://beta.musicbrainz.org/recording/ea9615d9-9053-4a29-9e3f-120a71000ac2> | Trois Nouvelles Études: No.3 in A Flat Major       |
+| <https://beta.musicbrainz.org/recording/f64aaa8f-a495-4d5d-bde6-da99e4689b7e> | Kreisleriana, Op. 16: II. Con molta espressione, n |
+| <https://beta.musicbrainz.org/recording/3312e691-85de-49b0-a626-d33851367f7c> | Piano Sonata no. 9 in E major, op. 14 no. 1: I. Al |
+| <https://beta.musicbrainz.org/recording/0e9aefbc-89c5-41dc-a287-da5dde727d02> | Piano Sonata no. 28 in A major, op. 101: III. Lang |
+| <https://beta.musicbrainz.org/recording/31bc802f-282d-439b-b902-1de0946aa0b8> | Sonate Nr. 8 in C-moll, Op.13 "Pathétique" - 1. Gr |
+| <https://beta.musicbrainz.org/recording/1a400695-2725-44d8-9772-da501e001be4> | Ballade No. 3 in A-flat Major, Op. 4               |
+| <https://beta.musicbrainz.org/recording/3f92a7f7-33c3-4f8c-a353-d712c0b7ac0e> | Concerto no. 3 in D minor, op. 30: I. Allegro ma n |
+| <https://beta.musicbrainz.org/recording/5b65c62b-8ba9-4ff2-89b9-715da8dfc172> | Variations and Fugue on a Theme of Handel, op. 24: |
+| <https://beta.musicbrainz.org/recording/a0c0261f-b117-49b4-95e6-9bd43ae58876> | Prelude no. 1. in C-Sharp minor, op. 3 no. 2       |
+| <https://beta.musicbrainz.org/recording/d222fce9-4887-4b72-b751-fc242fbeaff3> | Transcendental Etude No. 5 in B-flat, Feux Follets |
+| <https://beta.musicbrainz.org/recording/ec2446c3-170e-4651-927c-e5036924ce61> | "Souvenir de Paganini" Variations in A major, Op.  |
+| <https://beta.musicbrainz.org/recording/76e8e6ef-7266-48a1-bd01-bb02c62b4b54> | Variations brillantes on "Je vends des scapulaires |
+| <https://beta.musicbrainz.org/recording/dac2b92e-501f-4f6f-ba39-d62eb481c834> | Quatre morceaux, op. 51                            |
+| <https://beta.musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1> | Concerto No. 3 in D Minor, Op 30: II. Intermezzo:  |
+| <https://beta.musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1> | Concerto No. 3 in D Minor, Op 30: II. Intermezzo:  |
+| <https://beta.musicbrainz.org/recording/11668d6b-9c87-4e2a-a00b-627956cd0b3e> | 4 Pieces, op. 51: Prélude                          |
+| <https://beta.musicbrainz.org/recording/1d559515-887f-4aac-aa5a-b5ca369f8182> | The Nursery: 2. In The Corner                      |
+| <https://beta.musicbrainz.org/recording/634865c1-fae8-41e3-a47d-9727f230f251> | Variations on a Theme of Corelli, op. 42           |
+| <https://beta.musicbrainz.org/recording/a9f1b15d-a462-4ee7-ac40-61efb5710f74> | By the Gates of the Holy Dwelling                  |
+| <https://beta.musicbrainz.org/recording/7a7e00f9-9c52-43c5-b204-af3634a7ff7f> | 3 Pièces, op. 2: I. Étude: Andante (C-sharp minor) |
+| <https://beta.musicbrainz.org/recording/4b973e61-232b-42e1-8071-7f092835e7e8> | Piano Concerto no. 4 in G major: I. Andante con mo |
+| <https://beta.musicbrainz.org/recording/e72cff83-1e3a-4587-8524-1a022ed1ab69> | Rhapsody on a Theme of Paganini, op. 43: Introduct |
+| <https://beta.musicbrainz.org/recording/b9537ec8-de8c-449a-9d83-7f60a0900f11> | Piano Sonata No. 8 in B-flat major, Op. 84: II. An |
+| <https://beta.musicbrainz.org/recording/55b7f693-b16f-4d3e-960c-057850084d17> | Mazurka no. 5 in B-flat op. 7 No.1                 |
+| <https://beta.musicbrainz.org/recording/199d3f51-1d57-4415-9d64-dafbe0a64165> | Impromptu no. 4 in C-sharp minor, op. 66 "Fantaisi |
+| <https://beta.musicbrainz.org/recording/5015f320-781f-4b81-89a6-12d7a9449db1> | 12 Etudes, op. 10: no. 3 in E major                |
+| <https://beta.musicbrainz.org/recording/5e1150e0-b399-404b-a244-773137abbb42> | Nocturne no. 5 in F-sharp, op. 15 No.2             |
+| <https://beta.musicbrainz.org/recording/2c05ec2a-557a-4068-b66f-5084adaf0cf0> | Mazurka no. 46 in C op. 67 No.3                    |
+| <https://beta.musicbrainz.org/recording/acde93b6-e5fa-4f84-98e0-3ebfaa6cf2bb> | Waltz no. 11 in G-flat, op. 70 No.1                |
+| <https://beta.musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c> | Pictures at an Exhibition, for Piano: Promenade: G |
+| <https://beta.musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c> | Pictures at an Exhibition, for Piano: Promenade: G |
+| <https://beta.musicbrainz.org/recording/88ddbb99-43aa-41c5-85f2-a9211a9891ac> | 12 Etudes, op. 10: no. 12 in C minor               |
+| <https://beta.musicbrainz.org/recording/56906ba7-f97a-4982-a82b-77eea1a27604> | 12 Etudes, op. 25: no. 11 in A minor "Winter Wind" |
+| <https://beta.musicbrainz.org/recording/cb36c32b-b81b-4fd4-9837-987d55bb2439> | Mazurka no. 23 in D op. 33 No.2                    |
+| <https://beta.musicbrainz.org/recording/f73b7910-3690-4419-afce-94f288b68e5f> | Nocturne no. 15 in F minor, op. 55 No.1            |
+| <https://beta.musicbrainz.org/recording/acc86839-fb65-4d99-98f0-bc0e277873a7> | Nocturne no. 9 in B, op. 32 No.1                   |
+| <https://beta.musicbrainz.org/recording/7158d77c-d5b8-414d-a5f5-2634c6477967> | Ballade No.2 in F Major, Op.38                     |
+| <https://beta.musicbrainz.org/recording/cc87567e-3d07-40ee-a38e-5c2b370b2da1> | Mazurka No.21 in C Sharp Minor, Op.30 No.4         |
+| <https://beta.musicbrainz.org/recording/ee6b563c-bd77-4764-b05a-48a602d74d96> | Mazurka No.29 in A Flat Major, Op.41 No.4          |
+| <https://beta.musicbrainz.org/recording/7020a720-0c81-4950-957e-d146a8354675> | Etude, Op. 10 No. 6 in E-flat minor                |
+| <https://beta.musicbrainz.org/recording/99bc38b6-99e3-4c30-acb7-e500ed1fc406> | Sonate en mi Bemol Majeur, Op. 31 No. 3: II. Scher |
+| <https://beta.musicbrainz.org/recording/fa1f25cb-eed0-49f7-a9a3-544ac170e7bc> | Sonate en mi Bemol Majeur, Op. 31 No. 3: III. Minu |
+| <https://beta.musicbrainz.org/recording/e363145c-3f76-4de0-87f8-795fd3da366f> | Sonate en mi Bemol Majeur, Op. 31 No. 3: IV. Prest |
+| <https://beta.musicbrainz.org/recording/6ebca5d6-6f4d-4fd9-8b27-b6051db35e41> | Sonate en sol Majeur, Op. 79: I. Presto alla tedes |
+| <https://beta.musicbrainz.org/recording/b72994ab-aaa8-46c9-be7f-d5c5cfe2fcf0> | Sonate en sol Majeur, Op. 79: II. Andante          |
+| <https://beta.musicbrainz.org/recording/12180b4c-a485-4f70-8f43-141635f0bce3> | Sonate en sol Majeur, Op. 79: III. Vivace          |
+| <https://beta.musicbrainz.org/recording/4a22da25-b3cb-4e38-ba62-12442af87dfa> | Sonate en mi Bemol Majeur, Op. 81a: I. Das Lebewoh |
+| <https://beta.musicbrainz.org/recording/2b7b0248-e7d2-4872-8343-8b783ae4981c> | Sonate en mi Bemol Majeur, Op. 81a: II. Die Abwese |
+| <https://beta.musicbrainz.org/recording/2b7b0248-e7d2-4872-8343-8b783ae4981c> | Sonate en mi Bemol Majeur, Op. 81a: II. Die Abwese |
+| <https://beta.musicbrainz.org/recording/fbf4401b-3606-40df-8561-e69f8a270fb0> | Larghetto et allegro en Mi bémol majeur pour deux  |
+| <https://beta.musicbrainz.org/recording/9b7195f5-df47-4711-9f35-52e061608b07> | Variations symphoniques, FWV 46                    |
+| <https://beta.musicbrainz.org/recording/3ede78ac-0158-4c12-8d8e-333ed2af0464> | Piano Concerto, op. 30                             |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/a78e0fb3-936e-40ef-ade1-663364617baf> | Walzerkette (zusammengestellt von Paul Badura-Skod |
+| <https://beta.musicbrainz.org/recording/4f33ab61-6cd7-488e-bac5-80def8e6534c> | Walzer h-Moll D 145 (op. 18) No. 6                 |
+| <https://beta.musicbrainz.org/recording/3757d00c-e8f3-4f3f-be69-897a9225215c> | Deutscher und Ecossaise cis-Moll D 643             |
+| <https://beta.musicbrainz.org/recording/3d90f9e6-8652-4b2f-a51d-7eb0d2a1910c> | Sechs Walzer Fis-Dur/Ges-Dur D 365/722             |
+| <https://beta.musicbrainz.org/recording/3d90f9e6-8652-4b2f-a51d-7eb0d2a1910c> | Sechs Walzer Fis-Dur/Ges-Dur D 365/722             |
+| <https://beta.musicbrainz.org/recording/b0fd1e8d-271b-4ff3-a8da-17d92e7606d5> | Sechs Atzenbrugger Deutsche (aus D 145/365)        |
+| <https://beta.musicbrainz.org/recording/b0fd1e8d-271b-4ff3-a8da-17d92e7606d5> | Sechs Atzenbrugger Deutsche (aus D 145/365)        |
+| <https://beta.musicbrainz.org/recording/1d41dd47-de8c-4358-a898-1c0a4cdeda4e> | Valses nobles op. 77 D 969                         |
+| <https://beta.musicbrainz.org/recording/2dbd7e77-5714-4f60-9b9b-ca5f83c2eec3> | Walzer E-Dur D 924 (op. 91) No. 1, 'Farewell Waltz |
+| <https://beta.musicbrainz.org/recording/f1bb8a19-b834-4248-88d3-c11634bb28f2> | Fledermaus Polka                                   |
+| <https://beta.musicbrainz.org/recording/46d6b119-cff5-46f3-947c-f347853b3eca> | Pizzicato Polka                                    |
+| <https://beta.musicbrainz.org/recording/45af1d47-8cd3-4e52-8916-32c2f0e79ba6> | Lerchenwalzer in Des-Dur D 145 (op. 18) Nos. 7,8   |
+| <https://beta.musicbrainz.org/recording/45af1d47-8cd3-4e52-8916-32c2f0e79ba6> | Lerchenwalzer in Des-Dur D 145 (op. 18) Nos. 7,8   |
+| <https://beta.musicbrainz.org/recording/254aecd0-ffc3-43be-9d2c-e6b3ba27d2b2> | Sonata for Violin & Piano No. 33 in F major, K. 37 |
+| <https://beta.musicbrainz.org/recording/e2dd86c7-2129-4e25-b554-6779b75a8b7d> | Sonata for Violin & Piano No. 43 in F major, K. 54 |
+| <https://beta.musicbrainz.org/recording/4057e939-4239-49bf-8ede-76e71d86e60c> | Cello Sonata in G minor, op. 65: II. Scherzo: Alle |
+| <https://beta.musicbrainz.org/recording/27182883-46f3-4b7c-95cc-694340bda32d> | Romanzen und Lieder, op. 84: 4. Vergebliches Ständ |
+| <https://beta.musicbrainz.org/recording/a753755c-d9fe-440c-b073-34c39bc6eba2> | Concerto for Piano and Orchestra no. 2 in B-flat m |
+| <https://beta.musicbrainz.org/recording/59e3d47f-643e-4581-8bb4-074cff45d608> | Concerto for Piano and Orchestra no. 2 in B-flat m |
+| <https://beta.musicbrainz.org/recording/d430734c-1c9f-42f3-80e3-dc5b7c22f056> | Concerto for Piano and Orchestra no. 2 in B-flat m |
+| <https://beta.musicbrainz.org/recording/da77829b-3886-4ecc-abfe-4c0942f81954> | Concerto for Piano and Orchestra no. 2 in B-flat m |
+| <https://beta.musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc> | Sonata in D Major for 2 Pianos, K.448: III. Molto  |
+| <https://beta.musicbrainz.org/recording/b28a1539-84f3-41a4-8440-5b12534792c8> | La Boucon                                          |
+| <https://beta.musicbrainz.org/recording/36950017-a470-4857-be15-802c26582de2> | La Monmartel ou la Brunoys (Allegro)               |
+| <https://beta.musicbrainz.org/recording/2e0d48a6-fc5e-44b0-a7a3-2bca111aa13f> | La Latour                                          |
+| <https://beta.musicbrainz.org/recording/b5b0f09b-0058-458a-904c-e014de3148eb> | La de La Tour (Vivement)                           |
+| <https://beta.musicbrainz.org/recording/8affc6d1-6283-4781-862d-2c2bae0ae5c1> | La Princesse Marie (Gracieusement, sans lenteur –  |
+| <https://beta.musicbrainz.org/recording/bd29b94d-caf0-4337-bff7-df284d04750d> | La Dauphine                                        |
+| <https://beta.musicbrainz.org/recording/674cd473-b520-417c-a3b3-52f7bf3b8032> | La Cupis (Rondement)                               |
+| <https://beta.musicbrainz.org/recording/92df5518-3b31-43ad-982b-8e2ae9686d48> | Prélude                                            |
+| <https://beta.musicbrainz.org/recording/7eb455c2-9005-420b-8b58-c96774fae645> | La Lapopliniere (Rondement)                        |
+| <https://beta.musicbrainz.org/recording/f07bccab-ee7e-43a1-8ff0-6d84709583d3> | Concerto, op. 16: I. Allegro molto moderato        |
+| <https://beta.musicbrainz.org/recording/c08493b6-a839-4d03-a23b-f689783c24b0> | Concerto, op. 16: II. Adagio - Lento               |
+| <https://beta.musicbrainz.org/recording/72986716-5ede-47b0-9948-5e5e2ef4d999> | Concerto, op. 16: III. Allegro moderato molto e ma |
+| <https://beta.musicbrainz.org/recording/6b49bc84-52dd-4dea-9dc7-1ad862bf0a97> | Musical Illustrations                              |
+| <https://beta.musicbrainz.org/recording/4b5b6167-d633-4729-b327-5a91eb9f7b04> | Liebestraum no. 3 in A-Flat, S. 541 (Arr. by Liszt |
+| <https://beta.musicbrainz.org/recording/d65fbae2-8481-451e-b242-a28edbb80ad2> | 6 Etudes d'exécution transcendante d'après Paganin |
+| <https://beta.musicbrainz.org/recording/d7bc0438-9a54-4851-beaf-1a77478c0b56> | La Jongleuse, op. 52, no. 4                        |
+| <https://beta.musicbrainz.org/recording/62200dae-5264-4c21-af66-019b40c10a31> | Rondo capriccioso in E major, op. 14, MWV U67      |
+| <https://beta.musicbrainz.org/recording/66a71282-13a9-4ff7-ad05-a41b58eaee3b> | Lieder ohne Worte, op. 19: no. 3 in A (Molto alleg |
+| <https://beta.musicbrainz.org/recording/f4bcf2a8-db0c-4c69-b168-a5c14f1c9d5e> | From 53 Studies on Chopin's Études: No.7 in G-flat |
+| <https://beta.musicbrainz.org/recording/77388bdb-7fad-4dc3-be7e-8629721cf5db> | Concerto pour deux pianos et orchestre en ré mineu |
+| <https://beta.musicbrainz.org/recording/4f4ae3c1-da88-4e95-b4f1-56a944e00e3a> | Piano Concerto No. 2 in B-flat major, Op. 19: III. |
+| <https://beta.musicbrainz.org/recording/9ca61e46-fb93-4247-9b05-0c8039805ca7> | Symphonic Etudes for Piano, Op. 13: XIII. Etude No |
+| <https://beta.musicbrainz.org/recording/0a4bf0ad-8600-4760-b1ae-9468fc3562e0> | Abendlied, Op. 85 No. 12                           |
+| <https://beta.musicbrainz.org/recording/9030f393-a04f-43fc-b04a-533966bc3ffd> | Piano Sonata no. 31 in A-flat, op. 110: Fuga. Alle |
+| <https://beta.musicbrainz.org/recording/28c61a60-52d9-4d9f-bbf5-5ffed7d14642> | Années de pèlerinage: 1ère année: Suisse, S160: VI |
+| <https://beta.musicbrainz.org/recording/d52c2ecd-244b-446d-9b28-462b70912a5a> | Toccata: Preludio, Fantasia, Ciaccona, Kind. 287   |
+| <https://beta.musicbrainz.org/recording/715f65c9-c268-4c4b-b8fa-b2b81d15f545> | Fantasiestücke, op. 73: no. 1 Zart und mit Ausdruc |
+| <https://beta.musicbrainz.org/recording/505bc63c-fcc1-47d7-936f-b515e157037b> | Fantasiestücke, op. 73: no. 2 Lebhaft, leicht      |
+| <https://beta.musicbrainz.org/recording/12c798fd-4bde-4066-8a18-1f30063d0eaa> | Fantasiestücke, op. 73: no. 3 Rasch und mit Feuer  |
+| <https://beta.musicbrainz.org/recording/3bd5007a-0ba9-49b2-bfd9-20831ad8e1c7> | Der Wanderer, D 493 (Schmidt von Lübeck)           |
+| <https://beta.musicbrainz.org/recording/1a670269-ca62-4c23-8e1a-16f71c0738b3> | Pictures at an Exhibition - Promenade, Gnomus      |
+| <https://beta.musicbrainz.org/recording/b49f78b0-d8ca-49c5-a937-f7b9fcc6af8c> | Diabelli Variations - Theme: Variations 1 - 4      |
+| <https://beta.musicbrainz.org/recording/eb6154fd-88f1-4efc-b763-c84962bf62e7> | Variations on the motive by Bach “Weinen, Klagen”  |
+| <https://beta.musicbrainz.org/recording/2a73d132-9973-4d5d-854d-77bd405a307c> | Impromptu no. 2 in F-sharp major, op. 36           |
+| <https://beta.musicbrainz.org/recording/e6afb8a7-d8c2-46e3-bdec-702669472d91> | 7 Variations in E-flat major on Mozart's The Magic |
+| <https://beta.musicbrainz.org/recording/7e07b8ce-d35f-4ef6-9827-261130d7a0fe> | Piano Concerto No. 4 in C minor, Op. 44: Ia. Alleg |
+| <https://beta.musicbrainz.org/recording/df782936-5bdb-4b3b-97a7-387cdb36d4c2> | Piano Concerto No. 4 in C minor, Op. 44: Ib. Andan |
+| <https://beta.musicbrainz.org/recording/14093d20-de78-4c25-a13b-5bdaeac33376> | Sonata for Violin and Piano                        |
+| <https://beta.musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8> | Au bord d'une source                               |
+| <https://beta.musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8> | Au bord d'une source                               |
+| <https://beta.musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8> | Au bord d'une source                               |
+| <https://beta.musicbrainz.org/recording/dce171e0-c793-457c-a712-3502ca9252a7> | Aubade                                             |
+| <https://beta.musicbrainz.org/recording/f0d70d87-5c8c-45d4-a38a-98112fcb6215> | Thema Mit Variationen D-Moll (Nach Dem 2. Satz des |
+| <https://beta.musicbrainz.org/recording/8c506d74-03fc-4f2f-b273-6d74d9ebd0d3> | Concerto for Piano and Orchestra no. 1 in D minor, |
+| <https://beta.musicbrainz.org/recording/76ff4a68-4c32-4bed-9e3c-faf0de753bda> | Concerto for Piano and Orchestra no. 1 in D minor, |
+| <https://beta.musicbrainz.org/recording/0594a815-4756-4c6a-b220-2a218526e846> | Concerto for Piano and Orchestra no. 1 in D minor, |
+| <https://beta.musicbrainz.org/recording/234b3d6f-6f41-4b62-8991-f9a668770eb8> | Concertino in C major, Hob. XIV:12: I. Allegro     |
+| <https://beta.musicbrainz.org/recording/a2121122-719e-40ec-b765-71247087e7ff> | Concertino in C major, Hob. XIV:12: II. Adagio     |
+| <https://beta.musicbrainz.org/recording/f64334a9-ee41-4a2c-82f6-5250352cb30f> | Concertino in C major, Hob. XIV:12: III. Finale, A |
+| <https://beta.musicbrainz.org/recording/11494a57-625c-4f64-a1a8-8555b020fd9a> | Concerto in D major, Hob. XVIII:2: I. Allegro mode |
+| <https://beta.musicbrainz.org/recording/611c1f4e-22d7-4436-bed8-7060e3db9079> | Concerto in D major, Hob. XVIII:2: II. Adagio molt |
+| <https://beta.musicbrainz.org/recording/baf34e3c-948c-487f-9c52-ce8f8ca929e4> | Concerto in D major, Hob. XVIII:2: III. Allegro    |
+| <https://beta.musicbrainz.org/recording/d4d58233-a633-4694-a68c-e932e745440b> | Concertino in F major, Hob.XVIII:F2: I. Moderato   |
+| <https://beta.musicbrainz.org/recording/ceded2ae-a477-4d90-9e1c-32974ba3dda6> | Concertino in F major, Hob.XVIII:F2: II. Adagio    |
+| <https://beta.musicbrainz.org/recording/d333530e-9781-440d-b963-5d21eefdbeda> | Concertino in F major, Hob.XVIII:F2: III. Allegro  |
+| <https://beta.musicbrainz.org/recording/a04b964b-37da-4978-b94d-982281d37a25> | Carnaval, op. 9: X. A.S.C.H.-S.C.H.A. (Lettres dan |
+| <https://beta.musicbrainz.org/recording/fcc1a961-84e2-44b0-b26a-a159ac667b99> | The Well-Tempered Clavier (24), collection of prel |
+| <https://beta.musicbrainz.org/recording/8ed26036-5771-4e52-ad90-734bfcf6b481> | Die Verschweigung, KV 518                          |
+| <https://beta.musicbrainz.org/recording/b67ce2c5-3c42-46c1-a670-8a2fac361f40> | Lyrische Stücke VII, Op. 62 Nr. 6: Heimwärts       |
+| <https://beta.musicbrainz.org/recording/229588a8-7b87-40c9-88da-ac0760ab3a6b> | Le Cygne                                           |
+| <https://beta.musicbrainz.org/recording/290e2068-bf34-42f1-ac37-3626f384a836> | Jeux D'Eau                                         |
+| <https://beta.musicbrainz.org/recording/f47208f3-b9d9-4d23-a6fa-83d0d8cde2bf> | Concerto for Piano and Orchestra no. 1 in B-flat m |
+| <https://beta.musicbrainz.org/recording/0058f4f9-7fdf-493b-842e-84f7c0acd184> | Daisies, Op. 38 No. 3                              |
+| <https://beta.musicbrainz.org/recording/e06dbba5-0763-4ee4-9167-3231f5b2a5fa> | The Love for Three Oranges, op. 33: Scherzo        |
+| <https://beta.musicbrainz.org/recording/28758041-9297-401f-8468-4ddef6b52447> | The Love for Three Oranges, op. 33: March          |
+| <https://beta.musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14> | Sonata for Piano No. 15 in F major, K. 494/533: II |
+| <https://beta.musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14> | Sonata for Piano No. 15 in F major, K. 494/533: II |
+| <https://beta.musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14> | Sonata for Piano No. 15 in F major, K. 494/533: II |
+| <https://beta.musicbrainz.org/recording/b5c37a85-5ba4-4e78-9747-d43c9cab6aa2> | French Suite No. 4 in E-flat major, BWV 815        |
+| <https://beta.musicbrainz.org/recording/f7c7fb18-f659-4a78-8230-8b11714ba079> | French Suite No. 5 in G major, BWV 816             |
+| <https://beta.musicbrainz.org/recording/eb243841-8c24-4aa3-a383-fd4b9376c917> | French Suite No. 6 in E major, BWV 817             |
+| <https://beta.musicbrainz.org/recording/feff41ae-be69-499d-9c0c-f0beb4c1a4cb> | Overture in the French Style, BWV 831              |
+| <https://beta.musicbrainz.org/recording/f1fc5bb1-59ed-45de-b987-0c0d9b67546a> | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
+| <https://beta.musicbrainz.org/recording/27e37ee8-a63b-4f84-88ce-6529c89f202d> | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
+| <https://beta.musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36> | Suite für Klavier, Op. 25: II. Gavotte; Musette    |
+| <https://beta.musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36> | Suite für Klavier, Op. 25: II. Gavotte; Musette    |
+| <https://beta.musicbrainz.org/recording/e148cb42-d70f-4c41-8405-e6e774058270> | Goldberg-Variationen, BWV 988: Variatio XIV. a 2 C |
+| <https://beta.musicbrainz.org/recording/88483ce5-98ec-47ae-a477-7c5e2ce698bc> | Goldberg-Variationen, BWV 988: Variatio XX. a 2 Cl |
+| <https://beta.musicbrainz.org/recording/f52920f5-f72c-4e65-823f-b6c56f4eaad8> | Fantasy for Violin and Piano Accompaniment, Op. 47 |
+| <https://beta.musicbrainz.org/recording/2d2f2b36-b7c4-42bb-86d8-feb91161faab> | Fantasy for Violin and Piano Accompaniment, Op. 47 |
+| <https://beta.musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| <https://beta.musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| <https://beta.musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| <https://beta.musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| <https://beta.musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| <https://beta.musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| <https://beta.musicbrainz.org/recording/f085a93f-7c0f-4690-b499-c410378051be> | Sonata for Piano No. 6 in D major, K. 205b/284 "Dü |
+| <https://beta.musicbrainz.org/recording/e9fa35d6-e3dc-4a58-a1f7-7cf08a78a9ec> | Sonata for Piano No. 9 in D major, K. 284c/311: II |
+| <https://beta.musicbrainz.org/recording/43ac4d16-728a-408e-85bc-2078ccf6e808> | Suite No. 3 in D minor, HWV 428: V. Air            |
+| <https://beta.musicbrainz.org/recording/e6543851-5281-448e-bfcf-dd9ce76f65bc> | Suite No. 3 in D minor, HWV 428: Variatio I        |
+| <https://beta.musicbrainz.org/recording/a3c38ac9-f000-4493-bcc0-8108c5875b0d> | Suite No. 3 in D minor, HWV 428: Variatio II       |
+| <https://beta.musicbrainz.org/recording/fc9d7f21-37b7-4aa8-a8f3-0393ee42162a> | Suite No. 3 in D minor, HWV 428: Variatio III      |
+| <https://beta.musicbrainz.org/recording/86c46ead-70ab-4e72-bdbd-eb3f784e685e> | Suite No. 3 in D minor, HWV 428: Variatio IV       |
+| <https://beta.musicbrainz.org/recording/b23af04a-a7c2-42f4-b112-d383c992e617> | Suite No. 3 in D minor, HWV 428: Variatio V        |
+| <https://beta.musicbrainz.org/recording/da306ef8-ea9b-404d-b3dd-af3889d49812> | Suite No. 3 in D minor, HWV 428: VI. Presto        |
+| <https://beta.musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a> | Sonata for Piano No. 15 in F major, K. 494/533: I. |
+| <https://beta.musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a> | Sonata for Piano No. 15 in F major, K. 494/533: I. |
+| <https://beta.musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a> | Sonata for Piano No. 15 in F major, K. 494/533: I. |
+| <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
+| <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
+| <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
+| <https://beta.musicbrainz.org/recording/b0fce665-24df-484d-9cd7-ac5139f638b3> | 7 Bagatelles, Op. 33 No. 6 in D major: Allegretto, |
+| <https://beta.musicbrainz.org/recording/3f6f5524-7b23-48a2-91b7-370f045d9a38> | 7 Bagatelles, Op. 33 No. 7 in A-flat major: Presto |
+| <https://beta.musicbrainz.org/recording/12c7595c-8ef4-4ea1-810e-7e89fed895c5> | Overture in the French Style, BWV 831: VI. Passepi |
+| <https://beta.musicbrainz.org/recording/1c90a4bf-134e-4bf8-8a10-33d7985c541d> | "Aria variata alla maniera italiana" in A minor, B |
+| <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| <https://beta.musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| <https://beta.musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| <https://beta.musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| <https://beta.musicbrainz.org/recording/abdf9b8f-78ee-4c89-aa58-6f4c09969a8f> | Sérénade n° 9 en ré majeur "Posthorn" K. 320 : Iii |
+| <https://beta.musicbrainz.org/recording/56e51e52-cf95-4294-8b5b-4751d41b9c63> | Concerto for Piano and Orchestra no. 3 in D major, |
+| <https://beta.musicbrainz.org/recording/9fe02739-5b59-4388-b9e6-7883a6049a8f> | Concerto for Piano and Orchestra no. 5 in F minor, |
+| <https://beta.musicbrainz.org/recording/55945c2d-ec52-4408-98cb-523f031db83d> | Sonata for Piano, Op. 1                            |
+| <https://beta.musicbrainz.org/recording/55e38ce9-5762-4d79-bf19-1260c6d47a0c> | Suite For Piano, Op. 25: II. Gavotte               |
+| <https://beta.musicbrainz.org/recording/490a4d5f-db80-4255-bf50-05eac74f6a18> | Suite For Piano, Op. 25: III. Musette              |
+| <https://beta.musicbrainz.org/recording/7ddc7b0f-c19f-42c9-9cba-6e72389c0ca7> | Credo, for Piano, Chorus & Orchestra               |
+| <https://beta.musicbrainz.org/recording/2083e029-f437-4b3b-af4d-78183725cac1> | La Valse des regrets                               |
+| <https://beta.musicbrainz.org/recording/4ccb589e-a98e-4e9e-b00f-7faf2ccce1b5> | Piano Concerto no. 2 in C minor, op. 18            |
+| <https://beta.musicbrainz.org/recording/051ea95d-1823-429b-97b9-4aa052d8aac6> | Choral Fantasy, op. 80                             |
+| <https://beta.musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628> | Concerto for Piano no. 23 in A major, K. 488: II.  |
+| <https://beta.musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628> | Concerto for Piano no. 23 in A major, K. 488: II.  |
+| <https://beta.musicbrainz.org/recording/4108a773-9516-42f7-92df-7ab8d8af9601> | I Only Have Eyes for You                           |
+| <https://beta.musicbrainz.org/recording/9f8413ef-7deb-494c-878c-b49e7de5a8c0> | What Is This Thing Called Love                     |
+| <https://beta.musicbrainz.org/recording/c6ea8b4f-13a9-4112-90a3-efee700a2803> | All Blues                                          |
+| <https://beta.musicbrainz.org/recording/83c75f8c-0d58-4128-a52c-8770df16a2d2> | Light My Fire                                      |
+| <https://beta.musicbrainz.org/recording/523978cb-2972-4e01-bef0-cb1928b56711> | ’Round Midnight                                    |
+| <https://beta.musicbrainz.org/recording/64e77355-4d6d-465f-9960-80c10d590783> | East of the Sun                                    |
+| <https://beta.musicbrainz.org/recording/7cab592d-3905-4c28-820d-ae5a0810bf47> | Klavierkonzert Nr. 25 C-Dur KV 503: I. Allegro Mae |
+| <https://beta.musicbrainz.org/recording/5941b906-31a7-4ee4-8713-d93eba90c21f> | Klavierkonzert Nr. 25 C-Dur KV 503: II. Andante    |
+| <https://beta.musicbrainz.org/recording/e3f16cbe-3084-433b-ae6b-55f6f05ab2c0> | Klavierkonzert Nr. 25 C-Dur KV 503: III. Finale: A |
+| <https://beta.musicbrainz.org/recording/a58b3241-dcd2-4d15-b60f-9a23de02fb66> | Sonate-fantaisie in G-sharp minor, op. posth.      |
+| <https://beta.musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7> | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
+| <https://beta.musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7> | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
+| <https://beta.musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7> | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
+| <https://beta.musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b> | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
+| <https://beta.musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b> | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
+| <https://beta.musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b> | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
+| <https://beta.musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96> | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
+| <https://beta.musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96> | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
+| <https://beta.musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96> | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
+| <https://beta.musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c> | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
+| <https://beta.musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c> | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
+| <https://beta.musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c> | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
+| <https://beta.musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea> | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
+| <https://beta.musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea> | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
+| <https://beta.musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea> | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
+| <https://beta.musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b> | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
+| <https://beta.musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b> | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
+| <https://beta.musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b> | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
+| <https://beta.musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b> | Elegies, BV249: No. 7. Berceuse                    |
+| <https://beta.musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b> | Elegies, BV249: No. 7. Berceuse                    |
+| <https://beta.musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b> | Elegies, BV249: No. 7. Berceuse                    |
+| <https://beta.musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d> | Nuits de Noël, BV251                               |
+| <https://beta.musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d> | Nuits de Noël, BV251                               |
+| <https://beta.musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d> | Nuits de Noël, BV251                               |
+| <https://beta.musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4> | Canonic Variations and Fugue, BVB40                |
+| <https://beta.musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4> | Canonic Variations and Fugue, BVB40                |
+| <https://beta.musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4> | Canonic Variations and Fugue, BVB40                |
+| <https://beta.musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14> | Giga, bolero e variazione, BV254                   |
+| <https://beta.musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14> | Giga, bolero e variazione, BV254                   |
+| <https://beta.musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14> | Giga, bolero e variazione, BV254                   |
+| <https://beta.musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23> | Sonatina, BV257                                    |
+| <https://beta.musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23> | Sonatina, BV257                                    |
+| <https://beta.musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23> | Sonatina, BV257                                    |
+| <https://beta.musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09> | Sonatina seconda, BV259                            |
+| <https://beta.musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09> | Sonatina seconda, BV259                            |
+| <https://beta.musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09> | Sonatina seconda, BV259                            |
+| <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| <https://beta.musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba> | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
+| <https://beta.musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba> | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
+| <https://beta.musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba> | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
+| <https://beta.musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454> | Sonatina no. 5, brevis “in signo Joannis Sebastini |
+| <https://beta.musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454> | Sonatina no. 5, brevis “in signo Joannis Sebastini |
+| <https://beta.musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454> | Sonatina no. 5, brevis “in signo Joannis Sebastini |
+| <https://beta.musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c> | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
+| <https://beta.musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c> | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
+| <https://beta.musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c> | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
+| <https://beta.musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a> | Indianisches Erntelied                             |
+| <https://beta.musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a> | Indianisches Erntelied                             |
+| <https://beta.musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a> | Indianisches Erntelied                             |
+| <https://beta.musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398> | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
+| <https://beta.musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398> | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
+| <https://beta.musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398> | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
+| <https://beta.musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4> | Indianisches Tagebuch, Book 1, BV267: Vivace       |
+| <https://beta.musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4> | Indianisches Tagebuch, Book 1, BV267: Vivace       |
+| <https://beta.musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4> | Indianisches Tagebuch, Book 1, BV267: Vivace       |
+| <https://beta.musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e> | Indianisches Tagebuch, Book 1, BV267: Andante      |
+| <https://beta.musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e> | Indianisches Tagebuch, Book 1, BV267: Andante      |
+| <https://beta.musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e> | Indianisches Tagebuch, Book 1, BV267: Andante      |
+| <https://beta.musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3> | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
+| <https://beta.musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3> | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
+| <https://beta.musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3> | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
+| <https://beta.musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d> | Three Albumleaves, BV289: Andantino sostenuto      |
+| <https://beta.musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d> | Three Albumleaves, BV289: Andantino sostenuto      |
+| <https://beta.musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d> | Three Albumleaves, BV289: Andantino sostenuto      |
+| <https://beta.musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d> | Three Albumleaves, BV289: Andante                  |
+| <https://beta.musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d> | Three Albumleaves, BV289: Andante                  |
+| <https://beta.musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d> | Three Albumleaves, BV289: Andante                  |
+| <https://beta.musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b> | Three Albumleaves, BV289: Sostenuto religioso (in  |
+| <https://beta.musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b> | Three Albumleaves, BV289: Sostenuto religioso (in  |
+| <https://beta.musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b> | Three Albumleaves, BV289: Sostenuto religioso (in  |
+| <https://beta.musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77> | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
+| <https://beta.musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77> | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
+| <https://beta.musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77> | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
+| <https://beta.musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9> | Prologo, BV279                                     |
+| <https://beta.musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9> | Prologo, BV279                                     |
+| <https://beta.musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9> | Prologo, BV279                                     |
+| <https://beta.musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73> | Klavierübung: Preludio: Allegro festivo            |
+| <https://beta.musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73> | Klavierübung: Preludio: Allegro festivo            |
+| <https://beta.musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73> | Klavierübung: Preludio: Allegro festivo            |
+| <https://beta.musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96> | Klavierübung: Preludio (without the third finger): |
+| <https://beta.musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96> | Klavierübung: Preludio (without the third finger): |
+| <https://beta.musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96> | Klavierübung: Preludio (without the third finger): |
+| <https://beta.musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32> | Klavierübung: Veloce e leggiero                    |
+| <https://beta.musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32> | Klavierübung: Veloce e leggiero                    |
+| <https://beta.musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32> | Klavierübung: Veloce e leggiero                    |
+| <https://beta.musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6> | Klavierübung: Vivace moderato, con precisione      |
+| <https://beta.musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6> | Klavierübung: Vivace moderato, con precisione      |
+| <https://beta.musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6> | Klavierübung: Vivace moderato, con precisione      |
+| <https://beta.musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad> | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
+| <https://beta.musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad> | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
+| <https://beta.musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad> | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
+| <https://beta.musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9> | Klavierübung: Motive: Allegro risoluto             |
+| <https://beta.musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9> | Klavierübung: Motive: Allegro risoluto             |
+| <https://beta.musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9> | Klavierübung: Motive: Allegro risoluto             |
+| <https://beta.musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc> | Klavierübung: Allegro                              |
+| <https://beta.musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc> | Klavierübung: Allegro                              |
+| <https://beta.musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc> | Klavierübung: Allegro                              |
+| <https://beta.musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe> | Nine Variations on a Chopin Prelude (in C minor, o |
+| <https://beta.musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe> | Nine Variations on a Chopin Prelude (in C minor, o |
+| <https://beta.musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe> | Nine Variations on a Chopin Prelude (in C minor, o |
+| <https://beta.musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
+| <https://beta.musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653> | Perpetuum mobile, BV 293                           |
+| <https://beta.musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653> | Perpetuum mobile, BV 293                           |
+| <https://beta.musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653> | Perpetuum mobile, BV 293                           |
+| <https://beta.musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2> | Prélude et étude en arpèges, BV 297: Prélude: Ario |
+| <https://beta.musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2> | Prélude et étude en arpèges, BV 297: Prélude: Ario |
+| <https://beta.musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2> | Prélude et étude en arpèges, BV 297: Prélude: Ario |
+| <https://beta.musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746> | Prélude et étude en arpèges, BV 297: Étude: Allegr |
+| <https://beta.musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746> | Prélude et étude en arpèges, BV 297: Étude: Allegr |
+| <https://beta.musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746> | Prélude et étude en arpèges, BV 297: Étude: Allegr |
+| <https://beta.musicbrainz.org/recording/044a6a3c-ad3a-4699-abf4-72bdd011b943> | Trois danses du Lac des Cygnes: N°1 Danse Russe (t |
+| <https://beta.musicbrainz.org/recording/0ad2b91b-7cab-4a84-aa7c-b8baaeb157dd> | Moment Musical in F minor, Op. 94 No. 3            |
+| <https://beta.musicbrainz.org/recording/148ede0b-9f5c-4d9c-9410-5fe500ecaa0f> | Ballade no. 1 in G minor, op. 23: Largo - Moderato |
+| <https://beta.musicbrainz.org/recording/ad1d862b-52aa-4ef8-85cc-e9474f133375> | Spring Song                                        |
+| <https://beta.musicbrainz.org/recording/e806bf99-e37e-40f1-a807-b3444c825b70> | Sonata in B minor                                  |
+| <https://beta.musicbrainz.org/recording/d9b717b2-a32d-49a7-b697-751cc5e6f759> | Consolation No. 3                                  |
+| <https://beta.musicbrainz.org/recording/d9b717b2-a32d-49a7-b697-751cc5e6f759> | Consolation No. 3                                  |
+| <https://beta.musicbrainz.org/recording/6372ca9d-9fea-4945-b90e-559e2cf390c4> | Mephisto Waltz No. 1                               |
+| <https://beta.musicbrainz.org/recording/2bb54688-ad9e-4d9f-9ccc-2e93aee506f1> | Variations on Themes from Carmen                   |
+| <https://beta.musicbrainz.org/recording/faa1b0bf-741f-4e6d-8a12-0fd330240569> | Paganini Etude no. 5 in E major                    |
+| <https://beta.musicbrainz.org/recording/36882412-4e9e-4c94-8e3b-7df98fb9c0ff> | Piano Concerto no. 1 in B-flat minor, op. 23: II.  |
+| <https://beta.musicbrainz.org/recording/fe1a1982-0e9c-496c-b7cd-ad0fb9e071d7> | Piano Concerto no. 1 in B-flat minor, op. 23: III. |
+| <https://beta.musicbrainz.org/recording/d6a8f662-512b-4efc-8ac2-65751a4c4dbd> | Orgel-Büchlein No. 41: Chorale Prelude "Ich ruf zu |
+| <https://beta.musicbrainz.org/recording/02ea067b-a423-4ebc-9ad1-e050f372bfe4> | Ballade no. 1 in G minor, op. 23                   |
+| <https://beta.musicbrainz.org/recording/9b333cf5-ced7-4bde-8253-299f016e8e28> | Sonata in F-sharp major, K 319                     |
+| <https://beta.musicbrainz.org/recording/3e9f2eb8-33d7-48a0-8187-52a23ab13b65> | Sonata in G major, K 260                           |
+| <https://beta.musicbrainz.org/recording/44077733-5501-4214-8b74-4f407a816fb5> | Nocturne no. 13 in B minor, op. 119                |
+| <https://beta.musicbrainz.org/recording/b90427a3-63d7-4acd-bf21-f260b9b753a7> | Presto in B-flat major                             |
+| <https://beta.musicbrainz.org/recording/2dd72fa8-7708-44e7-8645-e184f725d5cf> | Étude in A-flat major, Op. 72 No. 11               |
+| <https://beta.musicbrainz.org/recording/89044966-6f3c-4f9e-ae3d-318796527acb> | Danse macabre                                      |
+| <https://beta.musicbrainz.org/recording/dd596d15-080d-450c-ab1f-a6c1515e5d36> | Danse excentrique                                  |
+| <https://beta.musicbrainz.org/recording/b1b440a0-7021-4866-9c34-cbd0bd03ab52> | Funerailles (No. 7 from Harmonies poetiques et rel |
+| <https://beta.musicbrainz.org/recording/f29b1a95-e2c3-4dff-9dc6-8c08ef667671> | Piano Concerto no. 3 in D minor, op. 30: I. Allegr |
+| <https://beta.musicbrainz.org/recording/7c34384d-6498-4d5f-973a-dae4f0708566> | Piano Concerto no. 3 in D minor, op. 30: II. Inter |
+| <https://beta.musicbrainz.org/recording/e5019c31-2e80-43ba-ae87-c22291a29179> | Piano Concerto no. 3 in D minor, op. 30: III. Fina |
+| <https://beta.musicbrainz.org/recording/666ed891-7728-482c-ac2e-1de2f9cf29d8> | Toccata in C major, BWV 564 (arr. Busoni)          |
+| <https://beta.musicbrainz.org/recording/5e0e7aa8-881e-46f3-9f0c-c896db1228a2> | Sonata no. 7 in B-flat major, op. 83: I. Allegro i |
+| <https://beta.musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73> | Poème in F-sharp major, op. 32, no. 1              |
+| <https://beta.musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73> | Poème in F-sharp major, op. 32, no. 1              |
+| <https://beta.musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73> | Poème in F-sharp major, op. 32, no. 1              |
+| <https://beta.musicbrainz.org/recording/9b8489e0-c578-4024-b24c-b2291cdc7b73> | Poème in F-sharp major, op. 32, no. 1              |
+| <https://beta.musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea> | Étude in C-sharp minor, op. 2, no. 1               |
+| <https://beta.musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea> | Étude in C-sharp minor, op. 2, no. 1               |
+| <https://beta.musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea> | Étude in C-sharp minor, op. 2, no. 1               |
+| <https://beta.musicbrainz.org/recording/f98bc9df-b473-465c-9943-3746901452ea> | Étude in C-sharp minor, op. 2, no. 1               |
+| <https://beta.musicbrainz.org/recording/a3f96d59-2823-4c07-b4a5-48e4e950f9ca> | Feuillet d'album, op. 58                           |
+| <https://beta.musicbrainz.org/recording/a3f96d59-2823-4c07-b4a5-48e4e950f9ca> | Feuillet d'album, op. 58                           |
+| <https://beta.musicbrainz.org/recording/8ccaa495-c420-4bf7-a374-afca5db31c57> | Étude, op. 65, no. 3                               |
+| <https://beta.musicbrainz.org/recording/8ccaa495-c420-4bf7-a374-afca5db31c57> | Étude, op. 65, no. 3                               |
+| <https://beta.musicbrainz.org/recording/1a122872-c99e-4baf-bebd-8c83b1d1152d> | Flute Sonata in A major, BWV 1032: I. Vivace       |
+| <https://beta.musicbrainz.org/recording/1635b2c1-211b-4d10-801a-0e73897ff553> | Flute Sonata in A major, BWV 1032: II. Largo e dol |
+| <https://beta.musicbrainz.org/recording/cd68e5ef-7295-4247-b0b7-03029606acf0> | Flute Sonata in A major, BWV 1032: III. Allegro    |
+| <https://beta.musicbrainz.org/recording/d26f168a-ec15-43d6-92d9-5154535de772> | Flute Sonata in B minor, BWV 1030: I. Andante      |
+| <https://beta.musicbrainz.org/recording/acf28b36-a316-49b1-868a-10e7f0041a7b> | Flute Sonata in B minor, BWV 1030: II. Largo e dol |
+| <https://beta.musicbrainz.org/recording/c186c101-58d1-460b-a65a-d73be9b504ab> | Flute Sonata in B minor, BWV 1030: III. Presto     |
+| <https://beta.musicbrainz.org/recording/f6b6cdf8-00ba-4425-b526-72f8b1058982> | Flute Sonata in E major, BWV 1035: I. Adagio ma no |
+| <https://beta.musicbrainz.org/recording/3530cbf9-e634-4155-93de-269f8f43242c> | Flute Sonata in E major, BWV 1035: II. Allegro     |
+| <https://beta.musicbrainz.org/recording/54275fad-62d6-4bb2-9683-cd7fe4313443> | Flute Sonata in E major, BWV 1035: III. Sicilano   |
+| <https://beta.musicbrainz.org/recording/a30ad72d-2407-4908-a6ca-d2eac1c030c6> | Flute Sonata in E major, BWV 1035: IV. Allegro ass |
+| <https://beta.musicbrainz.org/recording/0dd4ff1e-b748-48c9-8fa8-e640d084134c> | Flute Sonata in E minor, BWV 1034: I. Adagio ma no |
+| <https://beta.musicbrainz.org/recording/52c955af-eb15-4349-b03b-7e51e9df149c> | Flute Sonata in E minor, BWV 1034: II. Allegro     |
+| <https://beta.musicbrainz.org/recording/d934fbb9-bdb0-4bb2-b5dd-3e053aeed9d3> | Flute Sonata in E minor, BWV 1034: III. Andante    |
+| <https://beta.musicbrainz.org/recording/97e4c9b6-926d-41e8-9fb7-96bcb7dc6fe4> | Flute Sonata in E minor, BWV 1034: IV. Allegro     |
+| <https://beta.musicbrainz.org/recording/605658c0-bfd9-4014-9a0f-d94e62246594> | Prelude and Fugue No. 24 in B minor, BWV 869       |
+| <https://beta.musicbrainz.org/recording/66883010-8cfd-44a0-8407-2ac95b3610f3> | Italian Concerto in F major, BWV 971               |
+| <https://beta.musicbrainz.org/recording/dbffe985-38b2-491b-b315-2a5e74014de5> | Prelude in C major, BWV 846                        |
+| <https://beta.musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde> | Prelude and Fugue No. 2 in C minor, BWV 847        |
+| <https://beta.musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde> | Prelude and Fugue No. 2 in C minor, BWV 847        |
+| <https://beta.musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27> | Variations Goldberg - Variatio 19 à 1 clav.        |
+| <https://beta.musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27> | Variations Goldberg - Variatio 19 à 1 clav.        |
+| <https://beta.musicbrainz.org/recording/32e82a98-7c30-49fd-aa0f-e921a23b5528> | French Suite no. 6, E major                        |
+| <https://beta.musicbrainz.org/recording/0b07c39e-48ea-406a-a20d-0c93bf2aa13d> | Konzert Nr. 1 d-Moll für Klavier und Streichorches |
+| <https://beta.musicbrainz.org/recording/95c0f2a2-e175-4dda-9731-d2923b3017d7> | "Es ist gewisslich an der Zeit", BWV 307 et 734: C |
+| <https://beta.musicbrainz.org/recording/689dbe56-249e-42b6-80f3-2b75d15a677c> | Choral-Prélude "In dulci jubilo", BWV 751          |
+| <https://beta.musicbrainz.org/recording/303b79e0-3966-48e5-a13b-c41d50b7efae> | "Orphée et Eurydice": Acte I. Plainte d'Orphée     |
+| <https://beta.musicbrainz.org/recording/aa824688-371b-41bf-a914-91b7f21bf6e1> | "Orphée et Eurydice": Acte II. Danse des ombres he |
+| <https://beta.musicbrainz.org/recording/5892df2b-9a6e-4c2b-9bf3-9ae1d5b89d62> | Le Clavier bien tempéré : "Prélude n°1"            |
+| <https://beta.musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb> | Fantasias, op. 116: VI. Intermezzo in E            |
+| <https://beta.musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb> | Fantasias, op. 116: VI. Intermezzo in E            |
+| <https://beta.musicbrainz.org/recording/e66f39df-944b-42b6-9532-c87e91de833a> | Suite anglaise no. 3 en sol mineur, BWV 808: IVb.  |
+| <https://beta.musicbrainz.org/recording/7fc24ec7-f050-417a-be6c-c686f9850206> | Wachet auf, ruft uns die Stimme, BWV 140           |
+| <https://beta.musicbrainz.org/recording/6893a61b-06ff-4a4e-b846-a3ff03af3792> | Adagio from Violin Sonata No. 4 in C minor         |
+| <https://beta.musicbrainz.org/recording/22a179c5-d086-4398-a134-967bea425c9d> | Adagio from Violin Sonata No. 5 in F minor         |
+| <https://beta.musicbrainz.org/recording/daef5add-e26f-476f-9f86-4292ad148e38> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| <https://beta.musicbrainz.org/recording/0bd62eac-9219-4d9b-b0a7-785a0c462aa8> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| <https://beta.musicbrainz.org/recording/afe37a77-52b0-4a0a-85d5-ed0798133a91> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| <https://beta.musicbrainz.org/recording/47b36650-a055-41e2-ac3e-eacb887974b8> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| <https://beta.musicbrainz.org/recording/5004a0c5-f8f9-4c80-a454-382149543efa> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| <https://beta.musicbrainz.org/recording/0bc69817-ca83-472d-ae11-38bde7e07fe0> | Flute Sonata in B minor, BWV 1030: I. Andante      |
+| <https://beta.musicbrainz.org/recording/67028611-a9c5-4305-a147-6f188f8d6ce8> | Flute Sonata in B minor, BWV 1030: II. Largo e dol |
+| <https://beta.musicbrainz.org/recording/aacad11a-1921-41e9-ac4d-f0c405b8dd92> | Flute Sonata in B minor, BWV 1030: III. Presto     |
+| <https://beta.musicbrainz.org/recording/b91d73b8-65e7-441a-a0e7-af2dff529c24> | Concerto No. 3 in G, BWV 1048: Allegro             |
+| <https://beta.musicbrainz.org/recording/0ba13319-c13f-4636-a690-f11d165247ed> | Kyrie, Gott heiliger Geist, BWV 671                |
+| <https://beta.musicbrainz.org/recording/608f62ce-ef94-423e-a512-552a362b6b85> | Pieces de clavecin en concerts: La Coulicam        |
+| <https://beta.musicbrainz.org/recording/5b38da80-e024-4d12-bd4f-4b2dcf9964ca> | Pieces de clavecin en concerts: La Livri           |
+| <https://beta.musicbrainz.org/recording/6ea1ab4c-d19b-4d48-b6ff-835c7c64723a> | Pieces de clavecin en concerts: La Vezinet         |
+| <https://beta.musicbrainz.org/recording/2e13a92a-70fa-44b0-9ac1-adadd9f626dc> | Deuxieme Concert: La Laborde                       |
+| <https://beta.musicbrainz.org/recording/2f555fe0-dfc3-473f-b5fc-f1848454b556> | Deuxieme Concert: La Boucan                        |
+| <https://beta.musicbrainz.org/recording/efc3cbc1-00b0-407a-b704-53a1412c5398> | Deuxieme Concert: L'Agacante                       |
+| <https://beta.musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff> | Deuxieme Concert: Menuet (I | II)                  |
+| <https://beta.musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff> | Deuxieme Concert: Menuet (I | II)                  |
+| <https://beta.musicbrainz.org/recording/02547073-2603-4672-8439-2e472ed0af4e> | Troisieme Concert: La Poupliniere                  |
+| <https://beta.musicbrainz.org/recording/536aa030-7289-4c6a-92be-977a4e002b20> | Troisieme Concert: La Timide                       |
+| <https://beta.musicbrainz.org/recording/17bd2642-0cb7-49c7-a07a-c7cee8ef54e0> | Troisieme Concert: Tambourin - Tambourin en Rondea |
+| <https://beta.musicbrainz.org/recording/38a61a13-8b14-472e-bd2a-7cc869a111c1> | Quatrieme Concert: La Pantomime                    |
+| <https://beta.musicbrainz.org/recording/e0978d54-b228-4def-a379-0a6f89fd9527> | Quatrieme Concert: L'Indiscrette                   |
+| <https://beta.musicbrainz.org/recording/577472f1-fef1-48c8-92c8-86354c4ce621> | Quatrieme Concert: La Rameau                       |
+| <https://beta.musicbrainz.org/recording/04ea0e98-da39-4cf0-ba41-7268dc416b60> | Cinquieme Concert: La Forqueray                    |
+| <https://beta.musicbrainz.org/recording/efce85c6-3906-4aa9-a92b-71164ae949c1> | Cinquieme Concert: La Cupis                        |
+| <https://beta.musicbrainz.org/recording/a4e75c48-b185-4275-83fa-3992bc2578db> | Cinquieme Concert: La Marais                       |
+| <https://beta.musicbrainz.org/recording/3c7fe616-f479-40c6-8ce9-01fdeb84f322> | Fantasia                                           |
+| <https://beta.musicbrainz.org/recording/e4ccbcef-29ef-432e-b65a-f501524fa7ad> | Corranto                                           |
+| <https://beta.musicbrainz.org/recording/af9bc8d0-d2bc-46d8-b158-709def76b427> | Fantasia II                                        |
+| <https://beta.musicbrainz.org/recording/c150e1d1-162e-4802-a0c5-773d5f072854> | Ich ruf' zu dir, Herr Jesu Christ BWV 639 (arr Bus |
+| <https://beta.musicbrainz.org/recording/eb69e573-383e-45f6-ab13-ae3eb9145032> | Piano Concerto No. 1 in E minor, Op. 11: II. Roman |
+| <https://beta.musicbrainz.org/recording/b3598fe7-52f4-4851-8362-1744effdaca9> | Étude in E minor, Op. 25 No. 5                     |
+| <https://beta.musicbrainz.org/recording/5e8800c9-ac36-42a5-bcb2-b0fbfb094067> | Étude in G-flat major, Op. 10 No. 5                |
+| <https://beta.musicbrainz.org/recording/1a954cd9-c6b7-4562-bbba-2654cd103536> | Walzer zu vier Händen, op. 39: Nr. 1 H-Dur / Nr. 2 |
+| <https://beta.musicbrainz.org/recording/f4374bda-35be-4997-8690-cef023a82757> | Jesus bleibet meine Freude from Cantata BWV 147    |
+| <https://beta.musicbrainz.org/recording/a8ad1479-17a6-4f81-862b-da49bfa77d11> | Nocturne no. 8 in D-flat major, op. 27 no. 2 with  |
+| <https://beta.musicbrainz.org/recording/22323abc-3404-4f58-a743-f35f69fc9f40> | Waltz No. 17 in E-flat major, B. 46                |
+| <https://beta.musicbrainz.org/recording/f3568cd1-95c4-4c65-8179-22c85e7cb7d7> | Violin Partita No. 2 in D minor, BWV 1004: Chaconn |
+| <https://beta.musicbrainz.org/recording/42cf6715-703d-47e0-9184-d79a4b2284dc> | BWV 971, Italienisches Konzert : III. Presto       |
+| <https://beta.musicbrainz.org/recording/e42554cd-3e99-40c0-b62b-459bdbe79828> | Allegro                                            |
+| <https://beta.musicbrainz.org/recording/8f75f9bf-090d-4e9a-8d47-5940abf87e90> | Der Kuß, op. 19 no. 1: Unter Blüten des Mais spiel |
+| <https://beta.musicbrainz.org/recording/826888e4-1ef6-4bc1-ab97-fbc45465b714> | In der Ferne, op. 19 no. 3: Will ruhen unter den B |
+| <https://beta.musicbrainz.org/recording/75d2e420-df24-4fac-b490-b9d34b816335> | Vollendung D 579A (D 989A)                         |
+| <https://beta.musicbrainz.org/recording/fff9e42d-1c7a-4ffb-ad9a-d7823e1299bd> | Die Erde D 579B (D 989)                            |
+| <https://beta.musicbrainz.org/recording/fb33ee98-76ba-4bcd-980e-9a33e7254e40> | "To music"                                         |
+| <https://beta.musicbrainz.org/recording/6fda5825-74c1-4e34-ad6d-8524575a4d7c> | "Where the bee sucks"                              |
+| <https://beta.musicbrainz.org/recording/4bfaf761-ffe6-4d9b-8a30-1bf0cedfdb84> | Mörike-Lieder: Begegnung                           |
+| <https://beta.musicbrainz.org/recording/3cd13422-cee6-4a28-9bb7-45fcfa6f973c> | Mörike-Lieder: Verborgenheit                       |
+| <https://beta.musicbrainz.org/recording/1d1d0137-74e8-4451-8a62-6c35bb80b5af> | Ave Maria                                          |
+| <https://beta.musicbrainz.org/recording/421bf5cf-0a0d-4af4-abf4-a8030db11b73> | Gretchen am Spinnrade, D.118                       |
+| <https://beta.musicbrainz.org/recording/a239e096-45b7-4e71-b952-c2d51c4d1183> | Der Musensohn, D.764                               |
+| <https://beta.musicbrainz.org/recording/57467de7-70d9-459b-9fea-e9fa2ed430ae> | Wiegenlied, D.498                                  |
+| <https://beta.musicbrainz.org/recording/a51dd438-7e46-4a13-aab5-4e11a174a43d> | Schlechtes Wetter, op. 69 no. 5                    |
+| <https://beta.musicbrainz.org/recording/3e54fb15-eb7e-45ac-a9c3-6d489c5970b2> | Storchenbotschaft (1948)                           |
+| <https://beta.musicbrainz.org/recording/ded65524-524a-40ec-bf6e-bc2974e4f65d> | Storchenbotschaft (1951)                           |
+| <https://beta.musicbrainz.org/recording/ea22d37a-2cde-4acf-934f-3d9d86468ae6> | Schweig' einmal still                              |
+| <https://beta.musicbrainz.org/recording/691b508b-ba8f-45d8-b1d5-0dcbe1705902> | Wer tat deinem Füßlein weh?                        |
+| <https://beta.musicbrainz.org/recording/9f9497cd-346a-46b0-a5ea-291f5a6fd60a> | Nixe Binsefuss                                     |
+| <https://beta.musicbrainz.org/recording/3eb8e1bb-e171-4d58-af26-e5a561385581> | Die Bekehrte                                       |
+| <https://beta.musicbrainz.org/recording/fff3881e-58aa-4b47-8373-10fbae3b18fa> | Mausfallen-sprüchlein                              |
+| <https://beta.musicbrainz.org/recording/17fecd7d-f2f5-4b5a-a471-ecdf367a8882> | Wiegenlied im Sommer                               |
+| <https://beta.musicbrainz.org/recording/1412fc59-f57a-490d-8265-030585c2a2be> | Eichendorff-Lieder: Der Musikant "Wandern lieb ich |
+| <https://beta.musicbrainz.org/recording/b8b52622-8d34-4a05-8400-a7eb6d26671e> | Eichendorff-Lieder: Der Soldat I "Ist auch schmuck |
+| <https://beta.musicbrainz.org/recording/ca210f95-0cd6-4d21-a7a5-49b36e76655e> | Eichendorff-Lieder: Der Schreckenberger "Aufs Wohl |
+| <https://beta.musicbrainz.org/recording/1381b300-4b50-402c-a712-1265430f45f2> | Goethe-Lieder: Cophtisches Lied I "Laßet Gelehrte  |
+| <https://beta.musicbrainz.org/recording/05c398f3-28cb-4e51-8a2f-8d2ea6471a23> | Erinnerung "Ihr wunderschönen Augenblicke", op. 63 |
+| <https://beta.musicbrainz.org/recording/72399f65-94c9-44f3-80e7-94a35b0835e6> | Ständchen "Der Mond steht über dem Berge", op. 106 |
+| <https://beta.musicbrainz.org/recording/9d8e67a3-5cfb-44e6-862a-e944a2a628a1> | Das Wohltemperierte Klavier, Book I: Prelude and F |
+| <https://beta.musicbrainz.org/recording/0ca43729-f177-45f9-a1a7-4d88528ce170> | Prelude and Fugue in A, op 87/7                    |
+| <https://beta.musicbrainz.org/recording/c2e197c0-9e64-4cc4-96a5-1378840996d9> | The Well-tempered Clavier (excerpts): Prelude and  |
+| <https://beta.musicbrainz.org/recording/9ade10f5-405c-4765-85c1-5d615b797262> | The Well-tempered Clavier (excerpts): Prelude and  |
+| <https://beta.musicbrainz.org/recording/53e0a403-f7df-4d7f-a937-f41b30fcd62c> | The Well-tempered Clavier (excerpts): Prelude and  |
+| <https://beta.musicbrainz.org/recording/2c24cff1-5d9a-49e1-a5a0-1528be33265e> | The Well-tempered Clavier (excerpts): Prelude and  |
+| <https://beta.musicbrainz.org/recording/242f4e69-384c-4fbb-8505-c806d565f99f> | Sonata in C major, BWV 1033: I. Andante            |
+| <https://beta.musicbrainz.org/recording/0291649d-56fd-46ad-a501-5c65326ae08d> | Sonata in C major, BWV 1033: II. Allegro           |
+| <https://beta.musicbrainz.org/recording/598f32bb-7658-4ea3-87ae-ff918ba201aa> | Sonata in C major, BWV 1033: III. Adagio           |
+| <https://beta.musicbrainz.org/recording/f1adfc0f-75c2-4714-971f-8f6c1041d969> | Sonata in C major, BWV 1033: IV. Menuet I & II     |
+| <https://beta.musicbrainz.org/recording/f1adfc0f-75c2-4714-971f-8f6c1041d969> | Sonata in C major, BWV 1033: IV. Menuet I & II     |
+| <https://beta.musicbrainz.org/recording/e9e4ae6a-8a5e-476c-8993-ecdf354d0df5> | Sonata in E minor, BWV 1034: I. Adagio ma non tant |
+| <https://beta.musicbrainz.org/recording/fdd9e0a9-be05-4b56-a8a9-6f4cacb161b8> | Sonata in E minor, BWV 1034: II. Allegro           |
+| <https://beta.musicbrainz.org/recording/79c84244-1aaa-484f-8722-a297dda7ba28> | Sonata in E minor, BWV 1034: III. Andante          |
+| <https://beta.musicbrainz.org/recording/f6b5c8f1-eded-4e3c-ad6c-8f9847953428> | Sonata in E minor, BWV 1034: IV. Allegro           |
+| <https://beta.musicbrainz.org/recording/2fe8db23-88dd-4463-a94b-a307554140cc> | Sonata in E major, BWV 1035: I. Adagio ma non tant |
+| <https://beta.musicbrainz.org/recording/874f7a10-421f-4c5b-b3fc-0aa47bdc950b> | Sonata in E major, BWV 1035: II. Allegro           |
+| <https://beta.musicbrainz.org/recording/cb780a9c-20ca-433b-b7bf-80b4a22bf701> | Sonata in E major, BWV 1035: III. Siciliano        |
+| <https://beta.musicbrainz.org/recording/90e7760a-330c-4471-9e2d-3674ddb9d1f8> | Sonata in E major, BWV 1035: IV. Allegro assai     |
+| <https://beta.musicbrainz.org/recording/86f186b6-4732-4954-ada1-a49c991d7e0b> | Sonata in B minor, BWV 1030: I. Andante            |
+| <https://beta.musicbrainz.org/recording/5d9b0067-2e0e-4799-a117-0ab37d97465a> | Sonata in B minor, BWV 1030: II. Largo e dolce     |
+| <https://beta.musicbrainz.org/recording/70250dda-eadd-4ad7-af05-d1f186d8214b> | Sonata in B minor, BWV 1030: III. Presto           |
+| <https://beta.musicbrainz.org/recording/e9af588e-c794-4853-8e2c-6bd154736918> | Sonata in E-flat major, BWV 1031: I. Allegro moder |
+| <https://beta.musicbrainz.org/recording/c10f69bf-0f48-4dae-83db-67d58be4a7ec> | Sonata in E-flat major, BWV 1031: II. Siciliano    |
+| <https://beta.musicbrainz.org/recording/630ec138-dafd-4684-9c5f-2bf82dec675f> | Sonata in E-flat major, BWV 1031: III. Allegro     |
+| <https://beta.musicbrainz.org/recording/cdf21329-9e6d-4200-995b-72459e4dca04> | Sonata in A major, BWV 1032: I. Vivace             |
+| <https://beta.musicbrainz.org/recording/ab13ccde-af9b-4d82-9a43-25578adcebf8> | Sonata in A major, BWV 1032: II. Largo e dolce     |
+| <https://beta.musicbrainz.org/recording/8bb0198f-5629-45b3-bff9-077997d278f0> | Sonata in A major, BWV 1032: III. Allegro          |
+| <https://beta.musicbrainz.org/recording/501d17fa-1298-494a-913b-6ea20c6c357a> | Canon and Gigue in D major, T. 377: I. Canon       |
+| <https://beta.musicbrainz.org/recording/f987fbe8-c123-408e-82dd-dd2cc6ae2fae> | Canon and Gigue: II. Gigue                         |
+| <https://beta.musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b> | Deuxième concert: Premier menuet en rondeau. Deuxi |
+| <https://beta.musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b> | Deuxième concert: Premier menuet en rondeau. Deuxi |
+| <https://beta.musicbrainz.org/recording/044655a4-71ae-4376-be4c-01983cbca73e> | Trosième concert: La Timide, Premier rondeau graci |
+| <https://beta.musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01> | Trosième concert: Premier tambourin en rondeau. De |
+| <https://beta.musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01> | Trosième concert: Premier tambourin en rondeau. De |
+| <https://beta.musicbrainz.org/recording/d61d6425-0567-4a53-a16d-a3ddfa35aa91> | Concerto for Violin, Strings and Continuo in D maj |
+| <https://beta.musicbrainz.org/recording/598e7cd1-44b3-4754-9f22-afd04ae95340> | Concerto for Violin, Strings and Continuo in C maj |
+| <https://beta.musicbrainz.org/recording/d63a5974-6193-4b83-8897-d513d7fc910d> | Concerto for Flute, Strings and Continuo in D majo |
+| <https://beta.musicbrainz.org/recording/397c6034-ad5c-4a94-9973-ff76da647aea> | Concerto for Cello, Strings and Continuo in B mino |
+| <https://beta.musicbrainz.org/recording/164e15d2-2c08-4dcf-ae09-2fa37c3fb068> | Italienisches Konzert F-dur, BWV 971: Allegro      |
+| <https://beta.musicbrainz.org/recording/e1e550bc-ec04-4f8b-a6fc-f0499fe41b8c> | Italienisches Konzert F-dur, BWV 971: Andante      |
+| <https://beta.musicbrainz.org/recording/bc82ec35-d2c4-4368-b08a-9c2a2e05d918> | Italienisches Konzert F-dur, BWV 971: Presto       |
+| <https://beta.musicbrainz.org/recording/8e8ae4a3-de59-4858-a6b8-2dab97d9b5fc> | Toccata in F sharp minor, BWV 910: [no tempo indic |
+| <https://beta.musicbrainz.org/recording/349b083e-79bd-4f69-8a58-e3a7612839cb> | Toccata in F sharp minor, BWV 910: [no tempo indic |
+| <https://beta.musicbrainz.org/recording/fc496ef4-3a06-4cc2-9c55-45ffdd046f69> | Toccata in F sharp minor, BWV 910: [no tempo indic |
+| <https://beta.musicbrainz.org/recording/60db03a6-75c3-4bfe-a76f-cd8bfd3bc1be> | Toccata in F sharp minor, BWV 910: [no tempo indic |
+| <https://beta.musicbrainz.org/recording/f4aa3193-221b-4811-84df-b9f54cf9a00e> | Prelude and Fugue in A minor, BWV 894: Praeludium  |
+| <https://beta.musicbrainz.org/recording/d3546ec4-d99c-45fd-bff0-b8e45c4bcaf1> | Prelude and Fugue in A minor, BWV 894: Fughetta    |
+| <https://beta.musicbrainz.org/recording/52a710d6-d8b3-47fb-9918-e5a6d07ebefc> | Allegro in B minor, Op. 8                          |
+| <https://beta.musicbrainz.org/recording/9ae63334-43ba-4d6c-bac0-3b2d7096f94b> | Arabeske in C major, Op. 18                        |
+| <https://beta.musicbrainz.org/recording/4db4a58b-705e-4e48-84f5-239e0811cb2a> | Piano Concerto, op. 42: I. Andante                 |
+| <https://beta.musicbrainz.org/recording/98358d92-e749-4f72-a7f6-8d85c8e2d9de> | Piano Concerto, op. 42: II. Molto allegro          |
+| <https://beta.musicbrainz.org/recording/b17649c6-cb52-451a-9063-07c196aefd73> | Piano Concerto, op. 42: III. Adagio                |
+| <https://beta.musicbrainz.org/recording/3eb99afa-808d-4130-a59a-d4f55b3b0d85> | Piano Concerto, op. 42: IV. Giocoso (moderato)     |
+| <https://beta.musicbrainz.org/recording/bbe5be3b-f541-47cd-82ec-f1bb5f522eeb> | Etude, op. 10, no. 1                               |
+| <https://beta.musicbrainz.org/recording/9780534a-1b30-4c80-8bb8-9f9dcccb9afd> | Konzert für Klavier und Orchester, op. 42: Molto a |
+| <https://beta.musicbrainz.org/recording/318ffb17-2f44-403c-ac21-2ea4de3242fb> | Etudes-Tableaux, Op. 33, No 6 in E-flat minor      |
+| <https://beta.musicbrainz.org/recording/0b04c587-bb14-443d-b20b-59e4a38629f4> | Klaviertrio a-Moll, op. 50: Tema con variazioni. A |
+| <https://beta.musicbrainz.org/recording/80aa02f3-442b-4c16-a453-b4b7bac0f814> | Pictures at an Exhibition - V. Promenade           |
+| <https://beta.musicbrainz.org/recording/c5f78eae-f31c-4399-9a2e-894a8ae2c750> | Pictures at an Exhibition - XIII. The Catacombs. S |
+| <https://beta.musicbrainz.org/recording/5a4a8b88-4e31-424b-8c31-ef4d433ed9f6> | Pictures at an Exhibition: XIV. Cum mortuis in lin |
+| <https://beta.musicbrainz.org/recording/a6975ff7-dda9-4dcb-a59e-736865211ec0> | Étude in C major, Op. 10 No. 1: Allegro            |
+| <https://beta.musicbrainz.org/recording/3b7effe9-13d5-4f0c-81e6-750d0badb951> | Sonata for Piano No. 3 in C major, Op. 2 No. 3: I. |
+| <https://beta.musicbrainz.org/recording/6615569e-d1ac-40ee-87d8-105793f61730> | Sonata for Piano No. 3 in C major, Op. 2 No. 3: II |
+| <https://beta.musicbrainz.org/recording/3dbe0f1a-92b7-42c4-8094-419b6a08b7b6> | Sonata for Piano No. 3 in C major, Op. 2 No. 3: II |
+| <https://beta.musicbrainz.org/recording/f54bf04e-20b0-4208-ac17-9bf5ca9e68de> | Sonata for Piano No. 3 in C major, Op. 2 No. 3: IV |
+| <https://beta.musicbrainz.org/recording/0fa327df-483b-42a4-9fca-1bc301aa66fd> | Piano sonata No. 1, Op. 1: IV. Finale: Allegro con |
+| <https://beta.musicbrainz.org/recording/e596678d-ee1e-4734-99a2-a55e11aab546> | Symphonic Studies, op. 13: Thema. Andante          |
+| <https://beta.musicbrainz.org/recording/e44808e5-6671-4e3a-adbf-cc187b9b88dc> | Symphonic Studies, op. 13: Etüde I. Un poco più vi |
+| <https://beta.musicbrainz.org/recording/3309b498-4948-42ba-ab1b-dab7fe12dfb5> | Symphonic Studies, op. 13: Etüde II. Marcato il ca |
+| <https://beta.musicbrainz.org/recording/47d41714-b767-41a3-8a60-c1958faaa9ff> | Symphonic Studies, op. 13: Etüde III. Vivace       |
+| <https://beta.musicbrainz.org/recording/9a6d9516-226d-40f9-a6e6-23b68b2dd1d2> | Symphonic Studies, op. 13: Etüde IV. (Variation II |
+| <https://beta.musicbrainz.org/recording/b745f04f-63e5-4ba0-9b0d-09b5e75f5dfd> | Symphonic Studies, op. 13: Etüde V. (Variation IV) |
+| <https://beta.musicbrainz.org/recording/9d476938-851e-490f-ba0c-0e8969bdf2c9> | Symphonic Études, Op. 13: Variation I              |
+| <https://beta.musicbrainz.org/recording/da511204-ead4-4b43-ab42-f41999bad5b3> | Symphonic Études, Op. 13: Variation II             |
+| <https://beta.musicbrainz.org/recording/288344a6-b24c-48e5-b074-b2831661eac9> | Symphonic Études, Op. 13: Variation III            |
+| <https://beta.musicbrainz.org/recording/68a8c9f9-8531-4d87-bdd3-137bb028adfa> | Symphonic Études, Op. 13: Variation IV             |
+| <https://beta.musicbrainz.org/recording/bca0a4a1-c4f6-4283-bdf0-21aa5e6ff6b8> | Symphonic Études, Op. 13: Variation V              |
+| <https://beta.musicbrainz.org/recording/2aef9fe4-a2ae-4e31-9eaa-33df4e805d22> | Symphonic Studies, op. 13: Etüde VI (Variation V). |
+| <https://beta.musicbrainz.org/recording/f57a5ed0-5686-4b93-97a6-313bde73d437> | Symphonic Studies, op. 13: Etüde VII (Variation VI |
+| <https://beta.musicbrainz.org/recording/f348c461-ad01-45db-b253-73a21f116c03> | Symphonic Studies, op. 13: Etüde XI (Variation IX) |
+| <https://beta.musicbrainz.org/recording/c7668141-f821-4e02-a522-ac89f7842201> | Symphonic Studies, op. 13: Etüde XII (Finale). All |
+| <https://beta.musicbrainz.org/recording/a24c138d-cf68-4ec7-b645-1457b6d62694> | French Suite No. 4 in E flat, BWV 815: Gavotte I-I |
+| <https://beta.musicbrainz.org/recording/070c53cb-de87-4e6f-9d06-c40450388b1e> | Piano Sonata no. 5, op. 53                         |
+| <https://beta.musicbrainz.org/recording/6a5843ff-e99b-4ebc-b83e-0e044c1e164d> | Violin Sonata in G, K. 379: I. Adagio – Allegretto |
+| <https://beta.musicbrainz.org/recording/fe5a705e-519d-48f4-9c9e-59759df57dfb> | Scherzo no. 4 in E major, op. 54 — Presto          |
+| <https://beta.musicbrainz.org/recording/3f499f59-3a72-4c1b-8456-031d8f96e908> | Impromptu No. 2 in A-Flat Major, D. 935, No. 2     |
+| <https://beta.musicbrainz.org/recording/17c54ca6-0c8f-431f-aa2e-c77ae6f97b63> | Piano Sonata no. 21 in B-flat major, D. 960: II. A |
+| <https://beta.musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661> | Fairest Isle of Isles Excelling                    |
+| <https://beta.musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661> | Fairest Isle of Isles Excelling                    |
+| <https://beta.musicbrainz.org/recording/b5a88a42-f194-4d2e-9f62-2d4acc52b847> | L'Uniforme                                         |
+| <https://beta.musicbrainz.org/recording/63fe9dfc-734b-40cc-90b9-a2b0715ea9c2> | Italian Concerto, for solo keyboard in F major (Cl |
+| <https://beta.musicbrainz.org/recording/339b64f5-3838-4fb9-85f1-587e46de71fe> | Overture in the French Manner, partita for keyboar |
+| <https://beta.musicbrainz.org/recording/47af724c-c69d-41a1-a66d-aa482a0b2851> | Chromatic Fantasia and Fugue, for keyboard in D mi |
+| <https://beta.musicbrainz.org/recording/9d32bd73-5c14-4cba-921c-730ab52b47bf> | Pièces de clavecin en concerts. Premier concert: I |
+| <https://beta.musicbrainz.org/recording/1dff307a-041a-4fa4-ae29-5a0bda580046> | Concerto for 2 Keyboards in C major, BWV 1061a: 1. |
+| <https://beta.musicbrainz.org/recording/daff0a08-234c-47f3-8381-2310ff855d4f> | Concerto for 2 Keyboards in C major, BWV 1061a: 2. |
+| <https://beta.musicbrainz.org/recording/7c1a375e-b3f3-43a7-842e-5fcf8e0a33e1> | Concerto for 2 Keyboards in C major, BWV 1061a: 3. |
+| <https://beta.musicbrainz.org/recording/4adec401-827b-49e8-b48d-2eb02eaed7b1> | Barcarolle, Op. 60 in F-sharp major                |
+| <https://beta.musicbrainz.org/recording/078a8875-46fe-4e80-9dcd-d6cf0d964e8a> | Fantasia on Polish Airs, op. 13 in A: Andantino    |
+| <https://beta.musicbrainz.org/recording/604bf651-caf4-4a7a-9a91-0a31b9c1fc0a> | Piano Concerto no. 5 in E-flat major, op. 73 "Empe |
+| <https://beta.musicbrainz.org/recording/ed6ee248-dc75-48cf-98aa-136783f9b46a> | Andante spianato and Grande Polonaise in E-flat ma |
+| <https://beta.musicbrainz.org/recording/e262a8ce-61f5-4160-80b8-a9f226587767> | Nocturne No. 15 in F minor, Op. 55 No. 1           |
+| <https://beta.musicbrainz.org/recording/13ff9288-45fb-4f84-b8a9-aaf32dd8239c> | Piano Concerto in A minor, Op. 16: I. Allegro molt |
+| <https://beta.musicbrainz.org/recording/676fa90c-6c91-45b9-a0bc-5e120a9ab35c> | Piano Concerto in A minor, Op. 16: III. Allegro mo |
+| <https://beta.musicbrainz.org/recording/d941933a-906e-41c1-933a-d5743bc79b56> | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
+| <https://beta.musicbrainz.org/recording/632a1d8a-e32b-4d64-a638-798340d9e643> | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
+| <https://beta.musicbrainz.org/recording/13d0babf-14c7-472e-96b9-951457c06c28> | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
+| <https://beta.musicbrainz.org/recording/a8b3ec8e-0bed-4c85-bb8f-3a00ead2a96f> | Sonata No. 2 in B-flat minor, Op. 35 "Marche Funèb |
+| <https://beta.musicbrainz.org/recording/6bb7dd84-6766-4c36-9e23-dd18d0a3d1b1> | Piano Concerto in A minor, Op. 54: I. Allegro affe |
+| <https://beta.musicbrainz.org/recording/b9e8f53c-aff5-4eae-a219-201b45dbd80d> | Piano Concerto in A minor, Op. 54: II. Intermezzo. |
+| <https://beta.musicbrainz.org/recording/3bb14e66-b596-4d08-9c30-2408e2f48bb1> | Piano Concerto in A minor, Op. 54: III. Allegro vi |
+| <https://beta.musicbrainz.org/recording/b6ca7777-87f7-498a-8573-3926ba2f9268> | Andante spianato & Grande Polonaise, E-flat major, |
+| <https://beta.musicbrainz.org/recording/b0e71fb9-310e-4124-968d-cd84352dc874> | Intermezzo in E minor, Op. 115, No. 5              |
+| <https://beta.musicbrainz.org/recording/7aa4c85a-ee60-4763-bcca-cc3dfd348c1f> | Symphonic Variations: Poco allegro                 |
+| <https://beta.musicbrainz.org/recording/e8800fcb-1bac-4b7c-b992-5e9af3718091> | Symphonic Variations: Allegro non troppo           |
+| <https://beta.musicbrainz.org/recording/d469a3f9-6267-4400-bca4-676fce9dd260> | Piano Concerto No. 4 in G major, Op. 58: III. Rond |
+| <https://beta.musicbrainz.org/recording/43241f16-0489-4584-bca0-92bb1f2dd36a> | Sonata for Piano No. 26 in E-flat major, Op. 81a " |
+| <https://beta.musicbrainz.org/recording/a61933d6-3eee-449c-83b2-30f648147019> | Piano Concerto no. 4 in G major, op. 58: III. Rond |
+| <https://beta.musicbrainz.org/recording/5fcb9644-06ec-4144-91a6-327b901ee8e9> | Polonaise op. 40 no. 3 in A major                  |
+| <https://beta.musicbrainz.org/recording/f5a474d9-94ea-441e-9e2c-e6d6e0d7d3d6> | Widmung op. 25 no. 1                               |
+| <https://beta.musicbrainz.org/recording/0a4e1128-7f20-497b-bc0f-52318a284aa1> | Wiegenlied op. 49 no. 4                            |
+| <https://beta.musicbrainz.org/recording/80a339ae-5624-43e3-86eb-21c17f6ca18c> | Piano Concerto no. 21 "Elvira Madigan": I. Allegro |
+| <https://beta.musicbrainz.org/recording/32c79977-8671-472f-b22e-8698a685d20a> | Piano Concerto no. 21 "Elvira Madigan": II. Andant |
+| <https://beta.musicbrainz.org/recording/fd255c3f-07a0-4482-932d-d72414eec342> | Piano Concerto no. 21 "Elvira Madigan": III. Alleg |
+| <https://beta.musicbrainz.org/recording/5df13400-339c-40ea-b97c-fa3dca7a2cb7> | Ballade No. 1 in G minor, Op. 23                   |
+| <https://beta.musicbrainz.org/recording/5df13400-339c-40ea-b97c-fa3dca7a2cb7> | Ballade No. 1 in G minor, Op. 23                   |
+| <https://beta.musicbrainz.org/recording/25c49db3-f832-4fd2-8e5d-8335ecf7dc18> | Ballade No. 2 in F major, Op. 38                   |
+| <https://beta.musicbrainz.org/recording/1612b091-8200-407b-8d13-b4318244afc4> | Ballade No. 3 in A-flat major, Op. 47              |
+| <https://beta.musicbrainz.org/recording/498b6837-f1b7-4774-836c-b0e02ab26547> | Ballade No. 4 in F minor, Op. 52                   |
+| <https://beta.musicbrainz.org/recording/0bfa8d26-57a0-4e8f-8c1c-1e0560219d96> | Noches en los jardines de Espana: I. en el General |
+| <https://beta.musicbrainz.org/recording/4da8927b-c926-4cac-83d9-468a6ea10f01> | Noches en los jardines de Espana: II. Danza lejana |
+| <https://beta.musicbrainz.org/recording/97f02524-abe7-4250-8001-cd0b9e99cb56> | Noches en los jardines de Espana: III. En los jard |
+| <https://beta.musicbrainz.org/recording/aaf826a1-15d5-4354-84e1-4c4149963314> | Concerto for Piano and Orchestra in a Minor, Op. 1 |
+| <https://beta.musicbrainz.org/recording/a81ddfe2-b047-4835-956f-80f83b1e0652> | 20 Mazurkas, op. 50: no. 4: Vivace                 |
+| <https://beta.musicbrainz.org/recording/69839619-9b0f-4dac-b627-78ab81ec01ed> | Visions fugitives, op. 22: no. 2: Andante          |
+| <https://beta.musicbrainz.org/recording/3fbf2500-d3c1-4972-b34d-48b32ad83c69> | Prole do bebe no. 1: no. 6: A pobresinha - a bonec |
+| <https://beta.musicbrainz.org/recording/55b960c5-3495-4db2-93ae-c5c9c80cb1cf> | Piano Sonata no. 14 in C-sharp minor, op. 27/2 "Mo |
+| <https://beta.musicbrainz.org/recording/38ca15e8-45dd-4c7a-acad-324040d8b179> | 5 Lieder, op. 49: no. IV. Wiegenlied (arr. A. Rubi |
+| <https://beta.musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe> | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
+| <https://beta.musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe> | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
+| <https://beta.musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe> | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
+| <https://beta.musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024> | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
+| <https://beta.musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024> | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
+| <https://beta.musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024> | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
+| <https://beta.musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da> | Mazurka no. 3 in E major, op. 6, no. 3             |
+| <https://beta.musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da> | Mazurka no. 3 in E major, op. 6, no. 3             |
+| <https://beta.musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da> | Mazurka no. 3 in E major, op. 6, no. 3             |
+| <https://beta.musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d> | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
+| <https://beta.musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d> | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
+| <https://beta.musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d> | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
+| <https://beta.musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd> | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
+| <https://beta.musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd> | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
+| <https://beta.musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd> | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
+| <https://beta.musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a> | Mazurka no. 6 in A minor, op. 7, no. 2             |
+| <https://beta.musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a> | Mazurka no. 6 in A minor, op. 7, no. 2             |
+| <https://beta.musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a> | Mazurka no. 6 in A minor, op. 7, no. 2             |
+| <https://beta.musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b> | Mazurka no. 7 in F minor, op. 7, no. 3             |
+| <https://beta.musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b> | Mazurka no. 7 in F minor, op. 7, no. 3             |
+| <https://beta.musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b> | Mazurka no. 7 in F minor, op. 7, no. 3             |
+| <https://beta.musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34> | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
+| <https://beta.musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34> | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
+| <https://beta.musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34> | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
+| <https://beta.musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce> | Mazurka no. 9 in C major, op. 7, no. 5             |
+| <https://beta.musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce> | Mazurka no. 9 in C major, op. 7, no. 5             |
+| <https://beta.musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce> | Mazurka no. 9 in C major, op. 7, no. 5             |
+| <https://beta.musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8> | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
+| <https://beta.musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8> | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
+| <https://beta.musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8> | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
+| <https://beta.musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d> | Mazurka no. 11 in E minor, op. 17, no. 2           |
+| <https://beta.musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d> | Mazurka no. 11 in E minor, op. 17, no. 2           |
+| <https://beta.musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d> | Mazurka no. 11 in E minor, op. 17, no. 2           |
+| <https://beta.musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da> | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
+| <https://beta.musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da> | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
+| <https://beta.musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da> | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
+| <https://beta.musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07> | Mazurka no. 13 in A minor, op. 17, no. 4           |
+| <https://beta.musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07> | Mazurka no. 13 in A minor, op. 17, no. 4           |
+| <https://beta.musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07> | Mazurka no. 13 in A minor, op. 17, no. 4           |
+| <https://beta.musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a> | Mazurka no. 14 in G minor, op. 24, no. 1           |
+| <https://beta.musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a> | Mazurka no. 14 in G minor, op. 24, no. 1           |
+| <https://beta.musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a> | Mazurka no. 14 in G minor, op. 24, no. 1           |
+| <https://beta.musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe> | Mazurka no. 15 in C major, op. 24, no. 2           |
+| <https://beta.musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe> | Mazurka no. 15 in C major, op. 24, no. 2           |
+| <https://beta.musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe> | Mazurka no. 15 in C major, op. 24, no. 2           |
+| <https://beta.musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9> | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
+| <https://beta.musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9> | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
+| <https://beta.musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9> | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
+| <https://beta.musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1> | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
+| <https://beta.musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1> | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
+| <https://beta.musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1> | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
+| <https://beta.musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf> | Mazurka no. 18 in C minor, op. 30, no. 1           |
+| <https://beta.musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf> | Mazurka no. 18 in C minor, op. 30, no. 1           |
+| <https://beta.musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf> | Mazurka no. 18 in C minor, op. 30, no. 1           |
+| <https://beta.musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0> | Mazurka no. 19 in B minor, op. 30, no. 2           |
+| <https://beta.musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0> | Mazurka no. 19 in B minor, op. 30, no. 2           |
+| <https://beta.musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0> | Mazurka no. 19 in B minor, op. 30, no. 2           |
+| <https://beta.musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa> | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
+| <https://beta.musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa> | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
+| <https://beta.musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa> | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
+| <https://beta.musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5> | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
+| <https://beta.musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5> | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
+| <https://beta.musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5> | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
+| <https://beta.musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5> | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
+| <https://beta.musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5> | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
+| <https://beta.musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5> | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
+| <https://beta.musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f> | Mazurka no. 23 in D major, op. 33, no. 2           |
+| <https://beta.musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f> | Mazurka no. 23 in D major, op. 33, no. 2           |
+| <https://beta.musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f> | Mazurka no. 23 in D major, op. 33, no. 2           |
+| <https://beta.musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1> | Mazurka no. 24 in C major, op. 33, no. 3           |
+| <https://beta.musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1> | Mazurka no. 24 in C major, op. 33, no. 3           |
+| <https://beta.musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1> | Mazurka no. 24 in C major, op. 33, no. 3           |
+| <https://beta.musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb> | Mazurka no. 25 in B minor, op. 33, no. 4           |
+| <https://beta.musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb> | Mazurka no. 25 in B minor, op. 33, no. 4           |
+| <https://beta.musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb> | Mazurka no. 25 in B minor, op. 33, no. 4           |
+| <https://beta.musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb> | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
+| <https://beta.musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb> | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
+| <https://beta.musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb> | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
+| <https://beta.musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49> | Mazurka no. 27 in E minor, op. 41, no. 2           |
+| <https://beta.musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49> | Mazurka no. 27 in E minor, op. 41, no. 2           |
+| <https://beta.musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49> | Mazurka no. 27 in E minor, op. 41, no. 2           |
+| <https://beta.musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865> | Mazurka no. 28 in B major, op. 41, no. 3           |
+| <https://beta.musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865> | Mazurka no. 28 in B major, op. 41, no. 3           |
+| <https://beta.musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865> | Mazurka no. 28 in B major, op. 41, no. 3           |
+| <https://beta.musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1> | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
+| <https://beta.musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1> | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
+| <https://beta.musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1> | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
+| <https://beta.musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7> | Mazurka no. 30 in G major, op. 50, no. 1           |
+| <https://beta.musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7> | Mazurka no. 30 in G major, op. 50, no. 1           |
+| <https://beta.musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7> | Mazurka no. 30 in G major, op. 50, no. 1           |
+| <https://beta.musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a> | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
+| <https://beta.musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a> | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
+| <https://beta.musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a> | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
+| <https://beta.musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa> | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
+| <https://beta.musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa> | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
+| <https://beta.musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa> | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
+| <https://beta.musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5> | Mazurka no. 33 in B major, op. 56, no. 1           |
+| <https://beta.musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5> | Mazurka no. 33 in B major, op. 56, no. 1           |
+| <https://beta.musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5> | Mazurka no. 33 in B major, op. 56, no. 1           |
+| <https://beta.musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9> | Mazurka no. 34 in C major, op. 56, no. 2           |
+| <https://beta.musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9> | Mazurka no. 34 in C major, op. 56, no. 2           |
+| <https://beta.musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9> | Mazurka no. 34 in C major, op. 56, no. 2           |
+| <https://beta.musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287> | Mazurka no. 35 in C minor, op. 56, no. 3           |
+| <https://beta.musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287> | Mazurka no. 35 in C minor, op. 56, no. 3           |
+| <https://beta.musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287> | Mazurka no. 35 in C minor, op. 56, no. 3           |
+| <https://beta.musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892> | Mazurka no. 36 in A minor, op. 59, no. 1           |
+| <https://beta.musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892> | Mazurka no. 36 in A minor, op. 59, no. 1           |
+| <https://beta.musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892> | Mazurka no. 36 in A minor, op. 59, no. 1           |
+| <https://beta.musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d> | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
+| <https://beta.musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d> | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
+| <https://beta.musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d> | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
+| <https://beta.musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4> | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
+| <https://beta.musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4> | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
+| <https://beta.musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4> | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
+| <https://beta.musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51> | Mazurka no. 39 in B major, op. 63, no. 1           |
+| <https://beta.musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51> | Mazurka no. 39 in B major, op. 63, no. 1           |
+| <https://beta.musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51> | Mazurka no. 39 in B major, op. 63, no. 1           |
+| <https://beta.musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90> | Mazurka no. 40 in F minor, op. 63, no. 2           |
+| <https://beta.musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90> | Mazurka no. 40 in F minor, op. 63, no. 2           |
+| <https://beta.musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90> | Mazurka no. 40 in F minor, op. 63, no. 2           |
+| <https://beta.musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1> | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
+| <https://beta.musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1> | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
+| <https://beta.musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1> | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
+| <https://beta.musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf> | Mazurka no. 42 in G major, op. 67, no. 1           |
+| <https://beta.musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf> | Mazurka no. 42 in G major, op. 67, no. 1           |
+| <https://beta.musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf> | Mazurka no. 42 in G major, op. 67, no. 1           |
+| <https://beta.musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494> | Mazurka no. 43 in G minor, op. 67, no. 2           |
+| <https://beta.musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494> | Mazurka no. 43 in G minor, op. 67, no. 2           |
+| <https://beta.musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494> | Mazurka no. 43 in G minor, op. 67, no. 2           |
+| <https://beta.musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc> | Mazurka no. 44 in C major, op. 67, no. 3           |
+| <https://beta.musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc> | Mazurka no. 44 in C major, op. 67, no. 3           |
+| <https://beta.musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc> | Mazurka no. 44 in C major, op. 67, no. 3           |
+| <https://beta.musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da> | Mazurka no. 45 in A minor, op. 67, no. 4           |
+| <https://beta.musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da> | Mazurka no. 45 in A minor, op. 67, no. 4           |
+| <https://beta.musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da> | Mazurka no. 45 in A minor, op. 67, no. 4           |
+| <https://beta.musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba> | Mazurka no. 46 in C major, op. 68, no. 1           |
+| <https://beta.musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba> | Mazurka no. 46 in C major, op. 68, no. 1           |
+| <https://beta.musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba> | Mazurka no. 46 in C major, op. 68, no. 1           |
+| <https://beta.musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f> | Mazurka no. 47 in A minor, op. 68, no. 2           |
+| <https://beta.musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f> | Mazurka no. 47 in A minor, op. 68, no. 2           |
+| <https://beta.musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f> | Mazurka no. 47 in A minor, op. 68, no. 2           |
+| <https://beta.musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0> | Mazurka no. 48 in F major, op. 68, no. 3           |
+| <https://beta.musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0> | Mazurka no. 48 in F major, op. 68, no. 3           |
+| <https://beta.musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0> | Mazurka no. 48 in F major, op. 68, no. 3           |
+| <https://beta.musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf> | Mazurka no. 49 in F minor, op. 68, no. 4           |
+| <https://beta.musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf> | Mazurka no. 49 in F minor, op. 68, no. 4           |
+| <https://beta.musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf> | Mazurka no. 49 in F minor, op. 68, no. 4           |
+| <https://beta.musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153> | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
+| <https://beta.musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153> | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
+| <https://beta.musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153> | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
+| <https://beta.musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184> | Mazurka no. 50 in A minor, op. posth., "Notre temp |
+| <https://beta.musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184> | Mazurka no. 50 in A minor, op. posth., "Notre temp |
+| <https://beta.musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184> | Mazurka no. 50 in A minor, op. posth., "Notre temp |
+| <https://beta.musicbrainz.org/recording/13fc90b0-6458-4756-b883-0d35400a8b7b> | Impromptu no. 1 in A-flat, op. 29                  |
+| <https://beta.musicbrainz.org/recording/3d1f42ce-2b21-40af-870c-64eed9a621e9> | Impromptu no. 2 in F-sharp, op. 36                 |
+| <https://beta.musicbrainz.org/recording/c2dc870f-e1aa-4e91-9821-b57651e58ebe> | Impromptu no. 3 in G-flat, op. 51                  |
+| <https://beta.musicbrainz.org/recording/15e3d30f-1641-4e50-b21e-f4502b428ed5> | Fantaisie-Impromptu in C-sharp minor, op. 66       |
+| <https://beta.musicbrainz.org/recording/017abb8f-20c9-42d5-9f9d-33ebcd8908a5> | Waltz, Op. 64, No.1, in D-flat major "Minute"      |
+| <https://beta.musicbrainz.org/recording/358d4151-fcab-459e-a3be-6a1ac3423569> | Barcarolle Op. 60 in F-sharp major                 |
+| <https://beta.musicbrainz.org/recording/92580862-4995-41e4-a5fe-f092e156ee56> | Mazurka, Op. 33, No.2, in D major                  |
+| <https://beta.musicbrainz.org/recording/a1e77272-db5f-4524-a6ef-132ed17fc01d> | Nocturne, Op. 37, No.1, in G minor                 |
+| <https://beta.musicbrainz.org/recording/ee0fe77a-cb97-40ed-a473-fb4b583f9d41> | Polonaise, Op. 53, in A-Flat major "Heroique"      |
+| <https://beta.musicbrainz.org/recording/0447dffa-3b49-4a2d-9615-8acd44cd0167> | Berceuse Op. 57 in D-flat major                    |
+| <https://beta.musicbrainz.org/recording/a81ee781-088e-407e-b5ec-4d67ca73a37e> | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
+| <https://beta.musicbrainz.org/recording/3fe07fb8-beb5-45a7-8adf-d5b152e49d88> | Im Nebel: I. Andante                               |
+| <https://beta.musicbrainz.org/recording/0c6a4756-af99-4244-955d-0c9ae22a9f98> | Im Nebel: II. Molto adagio                         |
+| <https://beta.musicbrainz.org/recording/4d6e437e-e0ea-4643-bd75-7751a8850eaa> | Im Nebel: III. Andante                             |
+| <https://beta.musicbrainz.org/recording/49aff9cc-1788-4e8e-b8b0-fd80688cd6ea> | Im Nebel: IV. Presto                               |
+| <https://beta.musicbrainz.org/recording/256ab9b4-370a-477c-ac58-d84ce2d68ada> | Sonate 1.X.1905: Die Ahnung: Con moto              |
+| <https://beta.musicbrainz.org/recording/4d07c0d0-c17a-453f-a60d-6e9da86b20ca> | Sonate 1.X.1905: Der Tod: Adagio                   |
+| <https://beta.musicbrainz.org/recording/e7e4f99d-ffa7-40ff-b1ee-11d6d1ca56db> | Auf verwachsenem Pfade I: Unsere Abende: Moderato  |
+| <https://beta.musicbrainz.org/recording/a1997f67-b54a-4695-848e-c440ec8efee7> | Auf verwachsenem Pfade I: Ein verwehtes Blatt: And |
+| <https://beta.musicbrainz.org/recording/8d169829-cc09-4416-9cba-806dc6a14090> | Auf verwachsenem Pfade I: Kommt mit!: Andante      |
+| <https://beta.musicbrainz.org/recording/f2571bd8-5509-4e2b-b2be-8850a9f40321> | Auf verwachsenem Pfade I: Die Friedeker Mutter Got |
+| <https://beta.musicbrainz.org/recording/fbdea71e-84b0-47af-938f-59120b241a96> | Auf verwachsenem Pfade I: Sie schwatzen wie die Sc |
+| <https://beta.musicbrainz.org/recording/e1343454-730a-4af5-a9be-1e758a669a91> | Auf verwachsenem Pfade I: Es stockt das Wort!: And |
+| <https://beta.musicbrainz.org/recording/25509055-cdff-4245-b9eb-2ccf3076d174> | Auf verwachsenem Pfade I: Gute Nacht!: Andante     |
+| <https://beta.musicbrainz.org/recording/8b6195f6-e210-4c03-a199-32ead517238e> | Auf verwachsenem Pfade I: So namenlos bange: Andan |
+| <https://beta.musicbrainz.org/recording/4e6f4691-2562-4b7b-b345-c47dac34a73a> | Auf verwachsenem Pfade I: In Tränen: Larghetto     |
+| <https://beta.musicbrainz.org/recording/a5d9870f-1d5b-4e42-a528-399b75b7b8be> | Auf verwachsenem Pfade I: Das Käuzchen ist nicht f |
+| <https://beta.musicbrainz.org/recording/90d58c34-0a88-425f-9f0c-0757c924602e> | Auf verwachsenem Pfade II: I. Andante              |
+| <https://beta.musicbrainz.org/recording/966e7ba8-22ae-4ab3-b109-24f99d067fed> | Auf verwachsenem Pfade II: II. Allegretto          |
+| <https://beta.musicbrainz.org/recording/ff9d5b77-8fc0-4224-ab25-5f759772ad91> | Auf verwachsenem Pfade (Paralipomena): I. Piu moss |
+| <https://beta.musicbrainz.org/recording/134c0eff-e361-438b-aeca-241d522e7096> | Auf verwachsenem Pfade (Paralipomena): II. Allegro |
+| <https://beta.musicbrainz.org/recording/f553c6f7-dbb4-4be4-80d7-6d58b12bb159> | Auf verwachsenem Pfade (Paralipomena): III. Vivo   |
+| <https://beta.musicbrainz.org/recording/1c21706a-b751-4da2-8f19-54134a6ab652> | Eine Erinnerung: Con moto                          |
+| <https://beta.musicbrainz.org/recording/cd8f95d0-7561-4c37-8c3d-853ae0888964> | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
+| <https://beta.musicbrainz.org/recording/709b90e3-1265-4b96-852f-059b765780de> | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
+| <https://beta.musicbrainz.org/recording/3b3bc7c4-c469-4708-b089-281809ffed41> | Suite no. 2 in A minor, BWV 807: V. Bourrée I alte |
+| <https://beta.musicbrainz.org/recording/63ec0e9f-cc1a-4f8e-b9cc-a6db06127aa2> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
+| <https://beta.musicbrainz.org/recording/d22633cb-4a99-42c4-9b69-74dc03378fc7> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
+| <https://beta.musicbrainz.org/recording/f7444d64-d50b-4bbd-9853-4f796edb0b4b> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
+| <https://beta.musicbrainz.org/recording/7b81d519-ea37-424f-98ab-19dd7a44d253> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
+| <https://beta.musicbrainz.org/recording/eb7a5518-4aa8-41b7-a65a-b82642894dc2> | Venetian Boat Song op. 19, no. 6                   |
+| <https://beta.musicbrainz.org/recording/1cd14107-6936-499c-b44c-0e35eab1f84e> | Concerto for Piano and Orchestra no. 1 in C major, |
+| <https://beta.musicbrainz.org/recording/a2a9ad0d-59fe-4f71-a0e2-e1b9b0c6eacc> | Fantasie C-Dur für Klavier, D 760 "Wanderer-Fantas |
+| <https://beta.musicbrainz.org/recording/001d7c2b-ea40-4bfb-9beb-989ee74e7f3e> | Fantasie C-Dur für Violine and Klavier, D 934      |
+| <https://beta.musicbrainz.org/recording/c830938b-c021-45ae-9764-ceacb5cfa6b3> | Sonata no. 32 in C minor, op. 111: Maestoso-Allegr |
+| <https://beta.musicbrainz.org/recording/e92227b8-c0c5-4dd0-a151-00cc818a778b> | Sonata no. 32 in C minor, op. 111: Arietta. Adagio |
+| <https://beta.musicbrainz.org/recording/4577863a-43cb-486d-b5c7-8619f1ad9684> | Diabelli-Variationen op. 120: Thema. Vivace        |
+| <https://beta.musicbrainz.org/recording/e7007385-64c7-4f4c-a95b-1547f867bf65> | Diabelli-Variationen op. 120: Var. I Alla marcia m |
+| <https://beta.musicbrainz.org/recording/6e70e222-7d59-4e88-8242-19fff75c6faa> | Diabelli-Variationen op. 120: Var. II Poco allegro |
+| <https://beta.musicbrainz.org/recording/9349927c-a46f-4217-a8dd-a4d703d71cdb> | Diabelli-Variationen op. 120: Var. III L’istesso t |
+| <https://beta.musicbrainz.org/recording/9cb3ddb5-1d02-4362-a126-72f16c1b6f42> | Diabelli-Variationen op. 120: Var. IV Un poco più  |
+| <https://beta.musicbrainz.org/recording/931ea55c-4a79-4de7-b32d-a54039220f63> | Diabelli-Variationen op. 120: Var. V Allegro vivac |
+| <https://beta.musicbrainz.org/recording/99079a18-5ab5-480c-a4f1-b2e6f2b683e0> | Diabelli-Variationen op. 120: Var. VI Allegro ma n |
+| <https://beta.musicbrainz.org/recording/d048790d-2e56-4344-bc4c-69717ca16bd1> | Diabelli-Variationen op. 120: Var. VII Un poco più |
+| <https://beta.musicbrainz.org/recording/ee5049fd-d191-45eb-854f-deabd82e33bc> | Diabelli-Variationen op. 120: Var. VIII Poco vivac |
+| <https://beta.musicbrainz.org/recording/af4e9e7f-4b20-4f05-8df3-6f62d0e27611> | Diabelli-Variationen op. 120: Var. IX Allegro pesa |
+| <https://beta.musicbrainz.org/recording/1853f7bd-f729-423a-8168-c27e2e4632e9> | Diabelli-Variationen op. 120: Var. X Presto        |
+| <https://beta.musicbrainz.org/recording/58ebf9b0-ebcd-40a1-a369-be2ef0c6e0ca> | Diabelli-Variationen op. 120: Var. XI Allegretto   |
+| <https://beta.musicbrainz.org/recording/5879912c-9ae8-4a43-8300-09f7ad46e9af> | Diabelli-Variationen op. 120: Var. XII Un poco più |
+| <https://beta.musicbrainz.org/recording/39aec795-0d78-4569-8972-dace19ee1a19> | Diabelli-Variationen op. 120: Var. XIII Vivace     |
+| <https://beta.musicbrainz.org/recording/610b3e0a-1357-4f5e-93c8-8d3a0e98c98b> | Diabelli-Variationen op. 120: Var. XIV Grave e mae |
+| <https://beta.musicbrainz.org/recording/e7fc3bbd-31d2-405d-a4a7-87d05345d414> | Diabelli-Variationen op. 120: Var. XV Presto scher |
+| <https://beta.musicbrainz.org/recording/b4346bac-39c3-4267-9021-894474840a6d> | Diabelli-Variationen op. 120: Var. XVI Allegro     |
+| <https://beta.musicbrainz.org/recording/266ce7dd-2da8-4064-886f-094f1469cae4> | Diabelli-Variationen op. 120: Var. XVII            |
+| <https://beta.musicbrainz.org/recording/12c69197-dba5-40f2-9ec6-b38628c84c26> | Diabelli-Variationen op. 120: Var. XVIII Poco mode |
+| <https://beta.musicbrainz.org/recording/37b72dd2-8eff-422f-8e93-a88b436ec912> | Diabelli-Variationen op. 120: Var. XIX Presto      |
+| <https://beta.musicbrainz.org/recording/5daf144e-19b6-4b91-b298-68d7787332ec> | Diabelli-Variationen op. 120: Var. XX Andante      |
+| <https://beta.musicbrainz.org/recording/326bad24-91ea-4769-964c-2f10fad74f78> | Diabelli-Variationen op. 120: Var. XXI Allegro con |
+| <https://beta.musicbrainz.org/recording/c39f3404-2fef-4805-b1b7-7986da274e64> | Diabelli-Variationen op. 120: Var. XXII Allegro mo |
+| <https://beta.musicbrainz.org/recording/cbb4830b-c185-4f61-b480-4cda0bd7e2a5> | Diabelli-Variationen op. 120: Var. XXIII Allegro a |
+| <https://beta.musicbrainz.org/recording/cee3ca7c-9553-4833-942e-e190d07beec3> | Diabelli-Variationen op. 120: Var. XXIV Fughetta.  |
+| <https://beta.musicbrainz.org/recording/ca207dc5-b783-4eab-bcbe-39477a4e06be> | Diabelli-Variationen op. 120: Var. XXV Allegro     |
+| <https://beta.musicbrainz.org/recording/4a27bcce-654c-4b6a-9e9d-1d9f73021da2> | Diabelli-Variationen op. 120: Var. XXVI            |
+| <https://beta.musicbrainz.org/recording/9d74ca54-f0e2-48fc-97be-61609e99a89b> | Diabelli-Variationen op. 120: Var. XXVII Vivace    |
+| <https://beta.musicbrainz.org/recording/b715cbee-9416-4006-8276-a633cabdea8f> | Diabelli-Variationen op. 120: Var. XXVIII Allegro  |
+| <https://beta.musicbrainz.org/recording/21ecbded-a5af-45d3-a33a-15d9dc67de50> | Diabelli-Variationen op. 120: Var. XXIX Adagio ma  |
+| <https://beta.musicbrainz.org/recording/54d8aa5f-3de4-4d94-b669-4d86e818320d> | Diabelli-Variationen op. 120: Var. XXX Andante, se |
+| <https://beta.musicbrainz.org/recording/dc89a8ef-239e-42a0-b39c-c66be8ab9e8c> | Diabelli-Variationen op. 120: Var. XXXI Largo molt |
+| <https://beta.musicbrainz.org/recording/a6e30527-60b3-4035-b166-b011c30548e9> | Diabelli-Variationen op. 120: Var. XXXII Fuga. All |
+| <https://beta.musicbrainz.org/recording/e719887e-a057-4a5a-ba15-3a8c986a4fb9> | Diabelli-Variationen op. 120: Var. XXXIII Tempo di |
+| <https://beta.musicbrainz.org/recording/9b78ff91-ec88-457e-9350-095b33f6153d> | Diabelli-Variationen, op. 120: Thema. Vivace       |
+| <https://beta.musicbrainz.org/recording/9e742e6b-f4ab-4c9d-b58f-2baf4e5fbd4d> | Diabelli-Variationen, op. 120: Var. I Alla marcia  |
+| <https://beta.musicbrainz.org/recording/def200db-ee70-42fe-bf22-40fea674a2a7> | Diabelli-Variationen, op. 120: Var. II Poco allegr |
+| <https://beta.musicbrainz.org/recording/8cc1435c-eeb8-40f6-bf0c-8adf8695b70f> | Diabelli-Variationen, op. 120: Var. III L’istesso  |
+| <https://beta.musicbrainz.org/recording/5d5c816b-16c0-48ae-884b-5e193a24602e> | Diabelli-Variationen, op. 120: Var. IV Un poco più |
+| <https://beta.musicbrainz.org/recording/446b193e-1b53-4864-ab5b-1360b2b66bb3> | Diabelli-Variationen, op. 120: Var. V Allegro viva |
+| <https://beta.musicbrainz.org/recording/e5041bb3-3aa3-4342-a1e3-60d856e0aceb> | Diabelli-Variationen, op. 120: Var. VI Allegro ma  |
+| <https://beta.musicbrainz.org/recording/304204d5-c739-4835-a9db-05ba62a0d3dd> | Diabelli-Variationen, op. 120: Var. VII Un poco pi |
+| <https://beta.musicbrainz.org/recording/90c158e2-b333-4670-9a8c-c7fe4f898e9a> | Diabelli-Variationen, op. 120: Var. VIII Poco viva |
+| <https://beta.musicbrainz.org/recording/c98dd0f0-4155-486c-99f3-b000d2a75630> | Diabelli-Variationen, op. 120: Var. IX Allegro pes |
+| <https://beta.musicbrainz.org/recording/b5325baf-b0b8-4220-817a-56daf405aafe> | Diabelli-Variationen, op. 120: Var. X Presto       |
+| <https://beta.musicbrainz.org/recording/bf3ba5df-3143-417a-8f88-4d6cd7ef789b> | Diabelli-Variationen, op. 120: Var. XI Allegretto  |
+| <https://beta.musicbrainz.org/recording/d3b6ccd3-a59f-45d9-ae89-acc1bb576388> | Diabelli-Variationen, op. 120: Var. XII Un poco pi |
+| <https://beta.musicbrainz.org/recording/b6235a24-b1b5-4d7d-9616-7cfa72dba0a3> | Diabelli-Variationen, op. 120: Var. XIII Vivace    |
+| <https://beta.musicbrainz.org/recording/cbd25504-bd74-47dc-b3dd-edbc9858e95e> | Diabelli-Variationen, op. 120: Var. XIV Grave e ma |
+| <https://beta.musicbrainz.org/recording/7292e004-e6f7-4dc3-b841-6dbaec4d0eb1> | Diabelli-Variationen, op. 120: Var. XV Presto sche |
+| <https://beta.musicbrainz.org/recording/e64b6e78-fcf6-4df8-b733-e6c8bbc67dde> | Diabelli-Variationen, op. 120: Var. XVI Allegro    |
+| <https://beta.musicbrainz.org/recording/93904fd2-c8fd-4125-95eb-97f46f2f7f8f> | Diabelli-Variationen, op. 120: Var. XVII           |
+| <https://beta.musicbrainz.org/recording/845daec3-482c-4038-b23f-18b38ff35693> | Diabelli-Variationen, op. 120: Var. XVIII Poco mod |
+| <https://beta.musicbrainz.org/recording/1ce38d9a-ca81-4c86-8afc-0e8290bd0e8b> | Diabelli-Variationen, op. 120: Var. XIX Presto     |
+| <https://beta.musicbrainz.org/recording/fbeb432c-48e7-4d15-a4dc-4e7e8e205255> | Diabelli-Variationen, op. 120: Var. XX Andante     |
+| <https://beta.musicbrainz.org/recording/dfd13ff1-188c-44bc-8752-45ba6f6b317b> | Diabelli-Variationen, op. 120: Var. XXI Allegro co |
+| <https://beta.musicbrainz.org/recording/0f2d30fe-4c75-4eb3-b20c-63a38c3ffd77> | Diabelli-Variationen, op. 120: Var. XXII Allegro m |
+| <https://beta.musicbrainz.org/recording/e521c0fb-e6c9-45cb-83a4-7d8d8bb5fbbe> | Diabelli-Variationen, op. 120: Var. XXIII Allegro  |
+| <https://beta.musicbrainz.org/recording/1643235d-0f80-4de7-aa90-51f1025c1ded> | Diabelli-Variationen, op. 120: Var. XXIV Fughetta. |
+| <https://beta.musicbrainz.org/recording/009b8848-0df1-43c7-a1b8-5ef4d8a2c4b7> | Diabelli-Variationen, op. 120: Var. XXV Allegro    |
+| <https://beta.musicbrainz.org/recording/62422a8b-9fa9-42be-8aa5-63ffed1a4339> | Diabelli-Variationen, op. 120: Var. XXVI           |
+| <https://beta.musicbrainz.org/recording/36b9ea3c-834b-42cf-a479-0f187dab28d3> | Diabelli-Variationen, op. 120: Var. XXVII Vivace   |
+| <https://beta.musicbrainz.org/recording/c80b04f3-d17a-4a9b-9c30-c636d1bf85bf> | Diabelli-Variationen, op. 120: Var. XXVIII Allegro |
+| <https://beta.musicbrainz.org/recording/4c25ffde-6ee1-4209-9588-011f73b52907> | Diabelli-Variationen, op. 120: Var. XXIX Adagio ma |
+| <https://beta.musicbrainz.org/recording/4ccef10e-1e9f-4ac7-8ea3-e557b19f928e> | Diabelli-Variationen, op. 120: Var. XXX Andante, s |
+| <https://beta.musicbrainz.org/recording/b27d5b00-d984-405d-bcf3-02262515c394> | Diabelli-Variationen, op. 120: Var. XXXI Largo mol |
+| <https://beta.musicbrainz.org/recording/28310c26-382f-4a9e-abbf-d70c9f2ce31f> | Diabelli-Variationen, op. 120: Var. XXXII Fuga. Al |
+| <https://beta.musicbrainz.org/recording/198bcf10-3183-4c63-a899-a529a401330a> | Diabelli-Variationen, op. 120: Var. XXXIII Tempo d |
+| <https://beta.musicbrainz.org/recording/44087d86-8b92-4c8f-ad50-bfa172bd7303> | Sechs Bagatellen, op. 126: Andante con moto cantab |
+| <https://beta.musicbrainz.org/recording/1f40134b-0c63-49d6-8681-12a4c593654b> | Sechs Bagatellen, op. 126: Allegro                 |
+| <https://beta.musicbrainz.org/recording/4d1025f3-1d9b-41e1-91c9-19029bc2c7b4> | Sechs Bagatellen, op. 126: Andante cantabile e gra |
+| <https://beta.musicbrainz.org/recording/7870cbf2-35fc-4200-947d-b3f8b8753216> | Sechs Bagatellen, op. 126: Presto                  |
+| <https://beta.musicbrainz.org/recording/e97c9d54-b0a6-413b-98e5-ab2bec5fd519> | Sechs Bagatellen, op. 126: Quasi Allegretto        |
+| <https://beta.musicbrainz.org/recording/5d86c2bf-11c3-4339-b013-96276e16c154> | Sechs Bagatellen, op. 126: Presto-Andante amabile  |
+| <https://beta.musicbrainz.org/recording/e15a59f1-5618-498d-a150-2c2e72c4565f> | Sonata in E minor, K. 304: II. Tempo di menuetto   |
+| <https://beta.musicbrainz.org/recording/c08ea6cd-c738-4de3-98c2-ff7b60bf7f5a> | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
+| <https://beta.musicbrainz.org/recording/cda116b9-b2a3-4346-bee3-9879a408b6d4> | Three Piano Pieces, D. 946: No. 1 in E-flat minor. |
+| <https://beta.musicbrainz.org/recording/6343fcfb-f0ed-4af6-b8f9-d7b10db509d3> | Allegretto in C minor, D. 915                      |
+| <https://beta.musicbrainz.org/recording/faf7ec2e-f818-41c9-a239-f6f09c625d89> | Eine kleine Gigue in G major, KV 574               |
+| <https://beta.musicbrainz.org/recording/66eb2cfa-1abd-482e-b437-281d2547e7d7> | Sonata in G minor, Hob. XVI:44: I. Moderato        |
+| <https://beta.musicbrainz.org/recording/7d88cca3-44f7-47f6-ac66-4af3c3aca7d7> | Sonata in G minor, Hob. XVI:44: II. Allegretto     |
+| <https://beta.musicbrainz.org/recording/2ced2556-60b5-4bc7-9e77-81d3693bfffc> | Hungarian Melody in B minor, D. 817                |
+| <https://beta.musicbrainz.org/recording/2b334baf-e460-4520-afc4-922ac8f0a62a> | Andante favori in F major, WoO 57                  |
+| <https://beta.musicbrainz.org/recording/78533547-fcc7-47be-8bdf-5faa05c9fbec> | Partita no. 1 in B-flat major, BWV 825: Menuet I & |
+| <https://beta.musicbrainz.org/recording/78533547-fcc7-47be-8bdf-5faa05c9fbec> | Partita no. 1 in B-flat major, BWV 825: Menuet I & |
+| <https://beta.musicbrainz.org/recording/e46eae6c-b610-4ae0-848b-0755ea2144b9> | Partita no. 1 in B-flat major, BWV 825: Gigue      |
+| <https://beta.musicbrainz.org/recording/6687837b-f750-4f4b-a56c-4eb1c58e9b9d> | Prelude and Fugue in B-flat minor, BWV 867: Prelud |
+| <https://beta.musicbrainz.org/recording/492093a4-85db-4545-9288-10b269b3274c> | Prelude and Fugue in B-flat minor, BWV 867: Fugue  |
+| <https://beta.musicbrainz.org/recording/4f835f0c-d675-41fe-9367-0b329c6b76a6> | Lieder ohne Worte, op. 62: no. 1 Andante espressiv |
+| <https://beta.musicbrainz.org/recording/f6f7c3a9-7bf1-49b4-b9b0-c25d5775f2d5> | Lieder ohne Worte, op. 67, Arr. Hardenberger/Pönti |
+| <https://beta.musicbrainz.org/recording/a494a5fb-ba8f-4e6b-959e-12205e46cc33> | Piano Concerto no. 1 in B-Flat minor, op. 23, TH 5 |
+| <https://beta.musicbrainz.org/recording/18a6910b-750e-4a1c-a65b-66c1ecbae962> | Piano Concerto no. 1 in B-Flat minor, op. 23, TH 5 |
+| <https://beta.musicbrainz.org/recording/1b31bea7-5bd9-4b8a-b81e-1a3b623b43e5> | Piano Concerto no. 1 in B-Flat minor, op. 23, TH 5 |
+| <https://beta.musicbrainz.org/recording/73bd7891-318f-4dbd-acdb-0fdae3533407> | Variations on a Nursery Song, op. 25: Introduzione |
+| <https://beta.musicbrainz.org/recording/39d9ce18-b741-4974-8d40-8445fb4a5e92> | Variations on a Nursery Song, op. 25: Tema (Allegr |
+| <https://beta.musicbrainz.org/recording/f062be0b-37c7-41ce-8a8a-86ef55145984> | Variations on a Nursery Song, op. 25: Var.1: Poco  |
+| <https://beta.musicbrainz.org/recording/59e103f4-77b1-4b70-844f-f24744dceadb> | Variations on a Nursery Song, op. 25: Var.2: Risol |
+| <https://beta.musicbrainz.org/recording/e6496dc6-17f9-4392-9676-deef802a94fe> | Variations on a Nursery Song, op. 25: Var.3        |
+| <https://beta.musicbrainz.org/recording/84ed6a06-3d8d-45ce-b3a3-6d1c8aaef539> | Variations on a Nursery Song, op. 25: Var.4: Molto |
+| <https://beta.musicbrainz.org/recording/3e998e77-7a35-4b09-9d23-d68305afd4b9> | Variations on a Nursery Song, op. 25: Var.5: Più m |
+| <https://beta.musicbrainz.org/recording/e527746d-c0d4-4cbb-bf48-26edd41ebba3> | Variations on a Nursery Song, op. 25: Var.6: Ancor |
+| <https://beta.musicbrainz.org/recording/3a9faec4-5d52-4c00-9dd9-5b9f7f181835> | Variations on a Nursery Song, op. 25: Var.7: Walze |
+| <https://beta.musicbrainz.org/recording/e274c154-2d5a-47f1-a8d9-dc2c2ca63664> | Variations on a Nursery Song, op. 25: Var.8: Alla  |
+| <https://beta.musicbrainz.org/recording/e514ba74-c903-4f4b-9a77-b311e347fe33> | Variations on a Nursery Song, op. 25: Var.9: Prest |
+| <https://beta.musicbrainz.org/recording/40c769de-87c3-48f7-9c90-00b74ef6809b> | Variations on a Nursery Song, op. 25: Var.10: Pass |
+| <https://beta.musicbrainz.org/recording/1f3e3fbe-0644-475f-a9f7-9e47c3865d80> | Variations on a Nursery Song, op. 25: Var.11: Chor |
+| <https://beta.musicbrainz.org/recording/0c39961b-e470-4d52-b17f-5ef06389d415> | Variations on a Nursery Song, op. 25: Finale Fugat |
+| <https://beta.musicbrainz.org/recording/3fec7567-12e0-45d6-adf4-b236c836bf1d> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
+| <https://beta.musicbrainz.org/recording/14156adf-3143-4812-ac32-5e4519c99a42> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
+| <https://beta.musicbrainz.org/recording/5d45ece6-8ae2-4e84-b658-6a1784410fd8> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
+| <https://beta.musicbrainz.org/recording/9a684bb2-1997-4d5a-858b-0d12796ce4ba> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
+| <https://beta.musicbrainz.org/recording/71dc8d5a-7bbf-4cd1-a0a6-4a823da4a1c5> | Sonata for Piano No. 32 in C minor, Op. 111: Ia. M |
+| <https://beta.musicbrainz.org/recording/068095b6-c609-42ca-b4f0-503a26108659> | Sonata for Piano No. 32 in C minor, Op. 111: Ib. A |
+| <https://beta.musicbrainz.org/recording/6f16e5c7-ec44-4e9e-923c-1ffed54f4380> | Sonata no. 3 for Cello and Piano in A major, op. 6 |
+| <https://beta.musicbrainz.org/recording/beca747d-e4ed-4a2e-9e4a-4265b9d1ea4a> | Divertissement sur des motifs originaux francais:  |
+| <https://beta.musicbrainz.org/recording/1caebb25-d3c5-44aa-add5-5fcee6ab6a27> | Quatre impromptus D 935, op. posth. 142: n° 4 en f |
+| <https://beta.musicbrainz.org/recording/f2ee775f-82ac-4cbf-bce6-348c5fecfdfc> | John Come Kiss Me Now (In G)                       |
+| <https://beta.musicbrainz.org/recording/5c392e15-7b4b-451c-9009-ad6e5a84ee71> | Sonata in D major, K. 119: Allegro                 |
+| <https://beta.musicbrainz.org/recording/004cf57b-dc81-4627-b9cc-ba3f4cfbf3df> | Sonata in G major, K. 454: Andante spirituoso      |
+| <https://beta.musicbrainz.org/recording/ffd169ce-8a0b-4ce7-8bb4-ee5d92142879> | Sonata in G major, BWV 968: I. Adagio              |
+| <https://beta.musicbrainz.org/recording/dc42a379-b5f0-4d39-99d1-466deaac49cf> | Sonata in G major, BWV 968: II. Fuga               |
+| <https://beta.musicbrainz.org/recording/ce8bd6ab-9ac8-497b-9a92-000f6f5440fd> | Sonata in G major, BWV 968: III. Largo             |
+| <https://beta.musicbrainz.org/recording/e5ec18a9-3aca-49b5-82d6-1d87a3c44dcd> | Sonata in G major, BWV 968: IV. Allegro assai      |
+| <https://beta.musicbrainz.org/recording/ca1a8ca3-d585-4bae-9565-62c0e1dd8dcd> | Sonata for 2 Harpsichords in F major, F 10: 1. [Al |
+| <https://beta.musicbrainz.org/recording/0cc67f8d-ab99-4473-9710-2cbe9490f120> | Sonata for 2 Harpsichords in F major, F 10: 2. And |
+| <https://beta.musicbrainz.org/recording/705afcae-3bed-40af-addf-e2551598e2b3> | Sonata for 2 Harpsichords in F major, F 10: 3. Pre |
+| <https://beta.musicbrainz.org/recording/bfc21d23-c115-4e9e-92ef-c1acd54ca30c> | Piano Concerto no. 2 in C minor, op. 18: II. Adagi |
+| <https://beta.musicbrainz.org/recording/44e0e289-3e9f-4fca-a12e-5c6553f8f4f4> | Canto negro                                        |
+| <https://beta.musicbrainz.org/recording/d6789205-330c-464d-b7f8-1326548f9a45> | Concerto in G major: 1. Allegramente               |
+| <https://beta.musicbrainz.org/recording/da14d309-a2a8-4b17-945e-26e52a1608ea> | Concerto in G major: 3. Presto                     |
+| <https://beta.musicbrainz.org/recording/90e485e5-3258-404e-9059-cc67fe025ef9> | Variations in G major on “La bergère Célimène”, K3 |
+| <https://beta.musicbrainz.org/recording/effc3feb-8871-43a0-9aa1-23e8aef3a1d1> | Cinq pièces (1741), La Livri                       |
+| <https://beta.musicbrainz.org/recording/353f9c35-0038-478a-83b9-912be0a10039> | Cinq pièces (1741), L'Agaçante                     |
+| <https://beta.musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1> | Cinq pièces (1741), La Timide : 1er Rondeau, 2e Ro |
+| <https://beta.musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1> | Cinq pièces (1741), La Timide : 1er Rondeau, 2e Ro |
+| <https://beta.musicbrainz.org/recording/75a8df7e-6fd9-4281-bf75-c18ebbc051db> | Cinq pièces (1741), L'Indiscrète                   |
+| <https://beta.musicbrainz.org/recording/c6c9cb32-d206-4f13-a2a1-655ec2e9a3ec> | Gigues en Rondeau                                  |
+| <https://beta.musicbrainz.org/recording/795bac72-c588-44bc-982a-62500e19c351> | 2-Part Inventions: Inventio 4 in D minor, BWV 775  |
+| <https://beta.musicbrainz.org/recording/c6ea38f9-1136-4176-a41b-cad547458de0> | La damoiselle élue, L. 62: Prélude                 |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
 
 (1001 rows)
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-|                                                                  recording_url                                                                   |                   recording_name                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [https://musicbrainz.org/recording/a0f07d98-c262-4331-8e3e-2a11b3e57e25](https://musicbrainz.org/recording/a0f07d98-c262-4331-8e3e-2a11b3e57e25) | Sonata no. 3 C-dur, BWV 1005: IV. Allegro assai    |
-| [https://musicbrainz.org/recording/aa62366d-df05-4b59-9d44-9132a2eabeab](https://musicbrainz.org/recording/aa62366d-df05-4b59-9d44-9132a2eabeab) | Seven Popular Spanish Songs, G. 40: No. 4, "Jota"  |
-| [https://musicbrainz.org/recording/beebd5b1-4cbc-43c6-ac5b-cf4266ac97cf](https://musicbrainz.org/recording/beebd5b1-4cbc-43c6-ac5b-cf4266ac97cf) | Siete canciones populares espanolas: No. 4 Jota    |
-| [https://musicbrainz.org/recording/4df32122-ee54-464f-be6e-207c31ce8a0b](https://musicbrainz.org/recording/4df32122-ee54-464f-be6e-207c31ce8a0b) | 24 Caprices, Op. 1: Caprice No. 5 in A minor       |
-| [https://musicbrainz.org/recording/0a1dffc6-d722-422f-be71-578728affdeb](https://musicbrainz.org/recording/0a1dffc6-d722-422f-be71-578728affdeb) | Mazeppa, Act 3: Maria's Aria. Andante non tanto    |
-| [https://musicbrainz.org/recording/3a743c73-697c-46e1-be4b-a46c9296a5df](https://musicbrainz.org/recording/3a743c73-697c-46e1-be4b-a46c9296a5df) | Tales of an Old Grandmother, op. 31: II. Andantino |
-| [https://musicbrainz.org/recording/fb4e6be0-61c5-4bb1-8d87-998ee267cc39](https://musicbrainz.org/recording/fb4e6be0-61c5-4bb1-8d87-998ee267cc39) | Tales of an Old Grandmother, op. 31: III. Andante  |
-| [https://musicbrainz.org/recording/1691c94d-2b62-4380-b065-d68860965979](https://musicbrainz.org/recording/1691c94d-2b62-4380-b065-d68860965979) | Orfeo ed Euridice (Italian version), Wq. 30: Melod |
-| [https://musicbrainz.org/recording/8d3249f8-a545-4a9f-9799-300e876da3cc](https://musicbrainz.org/recording/8d3249f8-a545-4a9f-9799-300e876da3cc) | Nocturne No. 20 in C-sharp minor (arr. Nathan Mils |
-| [https://musicbrainz.org/recording/e0712697-9007-46d0-9028-d7d956261784](https://musicbrainz.org/recording/e0712697-9007-46d0-9028-d7d956261784) | Perpetuum mobile                                   |
-| [https://musicbrainz.org/recording/1c86b075-b9d2-4801-9c15-0ebf885d7560](https://musicbrainz.org/recording/1c86b075-b9d2-4801-9c15-0ebf885d7560) | Violinkonzert No. 4 D-Dur, KV 218: I. Allegro mode |
-| [https://musicbrainz.org/recording/c9372dab-7aeb-48cb-91ef-30c8f312fdcd](https://musicbrainz.org/recording/c9372dab-7aeb-48cb-91ef-30c8f312fdcd) | Hungarian Dances for orchestra, WoO 1: No. 2 in D  |
-| [https://musicbrainz.org/recording/a7a56ef7-e8ba-47e5-af97-a1c46de2cc50](https://musicbrainz.org/recording/a7a56ef7-e8ba-47e5-af97-a1c46de2cc50) | Concerto In A (K.219) "Turkish"                    |
-| [https://musicbrainz.org/recording/aa19f065-8d89-4221-b91a-6a056a68d847](https://musicbrainz.org/recording/aa19f065-8d89-4221-b91a-6a056a68d847) | Concerto In A Minor                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+|                                 recording_url                                 |                   recording_name                   |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+| <https://beta.musicbrainz.org/recording/a0f07d98-c262-4331-8e3e-2a11b3e57e25> | Sonata no. 3 C-dur, BWV 1005: IV. Allegro assai    |
+| <https://beta.musicbrainz.org/recording/aa62366d-df05-4b59-9d44-9132a2eabeab> | Seven Popular Spanish Songs, G. 40: No. 4, "Jota"  |
+| <https://beta.musicbrainz.org/recording/beebd5b1-4cbc-43c6-ac5b-cf4266ac97cf> | Siete canciones populares espanolas: No. 4 Jota    |
+| <https://beta.musicbrainz.org/recording/4df32122-ee54-464f-be6e-207c31ce8a0b> | 24 Caprices, Op. 1: Caprice No. 5 in A minor       |
+| <https://beta.musicbrainz.org/recording/0a1dffc6-d722-422f-be71-578728affdeb> | Mazeppa, Act 3: Maria's Aria. Andante non tanto    |
+| <https://beta.musicbrainz.org/recording/3a743c73-697c-46e1-be4b-a46c9296a5df> | Tales of an Old Grandmother, op. 31: II. Andantino |
+| <https://beta.musicbrainz.org/recording/fb4e6be0-61c5-4bb1-8d87-998ee267cc39> | Tales of an Old Grandmother, op. 31: III. Andante  |
+| <https://beta.musicbrainz.org/recording/1691c94d-2b62-4380-b065-d68860965979> | Orfeo ed Euridice (Italian version), Wq. 30: Melod |
+| <https://beta.musicbrainz.org/recording/8d3249f8-a545-4a9f-9799-300e876da3cc> | Nocturne No. 20 in C-sharp minor (arr. Nathan Mils |
+| <https://beta.musicbrainz.org/recording/e0712697-9007-46d0-9028-d7d956261784> | Perpetuum mobile                                   |
+| <https://beta.musicbrainz.org/recording/1c86b075-b9d2-4801-9c15-0ebf885d7560> | Violinkonzert No. 4 D-Dur, KV 218: I. Allegro mode |
+| <https://beta.musicbrainz.org/recording/c9372dab-7aeb-48cb-91ef-30c8f312fdcd> | Hungarian Dances for orchestra, WoO 1: No. 2 in D  |
+| <https://beta.musicbrainz.org/recording/a7a56ef7-e8ba-47e5-af97-a1c46de2cc50> | Concerto In A (K.219) "Turkish"                    |
+| <https://beta.musicbrainz.org/recording/aa19f065-8d89-4221-b91a-6a056a68d847> | Concerto In A Minor                                |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
 
 (14 rows)
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-|                                                                  recording_url                                                                   |                   recording_name                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [https://musicbrainz.org/recording/e84768cd-4a15-41c0-9e99-39a021b6b8db](https://musicbrainz.org/recording/e84768cd-4a15-41c0-9e99-39a021b6b8db) | String Quartet in E minor: II. Andantino           |
-| [https://musicbrainz.org/recording/3297b5e2-0f99-4344-b215-b3ad1945f320](https://musicbrainz.org/recording/3297b5e2-0f99-4344-b215-b3ad1945f320) | Quintet for 2 Violins, 2 Violas & Cello no. 3 in C |
-| [https://musicbrainz.org/recording/9812eeb8-f727-4973-90d6-6f90a89009c1](https://musicbrainz.org/recording/9812eeb8-f727-4973-90d6-6f90a89009c1) | String Quartet in G major, op. 77 no. 1: IV. Final |
-| [https://musicbrainz.org/recording/8a0e226f-d72b-4f44-abfb-900b653e5bb5](https://musicbrainz.org/recording/8a0e226f-d72b-4f44-abfb-900b653e5bb5) | Trio for Violin, Viola and Cello, Op. 45           |
-| [https://musicbrainz.org/recording/3811c164-516c-4655-a3bd-842d4226882a](https://musicbrainz.org/recording/3811c164-516c-4655-a3bd-842d4226882a) | Fragmente - Stille, An Diotima: Anfang - Seite 17, |
-| [https://musicbrainz.org/recording/e036dca8-c554-474c-8203-30eef7fa1aac](https://musicbrainz.org/recording/e036dca8-c554-474c-8203-30eef7fa1aac) | Fragmente - Stille, An Diotima: Fortsetzung        |
-| [https://musicbrainz.org/recording/7ac89d19-19ca-453c-8bd6-a9ac595bf033](https://musicbrainz.org/recording/7ac89d19-19ca-453c-8bd6-a9ac595bf033) | Streichquintett F-dur: III. Adagio                 |
-| [https://musicbrainz.org/recording/16c37de9-b14a-4436-b6b6-faafe4c6ffd7](https://musicbrainz.org/recording/16c37de9-b14a-4436-b6b6-faafe4c6ffd7) | Quartet for Strings in G major, Op. 18 No. 2: I. A |
-| [https://musicbrainz.org/recording/cdc739d9-f67a-43de-9d56-b4bc7d21a89e](https://musicbrainz.org/recording/cdc739d9-f67a-43de-9d56-b4bc7d21a89e) | String Quartet no. 16 in E-flat major, K. 428: IV. |
-| [https://musicbrainz.org/recording/67b95147-ff3d-4d46-88bf-315040e8f5b3](https://musicbrainz.org/recording/67b95147-ff3d-4d46-88bf-315040e8f5b3) | Six Bagatelles for String Quartet, op. 9: VI. Flie |
-| [https://musicbrainz.org/recording/fbf34a87-d10f-458e-9b79-23524c810c53](https://musicbrainz.org/recording/fbf34a87-d10f-458e-9b79-23524c810c53) | Quartet for Piano No. 1 in G minor, K. 478: I. All |
-| [https://musicbrainz.org/recording/a0fb1522-dfdb-4d06-8985-9c4df182d5d4](https://musicbrainz.org/recording/a0fb1522-dfdb-4d06-8985-9c4df182d5d4) | Quartet for Piano No. 1 in G minor, K. 478: II. An |
-| [https://musicbrainz.org/recording/f676bc8b-0b4a-45ca-b4dd-f861c9a5534f](https://musicbrainz.org/recording/f676bc8b-0b4a-45ca-b4dd-f861c9a5534f) | Quartet for Piano No. 1 in G minor, K. 478: III. R |
-| [https://musicbrainz.org/recording/2701a234-5b1e-4099-a44c-a74b6a504eca](https://musicbrainz.org/recording/2701a234-5b1e-4099-a44c-a74b6a504eca) | String Quartet in C major, op. 59 no. 3 "Razumovsk |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+|                                 recording_url                                 |                   recording_name                   |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+| <https://beta.musicbrainz.org/recording/e84768cd-4a15-41c0-9e99-39a021b6b8db> | String Quartet in E minor: II. Andantino           |
+| <https://beta.musicbrainz.org/recording/3297b5e2-0f99-4344-b215-b3ad1945f320> | Quintet for 2 Violins, 2 Violas & Cello no. 3 in C |
+| <https://beta.musicbrainz.org/recording/9812eeb8-f727-4973-90d6-6f90a89009c1> | String Quartet in G major, op. 77 no. 1: IV. Final |
+| <https://beta.musicbrainz.org/recording/8a0e226f-d72b-4f44-abfb-900b653e5bb5> | Trio for Violin, Viola and Cello, Op. 45           |
+| <https://beta.musicbrainz.org/recording/3811c164-516c-4655-a3bd-842d4226882a> | Fragmente - Stille, An Diotima: Anfang - Seite 17, |
+| <https://beta.musicbrainz.org/recording/e036dca8-c554-474c-8203-30eef7fa1aac> | Fragmente - Stille, An Diotima: Fortsetzung        |
+| <https://beta.musicbrainz.org/recording/7ac89d19-19ca-453c-8bd6-a9ac595bf033> | Streichquintett F-dur: III. Adagio                 |
+| <https://beta.musicbrainz.org/recording/16c37de9-b14a-4436-b6b6-faafe4c6ffd7> | Quartet for Strings in G major, Op. 18 No. 2: I. A |
+| <https://beta.musicbrainz.org/recording/cdc739d9-f67a-43de-9d56-b4bc7d21a89e> | String Quartet no. 16 in E-flat major, K. 428: IV. |
+| <https://beta.musicbrainz.org/recording/67b95147-ff3d-4d46-88bf-315040e8f5b3> | Six Bagatelles for String Quartet, op. 9: VI. Flie |
+| <https://beta.musicbrainz.org/recording/fbf34a87-d10f-458e-9b79-23524c810c53> | Quartet for Piano No. 1 in G minor, K. 478: I. All |
+| <https://beta.musicbrainz.org/recording/a0fb1522-dfdb-4d06-8985-9c4df182d5d4> | Quartet for Piano No. 1 in G minor, K. 478: II. An |
+| <https://beta.musicbrainz.org/recording/f676bc8b-0b4a-45ca-b4dd-f861c9a5534f> | Quartet for Piano No. 1 in G minor, K. 478: III. R |
+| <https://beta.musicbrainz.org/recording/2701a234-5b1e-4099-a44c-a74b6a504eca> | String Quartet in C major, op. 59 no. 3 "Razumovsk |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
 
 (14 rows)
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-|                                                                  recording_url                                                                   |                   recording_name                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [https://musicbrainz.org/recording/7ca313cb-255a-4e7e-af24-794c010fb9b0](https://musicbrainz.org/recording/7ca313cb-255a-4e7e-af24-794c010fb9b0) | Il Barbiere Di Siviglia: Act I. No. 1. Introduzion |
-| [https://musicbrainz.org/recording/7b157f23-1f50-4f66-9396-3b8161300366](https://musicbrainz.org/recording/7b157f23-1f50-4f66-9396-3b8161300366) | Il Barbiere Di Siviglia: Act I. No. 3. Canzone "Se |
-| [https://musicbrainz.org/recording/7b157f23-1f50-4f66-9396-3b8161300366](https://musicbrainz.org/recording/7b157f23-1f50-4f66-9396-3b8161300366) | Il Barbiere Di Siviglia: Act I. No. 3. Canzone "Se |
-| [https://musicbrainz.org/recording/9c406da0-73f0-41d9-8a5d-bf9600dbcebd](https://musicbrainz.org/recording/9c406da0-73f0-41d9-8a5d-bf9600dbcebd) | Il Barbiere Di Siviglia: Act I. No. 6. Aria "La ca |
-| [https://musicbrainz.org/recording/47acb5f7-80f4-4a69-848c-49890b546cc6](https://musicbrainz.org/recording/47acb5f7-80f4-4a69-848c-49890b546cc6) | Carmen : Acte II. Entr’acte                        |
-| [https://musicbrainz.org/recording/33e0a0b9-4b80-4de6-83fd-39d355e5fe7c](https://musicbrainz.org/recording/33e0a0b9-4b80-4de6-83fd-39d355e5fe7c) | Carmen : Acte II. « Vous avez quelque chose à nous |
-| [https://musicbrainz.org/recording/5c5e39e8-3ef1-4ad6-a453-1402bf7567d8](https://musicbrainz.org/recording/5c5e39e8-3ef1-4ad6-a453-1402bf7567d8) | Carmen : Acte II. « Tout est bien alors » (Carmen, |
-| [https://musicbrainz.org/recording/17361a0c-62c2-4723-87a6-6cc7f6784b8b](https://musicbrainz.org/recording/17361a0c-62c2-4723-87a6-6cc7f6784b8b) | Carmen : Acte II, Nº 13. Couplet (Air du Toréador) |
-| [https://musicbrainz.org/recording/80d5ae8f-2dd1-4215-832b-2116536f0b15](https://musicbrainz.org/recording/80d5ae8f-2dd1-4215-832b-2116536f0b15) | Carmen : Acte II, Nº 15. Chanson « Amoureuse…ce n’ |
-| [https://musicbrainz.org/recording/1334acc2-c1ba-4232-b678-2ffcb964c1cb](https://musicbrainz.org/recording/1334acc2-c1ba-4232-b678-2ffcb964c1cb) | Carmen : Acte III. Entr’acte                       |
-| [https://musicbrainz.org/recording/f5c16ed7-b061-4d33-b924-5ee78381100d](https://musicbrainz.org/recording/f5c16ed7-b061-4d33-b924-5ee78381100d) | Carmen : Acte III, Nº 18. Introduction « Ecoute, c |
-| [https://musicbrainz.org/recording/5d28cd20-d976-44c4-91bf-b570ce6aa04f](https://musicbrainz.org/recording/5d28cd20-d976-44c4-91bf-b570ce6aa04f) | Carmen : Acte III. « Halte ! Nous allons nous arrê |
-| [https://musicbrainz.org/recording/940b1ac8-4c86-4e8c-9bfa-f590d36f34d8](https://musicbrainz.org/recording/940b1ac8-4c86-4e8c-9bfa-f590d36f34d8) | Carmen : Acte III, Nº 19. Trio « Mêlons ! » « Mêlo |
-| [https://musicbrainz.org/recording/715f33cd-b4a4-4252-9797-1a761bf382b2](https://musicbrainz.org/recording/715f33cd-b4a4-4252-9797-1a761bf382b2) | Carmen : Acte III. Air des cartes « Carreau, pique |
-| [https://musicbrainz.org/recording/dcb0c557-db5b-4fc3-a380-2c50afa7f99e](https://musicbrainz.org/recording/dcb0c557-db5b-4fc3-a380-2c50afa7f99e) | Carmen : Acte III, Nº 20. Morceau d’ensemble « Qua |
-| [https://musicbrainz.org/recording/92c996d9-e4e8-45f8-b410-b2ce83e29417](https://musicbrainz.org/recording/92c996d9-e4e8-45f8-b410-b2ce83e29417) | Carmen : Acte III. « Mais… je ne me trompe pas… »  |
-| [https://musicbrainz.org/recording/92c996d9-e4e8-45f8-b410-b2ce83e29417](https://musicbrainz.org/recording/92c996d9-e4e8-45f8-b410-b2ce83e29417) | Carmen : Acte III. « Mais… je ne me trompe pas… »  |
-| [https://musicbrainz.org/recording/f02d6eeb-b5c0-467a-9e45-56121e381359](https://musicbrainz.org/recording/f02d6eeb-b5c0-467a-9e45-56121e381359) | Carmen : Acte III, Nº 23. Finale « Holà, José ! »  |
-| [https://musicbrainz.org/recording/4e4ca9a2-e103-4df7-8c4a-06ccc6e98c0b](https://musicbrainz.org/recording/4e4ca9a2-e103-4df7-8c4a-06ccc6e98c0b) | Carmen : Acte III, Nº 24. Chœur « À deux cuartos » |
-| [https://musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc](https://musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc) | Aida: Atto III. “O patria mia”                     |
-| [https://musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc](https://musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc) | Aida: Atto III. “O patria mia”                     |
-| [https://musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc](https://musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc) | Aida: Atto III. “O patria mia”                     |
-| [https://musicbrainz.org/recording/7615a254-6c27-4f09-9ad2-798d7bca5fd7](https://musicbrainz.org/recording/7615a254-6c27-4f09-9ad2-798d7bca5fd7) | Night on Bald Mountain                             |
-| [https://musicbrainz.org/recording/ad28c70f-b788-42ee-9469-7496b3c2617b](https://musicbrainz.org/recording/ad28c70f-b788-42ee-9469-7496b3c2617b) | The Destruction of Sennacherib                     |
-| [https://musicbrainz.org/recording/08bcece3-60da-4e6b-bd5b-c98a40df0e47](https://musicbrainz.org/recording/08bcece3-60da-4e6b-bd5b-c98a40df0e47) | Salammbô: Chorus of Priestesses                    |
-| [https://musicbrainz.org/recording/2c442531-42d1-4a7c-ad7c-ad8fe01e2dcd](https://musicbrainz.org/recording/2c442531-42d1-4a7c-ad7c-ad8fe01e2dcd) | Oedipus in Athens: Chorus of People in the Temple  |
-| [https://musicbrainz.org/recording/ae96a7d7-7eda-4412-b35f-bd0128a5ba29](https://musicbrainz.org/recording/ae96a7d7-7eda-4412-b35f-bd0128a5ba29) | Joshua                                             |
-| [https://musicbrainz.org/recording/ac39c07d-b9dd-478a-9f1e-a4aa1971c203](https://musicbrainz.org/recording/ac39c07d-b9dd-478a-9f1e-a4aa1971c203) | Pictures at an Exhibition: Promenade. Allegro gius |
-| [https://musicbrainz.org/recording/72a66c2b-73e2-4961-929a-10084ff4542a](https://musicbrainz.org/recording/72a66c2b-73e2-4961-929a-10084ff4542a) | Pictures at an Exhibition: I. Gnomus. Vivo         |
-| [https://musicbrainz.org/recording/35e56f64-00f1-4a97-b7d9-f0927c9dc989](https://musicbrainz.org/recording/35e56f64-00f1-4a97-b7d9-f0927c9dc989) | Pictures at an Exhibition: Promenade. Moderato com |
-| [https://musicbrainz.org/recording/87bb37d2-adfb-49e7-af4b-32402ba9b496](https://musicbrainz.org/recording/87bb37d2-adfb-49e7-af4b-32402ba9b496) | Pictures at an Exhibition: II. The Old Castle. And |
-| [https://musicbrainz.org/recording/5f42d4d1-3633-4071-a977-a0037b579480](https://musicbrainz.org/recording/5f42d4d1-3633-4071-a977-a0037b579480) | Pictures at an Exhibition: Promenade. Moderato non |
-| [https://musicbrainz.org/recording/8afc4e56-54b2-44e6-b821-9d6fff33612e](https://musicbrainz.org/recording/8afc4e56-54b2-44e6-b821-9d6fff33612e) | Pictures at an Exhibition: III. Tuileries Gardens. |
-| [https://musicbrainz.org/recording/f31191db-0d72-4ca6-8591-dff0e5587a02](https://musicbrainz.org/recording/f31191db-0d72-4ca6-8591-dff0e5587a02) | Pictures at an Exhibition: IV. Bydło. Sempre moder |
-| [https://musicbrainz.org/recording/8e94bb88-2796-4b8f-872b-f0c1249e660a](https://musicbrainz.org/recording/8e94bb88-2796-4b8f-872b-f0c1249e660a) | Pictures at an Exhibition: Promenade. Tranquillo   |
-| [https://musicbrainz.org/recording/0b8a5dbb-ff01-4f58-bc27-745b3914c471](https://musicbrainz.org/recording/0b8a5dbb-ff01-4f58-bc27-745b3914c471) | Pictures at an Exhibition: V. Ballet of the Unhatc |
-| [https://musicbrainz.org/recording/3b981535-5b47-44ed-90eb-e44a9aa1fb02](https://musicbrainz.org/recording/3b981535-5b47-44ed-90eb-e44a9aa1fb02) | Pictures at an Exhibition: VI. Samuel Goldenberg a |
-| [https://musicbrainz.org/recording/9d3d81d4-aa05-4020-bc20-376d1ffeb03f](https://musicbrainz.org/recording/9d3d81d4-aa05-4020-bc20-376d1ffeb03f) | Pictures at an Exhibition: VII. The Limoges Market |
-| [https://musicbrainz.org/recording/397f3768-b487-47ca-962a-0ed05e555373](https://musicbrainz.org/recording/397f3768-b487-47ca-962a-0ed05e555373) | Pictures at an Exhibition: VIII. The Catacombs: Se |
-| [https://musicbrainz.org/recording/f9d1d435-d575-46cf-a563-5ba3514eb122](https://musicbrainz.org/recording/f9d1d435-d575-46cf-a563-5ba3514eb122) | Pictures at an Exhibition: Cum mortuis in lingua m |
-| [https://musicbrainz.org/recording/ac91f8c2-5f1c-4a06-b6a6-52a19a689e85](https://musicbrainz.org/recording/ac91f8c2-5f1c-4a06-b6a6-52a19a689e85) | L'italiana in Algeri: Atto II. Recitativo: “Che be |
-| [https://musicbrainz.org/recording/a1ee86ce-93bc-4a07-a68e-8711556477d9](https://musicbrainz.org/recording/a1ee86ce-93bc-4a07-a68e-8711556477d9) | Carmen: Votre toast ... Toréador en garde          |
-| [https://musicbrainz.org/recording/7d949eb6-14f5-43cd-acb7-3d6eb9f6f488](https://musicbrainz.org/recording/7d949eb6-14f5-43cd-acb7-3d6eb9f6f488) | Don Carlo: È dessa! ... Un detto, un sol           |
-| [https://musicbrainz.org/recording/fbbacea1-63cd-4b5e-9b2c-7cc617e83b3f](https://musicbrainz.org/recording/fbbacea1-63cd-4b5e-9b2c-7cc617e83b3f) | Don Carlo: Ma lassù ci vedremo                     |
-| [https://musicbrainz.org/recording/33038ebf-45ed-43a2-a235-eef598dd89e1](https://musicbrainz.org/recording/33038ebf-45ed-43a2-a235-eef598dd89e1) | I Lombardi: All'armi? ... Che ascolto!             |
-| [https://musicbrainz.org/recording/0a01d426-5b5d-4ffe-b5f6-540f5dc19605](https://musicbrainz.org/recording/0a01d426-5b5d-4ffe-b5f6-540f5dc19605) | Otello: Già nella notte densa                      |
-| [https://musicbrainz.org/recording/00a45ab1-3455-407e-8b9b-349673adbff8](https://musicbrainz.org/recording/00a45ab1-3455-407e-8b9b-349673adbff8) | Rigoletto: Giovanna, ho dei rimorsi                |
-| [https://musicbrainz.org/recording/d3611a4c-3027-49ce-9074-0ed24e1b5365](https://musicbrainz.org/recording/d3611a4c-3027-49ce-9074-0ed24e1b5365) | Rigoletto: E il sol dell'anima                     |
-| [https://musicbrainz.org/recording/b090ece0-e0f0-4f37-abe6-be604ca0b185](https://musicbrainz.org/recording/b090ece0-e0f0-4f37-abe6-be604ca0b185) | Rigoletto: Che m'ami, deh, ripetimi                |
-| [https://musicbrainz.org/recording/fa11c6b4-568f-42b8-af63-67ec95278ede](https://musicbrainz.org/recording/fa11c6b4-568f-42b8-af63-67ec95278ede) | Rigoletto: Atto I, Scena II. “Addio! speranza ed a |
-| [https://musicbrainz.org/recording/39b5070d-3a76-4dc3-9edf-58b3b88e284c](https://musicbrainz.org/recording/39b5070d-3a76-4dc3-9edf-58b3b88e284c) | Aida: La fatal pietra sovra me si chiuse           |
-| [https://musicbrainz.org/recording/e3fa0a05-868d-4faf-9974-f7d6e01a5d5a](https://musicbrainz.org/recording/e3fa0a05-868d-4faf-9974-f7d6e01a5d5a) | Aida: O terra, addio                               |
-| [https://musicbrainz.org/recording/1deead2f-8be8-4cfd-8cb0-ae054d669940](https://musicbrainz.org/recording/1deead2f-8be8-4cfd-8cb0-ae054d669940) | Il trovatore: Miserere ... Quel suon, quelle preci |
-| [https://musicbrainz.org/recording/0c9b5275-d16e-40aa-ad77-8a0ed8bc1811](https://musicbrainz.org/recording/0c9b5275-d16e-40aa-ad77-8a0ed8bc1811) | Tannhäuser: Overture                               |
-| [https://musicbrainz.org/recording/4bd6010c-fe5d-4b55-a12a-50840739fd42](https://musicbrainz.org/recording/4bd6010c-fe5d-4b55-a12a-50840739fd42) | Tannhäuser: Wie Todesahnung Dämmrung Deckt Die Lan |
-| [https://musicbrainz.org/recording/455d8cb0-ee62-4470-a2ad-16e6bdbd675c](https://musicbrainz.org/recording/455d8cb0-ee62-4470-a2ad-16e6bdbd675c) | Die Meistersinger Von Nurnberg: Prelude to Act I   |
-| [https://musicbrainz.org/recording/96ed18ed-a84a-471c-bb2a-711283288e75](https://musicbrainz.org/recording/96ed18ed-a84a-471c-bb2a-711283288e75) | Aida: Atto II. “Il dolor che in quel volto favella |
-| [https://musicbrainz.org/recording/96ed18ed-a84a-471c-bb2a-711283288e75](https://musicbrainz.org/recording/96ed18ed-a84a-471c-bb2a-711283288e75) | Aida: Atto II. “Il dolor che in quel volto favella |
-| [https://musicbrainz.org/recording/e8d4a62a-271a-4778-ae0b-6a0588bdaf68](https://musicbrainz.org/recording/e8d4a62a-271a-4778-ae0b-6a0588bdaf68) | Aida: Atto III. Duetto “Nel fiero anelito… Fuggiam |
-| [https://musicbrainz.org/recording/63005186-43ea-4c3f-b1c1-3589a7addfe3](https://musicbrainz.org/recording/63005186-43ea-4c3f-b1c1-3589a7addfe3) | Macbeth: Atto II. Finale II: "Si colmi il calice"  |
-| [https://musicbrainz.org/recording/10c1e186-7c1c-46f5-8982-3a9ce66a7071](https://musicbrainz.org/recording/10c1e186-7c1c-46f5-8982-3a9ce66a7071) | Macbeth: Atto IV. Scena ed aria: "Dove siam? che b |
-| [https://musicbrainz.org/recording/99bd6a4a-7e3b-4888-8c35-b892f51216ab](https://musicbrainz.org/recording/99bd6a4a-7e3b-4888-8c35-b892f51216ab) | La Cenerentola: Atto I. Introduzione "No, no, no:  |
-| [https://musicbrainz.org/recording/0bac4150-95c0-4d72-8291-a3e305296b00](https://musicbrainz.org/recording/0bac4150-95c0-4d72-8291-a3e305296b00) | La Cenerentola: Atto I. Introduzione "Una volta c' |
-| [https://musicbrainz.org/recording/36667e71-64cf-42f5-b32b-2136583d8d34](https://musicbrainz.org/recording/36667e71-64cf-42f5-b32b-2136583d8d34) | La Cenerentola: Atto I. Introduzione "O figlie ama |
-| [https://musicbrainz.org/recording/d2f54a6a-a1eb-4e3f-957c-cfe17eb0098f](https://musicbrainz.org/recording/d2f54a6a-a1eb-4e3f-957c-cfe17eb0098f) | La Cenerentola: Atto I. Recitativo "Cenerentola, p |
-| [https://musicbrainz.org/recording/539ad125-d768-4d2e-857a-05ee96f3e51c](https://musicbrainz.org/recording/539ad125-d768-4d2e-857a-05ee96f3e51c) | La Cenerentola: Atto I. Cavatina "Miei rampolli fe |
-| [https://musicbrainz.org/recording/c9c0b396-cc01-44ba-874b-866cb28d8f19](https://musicbrainz.org/recording/c9c0b396-cc01-44ba-874b-866cb28d8f19) | La Cenerentola: Atto I. Recitativo "Sappiate che f |
-| [https://musicbrainz.org/recording/ceb3c849-fffb-4a0a-9702-d99f82c45734](https://musicbrainz.org/recording/ceb3c849-fffb-4a0a-9702-d99f82c45734) | La Cenerentola: Atto I. Scena "Tutto è deserto" (R |
-| [https://musicbrainz.org/recording/3734825c-1dcd-4b10-9e15-25ad27ec1819](https://musicbrainz.org/recording/3734825c-1dcd-4b10-9e15-25ad27ec1819) | La Cenerentola: Atto I. Duetto "Un soave non so ch |
-| [https://musicbrainz.org/recording/bd895a6b-56ab-4256-a96e-506fd385e0c2](https://musicbrainz.org/recording/bd895a6b-56ab-4256-a96e-506fd385e0c2) | La Cenerentola: Atto I. Recitativo "Non so che dir |
-| [https://musicbrainz.org/recording/a8610799-b12e-4e5d-99d2-46b1f2871e57](https://musicbrainz.org/recording/a8610799-b12e-4e5d-99d2-46b1f2871e57) | La Cenerentola: Atto I. Coro "Scegli la sposa" - C |
-| [https://musicbrainz.org/recording/0c0876ef-bcee-496a-ba07-f7eb88ace298](https://musicbrainz.org/recording/0c0876ef-bcee-496a-ba07-f7eb88ace298) | La Cenerentola: Atto I. Recitativo "Allegrissimame |
-| [https://musicbrainz.org/recording/fbc08ba9-29e5-4124-af1d-0c6ca14e60bb](https://musicbrainz.org/recording/fbc08ba9-29e5-4124-af1d-0c6ca14e60bb) | La Cenerentola: Atto I. Quintetto "Signor, una par |
-| [https://musicbrainz.org/recording/a9f8acf9-56c1-46a3-b1bc-6c1c5c6629ec](https://musicbrainz.org/recording/a9f8acf9-56c1-46a3-b1bc-6c1c5c6629ec) | La Cenerentola: Atto I. Recitativo "Si, tutto cang |
-| [https://musicbrainz.org/recording/d8f173a0-d5c1-4cc8-9124-431e00aae26a](https://musicbrainz.org/recording/d8f173a0-d5c1-4cc8-9124-431e00aae26a) | La Cenerentola: Atto I. Aria "Là del ciel nell'arc |
-| [https://musicbrainz.org/recording/1a8b89d7-a10d-4feb-820a-b5bce2c8bde5](https://musicbrainz.org/recording/1a8b89d7-a10d-4feb-820a-b5bce2c8bde5) | La Cenerentola: Atto I. Recitativo "Ma bravo, brav |
-| [https://musicbrainz.org/recording/52cf72de-48b2-41b3-aae7-6d1b1a3100c4](https://musicbrainz.org/recording/52cf72de-48b2-41b3-aae7-6d1b1a3100c4) | La Cenerentola: Atto I. Coro "Conciossiacosacché"  |
-| [https://musicbrainz.org/recording/c8b5705c-e117-431d-9e4c-0cc36e40390c](https://musicbrainz.org/recording/c8b5705c-e117-431d-9e4c-0cc36e40390c) | La Cenerentola: Finale I. Duetto "Zitto, zitto: pi |
-| [https://musicbrainz.org/recording/5edd7ac0-21b7-4fe3-a627-4b94de0aab1f](https://musicbrainz.org/recording/5edd7ac0-21b7-4fe3-a627-4b94de0aab1f) | La Cenerentola: Finale I. "Ah! Se velata ancor" (C |
-| [https://musicbrainz.org/recording/73f7b418-d5af-4580-bf81-33cb93e4d03d](https://musicbrainz.org/recording/73f7b418-d5af-4580-bf81-33cb93e4d03d) | La Cenerentola: Finale I. "Signor, Altezza, è in t |
-| [https://musicbrainz.org/recording/28fe3951-e193-45de-b55a-c923c9ca50cb](https://musicbrainz.org/recording/28fe3951-e193-45de-b55a-c923c9ca50cb) | La Cenerentola: Atto II. Recitativo "Mi par che qu |
-| [https://musicbrainz.org/recording/1c5882a6-b96f-4c9a-ac99-cc9d01d68f3a](https://musicbrainz.org/recording/1c5882a6-b96f-4c9a-ac99-cc9d01d68f3a) | La Cenerentola: Atto II. Aria "Sia qualunque delle |
-| [https://musicbrainz.org/recording/6219973a-2adf-43c7-bf34-3573054a7848](https://musicbrainz.org/recording/6219973a-2adf-43c7-bf34-3573054a7848) | La Cenerentola: Atto II. Recitativo "Ah! Questa be |
-| [https://musicbrainz.org/recording/300885d2-4189-4468-bf23-24a5e4373331](https://musicbrainz.org/recording/300885d2-4189-4468-bf23-24a5e4373331) | La Cenerentola: Atto II. Recitativo "È allor... se |
-| [https://musicbrainz.org/recording/fc85d50c-4f58-4b5a-aecc-4d75fd815618](https://musicbrainz.org/recording/fc85d50c-4f58-4b5a-aecc-4d75fd815618) | La Cenerentola: Atto II. Aria "Sì, ritrovarla io g |
-| [https://musicbrainz.org/recording/c05cb71a-2103-4fdf-9993-acadd64617b6](https://musicbrainz.org/recording/c05cb71a-2103-4fdf-9993-acadd64617b6) | La Cenerentola: Atto II. Recitativo "Ma dunque io  |
-| [https://musicbrainz.org/recording/a32b11f0-9e3f-49e3-b7e8-802896b9a0a4](https://musicbrainz.org/recording/a32b11f0-9e3f-49e3-b7e8-802896b9a0a4) | La Cenerentola: Atto II. Duetto "Un segreto d'impo |
-| [https://musicbrainz.org/recording/ab28552c-0ce5-4054-9384-6f80beb06dee](https://musicbrainz.org/recording/ab28552c-0ce5-4054-9384-6f80beb06dee) | La Cenerentola: Atto II. Canzone "Una volta c'era  |
-| [https://musicbrainz.org/recording/42118507-b1df-423f-a465-d699c965c12b](https://musicbrainz.org/recording/42118507-b1df-423f-a465-d699c965c12b) | La Cenerentola: Atto II. Recitativo "Quanto sei ca |
-| [https://musicbrainz.org/recording/67b3327b-d6fa-4c20-b6d4-641becd3f822](https://musicbrainz.org/recording/67b3327b-d6fa-4c20-b6d4-641becd3f822) | La Cenerentola: Atto II. Temporale                 |
-| [https://musicbrainz.org/recording/cd25d5f6-572a-4881-8d91-a3138fa58fc5](https://musicbrainz.org/recording/cd25d5f6-572a-4881-8d91-a3138fa58fc5) | La Cenerentola: Atto II. Recitativo "Scusate, amic |
-| [https://musicbrainz.org/recording/73adfaf7-08d5-493c-b21c-e61878a5e01a](https://musicbrainz.org/recording/73adfaf7-08d5-493c-b21c-e61878a5e01a) | La Cenerentola: Atto II. Sestetto "Siete voi?" - " |
-| [https://musicbrainz.org/recording/ec74ed36-2fa1-4a9f-9408-477f2a692413](https://musicbrainz.org/recording/ec74ed36-2fa1-4a9f-9408-477f2a692413) | La Cenerentola: Atto II. Sestetto "Donna sciocca!  |
-| [https://musicbrainz.org/recording/37f99e41-488a-4099-9816-9eb90237db55](https://musicbrainz.org/recording/37f99e41-488a-4099-9816-9eb90237db55) | La Cenerentola: Atto II. Recitativo "Giusto ciel"  |
-| [https://musicbrainz.org/recording/bd29fb7b-271c-4b50-958f-cef45fc83eba](https://musicbrainz.org/recording/bd29fb7b-271c-4b50-958f-cef45fc83eba) | La Cenerentola: Finale II. Coro "Della fortuna ins |
-| [https://musicbrainz.org/recording/9927c004-86e1-4533-830c-31dedd1b4da3](https://musicbrainz.org/recording/9927c004-86e1-4533-830c-31dedd1b4da3) | La Cenerentola: Finale II. Scena "Sposa" - "Signor |
-| [https://musicbrainz.org/recording/410bccbc-9013-480b-a52d-088a54125f36](https://musicbrainz.org/recording/410bccbc-9013-480b-a52d-088a54125f36) | La Cenerentola: Finale II. Rondò "Nacqui all'affan |
-| [https://musicbrainz.org/recording/7735c773-e7b2-4d19-8c82-e1d724ae69d9](https://musicbrainz.org/recording/7735c773-e7b2-4d19-8c82-e1d724ae69d9) | Il barbiere di Siviglia: Atto I, Scena II. (no. 2) |
-| [https://musicbrainz.org/recording/7735c773-e7b2-4d19-8c82-e1d724ae69d9](https://musicbrainz.org/recording/7735c773-e7b2-4d19-8c82-e1d724ae69d9) | Il barbiere di Siviglia: Atto I, Scena II. (no. 2) |
-| [https://musicbrainz.org/recording/aaab1426-8049-4899-9a07-9c3cd1337005](https://musicbrainz.org/recording/aaab1426-8049-4899-9a07-9c3cd1337005) | Grabstein für Stephan, op. 15c                     |
-| [https://musicbrainz.org/recording/91d85a32-bdaa-49ec-a652-62d0bb428333](https://musicbrainz.org/recording/91d85a32-bdaa-49ec-a652-62d0bb428333) | Gruppen                                            |
-| [https://musicbrainz.org/recording/c8cb48ad-a79f-4cd6-a6d3-b7ced9379916](https://musicbrainz.org/recording/c8cb48ad-a79f-4cd6-a6d3-b7ced9379916) | Stele: I. Adagio                                   |
-| [https://musicbrainz.org/recording/11cb11fd-1c9f-475b-8bc0-6ee22f177758](https://musicbrainz.org/recording/11cb11fd-1c9f-475b-8bc0-6ee22f177758) | Stele: II. Lamentoso disperato, con moto           |
-| [https://musicbrainz.org/recording/32086333-d31e-4d4c-a1a7-99d26187f9f6](https://musicbrainz.org/recording/32086333-d31e-4d4c-a1a7-99d26187f9f6) | Stele: III. Molto sostenuto                        |
-| [https://musicbrainz.org/recording/dd44549e-0d59-40c4-8d49-2319242fd85b](https://musicbrainz.org/recording/dd44549e-0d59-40c4-8d49-2319242fd85b) | Il Barbiere Di Siviglia: Act I, No. 9. Recitativo  |
-| [https://musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0](https://musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0) | Il Barbiere Di Siviglia: Act I. "Alto là!"         |
-| [https://musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0](https://musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0) | Il Barbiere Di Siviglia: Act I. "Alto là!"         |
-| [https://musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0](https://musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0) | Il Barbiere Di Siviglia: Act I. "Alto là!"         |
-| [https://musicbrainz.org/recording/863cda3f-9d10-406d-8f8c-18297400508e](https://musicbrainz.org/recording/863cda3f-9d10-406d-8f8c-18297400508e) | Il Barbiere Di Siviglia: Act II. Recitativo "Ma ve |
-| [https://musicbrainz.org/recording/be18cbbb-edfd-409e-800f-7647996116de](https://musicbrainz.org/recording/be18cbbb-edfd-409e-800f-7647996116de) | Il Barbiere Di Siviglia: Act II, No. 13. Quintetto |
-| [https://musicbrainz.org/recording/be18cbbb-edfd-409e-800f-7647996116de](https://musicbrainz.org/recording/be18cbbb-edfd-409e-800f-7647996116de) | Il Barbiere Di Siviglia: Act II, No. 13. Quintetto |
-| [https://musicbrainz.org/recording/a4d25ede-8060-4c13-8e7d-1d008a7163ac](https://musicbrainz.org/recording/a4d25ede-8060-4c13-8e7d-1d008a7163ac) | Il Barbiere Di Siviglia: Act II, No. 14. Aria "Il  |
-| [https://musicbrainz.org/recording/74402834-b9ba-4802-ac54-699be6cb1a2f](https://musicbrainz.org/recording/74402834-b9ba-4802-ac54-699be6cb1a2f) | Il Barbiere Di Siviglia: Act II, No. 15. Temporale |
-| [https://musicbrainz.org/recording/7303ecec-db03-4ca5-a816-8347a2de758d](https://musicbrainz.org/recording/7303ecec-db03-4ca5-a816-8347a2de758d) | Il Barbiere Di Siviglia: Act II, No. 16. Terzetto  |
-| [https://musicbrainz.org/recording/66cacd3c-d85f-4dc1-b5f1-aecfc2146164](https://musicbrainz.org/recording/66cacd3c-d85f-4dc1-b5f1-aecfc2146164) | MacBeth: Atto I. Scena e duetto. "Due vaticini com |
-| [https://musicbrainz.org/recording/26e6a7d6-5d28-4562-9af9-2a572f022339](https://musicbrainz.org/recording/26e6a7d6-5d28-4562-9af9-2a572f022339) | MacBeth: Atto I. Scena e cavatina. "Vieni! t'affre |
-| [https://musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db](https://musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db) | MacBeth: Atto I. Scena e sestetto - Finale I. "Di  |
-| [https://musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db](https://musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db) | MacBeth: Atto I. Scena e sestetto - Finale I. "Di  |
-| [https://musicbrainz.org/recording/fd94e602-9aa3-4d91-b341-6ff9eba8eb49](https://musicbrainz.org/recording/fd94e602-9aa3-4d91-b341-6ff9eba8eb49) | MacBeth: Atto II. Scena ed aria. "La luce langue"  |
-| [https://musicbrainz.org/recording/f9432b7f-e38f-4aac-a24f-0a82b46dd37a](https://musicbrainz.org/recording/f9432b7f-e38f-4aac-a24f-0a82b46dd37a) | MacBeth: Atto II. Coro di sicari. "Chi osò mandarv |
-| [https://musicbrainz.org/recording/1393c72a-1960-496a-a814-8c59db823fe3](https://musicbrainz.org/recording/1393c72a-1960-496a-a814-8c59db823fe3) | MacBeth: Atto II. Coro di sicari, gran scena. "Stu |
-| [https://musicbrainz.org/recording/9501ffde-4410-4b70-94ac-9831f388b0c0](https://musicbrainz.org/recording/9501ffde-4410-4b70-94ac-9831f388b0c0) | MacBeth: Atto II. Finale II. "Va', spirto d'abisso |
-| [https://musicbrainz.org/recording/9bac9ea4-7897-467b-840d-41a5d6064279](https://musicbrainz.org/recording/9bac9ea4-7897-467b-840d-41a5d6064279) | MacBeth: Atto III. Coro d'introduzione - incantesi |
-| [https://musicbrainz.org/recording/c2459a0a-59ca-4865-8f2f-59f0c671077c](https://musicbrainz.org/recording/c2459a0a-59ca-4865-8f2f-59f0c671077c) | MacBeth: Atto III. Ballo. Allegro vivacissimo - Un |
-| [https://musicbrainz.org/recording/07f68613-6250-49c3-b6ad-d0b241a2f2b0](https://musicbrainz.org/recording/07f68613-6250-49c3-b6ad-d0b241a2f2b0) | MacBeth: Atto III. Gran scena delle apparizioni. " |
-| [https://musicbrainz.org/recording/334dd265-30a2-49c2-aeea-b60cb11ab648](https://musicbrainz.org/recording/334dd265-30a2-49c2-aeea-b60cb11ab648) | MacBeth: Atto III. Gran scena delle apparizioni. " |
-| [https://musicbrainz.org/recording/66634214-0894-4c9f-98e2-6a4ad38e140b](https://musicbrainz.org/recording/66634214-0894-4c9f-98e2-6a4ad38e140b) | MacBeth: Atto III. Coro di streghe e ballabile. "O |
-| [https://musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71](https://musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71) | MacBeth: Atto III. Scena e duetto - Finale III. "O |
-| [https://musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71](https://musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71) | MacBeth: Atto III. Scena e duetto - Finale III. "O |
-| [https://musicbrainz.org/recording/e867c786-be82-4647-8000-ece1e5e13dc9](https://musicbrainz.org/recording/e867c786-be82-4647-8000-ece1e5e13dc9) | MacBeth: Atto IV. Coro di profughi scozzesi. "Patr |
-| [https://musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd](https://musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd) | MacBeth: Atto IV. Scena ed aria. "O figli, o figli |
-| [https://musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd](https://musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd) | MacBeth: Atto IV. Scena ed aria. "O figli, o figli |
-| [https://musicbrainz.org/recording/67f96049-521a-472a-832a-c6a8c6751a24](https://musicbrainz.org/recording/67f96049-521a-472a-832a-c6a8c6751a24) | MacBeth: Atto IV. Gran scena del sonnambulismo. "V |
-| [https://musicbrainz.org/recording/09230167-a342-41de-962b-e3fe283ac077](https://musicbrainz.org/recording/09230167-a342-41de-962b-e3fe283ac077) | MacBeth: Atto IV. Gran scena del sonnambulismo. "U |
-| [https://musicbrainz.org/recording/8d76f843-0576-410e-ac05-d5e4b8fbe9a9](https://musicbrainz.org/recording/8d76f843-0576-410e-ac05-d5e4b8fbe9a9) | MacBeth: Atto IV. Scena ed aria. "Perfidi! All'ang |
-| [https://musicbrainz.org/recording/47f6e145-c8d9-4df0-95fc-7bbbf3745987](https://musicbrainz.org/recording/47f6e145-c8d9-4df0-95fc-7bbbf3745987) | MacBeth: Atto IV. Scena ed aria. "Pietà, rispetto, |
-| [https://musicbrainz.org/recording/74e88ff8-6cfc-4d86-8d6b-0358a0064e0f](https://musicbrainz.org/recording/74e88ff8-6cfc-4d86-8d6b-0358a0064e0f) | MacBeth: Atto IV. Scena e battaglia. "Ella è morta |
-| [https://musicbrainz.org/recording/80bc2255-22f8-49a3-af96-cc99103a474d](https://musicbrainz.org/recording/80bc2255-22f8-49a3-af96-cc99103a474d) | MacBeth: Atto IV. Morte di Macbeth. "Mal per te me |
-| [https://musicbrainz.org/recording/934bf578-6fe1-4035-98cd-adb4899db8e8](https://musicbrainz.org/recording/934bf578-6fe1-4035-98cd-adb4899db8e8) | MacBeth: Atto IV. Inno di vittoria - Finale. "Vitt |
-| [https://musicbrainz.org/recording/0dc11aa5-4a8b-4513-baa8-07da77f2be74](https://musicbrainz.org/recording/0dc11aa5-4a8b-4513-baa8-07da77f2be74) | Symphonie "Mathis der Maler": I. "Engelkonzert", R |
-| [https://musicbrainz.org/recording/baa7179f-0899-4d26-bc40-53a28449b6bc](https://musicbrainz.org/recording/baa7179f-0899-4d26-bc40-53a28449b6bc) | Symphonie "Mathis der Maler": II. "Grablegung", Se |
-| [https://musicbrainz.org/recording/94e709c9-042c-40d3-adb6-5a104a7bd4fe](https://musicbrainz.org/recording/94e709c9-042c-40d3-adb6-5a104a7bd4fe) | Symphonie "Mathis der Maler": III. "Versuchung des |
-| [https://musicbrainz.org/recording/1be91186-f5c7-4232-bf55-2688d14e12ae](https://musicbrainz.org/recording/1be91186-f5c7-4232-bf55-2688d14e12ae) | Nobilissima Visione: I. "Einleitung und Rondo", Se |
-| [https://musicbrainz.org/recording/7fc797c6-1cfa-4fd6-8a29-d81f48cccd1a](https://musicbrainz.org/recording/7fc797c6-1cfa-4fd6-8a29-d81f48cccd1a) | Nobilissima Visione: II. "Marsch und Pastorale", L |
-| [https://musicbrainz.org/recording/0ac4fb64-67e0-4b4d-b44c-e260c4d98770](https://musicbrainz.org/recording/0ac4fb64-67e0-4b4d-b44c-e260c4d98770) | Nobilissima Visione: III. "Passacaglia", Feierlich |
-| [https://musicbrainz.org/recording/32129f29-4238-4c4c-ba71-0a31d6a49393](https://musicbrainz.org/recording/32129f29-4238-4c4c-ba71-0a31d6a49393) | Symphonische Metamorphosen nach Themen von Carl Ma |
-| [https://musicbrainz.org/recording/45c279a9-92a5-46f2-b043-cec376c8ddd7](https://musicbrainz.org/recording/45c279a9-92a5-46f2-b043-cec376c8ddd7) | Symphonische Metamorphosen nach Themen von Carl Ma |
-| [https://musicbrainz.org/recording/4de599fb-2a8a-445b-ad9d-aae117e1099c](https://musicbrainz.org/recording/4de599fb-2a8a-445b-ad9d-aae117e1099c) | Symphonische Metamorphosen nach Themen von Carl Ma |
-| [https://musicbrainz.org/recording/243902e5-4691-4da9-9edf-7b57b3611920](https://musicbrainz.org/recording/243902e5-4691-4da9-9edf-7b57b3611920) | Gesang der Apollopriesterin, op. 33 no. 2          |
-| [https://musicbrainz.org/recording/415b6121-35ea-409a-9308-b83d21dc609d](https://musicbrainz.org/recording/415b6121-35ea-409a-9308-b83d21dc609d) | Freundliche Vision, op. 48 no. 1                   |
-| [https://musicbrainz.org/recording/494bba9a-7dd5-45bc-9c3d-5750e2ecbece](https://musicbrainz.org/recording/494bba9a-7dd5-45bc-9c3d-5750e2ecbece) | Cäcilie, op. 27 no. 2                              |
-| [https://musicbrainz.org/recording/926f318e-5915-4055-a280-02238f1d5d5a](https://musicbrainz.org/recording/926f318e-5915-4055-a280-02238f1d5d5a) | Verführung, op. 33 no. 1                           |
-| [https://musicbrainz.org/recording/aa94eb1c-5c09-40ce-8c30-dee5cdd7aa7a](https://musicbrainz.org/recording/aa94eb1c-5c09-40ce-8c30-dee5cdd7aa7a) | Frühlingsfeier, op. 56 no. 5                       |
-| [https://musicbrainz.org/recording/75549621-5c26-49a9-85d5-646a9f45b54e](https://musicbrainz.org/recording/75549621-5c26-49a9-85d5-646a9f45b54e) | Waldseligkeit, op. 49 no. 1                        |
-| [https://musicbrainz.org/recording/e891b423-13a1-43b2-84f5-869e8c401133](https://musicbrainz.org/recording/e891b423-13a1-43b2-84f5-869e8c401133) | Vier letzte Lieder: Frühling                       |
-| [https://musicbrainz.org/recording/a3d01c6b-5221-4d46-868e-a33253b6b4cf](https://musicbrainz.org/recording/a3d01c6b-5221-4d46-868e-a33253b6b4cf) | Vier letzte Lieder: September                      |
-| [https://musicbrainz.org/recording/25ffc915-c814-4177-9afc-3b19ba3c620c](https://musicbrainz.org/recording/25ffc915-c814-4177-9afc-3b19ba3c620c) | Vier letzte Lieder: Beim Schlafengehen             |
-| [https://musicbrainz.org/recording/1f9511c0-4642-4732-bc9f-2a790e55802b](https://musicbrainz.org/recording/1f9511c0-4642-4732-bc9f-2a790e55802b) | Vier letzte Lieder: Im Abendrot                    |
-| [https://musicbrainz.org/recording/a2b6a6fd-43a7-4333-b8d1-9aaa3f591571](https://musicbrainz.org/recording/a2b6a6fd-43a7-4333-b8d1-9aaa3f591571) | Manca la guida al piè: Recitativo: "È dover che lu |
-| [https://musicbrainz.org/recording/7b3b5c0a-ccec-41ea-8c74-d22e50c5775c](https://musicbrainz.org/recording/7b3b5c0a-ccec-41ea-8c74-d22e50c5775c) | Manca la guida al piè: Aria: "Manca la guida al pi |
-| [https://musicbrainz.org/recording/dd0eb6a2-9c2a-449b-8e2a-ce0adeeb02b0](https://musicbrainz.org/recording/dd0eb6a2-9c2a-449b-8e2a-ce0adeeb02b0) | Il barbiere di Siviglia: Overture                  |
-| [https://musicbrainz.org/recording/77fb065b-15e2-45f3-a97c-7eed9457da56](https://musicbrainz.org/recording/77fb065b-15e2-45f3-a97c-7eed9457da56) | La Cenerentola: Overture                           |
-| [https://musicbrainz.org/recording/54078e4a-a36d-4bf1-819e-c92661b795b8](https://musicbrainz.org/recording/54078e4a-a36d-4bf1-819e-c92661b795b8) | L'assedio di Corinto: Overture                     |
-| [https://musicbrainz.org/recording/0eadd384-51c6-4ca2-a973-1957bec81f73](https://musicbrainz.org/recording/0eadd384-51c6-4ca2-a973-1957bec81f73) | Macbeth: Prelude                                   |
-| [https://musicbrainz.org/recording/d1e99a43-ffba-45a0-b2a7-10622b38f541](https://musicbrainz.org/recording/d1e99a43-ffba-45a0-b2a7-10622b38f541) | Un ballo in maschera: Prelude                      |
-| [https://musicbrainz.org/recording/48298a42-4aba-4d72-8a68-2f11fcceafda](https://musicbrainz.org/recording/48298a42-4aba-4d72-8a68-2f11fcceafda) | Carmen : Acte II, Nº 16. Duo « Je vais danser en v |
-| [https://musicbrainz.org/recording/c0fb6287-96c8-4a21-99e3-d870551a2267](https://musicbrainz.org/recording/c0fb6287-96c8-4a21-99e3-d870551a2267) | Carmen : Acte II. « Non ! Tu ne m’aimes pas ! » (C |
-| [https://musicbrainz.org/recording/65714ec3-7814-4360-b1c6-5a574e91f7db](https://musicbrainz.org/recording/65714ec3-7814-4360-b1c6-5a574e91f7db) | Carmen : Acte II, Nº 17. Finale « Holà ! Carmen !  |
-| [https://musicbrainz.org/recording/3639d3b5-216f-4013-b3e9-7fac8e6c6578](https://musicbrainz.org/recording/3639d3b5-216f-4013-b3e9-7fac8e6c6578) | Carmen : Acte I, Nº 1. Introduction « Sur la place |
-| [https://musicbrainz.org/recording/34e890dd-29dc-4961-af1c-c0a56a8c5ef9](https://musicbrainz.org/recording/34e890dd-29dc-4961-af1c-c0a56a8c5ef9) | Carmen : Acte I. « Regardez donc cette petite » (M |
-| [https://musicbrainz.org/recording/a242e5b0-2545-4a9a-b5fb-3d8bf98dcd5a](https://musicbrainz.org/recording/a242e5b0-2545-4a9a-b5fb-3d8bf98dcd5a) | Carmen : Acte I, Nº 2. Marche et Chœur des Gamins  |
-| [https://musicbrainz.org/recording/98a023bc-a59c-463c-a6c3-069e6559a828](https://musicbrainz.org/recording/98a023bc-a59c-463c-a6c3-069e6559a828) | Carmen : Acte I. « Dites‐moi, brigadier ? » (Zunig |
-| [https://musicbrainz.org/recording/a6d8ff96-dfcf-4be1-b654-d383343bcacf](https://musicbrainz.org/recording/a6d8ff96-dfcf-4be1-b654-d383343bcacf) | Carmen : Acte I. « Mais nous ne voyons pas la Carm |
-| [https://musicbrainz.org/recording/e63e5426-88f8-476a-a933-7ee82d2a6ba2](https://musicbrainz.org/recording/e63e5426-88f8-476a-a933-7ee82d2a6ba2) | Carmen : Acte I. « Quand je vous aimerai ? » / Nº  |
-| [https://musicbrainz.org/recording/3e787369-289a-4fbb-87b4-de59c22dc30f](https://musicbrainz.org/recording/3e787369-289a-4fbb-87b4-de59c22dc30f) | Carmen : Acte I, Nº 5. Scène « Carmen, sur tes pas |
-| [https://musicbrainz.org/recording/868afc58-5d10-4ddf-978a-5c16d406b387](https://musicbrainz.org/recording/868afc58-5d10-4ddf-978a-5c16d406b387) | Carmen : Acte I. « Monsieur le brigadier ? » (Mica |
-| [https://musicbrainz.org/recording/653189ec-1f77-40a2-b382-0b7e6470ef3c](https://musicbrainz.org/recording/653189ec-1f77-40a2-b382-0b7e6470ef3c) | Carmen : Acte I, Nº 7. Chœur « Au secours ! » (Les |
-| [https://musicbrainz.org/recording/e5a4c8ce-5011-4d37-b275-4b47b60832fc](https://musicbrainz.org/recording/e5a4c8ce-5011-4d37-b275-4b47b60832fc) | Carmen : Acte I. « Voyons, brigadier… » (Zuniga, D |
-| [https://musicbrainz.org/recording/e5a4c8ce-5011-4d37-b275-4b47b60832fc](https://musicbrainz.org/recording/e5a4c8ce-5011-4d37-b275-4b47b60832fc) | Carmen : Acte I. « Voyons, brigadier… » (Zuniga, D |
-| [https://musicbrainz.org/recording/28de2ff7-1c12-4872-ab91-bb119f56892d](https://musicbrainz.org/recording/28de2ff7-1c12-4872-ab91-bb119f56892d) | Concerto for Violin and Orchestra no. 5 in A major |
-| [https://musicbrainz.org/recording/4db4a58b-705e-4e48-84f5-239e0811cb2a](https://musicbrainz.org/recording/4db4a58b-705e-4e48-84f5-239e0811cb2a) | Piano Concerto, op. 42: I. Andante                 |
-| [https://musicbrainz.org/recording/98358d92-e749-4f72-a7f6-8d85c8e2d9de](https://musicbrainz.org/recording/98358d92-e749-4f72-a7f6-8d85c8e2d9de) | Piano Concerto, op. 42: II. Molto allegro          |
-| [https://musicbrainz.org/recording/b17649c6-cb52-451a-9063-07c196aefd73](https://musicbrainz.org/recording/b17649c6-cb52-451a-9063-07c196aefd73) | Piano Concerto, op. 42: III. Adagio                |
-| [https://musicbrainz.org/recording/3eb99afa-808d-4130-a59a-d4f55b3b0d85](https://musicbrainz.org/recording/3eb99afa-808d-4130-a59a-d4f55b3b0d85) | Piano Concerto, op. 42: IV. Giocoso (moderato)     |
-| [https://musicbrainz.org/recording/84d8a1c5-f05a-45bc-b6bc-7431833d6451](https://musicbrainz.org/recording/84d8a1c5-f05a-45bc-b6bc-7431833d6451) | Luisa Miller: “Oh! Fede negar potessi …”           |
-| [https://musicbrainz.org/recording/0a17fd52-88da-4e3b-b96e-706f7a75a8e6](https://musicbrainz.org/recording/0a17fd52-88da-4e3b-b96e-706f7a75a8e6) | Luisa Miller: Atto II. “Quando le sere al placido” |
-| [https://musicbrainz.org/recording/df27c954-82df-4126-86d5-cec271abd6a6](https://musicbrainz.org/recording/df27c954-82df-4126-86d5-cec271abd6a6) | I lombardi alla prima crociata: Atto II. “La mia l |
-| [https://musicbrainz.org/recording/e46d433e-1031-4ebb-bb37-ecf653aba55f](https://musicbrainz.org/recording/e46d433e-1031-4ebb-bb37-ecf653aba55f) | Ernani: “Mercè, diletti amici :”                   |
-| [https://musicbrainz.org/recording/703a0f1b-0bcb-4745-abbc-a8da85067547](https://musicbrainz.org/recording/703a0f1b-0bcb-4745-abbc-a8da85067547) | Ernani: “Come rugiada al cespite”                  |
-| [https://musicbrainz.org/recording/1f263b7c-e7b8-4ee8-9135-27f346b61953](https://musicbrainz.org/recording/1f263b7c-e7b8-4ee8-9135-27f346b61953) | Ernani: Atto I. “Dell'esilio nel dolor... O tu che |
-| [https://musicbrainz.org/recording/297f35b6-49d5-47bf-bf3d-55ca4e278fc7](https://musicbrainz.org/recording/297f35b6-49d5-47bf-bf3d-55ca4e278fc7) | Otello: “Dio, mi potevi scagliar …”                |
-| [https://musicbrainz.org/recording/6ccb3426-1c2a-468c-8889-1c0f2bd8435d](https://musicbrainz.org/recording/6ccb3426-1c2a-468c-8889-1c0f2bd8435d) | Otello: Atto III. “Ma, o pianto, o duo!”           |
-| [https://musicbrainz.org/recording/0bf807e3-7bb4-4e3a-8b2e-c08594530bfe](https://musicbrainz.org/recording/0bf807e3-7bb4-4e3a-8b2e-c08594530bfe) | Otello: Atto IV. “Niun mi tema”                    |
-| [https://musicbrainz.org/recording/a77aa576-2ac9-4d15-a303-b4dcc90dcdbd](https://musicbrainz.org/recording/a77aa576-2ac9-4d15-a303-b4dcc90dcdbd) | La forza del destino: Introduzione (Orchestra)     |
-| [https://musicbrainz.org/recording/f0d0e5a7-e23e-4a7c-a6f4-e834414083b8](https://musicbrainz.org/recording/f0d0e5a7-e23e-4a7c-a6f4-e834414083b8) | La forza del destino: ”La vita è inferno …”        |
-| [https://musicbrainz.org/recording/f821d35c-79f2-470d-9e91-05a73546965f](https://musicbrainz.org/recording/f821d35c-79f2-470d-9e91-05a73546965f) | La forza del destino: Atto III. “O tu in seno agli |
-| [https://musicbrainz.org/recording/5b72f89c-0dab-4185-a371-adfbe079eedf](https://musicbrainz.org/recording/5b72f89c-0dab-4185-a371-adfbe079eedf) | Jérusalem : « L'émir auprès de lui m'appelle … »   |
-| [https://musicbrainz.org/recording/ec92a405-9822-4a79-80d9-9079d9aaa2ee](https://musicbrainz.org/recording/ec92a405-9822-4a79-80d9-9079d9aaa2ee) | Jérusalem : Acte II. « Je veux encore entendre »   |
-| [https://musicbrainz.org/recording/a669da55-1f12-4f98-b94e-a8997f3bb42c](https://musicbrainz.org/recording/a669da55-1f12-4f98-b94e-a8997f3bb42c) | Il trovatore: Atto III. “Ah, si, ben mio”          |
-| [https://musicbrainz.org/recording/44ed82e6-2538-4b8f-9245-b44490ac27c7](https://musicbrainz.org/recording/44ed82e6-2538-4b8f-9245-b44490ac27c7) | Banditen-Galopp, op. 378                           |
-| [https://musicbrainz.org/recording/2c03e8f5-f7c9-448a-9a77-bbc7b71bd8c9](https://musicbrainz.org/recording/2c03e8f5-f7c9-448a-9a77-bbc7b71bd8c9) | Il barbiere di Siviglia: Atto I, (no. 5a) “Una voc |
-| [https://musicbrainz.org/recording/4332fed8-b079-4acd-9efe-bc9ef7446738](https://musicbrainz.org/recording/4332fed8-b079-4acd-9efe-bc9ef7446738) | Il barbiere di Siviglia: Atto II, Scena IX. (no. 1 |
-| [https://musicbrainz.org/recording/1bd589f7-0779-48ab-9910-8960453b427f](https://musicbrainz.org/recording/1bd589f7-0779-48ab-9910-8960453b427f) | Aida: Atto I, scena 1. “Vieni, o diletta appressat |
-| [https://musicbrainz.org/recording/1bd589f7-0779-48ab-9910-8960453b427f](https://musicbrainz.org/recording/1bd589f7-0779-48ab-9910-8960453b427f) | Aida: Atto I, scena 1. “Vieni, o diletta appressat |
-| [https://musicbrainz.org/recording/58ba91c0-3e36-4fd1-8c27-cdda44cc697c](https://musicbrainz.org/recording/58ba91c0-3e36-4fd1-8c27-cdda44cc697c) | Aida: Atto II, scena 1. “Pietà ti prenda del mio d |
-| [https://musicbrainz.org/recording/3a717c59-52b1-41d9-b101-bf71184db94a](https://musicbrainz.org/recording/3a717c59-52b1-41d9-b101-bf71184db94a) | Aida: Atto II, scena 2. “Il dolor che in quel volt |
-| [https://musicbrainz.org/recording/8119aba5-73b7-4e38-8112-8309c82d117b](https://musicbrainz.org/recording/8119aba5-73b7-4e38-8112-8309c82d117b) | Aida: Atto IV, scena 1. Duetto “Già i Sacerdoti ad |
-| [https://musicbrainz.org/recording/33da0ce1-2dd0-425b-8bf7-d3e6da3f4ce5](https://musicbrainz.org/recording/33da0ce1-2dd0-425b-8bf7-d3e6da3f4ce5) | Keqrops                                            |
-| [https://musicbrainz.org/recording/4ccb589e-a98e-4e9e-b00f-7faf2ccce1b5](https://musicbrainz.org/recording/4ccb589e-a98e-4e9e-b00f-7faf2ccce1b5) | Piano Concerto no. 2 in C minor, op. 18            |
-| [https://musicbrainz.org/recording/484a50d1-1376-45c5-a4d4-519a8676f21b](https://musicbrainz.org/recording/484a50d1-1376-45c5-a4d4-519a8676f21b) | The Tempest, op. 18                                |
-| [https://musicbrainz.org/recording/5caae2d8-22ab-4c08-9422-3ee5870790d5](https://musicbrainz.org/recording/5caae2d8-22ab-4c08-9422-3ee5870790d5) | The Firebird (Concert Suite 1919)                  |
-| [https://musicbrainz.org/recording/b9b67cc1-378c-4ace-a5d7-1d38c2f695f7](https://musicbrainz.org/recording/b9b67cc1-378c-4ace-a5d7-1d38c2f695f7) | Chi non ode e chi non vede: Aria: “Chi non ode e c |
-| [https://musicbrainz.org/recording/74a1b272-7df7-4edb-8730-5537e3a28367](https://musicbrainz.org/recording/74a1b272-7df7-4edb-8730-5537e3a28367) | Chi non ode e chi non vede: Recitativo: “Di costei |
-| [https://musicbrainz.org/recording/4dc34cc7-7896-4f00-943f-fd7912f16a74](https://musicbrainz.org/recording/4dc34cc7-7896-4f00-943f-fd7912f16a74) | Chi non ode e chi non vede: Largo: “Tu dovresti, A |
-| [https://musicbrainz.org/recording/50cd2570-7e84-4635-bd0a-6ee6453fcedb](https://musicbrainz.org/recording/50cd2570-7e84-4635-bd0a-6ee6453fcedb) | Chi non ode e chi non vede: Recitativo: “Ma dove i |
-| [https://musicbrainz.org/recording/9c2d591b-cc6c-49fc-b626-ef05da4036b9](https://musicbrainz.org/recording/9c2d591b-cc6c-49fc-b626-ef05da4036b9) | Chi non ode e chi non vede: Largo stentato: “Miser |
-| [https://musicbrainz.org/recording/a75e94ed-004f-414a-b329-05498c31b8a5](https://musicbrainz.org/recording/a75e94ed-004f-414a-b329-05498c31b8a5) | Chi non ode e chi non vede: Aria. Presto: “Cadrò c |
-| [https://musicbrainz.org/recording/fb697fe3-e8c0-4138-beb1-e9d7c0020d47](https://musicbrainz.org/recording/fb697fe3-e8c0-4138-beb1-e9d7c0020d47) | Dixit Dominus: VI. Dominus a dextris tuis          |
-| [https://musicbrainz.org/recording/0d7c199b-6932-4469-881a-db166115e5f1](https://musicbrainz.org/recording/0d7c199b-6932-4469-881a-db166115e5f1) | Aida: Atto IV, scena 2. “Immenso Fthà... O terra,  |
-| [https://musicbrainz.org/recording/0d7c199b-6932-4469-881a-db166115e5f1](https://musicbrainz.org/recording/0d7c199b-6932-4469-881a-db166115e5f1) | Aida: Atto IV, scena 2. “Immenso Fthà... O terra,  |
-| [https://musicbrainz.org/recording/043bc766-b58b-46d3-bd32-cdf284a91df0](https://musicbrainz.org/recording/043bc766-b58b-46d3-bd32-cdf284a91df0) | Flötenkonzert no. 2 D-dur, KV 314: II. Adagio ma n |
-| [https://musicbrainz.org/recording/127fb839-984e-4d01-9649-79fea8b62d0f](https://musicbrainz.org/recording/127fb839-984e-4d01-9649-79fea8b62d0f) | Dixit Dominus: I. Dixit Dominus                    |
-| [https://musicbrainz.org/recording/10bc682c-6bdb-4025-a274-02341affe1d2](https://musicbrainz.org/recording/10bc682c-6bdb-4025-a274-02341affe1d2) | Dixit Dominus: II. Virgam virtutis                 |
-| [https://musicbrainz.org/recording/b56efcfb-6ed7-45ea-9f04-8793bcaa8dc4](https://musicbrainz.org/recording/b56efcfb-6ed7-45ea-9f04-8793bcaa8dc4) | Dixit Dominus: III. Dominare                       |
-| [https://musicbrainz.org/recording/ee818918-1b8d-43b7-8421-fb7928a91ede](https://musicbrainz.org/recording/ee818918-1b8d-43b7-8421-fb7928a91ede) | Dixit Dominus: IV. Tecum principium                |
-| [https://musicbrainz.org/recording/2473f258-1feb-409f-b43d-bcd2df181c02](https://musicbrainz.org/recording/2473f258-1feb-409f-b43d-bcd2df181c02) | Dixit Dominus: V. Juravit Dominus                  |
-| [https://musicbrainz.org/recording/9e869ab9-63e1-4c72-9490-43e66a153e5b](https://musicbrainz.org/recording/9e869ab9-63e1-4c72-9490-43e66a153e5b) | Dixit Dominus: VII. Gloria Patri                   |
-| [https://musicbrainz.org/recording/9780534a-1b30-4c80-8bb8-9f9dcccb9afd](https://musicbrainz.org/recording/9780534a-1b30-4c80-8bb8-9f9dcccb9afd) | Konzert für Klavier und Orchester, op. 42: Molto a |
-| [https://musicbrainz.org/recording/efe0cf30-b088-4e9d-9395-d2989e28ad10](https://musicbrainz.org/recording/efe0cf30-b088-4e9d-9395-d2989e28ad10) | Macbeth: Atto I, scena 1. “Giorno non vidi mai si  |
-| [https://musicbrainz.org/recording/6e7d0569-0c8a-4e44-8a20-1ad449cc59d3](https://musicbrainz.org/recording/6e7d0569-0c8a-4e44-8a20-1ad449cc59d3) | Macbeth: Atto I, scena 2. “Nel di della vittoria i |
-| [https://musicbrainz.org/recording/7a93f1c1-c168-4e0b-b833-33682cb2919c](https://musicbrainz.org/recording/7a93f1c1-c168-4e0b-b833-33682cb2919c) | Macbeth: Atto I, scena 2. “Oh donna mia!”          |
-| [https://musicbrainz.org/recording/8849dbd7-c53e-4bb8-b757-6cb327ef0041](https://musicbrainz.org/recording/8849dbd7-c53e-4bb8-b757-6cb327ef0041) | Macbeth: Atto I, scena 2. “Sappia la sposa mia, ch |
-| [https://musicbrainz.org/recording/fcdaac55-d367-4ce0-b126-a401a3d921ec](https://musicbrainz.org/recording/fcdaac55-d367-4ce0-b126-a401a3d921ec) | Macbeth: Atto II, scena 1. “Perché mi sfuggi”      |
-| [https://musicbrainz.org/recording/69f8d804-6641-4438-beb6-825c3c9ccb7c](https://musicbrainz.org/recording/69f8d804-6641-4438-beb6-825c3c9ccb7c) | Macbeth: Atto II, scena 2. “Chi v'impose unirvi a  |
-| [https://musicbrainz.org/recording/9d234d9b-87c6-44b1-868f-43dcbce7b84a](https://musicbrainz.org/recording/9d234d9b-87c6-44b1-868f-43dcbce7b84a) | Macbeth: Atto II, scena 2. “Studia il passo, o mio |
-| [https://musicbrainz.org/recording/ac4d03e1-caf6-4093-bdef-f0398bdb5312](https://musicbrainz.org/recording/ac4d03e1-caf6-4093-bdef-f0398bdb5312) | Macbeth: Atto II, scena 3. “Salve, o Re!”          |
-| [https://musicbrainz.org/recording/1f4b29b7-2014-4d8c-b14c-d2c7eb09fe2f](https://musicbrainz.org/recording/1f4b29b7-2014-4d8c-b14c-d2c7eb09fe2f) | Macbeth: Atto III. “Finche appelli, silenti m'atte |
-| [https://musicbrainz.org/recording/1c6d1b97-54d2-4983-ad37-911a5efbe28f](https://musicbrainz.org/recording/1c6d1b97-54d2-4983-ad37-911a5efbe28f) | Macbeth: Atto III. “Ondine e Silfidi dall'ali cand |
-| [https://musicbrainz.org/recording/b74bf2e0-3718-4c35-9ba9-3fef0f78b840](https://musicbrainz.org/recording/b74bf2e0-3718-4c35-9ba9-3fef0f78b840) | Macbeth: Atto III. “Ove son io?”                   |
-| [https://musicbrainz.org/recording/7748fe5f-a7a8-414f-a68e-5ad9220297fe](https://musicbrainz.org/recording/7748fe5f-a7a8-414f-a68e-5ad9220297fe) | Macbeth: Atto IV, scena 1. “Patria oppressa!”      |
-| [https://musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d](https://musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d) | Macbeth: Atto IV, scena 1. “O figli, o figli miei! |
-| [https://musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d](https://musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d) | Macbeth: Atto IV, scena 1. “O figli, o figli miei! |
-| [https://musicbrainz.org/recording/e277accc-2ed8-47e5-927f-4e0247a22ef4](https://musicbrainz.org/recording/e277accc-2ed8-47e5-927f-4e0247a22ef4) | Macbeth: Atto IV, scena 2. “Vegliammo invan due no |
-| [https://musicbrainz.org/recording/39c2bce1-b9ef-4c98-a17a-e4a88581a967](https://musicbrainz.org/recording/39c2bce1-b9ef-4c98-a17a-e4a88581a967) | Macbeth: Atto IV, scena 3. “Perfidi! All'anglo con |
-| [https://musicbrainz.org/recording/b96a215d-5a52-4b17-b146-04b597a20e73](https://musicbrainz.org/recording/b96a215d-5a52-4b17-b146-04b597a20e73) | Macbeth: Atto IV, scena 3. “Ella e morta!”         |
-| [https://musicbrainz.org/recording/0896e911-a991-4fea-92a7-04a4a3564b42](https://musicbrainz.org/recording/0896e911-a991-4fea-92a7-04a4a3564b42) | Macbeth: Atto IV, scena 4. “Vittoria!”             |
-| [https://musicbrainz.org/recording/09e0afae-c10c-4e28-ba5f-03b494bf9962](https://musicbrainz.org/recording/09e0afae-c10c-4e28-ba5f-03b494bf9962) | La Cenerentola: Atto I. Introduzione "O figlie ama |
-| [https://musicbrainz.org/recording/d821722b-eb22-4174-8a5d-8f3edaace3ff](https://musicbrainz.org/recording/d821722b-eb22-4174-8a5d-8f3edaace3ff) | La Cenerentola: Atto I. Cavatina "Miei rampolli fe |
-| [https://musicbrainz.org/recording/2944e32a-5c6c-47fb-bb24-c04784b3dc61](https://musicbrainz.org/recording/2944e32a-5c6c-47fb-bb24-c04784b3dc61) | La Cenerentola: Atto I. Scena "Tutto è deserto" (R |
-| [https://musicbrainz.org/recording/d476f962-0113-462f-b84a-7c0cb0bc67df](https://musicbrainz.org/recording/d476f962-0113-462f-b84a-7c0cb0bc67df) | La Cenerentola: Atto I. Coro "Scegli la sposa" - C |
-| [https://musicbrainz.org/recording/f539f0b3-e98a-4819-8eb9-5918e9be75f9](https://musicbrainz.org/recording/f539f0b3-e98a-4819-8eb9-5918e9be75f9) | La Cenerentola: Atto I. Reitativo "Allegrissimamen |
-| [https://musicbrainz.org/recording/67191e5c-e7f5-4fc9-9a3f-9e17b987ac17](https://musicbrainz.org/recording/67191e5c-e7f5-4fc9-9a3f-9e17b987ac17) | La Cenerentola: Atto I. Quintetto "Signor, una par |
-| [https://musicbrainz.org/recording/0ff8da54-c8d2-4ad7-84b4-d5b65755a710](https://musicbrainz.org/recording/0ff8da54-c8d2-4ad7-84b4-d5b65755a710) | La Cenerentola: Atto I. Aria "Là del ciel nell'arc |
-| [https://musicbrainz.org/recording/6169f05d-aebd-48ca-b6c5-74c0e6cf8934](https://musicbrainz.org/recording/6169f05d-aebd-48ca-b6c5-74c0e6cf8934) | La Cenerentola: Atto I. Coro "Conciossiacosacché"  |
-| [https://musicbrainz.org/recording/f238aa32-f116-4847-8a6f-6c5b8a309dee](https://musicbrainz.org/recording/f238aa32-f116-4847-8a6f-6c5b8a309dee) | La Cenerentola: Atto II. Recitativo "Mi par che qu |
-| [https://musicbrainz.org/recording/d5b91d48-6f95-4142-a203-92a0ac0db115](https://musicbrainz.org/recording/d5b91d48-6f95-4142-a203-92a0ac0db115) | La Cenerentola: Atto II. Aria "Sì, ritrovarla io g |
-| [https://musicbrainz.org/recording/aa55058b-132a-47f4-967c-263ae916a4b7](https://musicbrainz.org/recording/aa55058b-132a-47f4-967c-263ae916a4b7) | La Cenerentola: Atto II. Duetto "Un segreto d'impo |
-| [https://musicbrainz.org/recording/a7141a15-c994-4fb8-92f1-d6959c4c689b](https://musicbrainz.org/recording/a7141a15-c994-4fb8-92f1-d6959c4c689b) | La Cenerentola: Atto II. Canzone "Una volta c'era  |
-| [https://musicbrainz.org/recording/b582a2ad-0d6b-493c-ab03-cceaca319226](https://musicbrainz.org/recording/b582a2ad-0d6b-493c-ab03-cceaca319226) | La Cenerentola: Atto II. Temporale - Recitativo "S |
-| [https://musicbrainz.org/recording/798a5be1-ec1f-4b1d-b8df-d112fca93d36](https://musicbrainz.org/recording/798a5be1-ec1f-4b1d-b8df-d112fca93d36) | La Cenerentola: Atto II. Sestetto "Siete voi?" - " |
-| [https://musicbrainz.org/recording/58545c8a-8ded-4352-9d22-aa870027a060](https://musicbrainz.org/recording/58545c8a-8ded-4352-9d22-aa870027a060) | La Cenerentola: Atto II. Sestetto "Donna sciocca!  |
-| [https://musicbrainz.org/recording/2cb6c3ac-4f26-47e0-97f5-94ebd4386df2](https://musicbrainz.org/recording/2cb6c3ac-4f26-47e0-97f5-94ebd4386df2) | La Cenerentola: Atto II. Finale II. Coro "Della fo |
-| [https://musicbrainz.org/recording/834e37af-7f82-497d-8734-1f77c682ab12](https://musicbrainz.org/recording/834e37af-7f82-497d-8734-1f77c682ab12) | La Cenerentola: Finale II. Scena "Sposa" - "Signor |
-| [https://musicbrainz.org/recording/ad982025-44ea-4b1c-92db-d6ce88e88df7](https://musicbrainz.org/recording/ad982025-44ea-4b1c-92db-d6ce88e88df7) | Wo die Zitronen blüh'n, op. 364 (Walzer)           |
-| [https://musicbrainz.org/recording/af2798fc-dc65-4c98-8959-c0f59ce5833f](https://musicbrainz.org/recording/af2798fc-dc65-4c98-8959-c0f59ce5833f) | Die Walküre: Act I, Scene II. "Ich weiß ein wildes |
-| [https://musicbrainz.org/recording/2648c525-c75f-4e2d-a0a2-a32dbb87414c](https://musicbrainz.org/recording/2648c525-c75f-4e2d-a0a2-a32dbb87414c) | Die Walküre: Act II, Scene I. "Nun zäume dein Roß" |
-| [https://musicbrainz.org/recording/d9086be6-474f-48a6-8498-392056151c3b](https://musicbrainz.org/recording/d9086be6-474f-48a6-8498-392056151c3b) | Ameriques                                          |
-| [https://musicbrainz.org/recording/ecc6c9d6-c920-4fda-bbad-5babdd30b8f3](https://musicbrainz.org/recording/ecc6c9d6-c920-4fda-bbad-5babdd30b8f3) | Gurre-Lieder, Part I: no. 1: Orchestral Prelude    |
-| [https://musicbrainz.org/recording/d51ad16b-9df4-4f3c-8327-23d9cb923504](https://musicbrainz.org/recording/d51ad16b-9df4-4f3c-8327-23d9cb923504) | Das Rheingold: Szene III. Hehe! hehe! hieher! hieh |
-| [https://musicbrainz.org/recording/ab8a6a8c-517f-4540-b573-c67680c402f3](https://musicbrainz.org/recording/ab8a6a8c-517f-4540-b573-c67680c402f3) | Friede auf Erden, op. 13                           |
-| [https://musicbrainz.org/recording/d70d2e55-b8b3-41d3-a176-ddf12ec5a981](https://musicbrainz.org/recording/d70d2e55-b8b3-41d3-a176-ddf12ec5a981) | Das Rheingold: Szene III. Verwandlumgsmusik        |
-| [https://musicbrainz.org/recording/c5fa5d08-07f1-40cd-b926-378c7b090e18](https://musicbrainz.org/recording/c5fa5d08-07f1-40cd-b926-378c7b090e18) | Das Rheingold: Szene IV. Wohlan, die Nibelungen ri |
-| [https://musicbrainz.org/recording/44d927e3-c673-4f96-a3bd-fda704a4aec7](https://musicbrainz.org/recording/44d927e3-c673-4f96-a3bd-fda704a4aec7) | Das Rheingold: Szene IV. Zu deiner Lösung mußt du  |
-| [https://musicbrainz.org/recording/58e33906-aef3-45a4-a728-75b8a3365975](https://musicbrainz.org/recording/58e33906-aef3-45a4-a728-75b8a3365975) | Das Rheingold: Szene IV. Lauschtest du seinem Lieb |
-| [https://musicbrainz.org/recording/5d1ba52d-76f2-450e-8ed1-745727d2ec69](https://musicbrainz.org/recording/5d1ba52d-76f2-450e-8ed1-745727d2ec69) | Das Rheingold: Szene IV. Halt! Nicht sie berürth!  |
-| [https://musicbrainz.org/recording/4ed2d60a-bd4b-43a9-ba05-09e7f57af5ea](https://musicbrainz.org/recording/4ed2d60a-bd4b-43a9-ba05-09e7f57af5ea) | Das Rheingold: Szene IV. Nicht so leicht und locke |
-| [https://musicbrainz.org/recording/3247ec81-2ac7-47a2-91c0-20086d6ee80e](https://musicbrainz.org/recording/3247ec81-2ac7-47a2-91c0-20086d6ee80e) | Parsifal: Nun achte wohl, und laß mich seh'n - Zum |
-| [https://musicbrainz.org/recording/ded5c35f-03be-4d59-b034-88a66f1071a4](https://musicbrainz.org/recording/ded5c35f-03be-4d59-b034-88a66f1071a4) | Die Walküre: Act III, Scene I. Ritt der Walküren   |
-| [https://musicbrainz.org/recording/b87be973-d45a-40af-bbcd-81275eb675eb](https://musicbrainz.org/recording/b87be973-d45a-40af-bbcd-81275eb675eb) | ...Explosante-fixe...                              |
-| [https://musicbrainz.org/recording/6be30997-7e23-4805-9545-5f695d071419](https://musicbrainz.org/recording/6be30997-7e23-4805-9545-5f695d071419) | The Firebird: Infernal Dance                       |
-| [https://musicbrainz.org/recording/c1b1d690-6ef2-4383-a340-3a0a6259663b](https://musicbrainz.org/recording/c1b1d690-6ef2-4383-a340-3a0a6259663b) | Fuga (Ricercata) (after Musical Offering BWV 1079: |
-| [https://musicbrainz.org/recording/a1ea7b8a-a36b-438e-91c0-adc2db5519d3](https://musicbrainz.org/recording/a1ea7b8a-a36b-438e-91c0-adc2db5519d3) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/c2290955-00c6-49a8-aa90-87e10bef9379](https://musicbrainz.org/recording/c2290955-00c6-49a8-aa90-87e10bef9379) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/ff882a82-69e0-41aa-b7b7-123bd404decf](https://musicbrainz.org/recording/ff882a82-69e0-41aa-b7b7-123bd404decf) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/36d04abe-a2cc-4271-a701-d967c6625a30](https://musicbrainz.org/recording/36d04abe-a2cc-4271-a701-d967c6625a30) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/f18cf14e-546b-420c-a0a9-99970d5a01a3](https://musicbrainz.org/recording/f18cf14e-546b-420c-a0a9-99970d5a01a3) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/6cffc803-ea16-4c9d-a92b-39981db2e742](https://musicbrainz.org/recording/6cffc803-ea16-4c9d-a92b-39981db2e742) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/f863a4c7-8350-4f95-a990-5738c5e38b4d](https://musicbrainz.org/recording/f863a4c7-8350-4f95-a990-5738c5e38b4d) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/e4767b06-732a-424e-9385-f4de2f48be09](https://musicbrainz.org/recording/e4767b06-732a-424e-9385-f4de2f48be09) | Le Sacre du Printemps: Premiere Partie - L'Adorati |
-| [https://musicbrainz.org/recording/5e3e3fb5-17ed-4089-8e6c-85f522499d6a](https://musicbrainz.org/recording/5e3e3fb5-17ed-4089-8e6c-85f522499d6a) | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
-| [https://musicbrainz.org/recording/c1360255-a5b2-4513-846b-32e41b4b943e](https://musicbrainz.org/recording/c1360255-a5b2-4513-846b-32e41b4b943e) | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
-| [https://musicbrainz.org/recording/d946dedf-8ffd-4f02-833d-c161d3584995](https://musicbrainz.org/recording/d946dedf-8ffd-4f02-833d-c161d3584995) | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
-| [https://musicbrainz.org/recording/6ca07f70-ae13-4084-90a2-fd30fe013c58](https://musicbrainz.org/recording/6ca07f70-ae13-4084-90a2-fd30fe013c58) | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
-| [https://musicbrainz.org/recording/98773ca4-9399-4fa1-990a-9ee70a7f5fc8](https://musicbrainz.org/recording/98773ca4-9399-4fa1-990a-9ee70a7f5fc8) | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
-| [https://musicbrainz.org/recording/a37f3986-611d-46f9-80c7-a0c59d8f311f](https://musicbrainz.org/recording/a37f3986-611d-46f9-80c7-a0c59d8f311f) | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
-| [https://musicbrainz.org/recording/30537dd2-44f0-48bd-a5cd-48e5924cdc53](https://musicbrainz.org/recording/30537dd2-44f0-48bd-a5cd-48e5924cdc53) | Four Etudes for Orchestra: Danse                   |
-| [https://musicbrainz.org/recording/b5f47e07-0408-4395-9f75-377fdb2df628](https://musicbrainz.org/recording/b5f47e07-0408-4395-9f75-377fdb2df628) | Four Etudes for Orchestra: Excentrique             |
-| [https://musicbrainz.org/recording/6cfcc0bf-28fa-4997-9c9b-3be51a34a8ee](https://musicbrainz.org/recording/6cfcc0bf-28fa-4997-9c9b-3be51a34a8ee) | Four Etudes for Orchestra: Cantique                |
-| [https://musicbrainz.org/recording/8e9a0904-2031-4c7a-949a-87d2a23e71cb](https://musicbrainz.org/recording/8e9a0904-2031-4c7a-949a-87d2a23e71cb) | Four Etudes for Orchestra: Madrid                  |
-| [https://musicbrainz.org/recording/34ff9735-4285-4daf-b4fe-7c8ee1d4d214](https://musicbrainz.org/recording/34ff9735-4285-4daf-b4fe-7c8ee1d4d214) | Sechs Stücke für großes Orchestrer, op. 6          |
-| [https://musicbrainz.org/recording/52fbf1da-3ed1-4f20-ab63-75e3bc4e7365](https://musicbrainz.org/recording/52fbf1da-3ed1-4f20-ab63-75e3bc4e7365) | Così fan tutte: Overture                           |
-| [https://musicbrainz.org/recording/e1781b70-af17-4dc1-a139-17d211835764](https://musicbrainz.org/recording/e1781b70-af17-4dc1-a139-17d211835764) | Symphony no. 31 in D major, K. 300a/297 "Paris": I |
-| [https://musicbrainz.org/recording/42be3004-132b-4f27-9545-2764ed0918a4](https://musicbrainz.org/recording/42be3004-132b-4f27-9545-2764ed0918a4) | Die Zauberflöte: Act I. Nr. 8 Finale: »Zum Ziele f |
-| [https://musicbrainz.org/recording/5e78474c-46e5-4431-bd27-d71599691df2](https://musicbrainz.org/recording/5e78474c-46e5-4431-bd27-d71599691df2) | Il dissoluto punito, ossia il Don Giovanni, K. 527 |
-| [https://musicbrainz.org/recording/248d18f4-5162-42f1-92bb-69da09821be7](https://musicbrainz.org/recording/248d18f4-5162-42f1-92bb-69da09821be7) | Die Zauberflöte, K. 620: Act II, Scene XXIX. "Papa |
-| [https://musicbrainz.org/recording/2ed2732d-1c36-4d79-b8ca-02422f1998ba](https://musicbrainz.org/recording/2ed2732d-1c36-4d79-b8ca-02422f1998ba) | Don Juan                                           |
-| [https://musicbrainz.org/recording/22dd3ecb-0e89-484f-854b-33da5079e097](https://musicbrainz.org/recording/22dd3ecb-0e89-484f-854b-33da5079e097) | Der Rosenkavalier, Op. 59: Waltzes from Act III    |
-| [https://musicbrainz.org/recording/d971d2d7-ddb1-4020-a046-a19cac390290](https://musicbrainz.org/recording/d971d2d7-ddb1-4020-a046-a19cac390290) | Konzert für Horn und Orchester No. 3 Es-dur, KV 44 |
-| [https://musicbrainz.org/recording/c2465b04-2e72-4e5e-9f84-821df67b72d2](https://musicbrainz.org/recording/c2465b04-2e72-4e5e-9f84-821df67b72d2) | Fidelio: Act I, No. 10. "Nun sprecht, wie ging's?" |
-| [https://musicbrainz.org/recording/eae9863c-3819-4401-a702-4dddbe10f615](https://musicbrainz.org/recording/eae9863c-3819-4401-a702-4dddbe10f615) | Symphony No. 6 in F major, Op. 68 "Pastorale": V.  |
-| [https://musicbrainz.org/recording/a030d729-c9eb-42dd-a033-7ad65823c7d3](https://musicbrainz.org/recording/a030d729-c9eb-42dd-a033-7ad65823c7d3) | Die Zauberflöte: Act II. Nr. 21 Finale: »Tamino me |
-| [https://musicbrainz.org/recording/884c3e69-7ea2-499f-98dc-4a6df91e35a1](https://musicbrainz.org/recording/884c3e69-7ea2-499f-98dc-4a6df91e35a1) | Konzert für Horn und Orchester Nr. 1 D-dur KV 412: |
-| [https://musicbrainz.org/recording/7d8e5930-0e49-41b4-8dc2-1669e4fa2c6f](https://musicbrainz.org/recording/7d8e5930-0e49-41b4-8dc2-1669e4fa2c6f) | Requiem in D minor, K. 626: 3. Sequentia: Dies ira |
-| [https://musicbrainz.org/recording/2d2e73e1-fda5-431a-8e2d-d82ca5a6bfb0](https://musicbrainz.org/recording/2d2e73e1-fda5-431a-8e2d-d82ca5a6bfb0) | Der Rosenkavalier: Akt I. Einleitung / “Wie du war |
-| [https://musicbrainz.org/recording/ad05df74-7114-4c20-8d00-74eccfa4f7bb](https://musicbrainz.org/recording/ad05df74-7114-4c20-8d00-74eccfa4f7bb) | Der Rosenkavalier: Akt I. “Er Katzenkopf, Er Unvor |
-| [https://musicbrainz.org/recording/e8723989-d7e5-4295-819f-b4c858ddfba3](https://musicbrainz.org/recording/e8723989-d7e5-4295-819f-b4c858ddfba3) | Der Rosenkavalier: Akt I. “Selbstverständlich empf |
-| [https://musicbrainz.org/recording/cc830b63-a943-4356-97e7-c89f178f7245](https://musicbrainz.org/recording/cc830b63-a943-4356-97e7-c89f178f7245) | Der Rosenkavalier: Akt I. “Hat Sie schon einmal mi |
-| [https://musicbrainz.org/recording/a517557a-2fed-4539-8379-dfa51ddd3930](https://musicbrainz.org/recording/a517557a-2fed-4539-8379-dfa51ddd3930) | Der Rosenkavalier: Akt I. “I komm' glei” - “Drei a |
-| [https://musicbrainz.org/recording/fc035cec-0d4a-41bb-bacf-9cc8f39a9c69](https://musicbrainz.org/recording/fc035cec-0d4a-41bb-bacf-9cc8f39a9c69) | Der Rosenkavalier: Akt I. “Di rigori armato il sen |
-| [https://musicbrainz.org/recording/372126ed-89eb-4301-a600-4a79f376aca6](https://musicbrainz.org/recording/372126ed-89eb-4301-a600-4a79f376aca6) | Der Rosenkavalier: Akt I. “Als Morgengabe - ganz s |
-| [https://musicbrainz.org/recording/c77648a2-737e-4848-b910-200b338ca011](https://musicbrainz.org/recording/c77648a2-737e-4848-b910-200b338ca011) | Der Rosenkavalier: Akt I. “Da geht er hin, der auf |
-| [https://musicbrainz.org/recording/30504c0c-4eb3-4a57-aa9c-7b8582efb8ce](https://musicbrainz.org/recording/30504c0c-4eb3-4a57-aa9c-7b8582efb8ce) | Der Rosenkavalier: Akt I. “Ach, du bist wieder da! |
-| [https://musicbrainz.org/recording/897e0c86-9cd4-4b11-a942-24ac0d99dc6f](https://musicbrainz.org/recording/897e0c86-9cd4-4b11-a942-24ac0d99dc6f) | Der Rosenkavalier: Akt I. “Die Zeit, die ist ein s |
-| [https://musicbrainz.org/recording/12abd029-4547-40c7-9701-88c50d744a2a](https://musicbrainz.org/recording/12abd029-4547-40c7-9701-88c50d744a2a) | Der Rosenkavalier: Akt II. Einleitung / “Ein ernst |
-| [https://musicbrainz.org/recording/c08a0b15-22a4-403e-92c9-5b8a6c448a83](https://musicbrainz.org/recording/c08a0b15-22a4-403e-92c9-5b8a6c448a83) | Der Rosenkavalier: Akt II. “Mir ist die Ehre wider |
-| [https://musicbrainz.org/recording/f165e4fe-d8b2-44da-b10d-439e671f06cc](https://musicbrainz.org/recording/f165e4fe-d8b2-44da-b10d-439e671f06cc) | Der Rosenkavalier: Akt II. “Ich kenn' Ihn schon re |
-| [https://musicbrainz.org/recording/4a584abc-6bb6-4a20-8910-2a0f2797160d](https://musicbrainz.org/recording/4a584abc-6bb6-4a20-8910-2a0f2797160d) | Der Rosenkavalier: Akt II. “Jetzt aber kommt mein  |
-| [https://musicbrainz.org/recording/98c69028-0795-44e8-9e17-bb80b62edc89](https://musicbrainz.org/recording/98c69028-0795-44e8-9e17-bb80b62edc89) | Der Rosenkavalier: Akt II. “Wird Sie das Mannsbild |
-| [https://musicbrainz.org/recording/745c683c-59be-4c1c-9509-4ec1da2df18a](https://musicbrainz.org/recording/745c683c-59be-4c1c-9509-4ec1da2df18a) | Der Rosenkavalier: Akt II. “Herr Baron von Lerchen |
-| [https://musicbrainz.org/recording/e22a37bd-575f-4a17-b9f0-9b285da43b5d](https://musicbrainz.org/recording/e22a37bd-575f-4a17-b9f0-9b285da43b5d) | Der Rosenkavalier: Akt II. “Da lieg' ich! Was eine |
-| [https://musicbrainz.org/recording/b8e8d32b-686e-4168-8e99-89cc21def670](https://musicbrainz.org/recording/b8e8d32b-686e-4168-8e99-89cc21def670) | Der Rosenkavalier: Akt III. Einleitung und Pantomi |
-| [https://musicbrainz.org/recording/58003f9b-9497-41ce-9c2f-54a618b49ed7](https://musicbrainz.org/recording/58003f9b-9497-41ce-9c2f-54a618b49ed7) | Der Rosenkavalier: Akt III. Walzer - “Hab'n Euer G |
-| [https://musicbrainz.org/recording/22602871-30bb-4e7e-bc01-d7e94d1301db](https://musicbrainz.org/recording/22602871-30bb-4e7e-bc01-d7e94d1301db) | Der Rosenkavalier: Akt III. “Die schöne Musi!” (Oc |
-| [https://musicbrainz.org/recording/dec9f7f2-f347-42e7-a6e1-a9f5177e9e41](https://musicbrainz.org/recording/dec9f7f2-f347-42e7-a6e1-a9f5177e9e41) | Der Rosenkavalier: Akt III. “Er ist es! Es ist mei |
-| [https://musicbrainz.org/recording/7d4d8ed1-a551-4240-82fe-360a3b7c89af](https://musicbrainz.org/recording/7d4d8ed1-a551-4240-82fe-360a3b7c89af) | Der Rosenkavalier: Akt III. “Bin glücklich über Ma |
-| [https://musicbrainz.org/recording/72e14405-d2de-4eb1-8842-83c88bde0251](https://musicbrainz.org/recording/72e14405-d2de-4eb1-8842-83c88bde0251) | Der Rosenkavalier: Akt III. “Leopold, wir gehn!” ( |
-| [https://musicbrainz.org/recording/9b31e0a9-edb6-493e-a06a-77a43b3fc00e](https://musicbrainz.org/recording/9b31e0a9-edb6-493e-a06a-77a43b3fc00e) | Der Rosenkavalier: Akt III. “Mein Gott, es war nic |
-| [https://musicbrainz.org/recording/29a0a02d-2c1c-4f65-8a6f-468f4f98591e](https://musicbrainz.org/recording/29a0a02d-2c1c-4f65-8a6f-468f4f98591e) | Der Rosenkavalier: Akt III. “Marie Theres'!” ... “ |
-| [https://musicbrainz.org/recording/6159e6bb-20c4-4ed3-ad1b-e38856e5a367](https://musicbrainz.org/recording/6159e6bb-20c4-4ed3-ad1b-e38856e5a367) | Der Rosenkavalier: Akt III. “Ist ein Traum, kann n |
-| [https://musicbrainz.org/recording/f87deec3-f6f2-4ece-9e40-7156788b2555](https://musicbrainz.org/recording/f87deec3-f6f2-4ece-9e40-7156788b2555) | Wozzeck: Erster Akt: »Langsam, Wozzeck, langsam!«  |
-| [https://musicbrainz.org/recording/69ca40e6-eb50-4638-85d2-f5697d35723d](https://musicbrainz.org/recording/69ca40e6-eb50-4638-85d2-f5697d35723d) | Wozzeck: Erster Akt: »Du, der Platz ist verflucht! |
-| [https://musicbrainz.org/recording/8a5db668-ae6e-4408-937a-fcb0dacbb95b](https://musicbrainz.org/recording/8a5db668-ae6e-4408-937a-fcb0dacbb95b) | Wozzeck: Erster Akt: »Tschin Bum...! Hörst Bub? Da |
-| [https://musicbrainz.org/recording/ff7a4f6c-0b2f-4a02-a400-ba3c4a511031](https://musicbrainz.org/recording/ff7a4f6c-0b2f-4a02-a400-ba3c4a511031) | Wozzeck: Erster Akt: »Was erleb' ich, Wozzeck?«    |
-| [https://musicbrainz.org/recording/bb94e6b7-f765-442b-aa7b-ff76e185a4a2](https://musicbrainz.org/recording/bb94e6b7-f765-442b-aa7b-ff76e185a4a2) | Wozzeck: Erster Akt: »Geh einmal vor Dich hin...«  |
-| [https://musicbrainz.org/recording/bb519352-2e0b-4f0c-ab9e-02e0845d7c53](https://musicbrainz.org/recording/bb519352-2e0b-4f0c-ab9e-02e0845d7c53) | Wozzeck: Zweiter Akt: Orchester-Einleitung · »Was  |
-| [https://musicbrainz.org/recording/2e11670b-626f-4a98-8c3f-bad0048c7d5a](https://musicbrainz.org/recording/2e11670b-626f-4a98-8c3f-bad0048c7d5a) | Wozzeck: Zweiter Akt: »Wohin so eilig, geehrtester |
-| [https://musicbrainz.org/recording/e99b3276-87c4-4e32-b9b8-5c3736188421](https://musicbrainz.org/recording/e99b3276-87c4-4e32-b9b8-5c3736188421) | Wozzeck: Zweiter Akt: Verwandlung · Überleitende T |
-| [https://musicbrainz.org/recording/1f50b1ee-5c1f-40aa-9731-2d1c2e188b2a](https://musicbrainz.org/recording/1f50b1ee-5c1f-40aa-9731-2d1c2e188b2a) | Wozzeck: Zweiter Akt: »Ich hab' ein Hemdlein an, d |
-| [https://musicbrainz.org/recording/103ebc86-966c-4d13-9c12-5ec45ebedf34](https://musicbrainz.org/recording/103ebc86-966c-4d13-9c12-5ec45ebedf34) | Wozzeck: Zweiter Akt: »Oh! oh! Andres! Ich kann ni |
-| [https://musicbrainz.org/recording/d3d6a755-571e-41bb-abf2-f5cea7f803f1](https://musicbrainz.org/recording/d3d6a755-571e-41bb-abf2-f5cea7f803f1) | Wozzeck: Dritter Akt: »Und ist kein Betrug in sein |
-| [https://musicbrainz.org/recording/59c26b7f-cd46-4ea2-b1fd-199744390167](https://musicbrainz.org/recording/59c26b7f-cd46-4ea2-b1fd-199744390167) | Wozzeck: Dritter Akt: »Dort links geht's in die St |
-| [https://musicbrainz.org/recording/e82a713f-d93f-4855-905c-4a36db9141c6](https://musicbrainz.org/recording/e82a713f-d93f-4855-905c-4a36db9141c6) | Wozzeck: Dritter Akt: »Tantz Alle; tantz nur zu... |
-| [https://musicbrainz.org/recording/e22d1230-e1a6-4424-b8f9-decfbb1dd312](https://musicbrainz.org/recording/e22d1230-e1a6-4424-b8f9-decfbb1dd312) | Wozzeck: Dritter Akt: Verwandlung · Orchester-Nach |
-| [https://musicbrainz.org/recording/801f4811-3534-49c1-9519-d0b0af666689](https://musicbrainz.org/recording/801f4811-3534-49c1-9519-d0b0af666689) | Fidelio, op. 72: Act II. No. 11 Introduction and A |
-| [https://musicbrainz.org/recording/2823f625-4952-4b8e-a60e-d6f0610e8951](https://musicbrainz.org/recording/2823f625-4952-4b8e-a60e-d6f0610e8951) | Salome: Scene I. "Wie Schon Ist Die Prinzessin Sal |
-| [https://musicbrainz.org/recording/13999749-3299-4ef0-abc0-a1ef7d5c43b9](https://musicbrainz.org/recording/13999749-3299-4ef0-abc0-a1ef7d5c43b9) | Salome: Scene II. "Ich Will Nicht Bleiben"         |
-| [https://musicbrainz.org/recording/9d351ff1-6204-4906-bac9-f874e3fb5711](https://musicbrainz.org/recording/9d351ff1-6204-4906-bac9-f874e3fb5711) | Salome: Scene III. "Wo Ist Er, Dessen Sundebecher  |
-| [https://musicbrainz.org/recording/0dacd7a4-798a-41cf-b6dc-abdd01f0d644](https://musicbrainz.org/recording/0dacd7a4-798a-41cf-b6dc-abdd01f0d644) | Salome: Scene III. "Ich Will Ihn Naher Beseh'n"    |
-| [https://musicbrainz.org/recording/0ed5a054-7c6f-4be4-9cdb-79062fcc68e7](https://musicbrainz.org/recording/0ed5a054-7c6f-4be4-9cdb-79062fcc68e7) | Salome: Scene III. "Tiemals, Tochter Babylons, Toc |
-| [https://musicbrainz.org/recording/ee29dab8-4fe4-43f4-8c06-4c2b8ca69876](https://musicbrainz.org/recording/ee29dab8-4fe4-43f4-8c06-4c2b8ca69876) | Salome: Scene IV. "Wo Ist Salome? Wo Ist Die Prinz |
-| [https://musicbrainz.org/recording/0d666534-02a3-4609-af83-20a51c1e1ada](https://musicbrainz.org/recording/0d666534-02a3-4609-af83-20a51c1e1ada) | Salome: Scene IV. "Salome, Komm, Trink Mit Mir"    |
-| [https://musicbrainz.org/recording/5a2abf4e-cb25-40c7-88f1-a1e4b0eb9916](https://musicbrainz.org/recording/5a2abf4e-cb25-40c7-88f1-a1e4b0eb9916) | Salome: Scene IV. "Tanz Fur Mich, Salome!"         |
-| [https://musicbrainz.org/recording/0c466275-c884-4142-a9d2-5272fcaffa8f](https://musicbrainz.org/recording/0c466275-c884-4142-a9d2-5272fcaffa8f) | Salome: Scene IV. Salomes Tanz                     |
-| [https://musicbrainz.org/recording/3558188b-c6bc-4a55-86cf-8f125a5d4802](https://musicbrainz.org/recording/3558188b-c6bc-4a55-86cf-8f125a5d4802) | Salome: Scene IV. "Ah! Herrlich, Wundervoll!"      |
-| [https://musicbrainz.org/recording/7aab9a2b-8bd8-468f-8d64-b7d2bce7313d](https://musicbrainz.org/recording/7aab9a2b-8bd8-468f-8d64-b7d2bce7313d) | Salome: Scene IV. "Salome, Bedenk, Was Du Tun Will |
-| [https://musicbrainz.org/recording/0781c9c4-f661-45db-8002-52cae5ee6c93](https://musicbrainz.org/recording/0781c9c4-f661-45db-8002-52cae5ee6c93) | Salome: Scene IV. "Ah! Du Wolltest Mich Nicht Dein |
-| [https://musicbrainz.org/recording/bad3f1f4-8443-4922-b5c7-06529a75f48b](https://musicbrainz.org/recording/bad3f1f4-8443-4922-b5c7-06529a75f48b) | Salome: Scene IV. "Ah! Ich Habe Deinen Mund GekusB |
-| [https://musicbrainz.org/recording/4b3b5c30-3b80-4732-a0e6-ff6e4b9790a3](https://musicbrainz.org/recording/4b3b5c30-3b80-4732-a0e6-ff6e4b9790a3) | Ariadne auf Naxos: Sein Wir Wieder Gut (Finalszene |
-| [https://musicbrainz.org/recording/32f85d5a-2421-48e2-a229-cf8d3f0464f8](https://musicbrainz.org/recording/32f85d5a-2421-48e2-a229-cf8d3f0464f8) | Ariadne auf Naxos: Wo War Ich? Tot? Und Lebe (Szen |
-| [https://musicbrainz.org/recording/1ece3a95-788d-4648-8282-ecb0b0eaca9c](https://musicbrainz.org/recording/1ece3a95-788d-4648-8282-ecb0b0eaca9c) | Ariadne auf Naxos: Großmächtige Prinzessin (Arie d |
-| [https://musicbrainz.org/recording/836a8e18-bad2-4ef4-bada-a9db6a98ede4](https://musicbrainz.org/recording/836a8e18-bad2-4ef4-bada-a9db6a98ede4) | Die Frau Ohne Schatten: Was Wollt Ihr Hier? Wo Kom |
-| [https://musicbrainz.org/recording/326b406c-c14e-42d7-b7ef-21028151684f](https://musicbrainz.org/recording/326b406c-c14e-42d7-b7ef-21028151684f) | Die Frau Ohne Schatten: Vater Bist Du's? (Szene au |
-| [https://musicbrainz.org/recording/47c07371-6073-4ca8-bc9b-59e25dee2399](https://musicbrainz.org/recording/47c07371-6073-4ca8-bc9b-59e25dee2399) | Capriccio: Morgen Mittag Um Elf! (Monolog der Gräf |
-| [https://musicbrainz.org/recording/9531b7b1-3401-44f9-b9fc-90638f807743](https://musicbrainz.org/recording/9531b7b1-3401-44f9-b9fc-90638f807743) | Daphne: Unheilvolle Daphne! Weil Ein Gott Dich Gel |
-| [https://musicbrainz.org/recording/939b1e4b-d53a-4d87-b5e8-6a26de2f6c13](https://musicbrainz.org/recording/939b1e4b-d53a-4d87-b5e8-6a26de2f6c13) | Elektra: Wer Bist Denn Du? (Szene Orest - Elektra) |
-| [https://musicbrainz.org/recording/27132863-ef17-4ad1-a59f-775749fdf9b9](https://musicbrainz.org/recording/27132863-ef17-4ad1-a59f-775749fdf9b9) | Ariadne auf Naxos: Es Gibt Ein Reich, Wo Alles Rei |
-| [https://musicbrainz.org/recording/9e3b3561-a214-4808-b599-45ab232d0cec](https://musicbrainz.org/recording/9e3b3561-a214-4808-b599-45ab232d0cec) | Ein Heldenleben, op. 40: I. Der Herd               |
-| [https://musicbrainz.org/recording/b5a2ffaa-d86c-4a84-9017-32ccad9a6135](https://musicbrainz.org/recording/b5a2ffaa-d86c-4a84-9017-32ccad9a6135) | Ein Heldenleben, op. 40: II. Des Helden Widersache |
-| [https://musicbrainz.org/recording/d339b7f4-2f71-41a1-9373-725c6ecc541d](https://musicbrainz.org/recording/d339b7f4-2f71-41a1-9373-725c6ecc541d) | Ein Heldenleben, op. 40: III. Des Helden Gefahrtin |
-| [https://musicbrainz.org/recording/15febf88-517a-470a-90d7-aff48e0639a7](https://musicbrainz.org/recording/15febf88-517a-470a-90d7-aff48e0639a7) | Ein Heldenleben, op. 40: IV. Des Helden Walstatt   |
-| [https://musicbrainz.org/recording/efb6fb6e-ed78-48ed-b0c4-a4bfdb952aba](https://musicbrainz.org/recording/efb6fb6e-ed78-48ed-b0c4-a4bfdb952aba) | Ein Heldenleben, op. 40: V. Des Helden Friedenswer |
-| [https://musicbrainz.org/recording/54199678-aca5-4725-bb36-cff3bd5abe6c](https://musicbrainz.org/recording/54199678-aca5-4725-bb36-cff3bd5abe6c) | Ein Heldenleben, op. 40: VI. Des Helden Weltflucht |
-| [https://musicbrainz.org/recording/ed0ab27c-af2c-4d9c-bcc6-b1b44544263d](https://musicbrainz.org/recording/ed0ab27c-af2c-4d9c-bcc6-b1b44544263d) | I. Adagio - Allegro non troppo                     |
-| [https://musicbrainz.org/recording/a7d01635-6338-4691-a7f4-ac6a6b9e3519](https://musicbrainz.org/recording/a7d01635-6338-4691-a7f4-ac6a6b9e3519) | II. Allegro con grazia                             |
-| [https://musicbrainz.org/recording/ea33f80b-6a77-436e-bc67-aaf6379a7e6f](https://musicbrainz.org/recording/ea33f80b-6a77-436e-bc67-aaf6379a7e6f) | III. Allegro molto vivace                          |
-| [https://musicbrainz.org/recording/d720caec-1e35-44da-80ee-67a2a0ab0ca1](https://musicbrainz.org/recording/d720caec-1e35-44da-80ee-67a2a0ab0ca1) | IV. Finale. Adagio lamentoso - Andante             |
-| [https://musicbrainz.org/recording/d1f948b3-297e-45b7-aaf2-e8ba3c64b393](https://musicbrainz.org/recording/d1f948b3-297e-45b7-aaf2-e8ba3c64b393) | Les Contes d’Hoffmann : Frantz, n’ouvre à personne |
-| [https://musicbrainz.org/recording/f522540e-da4c-4775-9215-d97486a23cfd](https://musicbrainz.org/recording/f522540e-da4c-4775-9215-d97486a23cfd) | Hänsel und Gretel: Act I. “Brüderchen, komm tanz’  |
-| [https://musicbrainz.org/recording/df4f6a7a-11fd-47e8-a252-5d4601137783](https://musicbrainz.org/recording/df4f6a7a-11fd-47e8-a252-5d4601137783) | Symphony no. 8 'Unfinished", D. 759, Allegro moder |
-| [https://musicbrainz.org/recording/af26c0d1-f354-4c7a-82de-4e772587f66d](https://musicbrainz.org/recording/af26c0d1-f354-4c7a-82de-4e772587f66d) | Faust: Act I                                       |
-| [https://musicbrainz.org/recording/c6c1b6fa-4332-44b7-8f03-e08e1c524d9a](https://musicbrainz.org/recording/c6c1b6fa-4332-44b7-8f03-e08e1c524d9a) | Faust: Act II                                      |
-| [https://musicbrainz.org/recording/fb5b452c-34b7-4746-9943-a119bdf03636](https://musicbrainz.org/recording/fb5b452c-34b7-4746-9943-a119bdf03636) | Faust: Act III                                     |
-| [https://musicbrainz.org/recording/7f1149f6-ccfd-4b3d-8c73-1522577d9228](https://musicbrainz.org/recording/7f1149f6-ccfd-4b3d-8c73-1522577d9228) | Faust: Act IV                                      |
-| [https://musicbrainz.org/recording/698c737c-3728-47f8-bb8f-64bf7e0556e5](https://musicbrainz.org/recording/698c737c-3728-47f8-bb8f-64bf7e0556e5) | Faust: Act V                                       |
-| [https://musicbrainz.org/recording/80c9908c-2e8f-4699-804f-c09fb149b29d](https://musicbrainz.org/recording/80c9908c-2e8f-4699-804f-c09fb149b29d) | Sur la mer calmée                                  |
-| [https://musicbrainz.org/recording/1ee37495-10a7-4a4c-b432-fa9ad3d25ecf](https://musicbrainz.org/recording/1ee37495-10a7-4a4c-b432-fa9ad3d25ecf) | Symphony in D minor: I. Lento                      |
-| [https://musicbrainz.org/recording/318283c9-4bf0-4c8a-b4e1-a8d48e66b482](https://musicbrainz.org/recording/318283c9-4bf0-4c8a-b4e1-a8d48e66b482) | Symphony in D minor: II. Allegretto                |
-| [https://musicbrainz.org/recording/67d62cca-29c9-448e-a307-73f891c23a77](https://musicbrainz.org/recording/67d62cca-29c9-448e-a307-73f891c23a77) | Symphony in D minor: III. Allegro non troppo       |
-| [https://musicbrainz.org/recording/75cfe951-eaa2-4fa6-a322-b081f47bf918](https://musicbrainz.org/recording/75cfe951-eaa2-4fa6-a322-b081f47bf918) | Symphony No. 2 in D major, Op. 73: I. Allegro non  |
-| [https://musicbrainz.org/recording/f9f73256-c3ef-4864-9740-4a73a3f6b137](https://musicbrainz.org/recording/f9f73256-c3ef-4864-9740-4a73a3f6b137) | Symphony no. 8 in C minor: I. Allegro moderato     |
-| [https://musicbrainz.org/recording/b655519b-1a3c-4b22-99cc-84793e8a7813](https://musicbrainz.org/recording/b655519b-1a3c-4b22-99cc-84793e8a7813) | Symphony no. 8 in C minor: II. Scherzo: Allegro mo |
-| [https://musicbrainz.org/recording/70a131b0-3e0b-42aa-aed5-c6f739da7d88](https://musicbrainz.org/recording/70a131b0-3e0b-42aa-aed5-c6f739da7d88) | Symphony no. 8 in C minor: III. Adagio. Feierlich  |
-| [https://musicbrainz.org/recording/efbfe005-bed2-4fc3-9562-c3e04c392b8c](https://musicbrainz.org/recording/efbfe005-bed2-4fc3-9562-c3e04c392b8c) | Symphony no. 8 in C minor: IV. Finale: Feilerlich, |
-| [https://musicbrainz.org/recording/badf49c0-cd86-43a7-802b-47a4ce258c87](https://musicbrainz.org/recording/badf49c0-cd86-43a7-802b-47a4ce258c87) | Symphony no. 9 in D minor, op. 125 "Choral": I. Al |
-| [https://musicbrainz.org/recording/fa433000-cb6b-454f-a032-6e9df10e424f](https://musicbrainz.org/recording/fa433000-cb6b-454f-a032-6e9df10e424f) | Symphony no. 9 in D minor, op. 125 "Choral": II. M |
-| [https://musicbrainz.org/recording/d41172f4-69a7-4b39-94e3-b5ec9f400dff](https://musicbrainz.org/recording/d41172f4-69a7-4b39-94e3-b5ec9f400dff) | Symphony no. 9 in D minor, op. 125 "Choral": III.  |
-| [https://musicbrainz.org/recording/b7e745d8-3761-42da-9503-e37494ba6dd4](https://musicbrainz.org/recording/b7e745d8-3761-42da-9503-e37494ba6dd4) | Symphony no. 2 in D major, op. 36: I. Adagio molto |
-| [https://musicbrainz.org/recording/8ae1c990-a517-4ae3-8780-bd7c8a613261](https://musicbrainz.org/recording/8ae1c990-a517-4ae3-8780-bd7c8a613261) | Symphony no. 2 in D major, op. 36: II. Larghetto   |
-| [https://musicbrainz.org/recording/42a86ad9-26be-4177-8a48-968fa0d79f58](https://musicbrainz.org/recording/42a86ad9-26be-4177-8a48-968fa0d79f58) | Symphony no. 2 in D major, op. 36: III. Scherzo. A |
-| [https://musicbrainz.org/recording/25698dd7-b619-4609-89a9-5d190b4679dd](https://musicbrainz.org/recording/25698dd7-b619-4609-89a9-5d190b4679dd) | Symphony no. 2 in D major, op. 36: IV. Allegro mol |
-| [https://musicbrainz.org/recording/5ee526c4-d4f5-46ce-b663-d3a9daacec21](https://musicbrainz.org/recording/5ee526c4-d4f5-46ce-b663-d3a9daacec21) | Concerto for Violin and large Chamber Orchestra: I |
-| [https://musicbrainz.org/recording/fe67ce91-224c-48b1-b15c-76d09c55dd30](https://musicbrainz.org/recording/fe67ce91-224c-48b1-b15c-76d09c55dd30) | Concerto for Violin and large Chamber Orchestra: I |
-| [https://musicbrainz.org/recording/4241a817-d5a6-4cc6-b243-a74b0ac74a65](https://musicbrainz.org/recording/4241a817-d5a6-4cc6-b243-a74b0ac74a65) | Concerto for Violin and large Chamber Orchestra: I |
-| [https://musicbrainz.org/recording/3c3c8f64-e978-4d7a-a36b-564d16c80a83](https://musicbrainz.org/recording/3c3c8f64-e978-4d7a-a36b-564d16c80a83) | Concertante Musik für Orchester, Op. 10: Moderato  |
-| [https://musicbrainz.org/recording/af068f47-f2e3-40a9-9476-3ad9e14dba9c](https://musicbrainz.org/recording/af068f47-f2e3-40a9-9476-3ad9e14dba9c) | Tristan und Isolde, WWV 90: Act II, Scene II. "O s |
-| [https://musicbrainz.org/recording/c2caac83-fd74-4415-97a8-cbcfd341b9ad](https://musicbrainz.org/recording/c2caac83-fd74-4415-97a8-cbcfd341b9ad) | Daphnis et Chloé - Suite n. 2                      |
-| [https://musicbrainz.org/recording/58dddafe-f344-45b6-8274-5bff1ac5973f](https://musicbrainz.org/recording/58dddafe-f344-45b6-8274-5bff1ac5973f) | Symphony no. 3 in F, op. 90: Allegro con brio - Un |
-| [https://musicbrainz.org/recording/787ed6b2-a7da-46d7-bf37-cd115fe4041d](https://musicbrainz.org/recording/787ed6b2-a7da-46d7-bf37-cd115fe4041d) | Music to Johann Wolfgang von Goethe's Tragedy “Egm |
-| [https://musicbrainz.org/recording/a55f951e-6c46-4f5f-be75-86881f5bd8bb](https://musicbrainz.org/recording/a55f951e-6c46-4f5f-be75-86881f5bd8bb) | Die Hochzeit des Figaro: Gott der Liebe            |
-| [https://musicbrainz.org/recording/eb726d23-64d1-4063-8dd8-930484ad1046](https://musicbrainz.org/recording/eb726d23-64d1-4063-8dd8-930484ad1046) | Die Hochzeit des Figaro: Komm nun, liebe Susanna   |
-| [https://musicbrainz.org/recording/2d7da2e0-44c4-4bcc-84a9-c0c711c29803](https://musicbrainz.org/recording/2d7da2e0-44c4-4bcc-84a9-c0c711c29803) | Die Hochzeit des Figaro: Sagt nun, Ihr Frauen      |
-| [https://musicbrainz.org/recording/4554dfee-65e7-4212-9c15-a0c3f7c0867b](https://musicbrainz.org/recording/4554dfee-65e7-4212-9c15-a0c3f7c0867b) | Die Hochzeit des Figaro: Bravo, welch schone Stimm |
-| [https://musicbrainz.org/recording/2679a3aa-f710-4351-aad6-eb1e7eb1ddb0](https://musicbrainz.org/recording/2679a3aa-f710-4351-aad6-eb1e7eb1ddb0) | Die Hochzeit des Figaro: Nur naher, knien Sie hin  |
-| [https://musicbrainz.org/recording/b76396e0-b0f9-4447-8267-2d916fd8de7f](https://musicbrainz.org/recording/b76396e0-b0f9-4447-8267-2d916fd8de7f) | Die Hochzeit des Figaro: Ende nun die Possen       |
-| [https://musicbrainz.org/recording/6f314b19-e9bc-42ec-ba60-aa1e57ba4d63](https://musicbrainz.org/recording/6f314b19-e9bc-42ec-ba60-aa1e57ba4d63) | Die Hochzeit des Figaro: Was ist denn das          |
-| [https://musicbrainz.org/recording/28c13928-066f-41ec-b673-9f4eab3f11e9](https://musicbrainz.org/recording/28c13928-066f-41ec-b673-9f4eab3f11e9) | Die Hochzeit des Figaro: Wohlan, wird's bald gesch |
-| [https://musicbrainz.org/recording/1047cf1c-0bc7-403e-b7d6-4dd455811395](https://musicbrainz.org/recording/1047cf1c-0bc7-403e-b7d6-4dd455811395) | Die Hochzeit des Figaro: Also Sie wollen nicht off |
-| [https://musicbrainz.org/recording/5ed6c93c-82ec-4ef0-a5d6-8e5a71c5343f](https://musicbrainz.org/recording/5ed6c93c-82ec-4ef0-a5d6-8e5a71c5343f) | Die Hochzeit des Figaro: Geschwind die Tur geoffne |
-| [https://musicbrainz.org/recording/4030dc59-bb8c-4bb9-b183-e10335336fa4](https://musicbrainz.org/recording/4030dc59-bb8c-4bb9-b183-e10335336fa4) | Die Hochzeit des Figaro: Alles wie ich es verlasse |
-| [https://musicbrainz.org/recording/a3e0ce73-7b41-4d12-9eeb-e327534f6b2a](https://musicbrainz.org/recording/a3e0ce73-7b41-4d12-9eeb-e327534f6b2a) | Die Hochzeit des Figaro: Komm heraus, verworfner K |
-| [https://musicbrainz.org/recording/4ef1322f-d7e1-4213-bcce-c7df4319eb7c](https://musicbrainz.org/recording/4ef1322f-d7e1-4213-bcce-c7df4319eb7c) | Die Hochzeit des Figaro: Herr Graf, uns erwarten d |
-| [https://musicbrainz.org/recording/3ec3af9b-3173-473b-9c2a-a7517856471c](https://musicbrainz.org/recording/3ec3af9b-3173-473b-9c2a-a7517856471c) | Die Hochzeit des Figaro: Wei?t Du nicht, mein lieb |
-| [https://musicbrainz.org/recording/eeba15ce-6f39-4364-a859-4197081e917e](https://musicbrainz.org/recording/eeba15ce-6f39-4364-a859-4197081e917e) | Die Hochzeit des Figaro: Gnad'ger Herr, Herr Graf  |
-| [https://musicbrainz.org/recording/5944e78d-3f48-4f0c-92f5-8599a1769743](https://musicbrainz.org/recording/5944e78d-3f48-4f0c-92f5-8599a1769743) | Die Hochzeit des Figaro: Gnad'ger Herr, von Ihren  |
-| [https://musicbrainz.org/recording/0f578bda-a400-4604-8927-173d25477ae1](https://musicbrainz.org/recording/0f578bda-a400-4604-8927-173d25477ae1) | Die Hochzeit des Figaro: Welch' sonderbare Wirren  |
-| [https://musicbrainz.org/recording/f2c5c8a4-f75e-4c1b-a2f4-57903f46188e](https://musicbrainz.org/recording/f2c5c8a4-f75e-4c1b-a2f4-57903f46188e) | Die Hochzeit des Figaro: Warum gab'st Du bis heute |
-| [https://musicbrainz.org/recording/dd2917db-0759-42e4-8a0e-b2608aa303ef](https://musicbrainz.org/recording/dd2917db-0759-42e4-8a0e-b2608aa303ef) | Die Hochzeit des Figaro: Und warum warst du mit mi |
-| [https://musicbrainz.org/recording/4d4f4618-ede5-4654-ad19-378d04a573c8](https://musicbrainz.org/recording/4d4f4618-ede5-4654-ad19-378d04a573c8) | Die Hochzeit des Figaro: Der Proze? schon gewonnen |
-| [https://musicbrainz.org/recording/27f79ed2-012d-41a1-8174-9d33baad8b10](https://musicbrainz.org/recording/27f79ed2-012d-41a1-8174-9d33baad8b10) | Die Hochzeit des Figaro: Der Proze? ist entschiede |
-| [https://musicbrainz.org/recording/08e0e726-f3fd-4d8a-8d96-810f44752233](https://musicbrainz.org/recording/08e0e726-f3fd-4d8a-8d96-810f44752233) | Die Hochzeit des Figaro: La? mein liebes Kind dich |
-| [https://musicbrainz.org/recording/aa6db5ef-eaa1-48a9-a00d-2b0f0f6f32cc](https://musicbrainz.org/recording/aa6db5ef-eaa1-48a9-a00d-2b0f0f6f32cc) | Die Hochzeit des Figaro: Seh'n Sie in ihm          |
-| [https://musicbrainz.org/recording/3735798d-8e60-4bad-b7e6-4193038946b2](https://musicbrainz.org/recording/3735798d-8e60-4bad-b7e6-4193038946b2) | Die Hochzeit des Figaro: Komm mit, schoner Page    |
-| [https://musicbrainz.org/recording/22166618-68ea-4ad0-9480-ab7a7c02f169](https://musicbrainz.org/recording/22166618-68ea-4ad0-9480-ab7a7c02f169) | Die Hochzeit des Figaro: Wo Susanna nur bleibt ... |
-| [https://musicbrainz.org/recording/4e320c64-dec5-44d4-8724-f9d1524d379c](https://musicbrainz.org/recording/4e320c64-dec5-44d4-8724-f9d1524d379c) | Die Hochzeit des Figaro: Ganz gewi?, gnad'ger Herr |
-| [https://musicbrainz.org/recording/9a47640b-ab91-41d4-91fa-2e98e489d8f7](https://musicbrainz.org/recording/9a47640b-ab91-41d4-91fa-2e98e489d8f7) | Die Hochzeit des Figaro: Welch' uberraschende Losu |
-| [https://musicbrainz.org/recording/c49a86a9-c009-4fc5-ba07-3568255442e2](https://musicbrainz.org/recording/c49a86a9-c009-4fc5-ba07-3568255442e2) | Die Hochzeit des Figaro: Canzonetta sull'aria      |
-| [https://musicbrainz.org/recording/da06b5f5-1be6-4eb1-88ba-7c76af10ccb1](https://musicbrainz.org/recording/da06b5f5-1be6-4eb1-88ba-7c76af10ccb1) | Die Hochzeit des Figaro: Diese Rosen, zarte Bluten |
-| [https://musicbrainz.org/recording/5040f136-49ee-45f8-b4e8-d3f268f0fdfd](https://musicbrainz.org/recording/5040f136-49ee-45f8-b4e8-d3f268f0fdfd) | Die Hochzeit des Figaro: Schon naht der Festzug -  |
-| [https://musicbrainz.org/recording/e62f230a-5f2a-4a0e-8fd2-390f240037c3](https://musicbrainz.org/recording/e62f230a-5f2a-4a0e-8fd2-390f240037c3) | Die Hochzeit des Figaro: Ungluckselige kleine Nade |
-| [https://musicbrainz.org/recording/27a5389d-a93d-4b13-a65b-caeb7f4040ed](https://musicbrainz.org/recording/27a5389d-a93d-4b13-a65b-caeb7f4040ed) | Die Hochzeit des Figaro: Barbarina, was suchst Du  |
-| [https://musicbrainz.org/recording/d8c265d5-45bc-4194-8ef0-e574b3469ddc](https://musicbrainz.org/recording/d8c265d5-45bc-4194-8ef0-e574b3469ddc) | Die Hochzeit des Figaro: Im Pavillon zur Linken    |
-| [https://musicbrainz.org/recording/f13b7234-a8a3-4894-9c32-500c6aabc927](https://musicbrainz.org/recording/f13b7234-a8a3-4894-9c32-500c6aabc927) | Die Hochzeit des Figaro: Alles ist rcihtig ... - A |
-| [https://musicbrainz.org/recording/6bd6c326-a7d5-40ac-b45c-c9a56fbd5e05](https://musicbrainz.org/recording/6bd6c326-a7d5-40ac-b45c-c9a56fbd5e05) | Die Hochzeit des Figaro: Frau Grafin, Marcellina s |
-| [https://musicbrainz.org/recording/c673c933-b338-449e-a472-68835f0d34a5](https://musicbrainz.org/recording/c673c933-b338-449e-a472-68835f0d34a5) | Die Hochzeit des Figaro: Endlich naht sich die Stu |
-| [https://musicbrainz.org/recording/a4cb7004-c31a-46bd-8830-e1583fe85ffb](https://musicbrainz.org/recording/a4cb7004-c31a-46bd-8830-e1583fe85ffb) | Die Hochzeit des Figaro: Schandliche, mich so schn |
-| [https://musicbrainz.org/recording/23a0c76b-054a-4030-9f29-13aab499b383](https://musicbrainz.org/recording/23a0c76b-054a-4030-9f29-13aab499b383) | Die Hochzeit des Figaro: Still, nur still, ich wil |
-| [https://musicbrainz.org/recording/46af3a70-0bc1-4778-ab38-94a6b7c5be71](https://musicbrainz.org/recording/46af3a70-0bc1-4778-ab38-94a6b7c5be71) | Die Hochzeit des Figaro: Jetzt scheint ja alles st |
-| [https://musicbrainz.org/recording/8ae39eac-dc67-46e0-b9c4-723eafddf26e](https://musicbrainz.org/recording/8ae39eac-dc67-46e0-b9c4-723eafddf26e) | Die Hochzeit des Figaro: Holla, holla ! Leute, Leu |
-| [https://musicbrainz.org/recording/843927e6-2fe0-4da0-805b-45ade997f6b1](https://musicbrainz.org/recording/843927e6-2fe0-4da0-805b-45ade997f6b1) | The Passion According to St. Matthew: Erster Teil: |
-| [https://musicbrainz.org/recording/d86ba9fb-ee9d-40f0-afa2-a8ace0264617](https://musicbrainz.org/recording/d86ba9fb-ee9d-40f0-afa2-a8ace0264617) | Tristan und Isolde: Akt II. Einleitung             |
-| [https://musicbrainz.org/recording/238f4f70-a656-4286-bf34-d3948d2e4a12](https://musicbrainz.org/recording/238f4f70-a656-4286-bf34-d3948d2e4a12) | Tristan und Isolde: Akt II. »Hörst du sie noch?« ( |
-| [https://musicbrainz.org/recording/9d3880f0-9137-47b6-bb02-f1f2544ab691](https://musicbrainz.org/recording/9d3880f0-9137-47b6-bb02-f1f2544ab691) | Tristan und Isolde: Akt II. »Der deiner harrt - o  |
-| [https://musicbrainz.org/recording/7328689c-dd05-4051-90c1-a403a47f65fc](https://musicbrainz.org/recording/7328689c-dd05-4051-90c1-a403a47f65fc) | Tristan und Isolde: Akt II. »Dein Werk? O tör'ge M |
-| [https://musicbrainz.org/recording/b29bab10-43e2-4e9d-9178-e0b9133ed579](https://musicbrainz.org/recording/b29bab10-43e2-4e9d-9178-e0b9133ed579) | Tristan und Isolde: Akt II. »Isolde! Geliebte!« (T |
-| [https://musicbrainz.org/recording/d3b17d36-3ab7-4340-bf08-4acdee91a77a](https://musicbrainz.org/recording/d3b17d36-3ab7-4340-bf08-4acdee91a77a) | Tristan und Isolde: Akt II. »Das Licht! Das Licht! |
-| [https://musicbrainz.org/recording/3cdc9613-1161-4afa-9ff6-24e73bad519c](https://musicbrainz.org/recording/3cdc9613-1161-4afa-9ff6-24e73bad519c) | Tristan und Isolde: Akt II. »O sink hernieder, Nac |
-| [https://musicbrainz.org/recording/42d69f06-3d03-46af-bdd0-de9e3b38bf69](https://musicbrainz.org/recording/42d69f06-3d03-46af-bdd0-de9e3b38bf69) | Tristan und Isolde: Akt II. »Einsam wachend in her |
-| [https://musicbrainz.org/recording/974bab81-4d1f-4185-aaa0-05296c3e259d](https://musicbrainz.org/recording/974bab81-4d1f-4185-aaa0-05296c3e259d) | Tristan und Isolde: Akt II. »Lausch, Geliebter!« - |
-| [https://musicbrainz.org/recording/f4e54bcf-5ba5-4420-bf27-5102a2d3af16](https://musicbrainz.org/recording/f4e54bcf-5ba5-4420-bf27-5102a2d3af16) | Tristan und Isolde: Akt II. »So starben wir, um un |
-| [https://musicbrainz.org/recording/7561a975-6962-421d-bad4-c9a7417001f5](https://musicbrainz.org/recording/7561a975-6962-421d-bad4-c9a7417001f5) | Tristan und Isolde: Akt II. »O ew'ge Nacht, süße N |
-| [https://musicbrainz.org/recording/fb6f8af1-f80c-40af-a514-500758aa0402](https://musicbrainz.org/recording/fb6f8af1-f80c-40af-a514-500758aa0402) | Tristan und Isolde: Akt II. »Bette dich, Tristan!« |
-| [https://musicbrainz.org/recording/a15b682e-f8ef-4f7a-9c7c-681101105a5e](https://musicbrainz.org/recording/a15b682e-f8ef-4f7a-9c7c-681101105a5e) | Tristan und Isolde: Akt II. »Tatest du's wirklich? |
-| [https://musicbrainz.org/recording/28da8f46-2d7d-4ef2-a151-93e8b4a2b47b](https://musicbrainz.org/recording/28da8f46-2d7d-4ef2-a151-93e8b4a2b47b) | Tristan und Isolde: Akt II. »Wozu die Dienste ohne |
-| [https://musicbrainz.org/recording/37fdccc4-31c8-446d-9850-d71005c5c53e](https://musicbrainz.org/recording/37fdccc4-31c8-446d-9850-d71005c5c53e) | Tristan und Isolde: Akt II. »Dies wundervolle Weib |
-| [https://musicbrainz.org/recording/011cfed5-0c7f-413d-9a46-a276c4b95c73](https://musicbrainz.org/recording/011cfed5-0c7f-413d-9a46-a276c4b95c73) | Tristan und Isolde: Akt II. »O König, das kann ich |
-| [https://musicbrainz.org/recording/52076ccc-e1a1-48ab-97ee-c01efbf1355d](https://musicbrainz.org/recording/52076ccc-e1a1-48ab-97ee-c01efbf1355d) | Tristan und Isolde: Akt II. »Verräter! Ha! Zur Rac |
-| [https://musicbrainz.org/recording/2c4d2faf-3a62-4745-8ec3-6ad4e0c6ea0e](https://musicbrainz.org/recording/2c4d2faf-3a62-4745-8ec3-6ad4e0c6ea0e) | Requiem in D minor, K. 626 (Süßmayr completion): I |
-| [https://musicbrainz.org/recording/ffc62b77-c539-4f96-a7ff-22ba6d83e109](https://musicbrainz.org/recording/ffc62b77-c539-4f96-a7ff-22ba6d83e109) | Symphony No. 6 in B minor, Op. 74 "Pathétique": I. |
-| [https://musicbrainz.org/recording/b1ea9ad5-b06d-45db-bce3-390b1a50783d](https://musicbrainz.org/recording/b1ea9ad5-b06d-45db-bce3-390b1a50783d) | Symphony No. 6 in B minor, Op. 74 "Pathétique": II |
-| [https://musicbrainz.org/recording/4d976ff4-413b-41e3-82e7-67d87b1230f0](https://musicbrainz.org/recording/4d976ff4-413b-41e3-82e7-67d87b1230f0) | Symphony No. 6 in B minor, Op. 74 "Pathétique": II |
-| [https://musicbrainz.org/recording/c0c52350-af0a-4b6f-9391-df67a2dc7db3](https://musicbrainz.org/recording/c0c52350-af0a-4b6f-9391-df67a2dc7db3) | Symphony No. 6 in B minor, Op. 74 "Pathétique": IV |
-| [https://musicbrainz.org/recording/7d88c715-40c7-404e-847c-345917eacc67](https://musicbrainz.org/recording/7d88c715-40c7-404e-847c-345917eacc67) | Rigoletto: Preludio                                |
-| [https://musicbrainz.org/recording/f84508d1-2392-4f08-a191-e7bd9903092e](https://musicbrainz.org/recording/f84508d1-2392-4f08-a191-e7bd9903092e) | Rigoletto: Atto I, scena 1. "Della mia bella incog |
-| [https://musicbrainz.org/recording/18f7b4c0-7e04-4e4d-ab55-80412d2b4c52](https://musicbrainz.org/recording/18f7b4c0-7e04-4e4d-ab55-80412d2b4c52) | Rigoletto: Atto I, scena 1. "Questa o quella"      |
-| [https://musicbrainz.org/recording/e221a108-1e72-4e5d-b1af-09352e98a661](https://musicbrainz.org/recording/e221a108-1e72-4e5d-b1af-09352e98a661) | Rigoletto: Atto I, scena 1. "Ch'io gli parli"      |
-| [https://musicbrainz.org/recording/0a822cd6-f991-4a47-8ea1-5e36172a538e](https://musicbrainz.org/recording/0a822cd6-f991-4a47-8ea1-5e36172a538e) | Rigoletto: Atto I, scena 2. "Quel vecchio malediva |
-| [https://musicbrainz.org/recording/0b21a563-28d5-4415-bac9-c2c274813f0d](https://musicbrainz.org/recording/0b21a563-28d5-4415-bac9-c2c274813f0d) | Rigoletto: Atto I, scena 2. "Pari siamo"           |
-| [https://musicbrainz.org/recording/2d50178d-bad1-4e56-830f-5f1f4fa7f8f3](https://musicbrainz.org/recording/2d50178d-bad1-4e56-830f-5f1f4fa7f8f3) | Rigoletto: Atto I, scena 2. "Figlia!" / "Mio padre |
-| [https://musicbrainz.org/recording/3d90b620-4008-4307-8ee4-5667b55663d6](https://musicbrainz.org/recording/3d90b620-4008-4307-8ee4-5667b55663d6) | Rigoletto: Atto I, scena 2. "Già da tre lune"      |
-| [https://musicbrainz.org/recording/7a6878bb-0542-43e5-b433-3e1b686e5f50](https://musicbrainz.org/recording/7a6878bb-0542-43e5-b433-3e1b686e5f50) | Rigoletto: Atto I, scena 2. "Giovanna, ho dei rimo |
-| [https://musicbrainz.org/recording/9b89a8dc-a6f1-42e1-987e-8f8425e555b9](https://musicbrainz.org/recording/9b89a8dc-a6f1-42e1-987e-8f8425e555b9) | Rigoletto: Atto I, scena 2. "È il sol dell'anima"  |
-| [https://musicbrainz.org/recording/8f55ea0d-5be5-4a92-9dee-52faf5c43544](https://musicbrainz.org/recording/8f55ea0d-5be5-4a92-9dee-52faf5c43544) | Rigoletto: Atto I, scena 2. "Che m'ami, deh, ripet |
-| [https://musicbrainz.org/recording/e8f0605b-e10d-46ed-9564-e02d829cead0](https://musicbrainz.org/recording/e8f0605b-e10d-46ed-9564-e02d829cead0) | Rigoletto: Atto I, scena 2. "Caro nome"            |
-| [https://musicbrainz.org/recording/25ef62e0-b80e-4a65-87e6-53f6ca284ce9](https://musicbrainz.org/recording/25ef62e0-b80e-4a65-87e6-53f6ca284ce9) | Rigoletto: Atto I, scena 2. "Riedo!... Perché?"    |
-| [https://musicbrainz.org/recording/f7668d6e-e84d-4cb5-86c3-7415d5bc996e](https://musicbrainz.org/recording/f7668d6e-e84d-4cb5-86c3-7415d5bc996e) | Rigoletto: Atto I, scena 2. "Zitti, zitti"         |
-| [https://musicbrainz.org/recording/b1fe6dbf-c170-4c48-9be8-ffc087c4779a](https://musicbrainz.org/recording/b1fe6dbf-c170-4c48-9be8-ffc087c4779a) | Rigoletto: Atto II. “Ella mi fu rapita"            |
-| [https://musicbrainz.org/recording/f2b45c27-f8c5-4b44-bc14-98304fea2ca4](https://musicbrainz.org/recording/f2b45c27-f8c5-4b44-bc14-98304fea2ca4) | Rigoletto: Atto II. “Parmi veder le lagrime"       |
-| [https://musicbrainz.org/recording/0b6a9d42-7ffe-45e0-9414-163a4544e11b](https://musicbrainz.org/recording/0b6a9d42-7ffe-45e0-9414-163a4544e11b) | Rigoletto: Atto II. “Duca, Duca!"                  |
-| [https://musicbrainz.org/recording/c6d92269-bb40-4a2d-87be-8120ccf4d145](https://musicbrainz.org/recording/c6d92269-bb40-4a2d-87be-8120ccf4d145) | Rigoletto: Atto II. “Povero Rigoletto"             |
-| [https://musicbrainz.org/recording/1bfd1ebd-13d3-4b4e-9355-80e2236ed7db](https://musicbrainz.org/recording/1bfd1ebd-13d3-4b4e-9355-80e2236ed7db) | Rigoletto: Atto II. “Cortigiani, vil razza dannata |
-| [https://musicbrainz.org/recording/8c29b055-76ec-41ef-a50b-a0a3f9e2a306](https://musicbrainz.org/recording/8c29b055-76ec-41ef-a50b-a0a3f9e2a306) | Rigoletto: Atto II. “Mio padre"                    |
-| [https://musicbrainz.org/recording/dae2f14e-3780-4774-8f39-900643bb896b](https://musicbrainz.org/recording/dae2f14e-3780-4774-8f39-900643bb896b) | Rigoletto: Atto II. “Tutte le feste al tempio"     |
-| [https://musicbrainz.org/recording/5363f2ce-b337-48d9-afec-b52af7e33daa](https://musicbrainz.org/recording/5363f2ce-b337-48d9-afec-b52af7e33daa) | Rigoletto: Atto II. “Ah! Solo per me l'infamia"    |
-| [https://musicbrainz.org/recording/2c65358f-5023-4486-9a65-e6f8e2b5cc20](https://musicbrainz.org/recording/2c65358f-5023-4486-9a65-e6f8e2b5cc20) | Rigoletto: Atto II. “Poiché fosti invano da me mal |
-| [https://musicbrainz.org/recording/c3a3212d-fbb5-4bdb-8a87-14f1aac8dfd3](https://musicbrainz.org/recording/c3a3212d-fbb5-4bdb-8a87-14f1aac8dfd3) | Rigoletto: Atto III. “E l'ami? - Sempre"           |
-| [https://musicbrainz.org/recording/6a825b9f-d01f-43a2-ab1d-387989a56ec9](https://musicbrainz.org/recording/6a825b9f-d01f-43a2-ab1d-387989a56ec9) | Rigoletto: Atto III. “La donna è mobile"           |
-| [https://musicbrainz.org/recording/58cc4ec0-dee8-4fe0-9f92-6543f7a8f8d6](https://musicbrainz.org/recording/58cc4ec0-dee8-4fe0-9f92-6543f7a8f8d6) | Rigoletto: Atto III. “Un dì, si ben rammentomi"    |
-| [https://musicbrainz.org/recording/ffc59e52-3ea8-494f-bc64-45e21efaa9a4](https://musicbrainz.org/recording/ffc59e52-3ea8-494f-bc64-45e21efaa9a4) | Rigoletto: Atto III. “Bella figlia dell'amore"     |
-| [https://musicbrainz.org/recording/3f491382-c6d5-4c44-adb0-d4bc5ee68664](https://musicbrainz.org/recording/3f491382-c6d5-4c44-adb0-d4bc5ee68664) | Rigoletto: Atto III. “M'odi, ritorna a casa"       |
-| [https://musicbrainz.org/recording/c6f29401-0377-41a2-b3f8-f476cd931b98](https://musicbrainz.org/recording/c6f29401-0377-41a2-b3f8-f476cd931b98) | Rigoletto: Atto III. “Maddalena?"                  |
-| [https://musicbrainz.org/recording/5aebc280-4417-4de0-8335-37d89e20264c](https://musicbrainz.org/recording/5aebc280-4417-4de0-8335-37d89e20264c) | Rigoletto: Atto III. “È amabile in vero"           |
-| [https://musicbrainz.org/recording/7201d61f-37a0-4456-a478-59f322df524d](https://musicbrainz.org/recording/7201d61f-37a0-4456-a478-59f322df524d) | Rigoletto: Atto III. “Della vendetta alfin giunge  |
-| [https://musicbrainz.org/recording/bd33a4d4-93d1-4529-be5c-d1163b3d1e60](https://musicbrainz.org/recording/bd33a4d4-93d1-4529-be5c-d1163b3d1e60) | Rigoletto: Atto III. “Chi è mai, chi è qui in sua  |
-| [https://musicbrainz.org/recording/92cab889-b257-4090-bea5-411f1a4f61cc](https://musicbrainz.org/recording/92cab889-b257-4090-bea5-411f1a4f61cc) | Rigoletto: Atto III. “V'ho ingannato... Colpevole  |
-| [https://musicbrainz.org/recording/429dfbae-629c-48da-b806-00fae760f392](https://musicbrainz.org/recording/429dfbae-629c-48da-b806-00fae760f392) | The Barber of Seville                              |
-| [https://musicbrainz.org/recording/036f11f3-4a17-4756-93f8-259333b1be23](https://musicbrainz.org/recording/036f11f3-4a17-4756-93f8-259333b1be23) | Symfonie no. 8 in G grote terts, op. 88            |
-| [https://musicbrainz.org/recording/7c924d3c-92e8-4453-b39b-19f03a115cdf](https://musicbrainz.org/recording/7c924d3c-92e8-4453-b39b-19f03a115cdf) | Rigoletto: Questo o quella                         |
-| [https://musicbrainz.org/recording/e0fa6822-8709-4d09-a144-ff5bf5f3762e](https://musicbrainz.org/recording/e0fa6822-8709-4d09-a144-ff5bf5f3762e) | Rigoletto: Ella mi fu rapita                       |
-| [https://musicbrainz.org/recording/5dcef208-82fc-4c6f-8902-01cfe4c0a5a6](https://musicbrainz.org/recording/5dcef208-82fc-4c6f-8902-01cfe4c0a5a6) | Io la vidi                                         |
-| [https://musicbrainz.org/recording/26b4e205-2e9a-4240-904c-0c65aed899cb](https://musicbrainz.org/recording/26b4e205-2e9a-4240-904c-0c65aed899cb) | Requiem, Op. 48: Pie Jesu                          |
-| [https://musicbrainz.org/recording/2597645a-8f11-4857-9e4f-5c942996a043](https://musicbrainz.org/recording/2597645a-8f11-4857-9e4f-5c942996a043) | Missa Solemnis, per soli, coro, orchestra e organo |
-| [https://musicbrainz.org/recording/fa605856-b26c-423d-9124-de3c28b0e1aa](https://musicbrainz.org/recording/fa605856-b26c-423d-9124-de3c28b0e1aa) | Missa Solemnis, per soli, coro, orchestra e organo |
-| [https://musicbrainz.org/recording/7188424e-4312-41a9-8052-9232331ba613](https://musicbrainz.org/recording/7188424e-4312-41a9-8052-9232331ba613) | Missa Solemnis, per soli, coro, orchestra e organo |
-| [https://musicbrainz.org/recording/697d8a79-8e97-4285-81da-f1ae75419b7c](https://musicbrainz.org/recording/697d8a79-8e97-4285-81da-f1ae75419b7c) | Missa Solemnis, per soli, coro, orchestra e organo |
-| [https://musicbrainz.org/recording/3f70c11e-58c3-49cd-9635-fe77e09b82a6](https://musicbrainz.org/recording/3f70c11e-58c3-49cd-9635-fe77e09b82a6) | Missa Solemnis, per soli, coro, orchestra e organo |
-| [https://musicbrainz.org/recording/6bc4ad2b-6bf6-41f6-b16a-3111ec16fd00](https://musicbrainz.org/recording/6bc4ad2b-6bf6-41f6-b16a-3111ec16fd00) | Rigoletto: Atto I. “Questa o quella … Partite? Cru |
-| [https://musicbrainz.org/recording/7090745b-f2df-4ee1-be7e-a76b7068e218](https://musicbrainz.org/recording/7090745b-f2df-4ee1-be7e-a76b7068e218) | Rigoletto, Act 1: "Questa o quella...Partite? Crud |
-| [https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b](https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b) | Le nozze di Figaro: Overture / Non più andrai farf |
-| [https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b](https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b) | Le nozze di Figaro: Overture / Non più andrai farf |
-| [https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b](https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b) | Le nozze di Figaro: Overture / Non più andrai farf |
-| [https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b](https://musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b) | Le nozze di Figaro: Overture / Non più andrai farf |
-| [https://musicbrainz.org/recording/a364dd86-d451-4be9-b7cd-6fdafabe4bca](https://musicbrainz.org/recording/a364dd86-d451-4be9-b7cd-6fdafabe4bca) | Il barbiere di Siviglia (Milano, 16.02.1956 - live |
-| [https://musicbrainz.org/recording/110bb519-d410-4996-a153-c8756d95a39d](https://musicbrainz.org/recording/110bb519-d410-4996-a153-c8756d95a39d) | Don Giovanni: Acte II. "Sola, sola in buio loco"   |
-| [https://musicbrainz.org/recording/8038a24a-b414-4f21-afa3-b4d2fa1cb703](https://musicbrainz.org/recording/8038a24a-b414-4f21-afa3-b4d2fa1cb703) | Don Giovanni: Ouverture                            |
-| [https://musicbrainz.org/recording/dfc76e6e-eb0d-4606-8158-5c81062c7352](https://musicbrainz.org/recording/dfc76e6e-eb0d-4606-8158-5c81062c7352) | Don Giovanni, Atto I: Notte e giorno faticar       |
-| [https://musicbrainz.org/recording/2bebdd69-2556-442d-b621-f2e8d75801bf](https://musicbrainz.org/recording/2bebdd69-2556-442d-b621-f2e8d75801bf) | Don Giovanni, Atto I: Ma qual mai s'offre, oh Dei  |
-| [https://musicbrainz.org/recording/d429e8e7-a8f0-4590-89f6-6ab08482c6d5](https://musicbrainz.org/recording/d429e8e7-a8f0-4590-89f6-6ab08482c6d5) | Don Giovanni, Atto I: Ah chi mi dice mai           |
-| [https://musicbrainz.org/recording/c9fbcb6e-d47e-4380-b74d-a41378d9515c](https://musicbrainz.org/recording/c9fbcb6e-d47e-4380-b74d-a41378d9515c) | Don Giovanni, Atto I: Madamina, il catalogo è ques |
-| [https://musicbrainz.org/recording/b0a1008a-f62b-412d-84b8-cafd7f1685e5](https://musicbrainz.org/recording/b0a1008a-f62b-412d-84b8-cafd7f1685e5) | Don Giovanni, Atto I: Giovinette che fate all'amor |
-| [https://musicbrainz.org/recording/38fd9457-6410-4430-9829-5e7a2764e39f](https://musicbrainz.org/recording/38fd9457-6410-4430-9829-5e7a2764e39f) | Don Giovanni, Atto I: Ho capito, Signor, sì        |
-| [https://musicbrainz.org/recording/07460b6e-87dd-478b-9d83-1c4c33ca1d89](https://musicbrainz.org/recording/07460b6e-87dd-478b-9d83-1c4c33ca1d89) | Don Giovanni, Atto I: Là ci darem la mano          |
-| [https://musicbrainz.org/recording/801676cb-a730-429a-bef0-dc02cdfc6c74](https://musicbrainz.org/recording/801676cb-a730-429a-bef0-dc02cdfc6c74) | Don Giovanni, Atto I: Ah fuggi il traditor         |
-| [https://musicbrainz.org/recording/ed95574f-b5ae-45a3-b71a-6b3fa3f6447a](https://musicbrainz.org/recording/ed95574f-b5ae-45a3-b71a-6b3fa3f6447a) | Don Giovanni, Atto I: Non ti fidar, o misera       |
-| [https://musicbrainz.org/recording/a978052f-1324-4752-85c4-721cceda8a0e](https://musicbrainz.org/recording/a978052f-1324-4752-85c4-721cceda8a0e) | Don Giovanni, Atto I: Don Ottavio, son morta!      |
-| [https://musicbrainz.org/recording/57458d29-c44e-4498-ab48-ce167d9faf10](https://musicbrainz.org/recording/57458d29-c44e-4498-ab48-ce167d9faf10) | Don Giovanni, Atto I: Dalla sua pace               |
-| [https://musicbrainz.org/recording/cd49f3ca-d89c-477e-b7bb-ed060db57b72](https://musicbrainz.org/recording/cd49f3ca-d89c-477e-b7bb-ed060db57b72) | Don Giovanni, Atto I: Io deggio, ad ogni patto     |
-| [https://musicbrainz.org/recording/0a8aaf00-9a96-4063-bf25-dd29c90c52d5](https://musicbrainz.org/recording/0a8aaf00-9a96-4063-bf25-dd29c90c52d5) | Don Giovanni, Atto I: Finch'han dal vino           |
-| [https://musicbrainz.org/recording/6986b098-7f86-428e-b6c3-aecb9a0dd443](https://musicbrainz.org/recording/6986b098-7f86-428e-b6c3-aecb9a0dd443) | Don Giovanni, Atto I: Batti, batti, o bel Masetto  |
-| [https://musicbrainz.org/recording/59948f00-82c2-4f0c-9321-eee66829bf77](https://musicbrainz.org/recording/59948f00-82c2-4f0c-9321-eee66829bf77) | Don Giovanni, Atto I: Presto, presto, pria ch'ei v |
-| [https://musicbrainz.org/recording/88a2d36d-a0c6-4ddb-ab13-d4da542796da](https://musicbrainz.org/recording/88a2d36d-a0c6-4ddb-ab13-d4da542796da) | Don Giovanni, Atto II: Eh via buffone              |
-| [https://musicbrainz.org/recording/ff1cab02-79a3-460f-8805-15d24995642a](https://musicbrainz.org/recording/ff1cab02-79a3-460f-8805-15d24995642a) | Don Giovanni, Atto II: Ah taci, ingiusto core      |
-| [https://musicbrainz.org/recording/b6b2993e-960a-4d56-9ce7-6e78d127e989](https://musicbrainz.org/recording/b6b2993e-960a-4d56-9ce7-6e78d127e989) | Don Giovanni, Atto II: Deh vieni alla finestra     |
-| [https://musicbrainz.org/recording/dea91af0-7886-4c5b-a2c9-91259486e1ec](https://musicbrainz.org/recording/dea91af0-7886-4c5b-a2c9-91259486e1ec) | Don Giovanni, Atto II: Metà di voi qua vadano      |
-| [https://musicbrainz.org/recording/c33bd5b8-a1c2-495f-ac31-58e350c3cf27](https://musicbrainz.org/recording/c33bd5b8-a1c2-495f-ac31-58e350c3cf27) | Don Giovanni, Atto II: Vedrai, carino              |
-| [https://musicbrainz.org/recording/e079cae7-bff8-4719-96b0-5a6694e21991](https://musicbrainz.org/recording/e079cae7-bff8-4719-96b0-5a6694e21991) | Don Giovanni, Atto II: Di molte faci il lume       |
-| [https://musicbrainz.org/recording/57e72fef-0857-4ce2-8033-36bdece8a061](https://musicbrainz.org/recording/57e72fef-0857-4ce2-8033-36bdece8a061) | Don Giovanni, Atto II: Ah pietà, signori miei      |
-| [https://musicbrainz.org/recording/8f7b50fb-898a-4583-9cae-213c0e4c193c](https://musicbrainz.org/recording/8f7b50fb-898a-4583-9cae-213c0e4c193c) | Don Giovanni, Atto II: Il mio tesoro intanto       |
-| [https://musicbrainz.org/recording/5cd162d1-51ae-47d5-97ff-705678cf3f38](https://musicbrainz.org/recording/5cd162d1-51ae-47d5-97ff-705678cf3f38) | Don Giovanni, Atto II: Mi tradì quell'alma ingrata |
-| [https://musicbrainz.org/recording/bf784b80-69e4-4e68-8c41-fcf27a056b9a](https://musicbrainz.org/recording/bf784b80-69e4-4e68-8c41-fcf27a056b9a) | Don Giovanni, Atto II: O statua gentilissima       |
-| [https://musicbrainz.org/recording/e649e636-0dc5-4c45-ab52-0893d1c7951c](https://musicbrainz.org/recording/e649e636-0dc5-4c45-ab52-0893d1c7951c) | Don Giovanni, Atto II: Non mi dir, bell'idol mio   |
-| [https://musicbrainz.org/recording/eccd278b-6537-4fe2-841b-319446547aad](https://musicbrainz.org/recording/eccd278b-6537-4fe2-841b-319446547aad) | Don Giovanni, Atto II: Già la mensa è preparata    |
-| [https://musicbrainz.org/recording/04197f56-5ef5-4ad2-bfee-9fed1c03377e](https://musicbrainz.org/recording/04197f56-5ef5-4ad2-bfee-9fed1c03377e) | Mass in B minor BWV 232, Sanctus                   |
-| [https://musicbrainz.org/recording/154505fc-4a30-4a56-b781-72cbce3c78d5](https://musicbrainz.org/recording/154505fc-4a30-4a56-b781-72cbce3c78d5) | L’Orfeo: Toccata – Prologo: Ritornello             |
-| [https://musicbrainz.org/recording/154505fc-4a30-4a56-b781-72cbce3c78d5](https://musicbrainz.org/recording/154505fc-4a30-4a56-b781-72cbce3c78d5) | L’Orfeo: Toccata – Prologo: Ritornello             |
-| [https://musicbrainz.org/recording/9e72be3d-06b0-40af-b669-9d0140d3cbb0](https://musicbrainz.org/recording/9e72be3d-06b0-40af-b669-9d0140d3cbb0) | L’Orfeo, Prologo: «Dal mio Parnasso» (La Musica)   |
-| [https://musicbrainz.org/recording/3208f370-4618-41ae-a447-f3e24f39d0fd](https://musicbrainz.org/recording/3208f370-4618-41ae-a447-f3e24f39d0fd) | L’Orfeo, Atto primo: «Rosa del ciel» (Orfeo)       |
-| [https://musicbrainz.org/recording/53eefc12-6181-4932-bbe9-0a80a437bc18](https://musicbrainz.org/recording/53eefc12-6181-4932-bbe9-0a80a437bc18) | L’Orfeo, Atto primo: «Io non dirò qual sia» (Eurid |
-| [https://musicbrainz.org/recording/fa4616ee-55db-4838-b3f5-aef12482795a](https://musicbrainz.org/recording/fa4616ee-55db-4838-b3f5-aef12482795a) | L’Orfeo, Atto primo: «Lasciate i monti» (Coro di n |
-| [https://musicbrainz.org/recording/cfe2dd6c-debe-4a81-b605-96e8fd28f06d](https://musicbrainz.org/recording/cfe2dd6c-debe-4a81-b605-96e8fd28f06d) | L’Orfeo, Atto primo: «Vieni, Imeneo» (Coro di ninf |
-| [https://musicbrainz.org/recording/8ec61302-f6fe-4ecc-bfad-4f5ee88d2ef8](https://musicbrainz.org/recording/8ec61302-f6fe-4ecc-bfad-4f5ee88d2ef8) | L’Orfeo, Atto secondo: Ritornello – «Vi ricorda» ( |
-| [https://musicbrainz.org/recording/cbfcaad9-6428-4457-9502-b61d95822fa8](https://musicbrainz.org/recording/cbfcaad9-6428-4457-9502-b61d95822fa8) | L’Orfeo, Atto secondo: «Mira, deh mira» (Pastore I |
-| [https://musicbrainz.org/recording/7ca2f21a-c0de-47b5-baad-6bfdc9e770d1](https://musicbrainz.org/recording/7ca2f21a-c0de-47b5-baad-6bfdc9e770d1) | L’Orfeo, Atto secondo: «Lassa, dunque debb’io» (La |
-| [https://musicbrainz.org/recording/006e00e0-3756-457a-8856-4037f01809cb](https://musicbrainz.org/recording/006e00e0-3756-457a-8856-4037f01809cb) | L’Orfeo, Atto secondo: «Donde vieni?» (Orfeo, La m |
-| [https://musicbrainz.org/recording/5bec0be7-47ee-4fc4-8907-0785342ee44c](https://musicbrainz.org/recording/5bec0be7-47ee-4fc4-8907-0785342ee44c) | L’Orfeo, Atto secondo: «Ahi, caso acerbo» (Pastore |
-| [https://musicbrainz.org/recording/f6a3b704-85fc-48f6-8eca-c78c657d666b](https://musicbrainz.org/recording/f6a3b704-85fc-48f6-8eca-c78c657d666b) | L’Orfeo, Atto secondo: «Tu se’ morta» (Orfeo)      |
-| [https://musicbrainz.org/recording/fed3b7a3-b659-4aac-8bc5-f467eb172eb5](https://musicbrainz.org/recording/fed3b7a3-b659-4aac-8bc5-f467eb172eb5) | L’Orfeo, Atto secondo: «Ahi, caso acerbo» (Coro di |
-| [https://musicbrainz.org/recording/9f5cab01-ff94-4c0e-898b-aa27cdca54f1](https://musicbrainz.org/recording/9f5cab01-ff94-4c0e-898b-aa27cdca54f1) | L’Orfeo, Atto secondo: «Ma io, che in questa lingu |
-| [https://musicbrainz.org/recording/6bd03619-c77b-4a33-b5a1-7bb5a02dcbc7](https://musicbrainz.org/recording/6bd03619-c77b-4a33-b5a1-7bb5a02dcbc7) | L’Orfeo, Atto terzo: Sinfonia (I)                  |
-| [https://musicbrainz.org/recording/217a0de6-3417-403f-a85a-8d64e402edcd](https://musicbrainz.org/recording/217a0de6-3417-403f-a85a-8d64e402edcd) | L’Orfeo, Atto terzo: «Scorto da te, mio nume» (Orf |
-| [https://musicbrainz.org/recording/f052fb40-2efb-4bb5-8ccf-b641db543521](https://musicbrainz.org/recording/f052fb40-2efb-4bb5-8ccf-b641db543521) | L’Orfeo, Atto terzo: «Ecco l’atra palude» (La sper |
-| [https://musicbrainz.org/recording/d5e75e09-af65-4c58-b961-616a15a7502f](https://musicbrainz.org/recording/d5e75e09-af65-4c58-b961-616a15a7502f) | L’Orfeo, Atto terzo: «Dove, ah dove ten’ vai» (Orf |
-| [https://musicbrainz.org/recording/395907f7-f40b-4af8-a1b3-cb7e741f1421](https://musicbrainz.org/recording/395907f7-f40b-4af8-a1b3-cb7e741f1421) | L’Orfeo, Atto terzo: «O tu, ch’inanzi morte» (Caro |
-| [https://musicbrainz.org/recording/9f1eec9d-0bda-4e98-a301-ffe428852abf](https://musicbrainz.org/recording/9f1eec9d-0bda-4e98-a301-ffe428852abf) | L’Orfeo, Atto terzo: Sinfonia (II)                 |
-| [https://musicbrainz.org/recording/c4ab92b2-9299-4397-88c9-28b245035b77](https://musicbrainz.org/recording/c4ab92b2-9299-4397-88c9-28b245035b77) | L’Orfeo, Atto terzo: «Possente spirto» (Orfeo)     |
-| [https://musicbrainz.org/recording/f3d535cf-a4ee-4fe7-a2c9-40a1a3eb7084](https://musicbrainz.org/recording/f3d535cf-a4ee-4fe7-a2c9-40a1a3eb7084) | L’Orfeo, Atto terzo: «Ei dorme, e la mia cetra» (O |
-| [https://musicbrainz.org/recording/ff9abe44-04ed-43ad-abd2-b45cee89fe23](https://musicbrainz.org/recording/ff9abe44-04ed-43ad-abd2-b45cee89fe23) | L’Orfeo, Atto terzo: Sinfonia (IV)                 |
-| [https://musicbrainz.org/recording/c2587859-37fc-47c4-b066-524b4a788172](https://musicbrainz.org/recording/c2587859-37fc-47c4-b066-524b4a788172) | L’Orfeo, Atto terzo: «Nulla impresa per uom» (Coro |
-| [https://musicbrainz.org/recording/bb5905cb-1651-4d47-b1c7-38b5d8aa6436](https://musicbrainz.org/recording/bb5905cb-1651-4d47-b1c7-38b5d8aa6436) | L’Orfeo, Atto terzo: Sinfonia (V)                  |
-| [https://musicbrainz.org/recording/844ab828-6ed3-4bc8-ab0f-a1ab4117f9b2](https://musicbrainz.org/recording/844ab828-6ed3-4bc8-ab0f-a1ab4117f9b2) | L’Orfeo, Atto quarto: «Signor, quell’infelice» (Pr |
-| [https://musicbrainz.org/recording/a6c5359f-89c2-4e73-a06b-667944cc3540](https://musicbrainz.org/recording/a6c5359f-89c2-4e73-a06b-667944cc3540) | L’Orfeo, Atto quarto: «Benche severo» (Plutone)    |
-| [https://musicbrainz.org/recording/a76f26ae-e48c-49d8-8269-07482737aa3d](https://musicbrainz.org/recording/a76f26ae-e48c-49d8-8269-07482737aa3d) | L’Orfeo, Atto quarto: «Quale onor di te fia degno» |
-| [https://musicbrainz.org/recording/18bed4f5-20ba-41a8-b1de-14ba10400e06](https://musicbrainz.org/recording/18bed4f5-20ba-41a8-b1de-14ba10400e06) | L’Orfeo, Atto quarto: «Rott’hai la legge» (Spirito |
-| [https://musicbrainz.org/recording/59afa9e5-c8d4-499a-a5d7-5b866fc48852](https://musicbrainz.org/recording/59afa9e5-c8d4-499a-a5d7-5b866fc48852) | L’Orfeo, Atto quarto: «Ahi, vista troppo dolce» (E |
-| [https://musicbrainz.org/recording/6bfc7799-c659-4b65-9762-7df9d54af83c](https://musicbrainz.org/recording/6bfc7799-c659-4b65-9762-7df9d54af83c) | L’Orfeo, Atto quinto: Ritornello                   |
-| [https://musicbrainz.org/recording/99d91fb0-f14e-4618-985b-f8cee2b1646e](https://musicbrainz.org/recording/99d91fb0-f14e-4618-985b-f8cee2b1646e) | L’Orfeo, Atto quinto: «Questi i campi di Tracia» ( |
-| [https://musicbrainz.org/recording/a1ed4709-e701-4f1d-8ae8-c4cc41e8fede](https://musicbrainz.org/recording/a1ed4709-e701-4f1d-8ae8-c4cc41e8fede) | L’Orfeo, Atto quinto: Sinfonia                     |
-| [https://musicbrainz.org/recording/ff9c035f-a7ac-45a7-b5ae-d4804cb44832](https://musicbrainz.org/recording/ff9c035f-a7ac-45a7-b5ae-d4804cb44832) | L’Orfeo, Atto quinto: «Perche a lo sdegno» (Apollo |
-| [https://musicbrainz.org/recording/33f7af67-103a-4f09-bce6-6e9317aaed9f](https://musicbrainz.org/recording/33f7af67-103a-4f09-bce6-6e9317aaed9f) | L’Orfeo, Atto quinto: «Vanne Orfeo» (Coro di pasto |
-| [https://musicbrainz.org/recording/7bd06d2c-de9e-41d4-8a41-6e5b8c00c2ec](https://musicbrainz.org/recording/7bd06d2c-de9e-41d4-8a41-6e5b8c00c2ec) | L’Orfeo, Atto quinto: Moresca                      |
-| [https://musicbrainz.org/recording/4a3a5950-65ab-4e25-8271-3815294d8214](https://musicbrainz.org/recording/4a3a5950-65ab-4e25-8271-3815294d8214) | Symphony no. 8, op. 88: IV. Allegro ma non troppo  |
-| [https://musicbrainz.org/recording/64aaeaab-3168-49e0-8ee5-d2c123f72bdd](https://musicbrainz.org/recording/64aaeaab-3168-49e0-8ee5-d2c123f72bdd) | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
-| [https://musicbrainz.org/recording/7afab6fa-440e-4cb3-ba34-9e977441550b](https://musicbrainz.org/recording/7afab6fa-440e-4cb3-ba34-9e977441550b) | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
-| [https://musicbrainz.org/recording/14f9e41d-7461-4aa7-946c-741750ad23da](https://musicbrainz.org/recording/14f9e41d-7461-4aa7-946c-741750ad23da) | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
-| [https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628](https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628) | Concerto for Piano no. 23 in A major, K. 488: II.  |
-| [https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628](https://musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628) | Concerto for Piano no. 23 in A major, K. 488: II.  |
-| [https://musicbrainz.org/recording/d2886e55-091f-4a6e-bad8-1d8f60e715fb](https://musicbrainz.org/recording/d2886e55-091f-4a6e-bad8-1d8f60e715fb) | Mass in B minor, BWV 232: No. 24 Agnus Dei         |
-| [https://musicbrainz.org/recording/e403ccbf-bc7b-4683-822d-77c67211b2cd](https://musicbrainz.org/recording/e403ccbf-bc7b-4683-822d-77c67211b2cd) | Il dissoluto punito, ossia il Don Giovanni, K. 527 |
-| [https://musicbrainz.org/recording/3ee1a8b0-9b67-4d33-aa80-d0b8dcfc9dbf](https://musicbrainz.org/recording/3ee1a8b0-9b67-4d33-aa80-d0b8dcfc9dbf) | Concerto for Piano no. 5 in E-flat major, op. 73 “ |
-| [https://musicbrainz.org/recording/b9f0a15f-1023-4f3b-915c-2568429f6070](https://musicbrainz.org/recording/b9f0a15f-1023-4f3b-915c-2568429f6070) | Requiem in D minor, K. 626 (Beyer Edition): VI. "B |
-| [https://musicbrainz.org/recording/874afbce-737f-4edb-8264-37fc45d069e6](https://musicbrainz.org/recording/874afbce-737f-4edb-8264-37fc45d069e6) | Symphony no. 36 in C major, K. 425 “Linz”: II. And |
-| [https://musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55](https://musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55) | Weihnachts-Oratorium, BWV 248: Teil I, II. Evangel |
-| [https://musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55](https://musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55) | Weihnachts-Oratorium, BWV 248: Teil I, II. Evangel |
-| [https://musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586](https://musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586) | Weihnachts-Oratorium, BWV 248: Teil I, VI. Evangel |
-| [https://musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586](https://musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586) | Weihnachts-Oratorium, BWV 248: Teil I, VI. Evangel |
-| [https://musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932](https://musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932) | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
-| [https://musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932](https://musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932) | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
-| [https://musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932](https://musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932) | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
-| [https://musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f](https://musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f) | Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Evang |
-| [https://musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f](https://musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f) | Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Evang |
-| [https://musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694](https://musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694) | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
-| [https://musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694](https://musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694) | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
-| [https://musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694](https://musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694) | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
-| [https://musicbrainz.org/recording/f94a93d7-5e17-479a-a6c2-a8e4e5c8a697](https://musicbrainz.org/recording/f94a93d7-5e17-479a-a6c2-a8e4e5c8a697) | Weihnachts-Oratorium, BWV 248: Teil VI, LX. Evange |
-| [https://musicbrainz.org/recording/51b95aad-d11d-4181-98ba-d8975e9e3ca5](https://musicbrainz.org/recording/51b95aad-d11d-4181-98ba-d8975e9e3ca5) | Kantate, BWV 3 "Ach Gott, wie manches Herzeleid":  |
-| [https://musicbrainz.org/recording/d9e38bd8-6ea0-4352-a5ca-1147fb6dfba3](https://musicbrainz.org/recording/d9e38bd8-6ea0-4352-a5ca-1147fb6dfba3) | Regina coeli, K. 276                               |
-| [https://musicbrainz.org/recording/9f50656d-da43-47e2-8c2f-0dbf17cb4f8e](https://musicbrainz.org/recording/9f50656d-da43-47e2-8c2f-0dbf17cb4f8e) | Kantate, BWV 212 "Mer hahn en neue Oberkeet": II.  |
-| [https://musicbrainz.org/recording/8688e12c-26ea-4495-8ea2-fb3f5df632d7](https://musicbrainz.org/recording/8688e12c-26ea-4495-8ea2-fb3f5df632d7) | Kantate, BWV 212 "Mer hahn en neue Oberkeet": IV.  |
-| [https://musicbrainz.org/recording/d5e614fe-f5ee-494f-9e16-3682b410b90e](https://musicbrainz.org/recording/d5e614fe-f5ee-494f-9e16-3682b410b90e) | Kantate, BWV 212 "Mer hahn en neue Oberkeet": XX.  |
-| [https://musicbrainz.org/recording/11b55bc4-264e-4636-b397-f7a47b1b70fb](https://musicbrainz.org/recording/11b55bc4-264e-4636-b397-f7a47b1b70fb) | Violin concerto in D major, op. 61: I. Allegro, ma |
-| [https://musicbrainz.org/recording/4c87e06b-8531-41af-a451-0087f5691449](https://musicbrainz.org/recording/4c87e06b-8531-41af-a451-0087f5691449) | Violin concerto in D major, op. 61: II. Larghetto  |
-| [https://musicbrainz.org/recording/4323f806-2c2d-42cd-87b4-ad524ea75d53](https://musicbrainz.org/recording/4323f806-2c2d-42cd-87b4-ad524ea75d53) | Violin concerto in D major, op. 61: III. Rondo. Al |
-| [https://musicbrainz.org/recording/72549c0e-aa1b-4e8e-a61e-1fbe04aa2b03](https://musicbrainz.org/recording/72549c0e-aa1b-4e8e-a61e-1fbe04aa2b03) | Romance in G major, op. 40                         |
-| [https://musicbrainz.org/recording/0f3ede59-62c0-4232-8cee-e553afe51181](https://musicbrainz.org/recording/0f3ede59-62c0-4232-8cee-e553afe51181) | Romance in F major, op. 50                         |
-| [https://musicbrainz.org/recording/731eaab9-63fe-4875-9221-c7b8115561a5](https://musicbrainz.org/recording/731eaab9-63fe-4875-9221-c7b8115561a5) | Die Zauberflöte, K. 620: Act I, Scene I. Introduct |
-| [https://musicbrainz.org/recording/bbdd6390-72f2-4aee-893d-31377d4100f5](https://musicbrainz.org/recording/bbdd6390-72f2-4aee-893d-31377d4100f5) | Die Zauberflöte, K. 620: Act I, Scene III. No. 2 A |
-| [https://musicbrainz.org/recording/215a920b-a3cc-4200-b396-3e4daa5428eb](https://musicbrainz.org/recording/215a920b-a3cc-4200-b396-3e4daa5428eb) | Die Zauberflöte, K. 620: Act I, Scene VIII. No. 5  |
-| [https://musicbrainz.org/recording/687c92a3-bec6-4b00-9e06-86c5df304d00](https://musicbrainz.org/recording/687c92a3-bec6-4b00-9e06-86c5df304d00) | Die Zauberflöte, K. 620: Act I, Scene XV. No. 8 Fi |
-| [https://musicbrainz.org/recording/84988701-460a-4036-b3d5-08b693674a90](https://musicbrainz.org/recording/84988701-460a-4036-b3d5-08b693674a90) | Die Zauberflöte, K. 620: Act I, Scene XV. No. 8 Fi |
-| [https://musicbrainz.org/recording/3014671d-81d3-426d-bcee-0ded04cf68de](https://musicbrainz.org/recording/3014671d-81d3-426d-bcee-0ded04cf68de) | Die Zauberflöte, K. 620: Act I, Scene XV. No. 8 Fi |
-| [https://musicbrainz.org/recording/aea030ca-5a02-4b99-a487-d31a482d2ffd](https://musicbrainz.org/recording/aea030ca-5a02-4b99-a487-d31a482d2ffd) | Die Zauberflöte, K. 620: Act II, Scene VII. No. 13 |
-| [https://musicbrainz.org/recording/6646390b-5f49-4e1f-b585-0bc8a87f08b9](https://musicbrainz.org/recording/6646390b-5f49-4e1f-b585-0bc8a87f08b9) | Die Zauberflöte, K. 620: Act II, Scene VIII. No. 1 |
-| [https://musicbrainz.org/recording/1bbd1892-319a-47a2-8a55-b3117cb6a09c](https://musicbrainz.org/recording/1bbd1892-319a-47a2-8a55-b3117cb6a09c) | Die Zauberflöte, K. 620: Act II, Scene XIX. No. 17 |
-| [https://musicbrainz.org/recording/adbe5d4c-3293-4f45-a49f-ec07badce414](https://musicbrainz.org/recording/adbe5d4c-3293-4f45-a49f-ec07badce414) | Die Zauberflöte, K. 620: Act II, Scene XXIII. No.  |
-| [https://musicbrainz.org/recording/1613d488-d166-402c-96ea-67c35f861b20](https://musicbrainz.org/recording/1613d488-d166-402c-96ea-67c35f861b20) | Die Zauberflöte, K. 620: Act II, Scene XXVI. No. 2 |
-| [https://musicbrainz.org/recording/a286d833-6faa-4ebb-9ca2-7e6abe1d528d](https://musicbrainz.org/recording/a286d833-6faa-4ebb-9ca2-7e6abe1d528d) | Konzert für Violine d-Moll, Rekonstruktion nach de |
-| [https://musicbrainz.org/recording/bb330fc9-69bc-4e58-88ca-a80188dda6b8](https://musicbrainz.org/recording/bb330fc9-69bc-4e58-88ca-a80188dda6b8) | Konzert für Violine d-Moll, Rekonstruktion nach de |
-| [https://musicbrainz.org/recording/d37ae03a-935e-453e-a702-32a35dedf9d9](https://musicbrainz.org/recording/d37ae03a-935e-453e-a702-32a35dedf9d9) | Konzert für Violine d-Moll, Rekonstruktion nach de |
-| [https://musicbrainz.org/recording/944ed9f9-0ea4-4625-8d7d-a6a89bedba31](https://musicbrainz.org/recording/944ed9f9-0ea4-4625-8d7d-a6a89bedba31) | Le nozze di Figaro, K 492: Act I: (h) "La vendetta |
-| [https://musicbrainz.org/recording/4cc99225-7d69-4fc5-a7cc-daee7fb94660](https://musicbrainz.org/recording/4cc99225-7d69-4fc5-a7cc-daee7fb94660) | Le nozze di Figaro, K 492: Act II: (f) "Venite, in |
-| [https://musicbrainz.org/recording/a54b5e66-42b4-451e-add4-1bcab227352a](https://musicbrainz.org/recording/a54b5e66-42b4-451e-add4-1bcab227352a) | Symphony no. 4 in D minor, op. 120: I. Zeimlich la |
-| [https://musicbrainz.org/recording/93dcabf3-573d-423a-a150-c83e3d886966](https://musicbrainz.org/recording/93dcabf3-573d-423a-a150-c83e3d886966) | Cantata No.68, aria ‘Mein gläubiges Herze’ (extrac |
-| [https://musicbrainz.org/recording/6a04fe66-357d-4efb-95d7-f7a2f070cb44](https://musicbrainz.org/recording/6a04fe66-357d-4efb-95d7-f7a2f070cb44) | Täubchen, das entflattert ist                      |
-| [https://musicbrainz.org/recording/c83046de-5402-4840-b5d9-4c44e34ce19e](https://musicbrainz.org/recording/c83046de-5402-4840-b5d9-4c44e34ce19e) | Ach, ich darf nicht hin zu ihr                     |
-| [https://musicbrainz.org/recording/e44d720d-9131-423f-a89c-159103374d6f](https://musicbrainz.org/recording/e44d720d-9131-423f-a89c-159103374d6f) | Nein, mit solchen Advokaten                        |
-| [https://musicbrainz.org/recording/22932d5e-31ac-4b15-a540-05fba4066075](https://musicbrainz.org/recording/22932d5e-31ac-4b15-a540-05fba4066075) | So, muss allein ich bleiben                        |
-| [https://musicbrainz.org/recording/4aa43acb-539c-47dd-a2b7-ab197561e204](https://musicbrainz.org/recording/4aa43acb-539c-47dd-a2b7-ab197561e204) | Trinke, Liebchen, trinke schnell                   |
-| [https://musicbrainz.org/recording/ebe00ae2-ffd9-4510-aa63-0d1772b114a4](https://musicbrainz.org/recording/ebe00ae2-ffd9-4510-aa63-0d1772b114a4) | Ein Souper uns heute winkt                         |
-| [https://musicbrainz.org/recording/87edc55e-3298-4a68-b831-145b371ac1b9](https://musicbrainz.org/recording/87edc55e-3298-4a68-b831-145b371ac1b9) | Ich lade gern mir Gaeste ein                       |
-| [https://musicbrainz.org/recording/4a259454-1b16-4d27-abcc-309f9b084d36](https://musicbrainz.org/recording/4a259454-1b16-4d27-abcc-309f9b084d36) | Ach, meine Herrn und Damen... Mein Herr Marquis    |
-| [https://musicbrainz.org/recording/769aa3c4-e08e-4a47-b35e-528b561e41a6](https://musicbrainz.org/recording/769aa3c4-e08e-4a47-b35e-528b561e41a6) | Dieser Anstand, so manierlich                      |
-| [https://musicbrainz.org/recording/12732e60-27c0-4fbe-98a7-639819e7956a](https://musicbrainz.org/recording/12732e60-27c0-4fbe-98a7-639819e7956a) | Klänge der Heimat                                  |
-| [https://musicbrainz.org/recording/722d0680-60c7-432f-b2f5-b7dfe74bd744](https://musicbrainz.org/recording/722d0680-60c7-432f-b2f5-b7dfe74bd744) | Im Feuerstrom der Reben                            |
-| [https://musicbrainz.org/recording/295f7b5e-8ffb-4b3c-9bcc-3cbbc9e794f4](https://musicbrainz.org/recording/295f7b5e-8ffb-4b3c-9bcc-3cbbc9e794f4) | Genug damit, genug                                 |
-| [https://musicbrainz.org/recording/3a72f380-26e1-4523-9f29-343340f23ddb](https://musicbrainz.org/recording/3a72f380-26e1-4523-9f29-343340f23ddb) | Ich stehe voll Zagen                               |
-| [https://musicbrainz.org/recording/f71c8e82-7e18-41b0-85a6-63a65089e9c6](https://musicbrainz.org/recording/f71c8e82-7e18-41b0-85a6-63a65089e9c6) | Spiel' ich die Unschuld vom Lande                  |
-| [https://musicbrainz.org/recording/3dc400c2-e40f-4c48-896b-566a896de3ca](https://musicbrainz.org/recording/3dc400c2-e40f-4c48-896b-566a896de3ca) | O Fledermaus, o Fledermaus                         |
-| [https://musicbrainz.org/recording/a252f7c9-e3d0-4f6d-86c1-b3973449237b](https://musicbrainz.org/recording/a252f7c9-e3d0-4f6d-86c1-b3973449237b) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/9211179e-ee86-490d-b468-4364a8475dcc](https://musicbrainz.org/recording/9211179e-ee86-490d-b468-4364a8475dcc) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/1a2548ba-70fa-4c7e-9e93-e8aef969238a](https://musicbrainz.org/recording/1a2548ba-70fa-4c7e-9e93-e8aef969238a) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/e7549457-5f32-452d-b6c0-6c49787e03ee](https://musicbrainz.org/recording/e7549457-5f32-452d-b6c0-6c49787e03ee) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/0332565f-b073-45b6-bed8-055892e42331](https://musicbrainz.org/recording/0332565f-b073-45b6-bed8-055892e42331) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/3ee82635-65d7-41dd-ae2d-7dd738804886](https://musicbrainz.org/recording/3ee82635-65d7-41dd-ae2d-7dd738804886) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/cabad17a-d06e-4b56-bf6b-0a6a8c8d2e8c](https://musicbrainz.org/recording/cabad17a-d06e-4b56-bf6b-0a6a8c8d2e8c) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/7ad93c3f-dd60-4b14-8272-34080cb6d3d7](https://musicbrainz.org/recording/7ad93c3f-dd60-4b14-8272-34080cb6d3d7) | Matthäus-Passion, BWV 244: Teil I, VIII. Arie (Sop |
-| [https://musicbrainz.org/recording/0cf05a2d-96c6-4379-81fb-18213e4e473e](https://musicbrainz.org/recording/0cf05a2d-96c6-4379-81fb-18213e4e473e) | Johannes-Passion, BWV 245: Teil I. No. 9 Aria (Sop |
-| [https://musicbrainz.org/recording/1a998f26-67be-4933-94cf-dfa29e399413](https://musicbrainz.org/recording/1a998f26-67be-4933-94cf-dfa29e399413) | Matthäus-Passion, BWV 244: Teil II, LIV. Choral "O |
-| [https://musicbrainz.org/recording/326c3d33-108c-4e8c-b096-129ad0baf548](https://musicbrainz.org/recording/326c3d33-108c-4e8c-b096-129ad0baf548) | Magnificat: XIII. Magnificat                       |
-| [https://musicbrainz.org/recording/4916fd47-2b40-45f1-9828-dddd1a863f43](https://musicbrainz.org/recording/4916fd47-2b40-45f1-9828-dddd1a863f43) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/d8990611-6c6b-4d50-9d43-ec4948154da9](https://musicbrainz.org/recording/d8990611-6c6b-4d50-9d43-ec4948154da9) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/5c181dd3-17e7-44a4-a947-3be94eaf6533](https://musicbrainz.org/recording/5c181dd3-17e7-44a4-a947-3be94eaf6533) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/190722d0-d5c9-49b3-b5d5-fa04d8f66e3e](https://musicbrainz.org/recording/190722d0-d5c9-49b3-b5d5-fa04d8f66e3e) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/ba55351e-4858-4277-987a-bd3f8480f1cd](https://musicbrainz.org/recording/ba55351e-4858-4277-987a-bd3f8480f1cd) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/20fdf9b6-920b-4952-a489-16839f4d6a8c](https://musicbrainz.org/recording/20fdf9b6-920b-4952-a489-16839f4d6a8c) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/ec521844-623a-4b60-aeeb-90775f003b20](https://musicbrainz.org/recording/ec521844-623a-4b60-aeeb-90775f003b20) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/a3aba407-a63b-4f41-989d-74441a4741be](https://musicbrainz.org/recording/a3aba407-a63b-4f41-989d-74441a4741be) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/ef4d2355-93e0-4e46-9a25-57146f11dd0e](https://musicbrainz.org/recording/ef4d2355-93e0-4e46-9a25-57146f11dd0e) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/2dbd5a0a-2896-4171-92be-c8962258cfa4](https://musicbrainz.org/recording/2dbd5a0a-2896-4171-92be-c8962258cfa4) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/1681f9bc-2c83-45e6-a1e0-55edb5821ab8](https://musicbrainz.org/recording/1681f9bc-2c83-45e6-a1e0-55edb5821ab8) | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| [https://musicbrainz.org/recording/c523ed7f-507f-4f0f-8b9a-0e1f7ef1d8d1](https://musicbrainz.org/recording/c523ed7f-507f-4f0f-8b9a-0e1f7ef1d8d1) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/6076447f-7e48-469c-9594-98fd1564eeb8](https://musicbrainz.org/recording/6076447f-7e48-469c-9594-98fd1564eeb8) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/901921f6-b615-4ee5-8ce6-15344ff841a5](https://musicbrainz.org/recording/901921f6-b615-4ee5-8ce6-15344ff841a5) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/0dc4c39c-0020-46c2-90e0-f5ba9697f1a3](https://musicbrainz.org/recording/0dc4c39c-0020-46c2-90e0-f5ba9697f1a3) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/200c11e8-c54d-4ed3-861d-07e33c268bbc](https://musicbrainz.org/recording/200c11e8-c54d-4ed3-861d-07e33c268bbc) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/32573f2f-76cc-47a8-974d-36099cea189a](https://musicbrainz.org/recording/32573f2f-76cc-47a8-974d-36099cea189a) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/d6109637-5945-4bee-8b4e-0a008f468931](https://musicbrainz.org/recording/d6109637-5945-4bee-8b4e-0a008f468931) | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| [https://musicbrainz.org/recording/0d67b09d-f409-4173-b38f-5ff7b32e8f82](https://musicbrainz.org/recording/0d67b09d-f409-4173-b38f-5ff7b32e8f82) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/67d12056-08b9-4aea-b217-8b87b54ef947](https://musicbrainz.org/recording/67d12056-08b9-4aea-b217-8b87b54ef947) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/361c6a38-a5b5-4b76-aa0b-1785bf850b06](https://musicbrainz.org/recording/361c6a38-a5b5-4b76-aa0b-1785bf850b06) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/f6c555e5-05bb-4983-a45f-88db8605c00a](https://musicbrainz.org/recording/f6c555e5-05bb-4983-a45f-88db8605c00a) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/bde344c0-09bd-473e-83b6-2047539b968e](https://musicbrainz.org/recording/bde344c0-09bd-473e-83b6-2047539b968e) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/b8b00b8a-15ed-4f83-a1d1-e1bbf78ea5b9](https://musicbrainz.org/recording/b8b00b8a-15ed-4f83-a1d1-e1bbf78ea5b9) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/8238c533-3882-48f0-a333-7bb4f8f7fd87](https://musicbrainz.org/recording/8238c533-3882-48f0-a333-7bb4f8f7fd87) | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| [https://musicbrainz.org/recording/8c2611aa-4cc4-4132-bf59-d7725c340dfb](https://musicbrainz.org/recording/8c2611aa-4cc4-4132-bf59-d7725c340dfb) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/f36ba0c9-7309-4ba3-a1bb-8c8f71541b77](https://musicbrainz.org/recording/f36ba0c9-7309-4ba3-a1bb-8c8f71541b77) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/1b4d6074-ed85-4b96-8812-6519136dfe07](https://musicbrainz.org/recording/1b4d6074-ed85-4b96-8812-6519136dfe07) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/66cc913e-73fc-459b-8e46-566837526ad1](https://musicbrainz.org/recording/66cc913e-73fc-459b-8e46-566837526ad1) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/e9158e83-a0ab-4cb6-9fb4-61fd5dfd0a83](https://musicbrainz.org/recording/e9158e83-a0ab-4cb6-9fb4-61fd5dfd0a83) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/bcdab71b-157b-4495-97fe-7c30a9004ae3](https://musicbrainz.org/recording/bcdab71b-157b-4495-97fe-7c30a9004ae3) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/adc3fb1d-8c9f-4b20-92f5-86af947ab5c1](https://musicbrainz.org/recording/adc3fb1d-8c9f-4b20-92f5-86af947ab5c1) | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| [https://musicbrainz.org/recording/54c0c221-f739-45da-b32a-52ba1701bdb3](https://musicbrainz.org/recording/54c0c221-f739-45da-b32a-52ba1701bdb3) | Cantata, BWV 104 "Du Hirte Israel, höre," I. Coro. |
-| [https://musicbrainz.org/recording/aa29d418-46de-4f70-bd16-bd745b365901](https://musicbrainz.org/recording/aa29d418-46de-4f70-bd16-bd745b365901) | Cantata, BWV 104 "Du Hirte Israel, höre," II. Reci |
-| [https://musicbrainz.org/recording/16fcdee9-765b-4af2-8f3e-214f80d62690](https://musicbrainz.org/recording/16fcdee9-765b-4af2-8f3e-214f80d62690) | Cantata, BWV 104 "Du Hirte Israel, höre," III. Ari |
-| [https://musicbrainz.org/recording/b5d67478-8cb2-4d61-affa-0aebc7b94d80](https://musicbrainz.org/recording/b5d67478-8cb2-4d61-affa-0aebc7b94d80) | Cantata, BWV 104 "Du Hirte Israel, höre," IV. Reci |
-| [https://musicbrainz.org/recording/04ce4042-ddda-41b0-86dc-13a79d7959e4](https://musicbrainz.org/recording/04ce4042-ddda-41b0-86dc-13a79d7959e4) | Cantata, BWV 104 "Du Hirte Israel, höre," V. Aria  |
-| [https://musicbrainz.org/recording/57615c38-e408-4c96-b140-d905b8ad44b5](https://musicbrainz.org/recording/57615c38-e408-4c96-b140-d905b8ad44b5) | Cantata, BWV 104 "Du Hirte Israel, höre," VI. Chor |
-| [https://musicbrainz.org/recording/b2b6afc7-6310-41e4-8af3-c3ee191ae330](https://musicbrainz.org/recording/b2b6afc7-6310-41e4-8af3-c3ee191ae330) | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
-| [https://musicbrainz.org/recording/99bb24fe-9ac7-4b6b-a41f-f52e6072f4e6](https://musicbrainz.org/recording/99bb24fe-9ac7-4b6b-a41f-f52e6072f4e6) | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
-| [https://musicbrainz.org/recording/1f069cc5-5772-4ed0-bdc9-430755ae1630](https://musicbrainz.org/recording/1f069cc5-5772-4ed0-bdc9-430755ae1630) | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
-| [https://musicbrainz.org/recording/1122a72b-bb71-4506-bbbd-84f679a4791b](https://musicbrainz.org/recording/1122a72b-bb71-4506-bbbd-84f679a4791b) | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
-| [https://musicbrainz.org/recording/237e4041-2f74-4e1d-91ab-cc4b0695596d](https://musicbrainz.org/recording/237e4041-2f74-4e1d-91ab-cc4b0695596d) | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," V |
-| [https://musicbrainz.org/recording/a9d8e191-2b07-40b3-9c4d-ed2c191d1deb](https://musicbrainz.org/recording/a9d8e191-2b07-40b3-9c4d-ed2c191d1deb) | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," V |
-| [https://musicbrainz.org/recording/d76cd583-1006-4f1d-b48c-a01e6aa4a79f](https://musicbrainz.org/recording/d76cd583-1006-4f1d-b48c-a01e6aa4a79f) | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
-| [https://musicbrainz.org/recording/d08b49dc-549f-4689-a7b5-b36c0cb90794](https://musicbrainz.org/recording/d08b49dc-549f-4689-a7b5-b36c0cb90794) | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
-| [https://musicbrainz.org/recording/ded55392-e62e-4978-9b85-2e77f39f10a7](https://musicbrainz.org/recording/ded55392-e62e-4978-9b85-2e77f39f10a7) | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
-| [https://musicbrainz.org/recording/779ee7b9-3606-4df0-8d9f-6ff8fb50c442](https://musicbrainz.org/recording/779ee7b9-3606-4df0-8d9f-6ff8fb50c442) | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
-| [https://musicbrainz.org/recording/355a208d-4faf-4cc6-be0a-07f200e25395](https://musicbrainz.org/recording/355a208d-4faf-4cc6-be0a-07f200e25395) | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
-| [https://musicbrainz.org/recording/504f69e8-7b3c-492a-96da-16b9651d1c9c](https://musicbrainz.org/recording/504f69e8-7b3c-492a-96da-16b9651d1c9c) | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
-| [https://musicbrainz.org/recording/10236938-7488-41a9-9cc9-bdb80b34d906](https://musicbrainz.org/recording/10236938-7488-41a9-9cc9-bdb80b34d906) | Cantata, BWV 110 "Unser Mund sei voll Lachens," I. |
-| [https://musicbrainz.org/recording/76479607-09c3-4235-a1fb-ce8d7339663c](https://musicbrainz.org/recording/76479607-09c3-4235-a1fb-ce8d7339663c) | Cantata, BWV 110 "Unser Mund sei voll Lachens," II |
-| [https://musicbrainz.org/recording/6f96a9e3-9b75-4812-b949-70401358787f](https://musicbrainz.org/recording/6f96a9e3-9b75-4812-b949-70401358787f) | Cantata, BWV 110 "Unser Mund sei voll Lachens," II |
-| [https://musicbrainz.org/recording/ba8bf873-fec6-45a4-865f-0f15cbec0a3b](https://musicbrainz.org/recording/ba8bf873-fec6-45a4-865f-0f15cbec0a3b) | Cantata, BWV 110 "Unser Mund sei voll Lachens," IV |
-| [https://musicbrainz.org/recording/a8ac833f-c39d-453a-b37f-3516bd712e96](https://musicbrainz.org/recording/a8ac833f-c39d-453a-b37f-3516bd712e96) | Cantata, BWV 110 "Unser Mund sei voll Lachens," V. |
-| [https://musicbrainz.org/recording/94b550d9-d788-4916-9948-210fa750be7a](https://musicbrainz.org/recording/94b550d9-d788-4916-9948-210fa750be7a) | Cantata, BWV 110 "Unser Mund sei voll Lachens," VI |
-| [https://musicbrainz.org/recording/cd81f2ca-594b-4fda-aedb-42b850cbfa09](https://musicbrainz.org/recording/cd81f2ca-594b-4fda-aedb-42b850cbfa09) | Cantata, BWV 110 "Unser Mund sei voll Lachens," VI |
-| [https://musicbrainz.org/recording/2d7174c8-1891-4ddf-9a67-9129355cc4e3](https://musicbrainz.org/recording/2d7174c8-1891-4ddf-9a67-9129355cc4e3) | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| [https://musicbrainz.org/recording/45cd4f1f-2266-4703-b3cf-b6b3434eb072](https://musicbrainz.org/recording/45cd4f1f-2266-4703-b3cf-b6b3434eb072) | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| [https://musicbrainz.org/recording/1e9022a1-59a9-420b-b72d-62856c288d0e](https://musicbrainz.org/recording/1e9022a1-59a9-420b-b72d-62856c288d0e) | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| [https://musicbrainz.org/recording/36e7e6ca-11ec-48e3-9e16-e0b86d73f7d5](https://musicbrainz.org/recording/36e7e6ca-11ec-48e3-9e16-e0b86d73f7d5) | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| [https://musicbrainz.org/recording/008299ec-4f56-4fd2-b969-e0236bb6ed08](https://musicbrainz.org/recording/008299ec-4f56-4fd2-b969-e0236bb6ed08) | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| [https://musicbrainz.org/recording/d09512c0-95ac-4e20-9ab4-837badedf091](https://musicbrainz.org/recording/d09512c0-95ac-4e20-9ab4-837badedf091) | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| [https://musicbrainz.org/recording/f90ad82b-8829-4dc6-8e2a-b358bb891c32](https://musicbrainz.org/recording/f90ad82b-8829-4dc6-8e2a-b358bb891c32) | Die Schönbrunner, op. 200                          |
-| [https://musicbrainz.org/recording/8780edfe-adfe-493b-a7c8-48f37f5abc42](https://musicbrainz.org/recording/8780edfe-adfe-493b-a7c8-48f37f5abc42) | Jägers Lust, op. 82                                |
-| [https://musicbrainz.org/recording/337e108d-11ff-442c-a296-f6a354958de4](https://musicbrainz.org/recording/337e108d-11ff-442c-a296-f6a354958de4) | Morgenblätter, op. 279                             |
-| [https://musicbrainz.org/recording/4f1d0173-12ed-415f-ae21-d8adcd84c2c9](https://musicbrainz.org/recording/4f1d0173-12ed-415f-ae21-d8adcd84c2c9) | Electro‐magnetische Polka, op. 110                 |
-| [https://musicbrainz.org/recording/858e4491-2277-46e7-b99e-56362a5525f0](https://musicbrainz.org/recording/858e4491-2277-46e7-b99e-56362a5525f0) | Electrofor‐Polka, op. 297                          |
-| [https://musicbrainz.org/recording/2df757df-a2c6-44f6-a777-2f1972864387](https://musicbrainz.org/recording/2df757df-a2c6-44f6-a777-2f1972864387) | Overture to Eine Nacht in Venedig (Berlin version) |
-| [https://musicbrainz.org/recording/bf801f03-b649-4eb9-bb2d-babae22043ae](https://musicbrainz.org/recording/bf801f03-b649-4eb9-bb2d-babae22043ae) | Harlekin‐Polka, op. 48                             |
-| [https://musicbrainz.org/recording/f61b01f6-ac77-4a0a-98f2-0671d43b33b6](https://musicbrainz.org/recording/f61b01f6-ac77-4a0a-98f2-0671d43b33b6) | Dorfschwalben aus Österreich, op. 164              |
-| [https://musicbrainz.org/recording/4df87909-5991-4cb4-90d8-408251447e8b](https://musicbrainz.org/recording/4df87909-5991-4cb4-90d8-408251447e8b) | Steyrische Tänze, op. 165                          |
-| [https://musicbrainz.org/recording/1c1a09d8-531e-48aa-a9f1-32a3807039ff](https://musicbrainz.org/recording/1c1a09d8-531e-48aa-a9f1-32a3807039ff) | Vergnügungszug, op. 281                            |
-| [https://musicbrainz.org/recording/249a6c4b-c9d7-4c58-95f0-ec0a666c3d31](https://musicbrainz.org/recording/249a6c4b-c9d7-4c58-95f0-ec0a666c3d31) | Seid umschlungen, Millionen, op. 443               |
-| [https://musicbrainz.org/recording/582ccb2d-c091-4cf4-9e68-bc64b0229e58](https://musicbrainz.org/recording/582ccb2d-c091-4cf4-9e68-bc64b0229e58) | Der Kobold, op. 226                                |
-| [https://musicbrainz.org/recording/9abd539e-dd9a-4980-babf-c3ca6e129f32](https://musicbrainz.org/recording/9abd539e-dd9a-4980-babf-c3ca6e129f32) | Luzifer‐Polka, op. 266                             |
-| [https://musicbrainz.org/recording/fe06eac3-fa01-4bfd-8c8a-15e10ba5b7f2](https://musicbrainz.org/recording/fe06eac3-fa01-4bfd-8c8a-15e10ba5b7f2) | Ohne Sorgen, op. 271                               |
-| [https://musicbrainz.org/recording/a7ebe3ec-943b-47a4-8d3d-995601961683](https://musicbrainz.org/recording/a7ebe3ec-943b-47a4-8d3d-995601961683) | An der schönen blauen Donau, op. 314               |
-| [https://musicbrainz.org/recording/19a09bd9-a0c1-41e4-8eef-bdfae764c294](https://musicbrainz.org/recording/19a09bd9-a0c1-41e4-8eef-bdfae764c294) | Radetzky‐Marsch, op. 228                           |
-| [https://musicbrainz.org/recording/ed6ca88b-6b7b-48fc-ad21-54769e4b5d6f](https://musicbrainz.org/recording/ed6ca88b-6b7b-48fc-ad21-54769e4b5d6f) | Fidelio: Nr. 1 Duett : "Jetzt, Schätzchen, jetzt s |
-| [https://musicbrainz.org/recording/1fe880a0-28b9-4a5d-b4bf-7c365eaf69f9](https://musicbrainz.org/recording/1fe880a0-28b9-4a5d-b4bf-7c365eaf69f9) | Fidelio: Nr. 2 Arie : "O wär' ich schon mit dir ve |
-| [https://musicbrainz.org/recording/1fe880a0-28b9-4a5d-b4bf-7c365eaf69f9](https://musicbrainz.org/recording/1fe880a0-28b9-4a5d-b4bf-7c365eaf69f9) | Fidelio: Nr. 2 Arie : "O wär' ich schon mit dir ve |
-| [https://musicbrainz.org/recording/7368e776-3c5e-4a2a-8fe5-ff0eed9f5e91](https://musicbrainz.org/recording/7368e776-3c5e-4a2a-8fe5-ff0eed9f5e91) | Fidelio: Nr. 3 Quartett : "Mir ist so wunderbar"   |
-| [https://musicbrainz.org/recording/5f319b78-f7fe-41ed-a8d8-7083ba4df90c](https://musicbrainz.org/recording/5f319b78-f7fe-41ed-a8d8-7083ba4df90c) | Fidelio: Nr. 4 Arie : "Hat man nicht auch Gold bei |
-| [https://musicbrainz.org/recording/5f319b78-f7fe-41ed-a8d8-7083ba4df90c](https://musicbrainz.org/recording/5f319b78-f7fe-41ed-a8d8-7083ba4df90c) | Fidelio: Nr. 4 Arie : "Hat man nicht auch Gold bei |
-| [https://musicbrainz.org/recording/0e813ea8-5914-4470-bdd1-43e036c7cb92](https://musicbrainz.org/recording/0e813ea8-5914-4470-bdd1-43e036c7cb92) | Fidelio: Nr. 6 Marsch                              |
-| [https://musicbrainz.org/recording/a28cc7af-5f47-4542-ba4b-80e6bef3d4e5](https://musicbrainz.org/recording/a28cc7af-5f47-4542-ba4b-80e6bef3d4e5) | Fidelio: Nr. 7 Arie mit Chor : "Ha, welch ein Auge |
-| [https://musicbrainz.org/recording/bb8d1c38-6bcc-49ef-bf8c-d6891f7950c0](https://musicbrainz.org/recording/bb8d1c38-6bcc-49ef-bf8c-d6891f7950c0) | Fidelio: Nr. 9 Rezitativ und Arie : "Abscheulicher |
-| [https://musicbrainz.org/recording/bb8d1c38-6bcc-49ef-bf8c-d6891f7950c0](https://musicbrainz.org/recording/bb8d1c38-6bcc-49ef-bf8c-d6891f7950c0) | Fidelio: Nr. 9 Rezitativ und Arie : "Abscheulicher |
-| [https://musicbrainz.org/recording/e7c3e5f0-ff6a-46c5-a7bc-128987502fbd](https://musicbrainz.org/recording/e7c3e5f0-ff6a-46c5-a7bc-128987502fbd) | Fidelio: Nr. 10 Finale : "Nun sprecht, wie ging's? |
-| [https://musicbrainz.org/recording/e7c3e5f0-ff6a-46c5-a7bc-128987502fbd](https://musicbrainz.org/recording/e7c3e5f0-ff6a-46c5-a7bc-128987502fbd) | Fidelio: Nr. 10 Finale : "Nun sprecht, wie ging's? |
-| [https://musicbrainz.org/recording/878c1049-fd5c-4ce0-8fee-769d5fd4ba66](https://musicbrainz.org/recording/878c1049-fd5c-4ce0-8fee-769d5fd4ba66) | Fidelio: Nr. 11 Introduktion und Arie : "Gott! - W |
-| [https://musicbrainz.org/recording/3b60cdc3-1f99-4c23-a792-04b4bf6683c0](https://musicbrainz.org/recording/3b60cdc3-1f99-4c23-a792-04b4bf6683c0) | Fidelio: Nr. 11 Introduktion und Arie : "In des Le |
-| [https://musicbrainz.org/recording/9227b64b-d0f0-4276-b87b-072b3ce53738](https://musicbrainz.org/recording/9227b64b-d0f0-4276-b87b-072b3ce53738) | Fidelio: Nr. 13 Terzett : "Euch werde Lohn"        |
-| [https://musicbrainz.org/recording/fae72678-ee53-4252-a642-0c6bb35f5578](https://musicbrainz.org/recording/fae72678-ee53-4252-a642-0c6bb35f5578) | Fidelio: Nr. 14 Quartett : "Er sterbe!"            |
-| [https://musicbrainz.org/recording/fae72678-ee53-4252-a642-0c6bb35f5578](https://musicbrainz.org/recording/fae72678-ee53-4252-a642-0c6bb35f5578) | Fidelio: Nr. 14 Quartett : "Er sterbe!"            |
-| [https://musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081](https://musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081) | Fidelio: Nr. 16 Finale : "Des besten Königs Wink u |
-| [https://musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081](https://musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081) | Fidelio: Nr. 16 Finale : "Des besten Königs Wink u |
-| [https://musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081](https://musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081) | Fidelio: Nr. 16 Finale : "Des besten Königs Wink u |
-| [https://musicbrainz.org/recording/e39b6288-bc91-4a79-a9e7-52788915811a](https://musicbrainz.org/recording/e39b6288-bc91-4a79-a9e7-52788915811a) | Symphony no. 4 in B-flat major, op. 60: I. Adagio  |
-| [https://musicbrainz.org/recording/84987e33-3fa2-4d40-9b30-3a5ff87b4b6a](https://musicbrainz.org/recording/84987e33-3fa2-4d40-9b30-3a5ff87b4b6a) | Symphony no. 4 in B-flat major, op. 60: II. Adagio |
-| [https://musicbrainz.org/recording/169855d9-fd3a-4da9-acfa-19c9b0e0a95e](https://musicbrainz.org/recording/169855d9-fd3a-4da9-acfa-19c9b0e0a95e) | Symphony no. 4 in B-flat major, op. 60: III. Alleg |
-| [https://musicbrainz.org/recording/c8420ebe-c73f-4cdb-9410-e4a10c9b9758](https://musicbrainz.org/recording/c8420ebe-c73f-4cdb-9410-e4a10c9b9758) | Symphony no. 4 in B-flat major, op. 60: IV. Allegr |
-| [https://musicbrainz.org/recording/7ac3d2de-3f0d-468f-a235-12e57ddbd711](https://musicbrainz.org/recording/7ac3d2de-3f0d-468f-a235-12e57ddbd711) | Symphony no. 5 in C minor, op. 67: I. Allegro con  |
-| [https://musicbrainz.org/recording/57450be4-2431-4b28-951b-3d0e77445c1c](https://musicbrainz.org/recording/57450be4-2431-4b28-951b-3d0e77445c1c) | Symphony no. 5 in C minor, op. 67: II. Andante con |
-| [https://musicbrainz.org/recording/d1fc8f3b-9aea-4f91-b1bd-96ad6d76a56f](https://musicbrainz.org/recording/d1fc8f3b-9aea-4f91-b1bd-96ad6d76a56f) | Symphony no. 5 in C minor, op. 67: III. Allegro -  |
-| [https://musicbrainz.org/recording/9160f618-fd8f-433b-b986-1d582f4e2245](https://musicbrainz.org/recording/9160f618-fd8f-433b-b986-1d582f4e2245) | Symphony no. 5 in C minor, op. 67: IV. Allegro     |
-| [https://musicbrainz.org/recording/e932b447-660c-46e6-a2fb-480f0daaead0](https://musicbrainz.org/recording/e932b447-660c-46e6-a2fb-480f0daaead0) | Concerto for oboe d'amore in A major, BWV 1055R: 1 |
-| [https://musicbrainz.org/recording/9e20b551-a438-4cc1-934c-456c052e3501](https://musicbrainz.org/recording/9e20b551-a438-4cc1-934c-456c052e3501) | Concerto for oboe d'amore in A major, BWV 1055R: 2 |
-| [https://musicbrainz.org/recording/b357801f-5b86-4206-a7fd-f1affc134307](https://musicbrainz.org/recording/b357801f-5b86-4206-a7fd-f1affc134307) | Concerto for oboe d'amore in A major, BWV 1055R: 3 |
-| [https://musicbrainz.org/recording/ef329369-2040-4bef-bbbc-bff6138323a3](https://musicbrainz.org/recording/ef329369-2040-4bef-bbbc-bff6138323a3) | Sinfonia in D major, BWV 1045                      |
-| [https://musicbrainz.org/recording/8111baa0-ce43-4f84-a4a3-75d67dbd60ec](https://musicbrainz.org/recording/8111baa0-ce43-4f84-a4a3-75d67dbd60ec) | Water Music, Suite no. 1 in F major, HWV 348: I. O |
-| [https://musicbrainz.org/recording/e798c080-f32d-44de-b355-3ab31229a5b2](https://musicbrainz.org/recording/e798c080-f32d-44de-b355-3ab31229a5b2) | Water Music, Suite no. 1 in F major, HWV 348: II.  |
-| [https://musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd](https://musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd) | Water Music, Suite no. 1 in F major, HWV 348: III. |
-| [https://musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd](https://musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd) | Water Music, Suite no. 1 in F major, HWV 348: III. |
-| [https://musicbrainz.org/recording/9fc589dc-2a77-439e-b1ca-e384748b2cfe](https://musicbrainz.org/recording/9fc589dc-2a77-439e-b1ca-e384748b2cfe) | Water Music, Suite no. 1 in F major, HWV 348: IV.  |
-| [https://musicbrainz.org/recording/cd1dddc0-8129-4ea2-864a-7dea5758a4bf](https://musicbrainz.org/recording/cd1dddc0-8129-4ea2-864a-7dea5758a4bf) | Water Music, Suite no. 1 in F major, HWV 348: V. A |
-| [https://musicbrainz.org/recording/07517ee5-e9ae-4fcf-8ce3-d055ad05ae96](https://musicbrainz.org/recording/07517ee5-e9ae-4fcf-8ce3-d055ad05ae96) | Water Music, Suite no. 1 in F major, HWV 348: VI.  |
-| [https://musicbrainz.org/recording/56bdfcfd-1933-49ca-82be-15161973951d](https://musicbrainz.org/recording/56bdfcfd-1933-49ca-82be-15161973951d) | Water Music, Suite no. 1 in F major, HWV 348: VII. |
-| [https://musicbrainz.org/recording/aa92dcf9-3874-4877-85b2-028e380ea3c1](https://musicbrainz.org/recording/aa92dcf9-3874-4877-85b2-028e380ea3c1) | Water Music, Suite no. 1 in F major, HWV 348: VIII |
-| [https://musicbrainz.org/recording/ee0b51c2-413b-4fc3-84d9-b7fec444057d](https://musicbrainz.org/recording/ee0b51c2-413b-4fc3-84d9-b7fec444057d) | Water Music, Suite no. 1 in F major, HWV 348: IX.  |
-| [https://musicbrainz.org/recording/3fdbd49d-e059-4395-846e-461078fa605b](https://musicbrainz.org/recording/3fdbd49d-e059-4395-846e-461078fa605b) | Water Music, Suite no. 1 in F major, HWV 348: XI.  |
-| [https://musicbrainz.org/recording/32fa10d7-0cf9-4509-bd0a-aab8aeb2b075](https://musicbrainz.org/recording/32fa10d7-0cf9-4509-bd0a-aab8aeb2b075) | Water Music, Suite no. 1 in F major, HWV 348: XII. |
-| [https://musicbrainz.org/recording/fa96003e-11b2-418f-84d1-38cb0edf3e86](https://musicbrainz.org/recording/fa96003e-11b2-418f-84d1-38cb0edf3e86) | Water Music, Suite no. 1 in F major, HWV 348: XIV. |
-| [https://musicbrainz.org/recording/81883851-a87a-42a2-9f2f-c38bd9992e8b](https://musicbrainz.org/recording/81883851-a87a-42a2-9f2f-c38bd9992e8b) | Water Music, Suite no. 1 in F major, HWV 348: XV.  |
-| [https://musicbrainz.org/recording/4be7ea29-da3f-48ec-82fd-0279960f5b01](https://musicbrainz.org/recording/4be7ea29-da3f-48ec-82fd-0279960f5b01) | Water Music, Suite no. 1 in F major, HWV 348: XVI. |
-| [https://musicbrainz.org/recording/9172dc77-bfa2-4511-a816-fca4d30a35d4](https://musicbrainz.org/recording/9172dc77-bfa2-4511-a816-fca4d30a35d4) | Water Music, Suite no. 1 in F major, HWV 348: XX.  |
-| [https://musicbrainz.org/recording/abbe4272-5331-4ae6-91c2-5e65a0b58b0f](https://musicbrainz.org/recording/abbe4272-5331-4ae6-91c2-5e65a0b58b0f) | La finta giardiniera: Act II. "Ah che son disperat |
-| [https://musicbrainz.org/recording/26e033c3-0542-45ff-833b-ad0c8c482c7e](https://musicbrainz.org/recording/26e033c3-0542-45ff-833b-ad0c8c482c7e) | Die Zauberflöte, K. 620: Act I, Scene VI. No. 4 Re |
-| [https://musicbrainz.org/recording/ef954844-ac69-4fed-b0c6-434a1e83ba82](https://musicbrainz.org/recording/ef954844-ac69-4fed-b0c6-434a1e83ba82) | Missa solemnis: Benedictus (excerpt)               |
-| [https://musicbrainz.org/recording/5ad84131-cbee-4376-a4c7-c18d02e07ebb](https://musicbrainz.org/recording/5ad84131-cbee-4376-a4c7-c18d02e07ebb) | Symphony no. 9 in D minor op. 21: Finale (excerpts |
-| [https://musicbrainz.org/recording/080a30af-1d59-40cd-83da-81173a613ca5](https://musicbrainz.org/recording/080a30af-1d59-40cd-83da-81173a613ca5) | Piano Concerto in A minor op. 54: Allegro vivace ( |
-| [https://musicbrainz.org/recording/27ddfd66-f7ef-4024-8344-c282e8bb5194](https://musicbrainz.org/recording/27ddfd66-f7ef-4024-8344-c282e8bb5194) | L'Orfea - Mira, deh mira Orfeo...In un fiorito pra |
-| [https://musicbrainz.org/recording/f650bed5-5368-477c-82d4-c834de31ce0a](https://musicbrainz.org/recording/f650bed5-5368-477c-82d4-c834de31ce0a) | "Gott ist unsre Zuversicht", BWV 197: 1. [Chorus:] |
-| [https://musicbrainz.org/recording/123e5340-f25a-4207-9bb6-e45f1942fd6d](https://musicbrainz.org/recording/123e5340-f25a-4207-9bb6-e45f1942fd6d) | "Gott ist unsre Zuversicht", BWV 197: 2. Recitativ |
-| [https://musicbrainz.org/recording/181cf701-8bd8-47f0-ac67-d932dc5bd418](https://musicbrainz.org/recording/181cf701-8bd8-47f0-ac67-d932dc5bd418) | "Gott ist unsre Zuversicht", BWV 197: 3. Aria: "Sc |
-| [https://musicbrainz.org/recording/39f1df0e-1b2b-4cf3-ab00-7ace2483ff80](https://musicbrainz.org/recording/39f1df0e-1b2b-4cf3-ab00-7ace2483ff80) | "Gott ist unsre Zuversicht", BWV 197: 4. Recitativ |
-| [https://musicbrainz.org/recording/dad71972-cb73-4005-b937-3f8aaf341c59](https://musicbrainz.org/recording/dad71972-cb73-4005-b937-3f8aaf341c59) | "Gott ist unsre Zuversicht", BWV 197: 5. Chorale:  |
-| [https://musicbrainz.org/recording/22636090-ad5c-4f37-bc5a-7b2af260ab80](https://musicbrainz.org/recording/22636090-ad5c-4f37-bc5a-7b2af260ab80) | "Gott ist unsre Zuversicht", BWV 197: 6. Aria: "O  |
-| [https://musicbrainz.org/recording/a138468f-7f84-4ff0-a74d-507e18c7a487](https://musicbrainz.org/recording/a138468f-7f84-4ff0-a74d-507e18c7a487) | "Gott ist unsre Zuversicht", BWV 197: 7. Recitativ |
-| [https://musicbrainz.org/recording/0a902329-4b29-4a2d-ae95-966a1275a836](https://musicbrainz.org/recording/0a902329-4b29-4a2d-ae95-966a1275a836) | "Gott ist unsre Zuversicht", BWV 197: 8. Aria: "Ve |
-| [https://musicbrainz.org/recording/b07484cb-d810-4484-8def-75ecc001a87d](https://musicbrainz.org/recording/b07484cb-d810-4484-8def-75ecc001a87d) | "Gott ist unsre Zuversicht", BWV 197: 9. Recitativ |
-| [https://musicbrainz.org/recording/9bdb39c1-69b6-48a7-9b68-66431339b790](https://musicbrainz.org/recording/9bdb39c1-69b6-48a7-9b68-66431339b790) | "Gott ist unsre Zuversicht", BWV 197: 10. Chorale: |
-| [https://musicbrainz.org/recording/59923632-1459-4aa4-af1d-5878b9de4b34](https://musicbrainz.org/recording/59923632-1459-4aa4-af1d-5878b9de4b34) | Radetzky‐Marsch op. 228 (original version)         |
-| [https://musicbrainz.org/recording/7cf8a073-af7e-4186-9d60-61afb414c8f7](https://musicbrainz.org/recording/7cf8a073-af7e-4186-9d60-61afb414c8f7) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 1  |
-| [https://musicbrainz.org/recording/bf5bea2e-9090-4f5b-9abc-ae95a180c2ce](https://musicbrainz.org/recording/bf5bea2e-9090-4f5b-9abc-ae95a180c2ce) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 2  |
-| [https://musicbrainz.org/recording/5e060654-82f4-41f8-ba00-535f6e1bdb13](https://musicbrainz.org/recording/5e060654-82f4-41f8-ba00-535f6e1bdb13) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 3  |
-| [https://musicbrainz.org/recording/394cf641-5562-4131-8563-7d47017f807c](https://musicbrainz.org/recording/394cf641-5562-4131-8563-7d47017f807c) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 4  |
-| [https://musicbrainz.org/recording/91addd37-8fdf-4d22-b979-b976d3556050](https://musicbrainz.org/recording/91addd37-8fdf-4d22-b979-b976d3556050) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 5  |
-| [https://musicbrainz.org/recording/7d7272cc-29fc-4052-942a-68ad8e6d08ea](https://musicbrainz.org/recording/7d7272cc-29fc-4052-942a-68ad8e6d08ea) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 6  |
-| [https://musicbrainz.org/recording/82c8f201-560c-49d0-b4b4-e3b34da58399](https://musicbrainz.org/recording/82c8f201-560c-49d0-b4b4-e3b34da58399) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 7  |
-| [https://musicbrainz.org/recording/21f9918f-c935-4d53-b1ca-881b1fc648ad](https://musicbrainz.org/recording/21f9918f-c935-4d53-b1ca-881b1fc648ad) | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 8  |
-| [https://musicbrainz.org/recording/d7c6d95e-b013-47f2-a300-f99f28e73e52](https://musicbrainz.org/recording/d7c6d95e-b013-47f2-a300-f99f28e73e52) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 9 In |
-| [https://musicbrainz.org/recording/c44274f7-efab-4e4f-b113-cd7f2e75b801](https://musicbrainz.org/recording/c44274f7-efab-4e4f-b113-cd7f2e75b801) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 10 A |
-| [https://musicbrainz.org/recording/eb50f76e-8afa-415e-b0ec-fa1895015b49](https://musicbrainz.org/recording/eb50f76e-8afa-415e-b0ec-fa1895015b49) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 11 T |
-| [https://musicbrainz.org/recording/19af4ca8-f13d-4037-a53c-d90b6d079c8a](https://musicbrainz.org/recording/19af4ca8-f13d-4037-a53c-d90b6d079c8a) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 12 R |
-| [https://musicbrainz.org/recording/75cedf47-7eec-4c7e-a34f-0ce62bb92647](https://musicbrainz.org/recording/75cedf47-7eec-4c7e-a34f-0ce62bb92647) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 13 C |
-| [https://musicbrainz.org/recording/4e2cfa9e-e105-4fea-8ae7-c1bcea824676](https://musicbrainz.org/recording/4e2cfa9e-e105-4fea-8ae7-c1bcea824676) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 14 R |
-| [https://musicbrainz.org/recording/41b66677-15b2-4053-b8a7-9caa369a105f](https://musicbrainz.org/recording/41b66677-15b2-4053-b8a7-9caa369a105f) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 15 A |
-| [https://musicbrainz.org/recording/0d04a91c-e237-4a7c-8290-f6c28a607d2e](https://musicbrainz.org/recording/0d04a91c-e237-4a7c-8290-f6c28a607d2e) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 16 R |
-| [https://musicbrainz.org/recording/c160a5cc-65db-4eba-a017-42b1f66dc5a9](https://musicbrainz.org/recording/c160a5cc-65db-4eba-a017-42b1f66dc5a9) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 17 C |
-| [https://musicbrainz.org/recording/db57c9c3-52f4-4838-86f0-99317e849d73](https://musicbrainz.org/recording/db57c9c3-52f4-4838-86f0-99317e849d73) | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 18 T |
-| [https://musicbrainz.org/recording/780ec225-519b-4dfb-a4b2-0bc949962123](https://musicbrainz.org/recording/780ec225-519b-4dfb-a4b2-0bc949962123) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 19 I |
-| [https://musicbrainz.org/recording/f3009085-dfff-4f05-acf3-6fb4afcdc8ef](https://musicbrainz.org/recording/f3009085-dfff-4f05-acf3-6fb4afcdc8ef) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 20 T |
-| [https://musicbrainz.org/recording/8818e19b-4e0b-42c5-82e3-0e8012e462b1](https://musicbrainz.org/recording/8818e19b-4e0b-42c5-82e3-0e8012e462b1) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 21 R |
-| [https://musicbrainz.org/recording/6536f458-1dea-42ff-bb27-e619a3648419](https://musicbrainz.org/recording/6536f458-1dea-42ff-bb27-e619a3648419) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 22 D |
-| [https://musicbrainz.org/recording/37782e33-b885-4598-a854-1bd4f307d5bb](https://musicbrainz.org/recording/37782e33-b885-4598-a854-1bd4f307d5bb) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 23 R |
-| [https://musicbrainz.org/recording/9337eff0-8a53-4fc6-85c1-51cc637984fe](https://musicbrainz.org/recording/9337eff0-8a53-4fc6-85c1-51cc637984fe) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 24 A |
-| [https://musicbrainz.org/recording/7e75a29e-71db-45b3-b27a-2044ab970997](https://musicbrainz.org/recording/7e75a29e-71db-45b3-b27a-2044ab970997) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 25 R |
-| [https://musicbrainz.org/recording/860333ed-e1bd-4f90-be91-26a12eb7caa7](https://musicbrainz.org/recording/860333ed-e1bd-4f90-be91-26a12eb7caa7) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 26 C |
-| [https://musicbrainz.org/recording/56625655-7071-46bb-a4fc-b96a60f7a9aa](https://musicbrainz.org/recording/56625655-7071-46bb-a4fc-b96a60f7a9aa) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 27 R |
-| [https://musicbrainz.org/recording/db8cf1c5-13f1-4cf8-bfea-786a694692d3](https://musicbrainz.org/recording/db8cf1c5-13f1-4cf8-bfea-786a694692d3) | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 28 C |
-| [https://musicbrainz.org/recording/1ea10681-8faf-4b61-929b-748fad11b8d8](https://musicbrainz.org/recording/1ea10681-8faf-4b61-929b-748fad11b8d8) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 29 I |
-| [https://musicbrainz.org/recording/2db73673-d560-47fb-b531-42fa02a26f16](https://musicbrainz.org/recording/2db73673-d560-47fb-b531-42fa02a26f16) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 30 C |
-| [https://musicbrainz.org/recording/1952ca15-299b-4b40-9a88-a2e93dc011e3](https://musicbrainz.org/recording/1952ca15-299b-4b40-9a88-a2e93dc011e3) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 31 R |
-| [https://musicbrainz.org/recording/494e69f6-452d-4a52-835c-6004bd4d21ae](https://musicbrainz.org/recording/494e69f6-452d-4a52-835c-6004bd4d21ae) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 32 A |
-| [https://musicbrainz.org/recording/9a83e9e0-a2ea-4305-9a11-9db90a8e21b6](https://musicbrainz.org/recording/9a83e9e0-a2ea-4305-9a11-9db90a8e21b6) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 33 R |
-| [https://musicbrainz.org/recording/883b15a3-a2e8-4164-a47c-3966a49a24f0](https://musicbrainz.org/recording/883b15a3-a2e8-4164-a47c-3966a49a24f0) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 34 S |
-| [https://musicbrainz.org/recording/fcac4ac6-9308-4366-bfff-5cc500a2f4db](https://musicbrainz.org/recording/fcac4ac6-9308-4366-bfff-5cc500a2f4db) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 35 R |
-| [https://musicbrainz.org/recording/fdf1b9b8-6c4c-47c8-bdf5-4b3251aae31a](https://musicbrainz.org/recording/fdf1b9b8-6c4c-47c8-bdf5-4b3251aae31a) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 36 S |
-| [https://musicbrainz.org/recording/be547bed-a358-4428-b470-f1961b86a7f1](https://musicbrainz.org/recording/be547bed-a358-4428-b470-f1961b86a7f1) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 37 R |
-| [https://musicbrainz.org/recording/ce7d6267-e5e5-4054-aa3f-63a5fcb12a5b](https://musicbrainz.org/recording/ce7d6267-e5e5-4054-aa3f-63a5fcb12a5b) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 38 A |
-| [https://musicbrainz.org/recording/44fccd3d-18c1-4610-86c8-6980404bc9ff](https://musicbrainz.org/recording/44fccd3d-18c1-4610-86c8-6980404bc9ff) | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 39 T |
-| [https://musicbrainz.org/recording/949f8c3f-dfbe-4e38-bef2-029899e9a013](https://musicbrainz.org/recording/949f8c3f-dfbe-4e38-bef2-029899e9a013) | Academic Festival Overture in C minor, op. 80      |
-| [https://musicbrainz.org/recording/fc36d6a8-e5db-464a-ad9b-0c400ee41a5f](https://musicbrainz.org/recording/fc36d6a8-e5db-464a-ad9b-0c400ee41a5f) | Symphony no. 2 in D major, op. 73: I. Allegro non  |
-| [https://musicbrainz.org/recording/2c006706-d54b-452f-b325-dc79ca9ff889](https://musicbrainz.org/recording/2c006706-d54b-452f-b325-dc79ca9ff889) | Praise to God in all lands Cantata Nr. 51: Praise  |
-| [https://musicbrainz.org/recording/4cd34940-c096-4dfd-a65f-8d643b99127b](https://musicbrainz.org/recording/4cd34940-c096-4dfd-a65f-8d643b99127b) | Praise to God in all lands Cantata Nr. 51: Alleluj |
-| [https://musicbrainz.org/recording/939de82b-e06e-40b9-8206-b31348acec18](https://musicbrainz.org/recording/939de82b-e06e-40b9-8206-b31348acec18) | Overture “Leonore”, op. 138                        |
-| [https://musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc](https://musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc) | Mass in B minor, BWV 232: Credo: Crucifixus / Et r |
-| [https://musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc](https://musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc) | Mass in B minor, BWV 232: Credo: Crucifixus / Et r |
-| [https://musicbrainz.org/recording/96a39166-4a40-4913-8cbe-29fa16636149](https://musicbrainz.org/recording/96a39166-4a40-4913-8cbe-29fa16636149) | Weihnachts-Oratorium, BWV 248: Teil II, XII. Chora |
-| [https://musicbrainz.org/recording/c2ccaf90-2283-4c61-8579-cd20791302e9](https://musicbrainz.org/recording/c2ccaf90-2283-4c61-8579-cd20791302e9) | Weihnachts-Oratorium, BWV 248: Teil II, XVII Aria  |
-| [https://musicbrainz.org/recording/ea26bdb0-3ffa-4d5f-8cf1-3f40881d29e1](https://musicbrainz.org/recording/ea26bdb0-3ffa-4d5f-8cf1-3f40881d29e1) | Weihnachts-Oratorium, BWV 248: Teil II, XXIII. Ari |
-| [https://musicbrainz.org/recording/bf0dd2f8-e297-4eda-920e-b69ea96128f6](https://musicbrainz.org/recording/bf0dd2f8-e297-4eda-920e-b69ea96128f6) | Symphonie Nr. 5 c-moll, op. 67: 1. Allegro con bri |
-| [https://musicbrainz.org/recording/e9a114ee-5d66-4dd5-a9a7-1824c8a4bf10](https://musicbrainz.org/recording/e9a114ee-5d66-4dd5-a9a7-1824c8a4bf10) | Symphonie Nr. 5 c-moll, op. 67: 2. Andante con mot |
-| [https://musicbrainz.org/recording/e11dacfc-181b-4300-91ba-99eb0f0f13e0](https://musicbrainz.org/recording/e11dacfc-181b-4300-91ba-99eb0f0f13e0) | Symphonie Nr. 5 c-moll, op. 67: 3. Allegro         |
-| [https://musicbrainz.org/recording/391cd42c-85cd-4f40-b8ed-a8aa9b35bb86](https://musicbrainz.org/recording/391cd42c-85cd-4f40-b8ed-a8aa9b35bb86) | Symphonie Nr. 5 c-moll, op. 67: 4. Allegro         |
-| [https://musicbrainz.org/recording/1e0e9659-d26d-4d38-b3a7-65e5ddaf9b36](https://musicbrainz.org/recording/1e0e9659-d26d-4d38-b3a7-65e5ddaf9b36) | Christmas Oratorio, BWV 248: Part II. Sinfonia     |
-| [https://musicbrainz.org/recording/cb5c85cc-e4d5-4520-9da0-cbe2cd558e4d](https://musicbrainz.org/recording/cb5c85cc-e4d5-4520-9da0-cbe2cd558e4d) | Symphony no. 9 in D minor, op. 125 “Choral”: IV. P |
-| [https://musicbrainz.org/recording/fd0d2014-28af-41d7-9cfe-34b133509226](https://musicbrainz.org/recording/fd0d2014-28af-41d7-9cfe-34b133509226) | Symphony no. 7 in E major: I. Allegro moderato     |
-| [https://musicbrainz.org/recording/2be72a68-f1dc-41fb-9465-58b12e667324](https://musicbrainz.org/recording/2be72a68-f1dc-41fb-9465-58b12e667324) | Symphony no. 7 in E major: II. Adagio. Sehr feierl |
-| [https://musicbrainz.org/recording/aee12892-81ab-48b4-9676-80bbd96314af](https://musicbrainz.org/recording/aee12892-81ab-48b4-9676-80bbd96314af) | Symphony no. 7 in E major: III. Scherzo. Sehr schn |
-| [https://musicbrainz.org/recording/6ed0a20e-3381-4584-a0b1-617ad85cdd4d](https://musicbrainz.org/recording/6ed0a20e-3381-4584-a0b1-617ad85cdd4d) | Symphony no. 7 in E major: IV. Finale. Bewegt, doc |
-| [https://musicbrainz.org/recording/864b8220-abdf-4501-a216-ef08e5ea9f73](https://musicbrainz.org/recording/864b8220-abdf-4501-a216-ef08e5ea9f73) | La traviata: Atto I. “Follie! Delirio vano è quest |
-| [https://musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad](https://musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad) | La traviata: Atto II. “Lunge da lei… De’miei bolle |
-| [https://musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad](https://musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad) | La traviata: Atto II. “Lunge da lei… De’miei bolle |
-| [https://musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad](https://musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad) | La traviata: Atto II. “Lunge da lei… De’miei bolle |
-| [https://musicbrainz.org/recording/b9e96ce0-b212-40cf-a4b5-2154452b0fef](https://musicbrainz.org/recording/b9e96ce0-b212-40cf-a4b5-2154452b0fef) | La traviata: Atto III. “Teneste la promessa… Atten |
-| [https://musicbrainz.org/recording/9c815caf-7d9a-4cef-838a-d8a82538a2fd](https://musicbrainz.org/recording/9c815caf-7d9a-4cef-838a-d8a82538a2fd) | Der Freischütz: III. Akt. No. 11 Entr’acte         |
-| [https://musicbrainz.org/recording/e3d0f585-a770-4526-8227-2e3eb18c1ba0](https://musicbrainz.org/recording/e3d0f585-a770-4526-8227-2e3eb18c1ba0) | Der Freischütz: III. Akt, VI. Auftritt. “Wer legt  |
-| [https://musicbrainz.org/recording/48bcd019-9a71-4df0-9c36-77f87cebf37d](https://musicbrainz.org/recording/48bcd019-9a71-4df0-9c36-77f87cebf37d) | La traviata: Atto I. “È strano… Ah, fors’è lui” (V |
-| [https://musicbrainz.org/recording/59a254ff-2f16-44c5-a05f-005c74129be6](https://musicbrainz.org/recording/59a254ff-2f16-44c5-a05f-005c74129be6) | Ritter Pázmán: Csárdás                             |
-| [https://musicbrainz.org/recording/4d87f5d0-441b-4335-aa3c-a4b4dbe9cbc8](https://musicbrainz.org/recording/4d87f5d0-441b-4335-aa3c-a4b4dbe9cbc8) | The Blue Danube (Waltz), Op. 314                   |
-| [https://musicbrainz.org/recording/b4e6edad-6c94-4776-ab11-c3248fb3dc24](https://musicbrainz.org/recording/b4e6edad-6c94-4776-ab11-c3248fb3dc24) | Tristan und Isolde: Act III: "Mild und leise vie e |
-| [https://musicbrainz.org/recording/ae62249f-3a3c-4502-9d78-adf7cb3ffeda](https://musicbrainz.org/recording/ae62249f-3a3c-4502-9d78-adf7cb3ffeda) | Symphony no. 4 in B-flat, op. 60: I. Adagio - Alle |
-| [https://musicbrainz.org/recording/8a84cd30-e774-4b91-b12c-e57b495a4881](https://musicbrainz.org/recording/8a84cd30-e774-4b91-b12c-e57b495a4881) | Symphony no. 4 in B-flat, op. 60: II. Adagio       |
-| [https://musicbrainz.org/recording/853e6a22-25d2-4147-a490-963a1bdb4c2b](https://musicbrainz.org/recording/853e6a22-25d2-4147-a490-963a1bdb4c2b) | Symphony no. 4 in B-flat, op. 60: III. Allegro viv |
-| [https://musicbrainz.org/recording/e115f6c3-2e1a-4d96-bada-ae753611cb38](https://musicbrainz.org/recording/e115f6c3-2e1a-4d96-bada-ae753611cb38) | Symphony no. 4 in B-flat, op. 60: IV. Allegro ma n |
-| [https://musicbrainz.org/recording/71eb4665-3b4b-4796-8d21-3a86ddeafe20](https://musicbrainz.org/recording/71eb4665-3b4b-4796-8d21-3a86ddeafe20) | Symphony no. 7 in A, op. 92: I. Poco sostenuto - V |
-| [https://musicbrainz.org/recording/7dfac67d-8dd7-484c-9634-27973ee81c0c](https://musicbrainz.org/recording/7dfac67d-8dd7-484c-9634-27973ee81c0c) | Symphony no. 7 in A, op. 92: II. Allegretto        |
-| [https://musicbrainz.org/recording/481829ca-e51f-430f-9691-71ec928ec363](https://musicbrainz.org/recording/481829ca-e51f-430f-9691-71ec928ec363) | Symphony no. 7 in A, op. 92: IV. Allegro con brio  |
-| [https://musicbrainz.org/recording/75fcf919-101b-4f41-a71b-3eed5af3c82f](https://musicbrainz.org/recording/75fcf919-101b-4f41-a71b-3eed5af3c82f) | Symphony no. 7 in A, op. 92: III. Presto - Assai m |
-| [https://musicbrainz.org/recording/2c456f61-0350-45f9-93e6-372821023f0b](https://musicbrainz.org/recording/2c456f61-0350-45f9-93e6-372821023f0b) | Die Dreigroschenoper: Die Moritat von Mackie Messe |
-| [https://musicbrainz.org/recording/48f82d71-50ff-4c39-b909-5bc03debad7b](https://musicbrainz.org/recording/48f82d71-50ff-4c39-b909-5bc03debad7b) | Fidelio, Act I, No. 5: Terzett: Gut, Söhnchen, gut |
-| [https://musicbrainz.org/recording/e9fd3da2-de31-401c-b487-763a9474861e](https://musicbrainz.org/recording/e9fd3da2-de31-401c-b487-763a9474861e) | Fidelio, Act II: III. Nur hurtig fort              |
-| [https://musicbrainz.org/recording/316086d5-b9dc-45e5-bb0e-2e73d94be767](https://musicbrainz.org/recording/316086d5-b9dc-45e5-bb0e-2e73d94be767) | Fidelio, Act II: IV. Er erwacht!                   |
-| [https://musicbrainz.org/recording/a66ca481-f0f2-4122-99ae-c730860fe802](https://musicbrainz.org/recording/a66ca481-f0f2-4122-99ae-c730860fe802) | Le Vaisseau fantôme: Johohoe! Traft ihr das Schiff |
-| [https://musicbrainz.org/recording/ee9d4fc6-e55d-4328-b932-382221e5e7aa](https://musicbrainz.org/recording/ee9d4fc6-e55d-4328-b932-382221e5e7aa) | Don Giovanni : Madamina il catalogo è questo (Lepo |
-| [https://musicbrainz.org/recording/e8ea35b1-73dd-4708-ad41-a5d3ecb72c44](https://musicbrainz.org/recording/e8ea35b1-73dd-4708-ad41-a5d3ecb72c44) | Kleine Dreigroschenmusik: I. Ouvertüre             |
-| [https://musicbrainz.org/recording/e07c3da4-bf16-46c0-868e-a900d86864e8](https://musicbrainz.org/recording/e07c3da4-bf16-46c0-868e-a900d86864e8) | Kleine Dreigroschenmusik: II. Die Moritat von Mack |
-| [https://musicbrainz.org/recording/38a2ba15-5a99-4645-9ff5-1771dbb366a6](https://musicbrainz.org/recording/38a2ba15-5a99-4645-9ff5-1771dbb366a6) | Kleine Dreigroschenmusik: III. Die Ballade vom ang |
-| [https://musicbrainz.org/recording/b2925ff4-ea34-453b-bc41-8d072a61354a](https://musicbrainz.org/recording/b2925ff4-ea34-453b-bc41-8d072a61354a) | Kleine Dreigroschenmusik: IV. Polly's Lied         |
-| [https://musicbrainz.org/recording/0acfde42-c4a9-460b-b9f1-c99e573f4f1d](https://musicbrainz.org/recording/0acfde42-c4a9-460b-b9f1-c99e573f4f1d) | Kleine Dreigroschenmusik: V. Tango-Ballade         |
-| [https://musicbrainz.org/recording/ed4e3c63-714e-4669-851c-bdfdb7e7c605](https://musicbrainz.org/recording/ed4e3c63-714e-4669-851c-bdfdb7e7c605) | Kleine Dreigroschenmusik: VI. Kanonen-Lied         |
-| [https://musicbrainz.org/recording/83504042-ad47-4719-aab6-2d2636436a24](https://musicbrainz.org/recording/83504042-ad47-4719-aab6-2d2636436a24) | Kleine Dreigroschenmusik: VII. Dreigroschen-Finale |
-| [https://musicbrainz.org/recording/a75b2d51-8dfa-4181-8da1-93a4e90e2000](https://musicbrainz.org/recording/a75b2d51-8dfa-4181-8da1-93a4e90e2000) | Kleine Dreigroschenmusik: Moritat (Mack, the Knife |
-| [https://musicbrainz.org/recording/36f0be16-7b41-4f5c-aa0c-f37674bcb7c5](https://musicbrainz.org/recording/36f0be16-7b41-4f5c-aa0c-f37674bcb7c5) | Kleine Dreigroschenmusik: Ballade                  |
-| [https://musicbrainz.org/recording/d54e241b-868c-4507-acca-5251d9aa5909](https://musicbrainz.org/recording/d54e241b-868c-4507-acca-5251d9aa5909) | Kleine Dreigroschenmusik: Tango-Ballade            |
-| [https://musicbrainz.org/recording/7563b63a-7917-450e-8413-cf8b548647c3](https://musicbrainz.org/recording/7563b63a-7917-450e-8413-cf8b548647c3) | Kleine Dreigroschenmusik: Kanonensong              |
-| [https://musicbrainz.org/recording/bac49c91-378f-47a5-a3fd-46502d5caeee](https://musicbrainz.org/recording/bac49c91-378f-47a5-a3fd-46502d5caeee) | Kleine Dreigroschenmusik: Die Moritat von Mackie M |
-| [https://musicbrainz.org/recording/159cdb98-2fbc-472d-bd74-041f8b15d2b8](https://musicbrainz.org/recording/159cdb98-2fbc-472d-bd74-041f8b15d2b8) | Kleine Dreigroschenmusik: Die Ballade vom angenehm |
-| [https://musicbrainz.org/recording/72019db5-e2f9-40f8-b3df-7516edd7827d](https://musicbrainz.org/recording/72019db5-e2f9-40f8-b3df-7516edd7827d) | Kleine Dreigroschenmusik: Tango‐Ballade            |
-| [https://musicbrainz.org/recording/a6a2ab42-afb3-49a5-ac12-f36c616be065](https://musicbrainz.org/recording/a6a2ab42-afb3-49a5-ac12-f36c616be065) | Kleine Dreigroschenmusik: Kanonensong              |
-| [https://musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9](https://musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9) | Fidelio: Mir ist so wunderbar / Komn, Hoffnung     |
-| [https://musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9](https://musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9) | Fidelio: Mir ist so wunderbar / Komn, Hoffnung     |
-| [https://musicbrainz.org/recording/ad52869e-0cd2-43ba-ae0e-7fb2f2352d76](https://musicbrainz.org/recording/ad52869e-0cd2-43ba-ae0e-7fb2f2352d76) | Overture “Leonore” no. 3, op. 72b: Adagio - Allegr |
-| [https://musicbrainz.org/recording/a54bc417-d4ac-44e5-990c-b891cab3f5cb](https://musicbrainz.org/recording/a54bc417-d4ac-44e5-990c-b891cab3f5cb) | Fire-Bringers                                      |
-| [https://musicbrainz.org/recording/7bf75690-9d54-48d9-9671-e32a7ee5c9bc](https://musicbrainz.org/recording/7bf75690-9d54-48d9-9671-e32a7ee5c9bc) | Overture “Coriolan”, op. 62                        |
-| [https://musicbrainz.org/recording/11ed366a-4853-452c-8130-5740a0819d57](https://musicbrainz.org/recording/11ed366a-4853-452c-8130-5740a0819d57) | Overture “Ein Sommernachtstraum”, op. 21           |
-| [https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5](https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5) | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| [https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5](https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5) | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| [https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5](https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5) | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| [https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5](https://musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5) | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| [https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c](https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c) | Symphony no. 1 in C minor, op. 68: II. Andante sos |
-| [https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c](https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c) | Symphony no. 1 in C minor, op. 68: II. Andante sos |
-| [https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c](https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c) | Symphony no. 1 in C minor, op. 68: II. Andante sos |
-| [https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c](https://musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c) | Symphony no. 1 in C minor, op. 68: II. Andante sos |
-| [https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7](https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7) | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| [https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7](https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7) | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| [https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7](https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7) | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| [https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7](https://musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7) | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| [https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051](https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051) | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
-| [https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051](https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051) | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
-| [https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051](https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051) | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
-| [https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051](https://musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051) | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
-| [https://musicbrainz.org/recording/56cf495b-2725-480c-8f41-fdd96180b951](https://musicbrainz.org/recording/56cf495b-2725-480c-8f41-fdd96180b951) | Salome, op. 54: Tanz der sieben Schleier           |
-| [https://musicbrainz.org/recording/5174e75a-90fb-466d-a461-dfce676faa40](https://musicbrainz.org/recording/5174e75a-90fb-466d-a461-dfce676faa40) | Die Meistersinger Akt I: Zu einer Freiung und Zunf |
-| [https://musicbrainz.org/recording/00b5a9db-f8c3-48e0-a16e-f1f9b6cbccf4](https://musicbrainz.org/recording/00b5a9db-f8c3-48e0-a16e-f1f9b6cbccf4) | Die Meistersinger Akt I: Nicht doch, Ihr Meister,  |
-| [https://musicbrainz.org/recording/3032426e-e9ea-4c73-a10f-50dd801177d0](https://musicbrainz.org/recording/3032426e-e9ea-4c73-a10f-50dd801177d0) | Die Meistersinger Akt I: Wohl Meister! Zur Tagesor |
-| [https://musicbrainz.org/recording/bcaad815-4a27-4a58-9407-a56aec61a972](https://musicbrainz.org/recording/bcaad815-4a27-4a58-9407-a56aec61a972) | Die Meistersinger Akt I: Was Euch zum Liede Richt  |
-| [https://musicbrainz.org/recording/c9f5c8d3-97fe-47ba-bae6-33110b14fbac](https://musicbrainz.org/recording/c9f5c8d3-97fe-47ba-bae6-33110b14fbac) | Die Meistersinger von Nürnberg Akt II: Das dacht'  |
-| [https://musicbrainz.org/recording/78bedb5b-ad22-4a44-9c1b-fab4f0814e98](https://musicbrainz.org/recording/78bedb5b-ad22-4a44-9c1b-fab4f0814e98) | Die Meistersinger von Nürnberg Akt II: Hört, ihr L |
-| [https://musicbrainz.org/recording/2b48e713-8533-4a24-b08c-27fc28a63127](https://musicbrainz.org/recording/2b48e713-8533-4a24-b08c-27fc28a63127) | Die Meistersinger von Nürnberg Akt II: Zum Teufel  |
-| [https://musicbrainz.org/recording/107b2fde-c7f2-4e0b-a00f-1d275799697d](https://musicbrainz.org/recording/107b2fde-c7f2-4e0b-a00f-1d275799697d) | Die Meistersinger von Nürnberg Akt III, Bild 1: So |
-| [https://musicbrainz.org/recording/c8c20df9-7f49-41cc-bd94-00426182a92e](https://musicbrainz.org/recording/c8c20df9-7f49-41cc-bd94-00426182a92e) | Die Meistersinger von Nürnberg Akt III, Bild 1: Me |
-| [https://musicbrainz.org/recording/79e17af2-cec8-4d36-8d9b-551cc1eecddc](https://musicbrainz.org/recording/79e17af2-cec8-4d36-8d9b-551cc1eecddc) | Die Meistersinger von Nürnberg Akt III, Bild 1: Se |
-| [https://musicbrainz.org/recording/84c7491c-7d87-482f-bb8b-6c20cb1e6753](https://musicbrainz.org/recording/84c7491c-7d87-482f-bb8b-6c20cb1e6753) | Wesendonk Lieder (Five Poems for Female Voice): "T |
-| [https://musicbrainz.org/recording/37b82e3b-f21b-4bf0-a64f-ede61bf6dcbc](https://musicbrainz.org/recording/37b82e3b-f21b-4bf0-a64f-ede61bf6dcbc) | Tristan und Isolde: 3. Aufzug "Wie kan ich her?"   |
-| [https://musicbrainz.org/recording/c0e97e0c-2087-40d9-9474-f803cf7fa292](https://musicbrainz.org/recording/c0e97e0c-2087-40d9-9474-f803cf7fa292) | Parsifal, WWV 111: Act I. "Vom Bade kehrt der Köni |
-| [https://musicbrainz.org/recording/635f71bc-d5c3-42d6-a3ea-1db981f0d2bc](https://musicbrainz.org/recording/635f71bc-d5c3-42d6-a3ea-1db981f0d2bc) | Parsifal, WWV 111: Act I. Verwandlungsmusik        |
-| [https://musicbrainz.org/recording/e5b557f5-d14f-4077-b8f2-8b4953a89ea3](https://musicbrainz.org/recording/e5b557f5-d14f-4077-b8f2-8b4953a89ea3) | Parsifal, WWV 111: Act I. "Enthüllet den Gral!" (T |
-| [https://musicbrainz.org/recording/3ee42873-8622-4cce-9b1a-6d275df74cb2](https://musicbrainz.org/recording/3ee42873-8622-4cce-9b1a-6d275df74cb2) | Parsifal, WWV 111: Act I. "Wein und Brot des letzt |
-| [https://musicbrainz.org/recording/3f7a0899-82d8-4e39-ba27-cd5cb2bc819e](https://musicbrainz.org/recording/3f7a0899-82d8-4e39-ba27-cd5cb2bc819e) | Parsifal, WWV 111: Act II. "Hier war das Tosen! Hi |
-| [https://musicbrainz.org/recording/02ff7406-8a71-4e08-b69c-869c4d6c355f](https://musicbrainz.org/recording/02ff7406-8a71-4e08-b69c-869c4d6c355f) | Parsifal, WWV 111: Act II. "Komm, komm, holder Kna |
-| [https://musicbrainz.org/recording/02076bbb-54a7-407f-b2d6-4d80b8a266cf](https://musicbrainz.org/recording/02076bbb-54a7-407f-b2d6-4d80b8a266cf) | Parsifal, WWV 111: Act II. "Parsifal! - Weile!" (K |
-| [https://musicbrainz.org/recording/1139e753-4bb7-491f-9be3-98eca26110b1](https://musicbrainz.org/recording/1139e753-4bb7-491f-9be3-98eca26110b1) | Parsifal, WWV 111: Act II. "Parsifal! - Weile!" (P |
-| [https://musicbrainz.org/recording/e2c5404d-7096-44c3-a8cf-5c0e29a0168e](https://musicbrainz.org/recording/e2c5404d-7096-44c3-a8cf-5c0e29a0168e) | Parsifal, WWV 111: Act II. "Ich sah das Kind" (Kun |
-| [https://musicbrainz.org/recording/f9f4b57f-8dfb-47db-9681-761575ffe31b](https://musicbrainz.org/recording/f9f4b57f-8dfb-47db-9681-761575ffe31b) | Parsifal, WWV 111: Act II. "Wehe! Wehe! Was tat ic |
-| [https://musicbrainz.org/recording/d22ab8fa-b44d-4f63-ba8f-17b38c1af814](https://musicbrainz.org/recording/d22ab8fa-b44d-4f63-ba8f-17b38c1af814) | Parsifal, WWV 111: Act II. "Amfortas! Die Wunde!"  |
-| [https://musicbrainz.org/recording/860ec77a-f586-4ad5-a64b-9128dda74d97](https://musicbrainz.org/recording/860ec77a-f586-4ad5-a64b-9128dda74d97) | Siegfried Idyll                                    |
-| [https://musicbrainz.org/recording/59109ecb-caa4-4d55-8c0a-7628f37dd8a8](https://musicbrainz.org/recording/59109ecb-caa4-4d55-8c0a-7628f37dd8a8) | Lohengrin Overture                                 |
-| [https://musicbrainz.org/recording/96f40488-02e2-4db2-9d56-0d3f4230eaea](https://musicbrainz.org/recording/96f40488-02e2-4db2-9d56-0d3f4230eaea) | Parsifal - Prelude                                 |
-| [https://musicbrainz.org/recording/a449478b-fe54-4312-884a-51a0f69ee5bc](https://musicbrainz.org/recording/a449478b-fe54-4312-884a-51a0f69ee5bc) | Tristan und Isolde: Mild und leise (Liebestod)     |
-| [https://musicbrainz.org/recording/2d3f2e50-c88a-499a-8079-bd0abf71fcc0](https://musicbrainz.org/recording/2d3f2e50-c88a-499a-8079-bd0abf71fcc0) | El Sombrero de Tres Picos, G. 53 Part I: Danza de  |
-| [https://musicbrainz.org/recording/100d4b31-d536-4ce8-9ea2-d7d9d4468519](https://musicbrainz.org/recording/100d4b31-d536-4ce8-9ea2-d7d9d4468519) | El Sombrero de Tres Picos, G. 53 Part II: Danza de |
-| [https://musicbrainz.org/recording/fae0e6fa-aff3-4d57-96c5-140459386f45](https://musicbrainz.org/recording/fae0e6fa-aff3-4d57-96c5-140459386f45) | El Sombrero de Tres Picos, G. 53 Part II: Danza de |
-| [https://musicbrainz.org/recording/7e08d079-6a35-41d3-8de0-647060fa428f](https://musicbrainz.org/recording/7e08d079-6a35-41d3-8de0-647060fa428f) | El Sombrero de Tres Picos, G. 53 Part II: Danza Fi |
-| [https://musicbrainz.org/recording/c3566b77-5092-44fc-b5c4-9a9ada2d1efc](https://musicbrainz.org/recording/c3566b77-5092-44fc-b5c4-9a9ada2d1efc) | Harold en Italie, op. 16: II. Marche de Pèlerins,  |
-| [https://musicbrainz.org/recording/b145a3b3-f035-41c3-8ba2-96771a6c8239](https://musicbrainz.org/recording/b145a3b3-f035-41c3-8ba2-96771a6c8239) | The Rite of Spring: L'Adoration de la terre        |
-| [https://musicbrainz.org/recording/7b864389-bc0f-439f-9c42-5024a62ad401](https://musicbrainz.org/recording/7b864389-bc0f-439f-9c42-5024a62ad401) | The Rite of Spring: Le Sacrifice                   |
-| [https://musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c](https://musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c) | Messe in h-Moll, BWV 232: Gloria                   |
-| [https://musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c](https://musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c) | Messe in h-Moll, BWV 232: Gloria                   |
-| [https://musicbrainz.org/recording/b71e3abb-142d-41da-acc2-9a2d74e6bdd8](https://musicbrainz.org/recording/b71e3abb-142d-41da-acc2-9a2d74e6bdd8) | Symphony Nr. 8 in C-moll, WAB 108 (2. rev. 1887-18 |
-| [https://musicbrainz.org/recording/ceb4440a-65ec-4e9c-aad1-d0856e66f11b](https://musicbrainz.org/recording/ceb4440a-65ec-4e9c-aad1-d0856e66f11b) | Symphony Nr. 8 in C-moll, WAB 108 (2. rev. 1887-18 |
-| [https://musicbrainz.org/recording/6712a820-61d5-4bf0-8b28-6ffaaa43ec52](https://musicbrainz.org/recording/6712a820-61d5-4bf0-8b28-6ffaaa43ec52) | Carmen: Je vais dancer en votre honneur            |
-| [https://musicbrainz.org/recording/9b017ad0-05d5-4f6e-bba2-6c3d95ab1583](https://musicbrainz.org/recording/9b017ad0-05d5-4f6e-bba2-6c3d95ab1583) | Madama Butterfly: Act II. Un bel di, vedremo       |
-| [https://musicbrainz.org/recording/cfe3dfbb-9456-4fbf-b75a-6282cbc71c2b](https://musicbrainz.org/recording/cfe3dfbb-9456-4fbf-b75a-6282cbc71c2b) | Turandot: 3. Signore ascolta!...Non piangere, Liù! |
-| [https://musicbrainz.org/recording/a52ca468-a07b-48ad-b86a-696d64267188](https://musicbrainz.org/recording/a52ca468-a07b-48ad-b86a-696d64267188) | Pictures at an Exhibition                          |
-| [https://musicbrainz.org/recording/4604cf57-b6a2-4e58-b8f2-4b5994b51da2](https://musicbrainz.org/recording/4604cf57-b6a2-4e58-b8f2-4b5994b51da2) | Pictures at an Exhibition                          |
-| [https://musicbrainz.org/recording/2290ada8-d8a3-4585-b337-681f9cedff3d](https://musicbrainz.org/recording/2290ada8-d8a3-4585-b337-681f9cedff3d) | Otello: Qua, ragazzi, del vino!... Iaffia l'ugola! |
-| [https://musicbrainz.org/recording/ded82a79-aec6-4069-810d-6e0ea747bab1](https://musicbrainz.org/recording/ded82a79-aec6-4069-810d-6e0ea747bab1) | Otello: E qual certezza sognate voi                |
-| [https://musicbrainz.org/recording/94a444ae-9a41-4e56-a754-240d7c85c571](https://musicbrainz.org/recording/94a444ae-9a41-4e56-a754-240d7c85c571) | Fidelio: Act 1 - Marsch                            |
-| [https://musicbrainz.org/recording/58d01dac-3743-49af-a9f7-a08e5202081b](https://musicbrainz.org/recording/58d01dac-3743-49af-a9f7-a08e5202081b) | Manfred Symphony, op. 58: I. Lento lugubre – Moder |
-| [https://musicbrainz.org/recording/8bb1adcc-4826-42a7-be34-6616bd0c4a61](https://musicbrainz.org/recording/8bb1adcc-4826-42a7-be34-6616bd0c4a61) | Manfred Symphony, op. 58: IV. Allegro con fuoco    |
-| [https://musicbrainz.org/recording/48b8e7e2-a7f3-427c-9da5-d7be66d93d2f](https://musicbrainz.org/recording/48b8e7e2-a7f3-427c-9da5-d7be66d93d2f) | Tod und Verklärung, op. 24                         |
-| [https://musicbrainz.org/recording/00c87388-b30f-4888-9165-51cd83437d65](https://musicbrainz.org/recording/00c87388-b30f-4888-9165-51cd83437d65) | Don Juan, op.20                                    |
-| [https://musicbrainz.org/recording/2b4a3f75-f374-461d-ae8e-4ad9cbe8f275](https://musicbrainz.org/recording/2b4a3f75-f374-461d-ae8e-4ad9cbe8f275) | Don Quixote, op. 35: Einleitung (Mäßiges Zeitmaß): |
-| [https://musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c](https://musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c) | Aida: Atto I, scena 1. “Or di Vulcano al tempio” ( |
-| [https://musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c](https://musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c) | Aida: Atto I, scena 1. “Or di Vulcano al tempio” ( |
-| [https://musicbrainz.org/recording/47f52672-d268-4291-bcf5-86d48eafa711](https://musicbrainz.org/recording/47f52672-d268-4291-bcf5-86d48eafa711) | Luisa Miller: Atto I, scena 1. Sinfonia            |
-| [https://musicbrainz.org/recording/7ba20401-66aa-4089-838d-7d365ab5322b](https://musicbrainz.org/recording/7ba20401-66aa-4089-838d-7d365ab5322b) | Luisa Miller: Atto I, scena 1. Introduzione        |
-| [https://musicbrainz.org/recording/8f274f81-a912-4289-bafc-4948b1d85a63](https://musicbrainz.org/recording/8f274f81-a912-4289-bafc-4948b1d85a63) | Luisa Miller: Atto I, scena 1. “Ti desta, Luisa”   |
-| [https://musicbrainz.org/recording/42db2571-72a6-4389-9a5e-318fc152d8cf](https://musicbrainz.org/recording/42db2571-72a6-4389-9a5e-318fc152d8cf) | Luisa Miller: Atto I, scena 1. “Ecco mia figlia”   |
-| [https://musicbrainz.org/recording/1af2be23-8726-40f4-bc08-56c1e5cac11a](https://musicbrainz.org/recording/1af2be23-8726-40f4-bc08-56c1e5cac11a) | Luisa Miller: Atto I, scena 1. “Lo vidi, e 'l prim |
-| [https://musicbrainz.org/recording/a8377745-9f94-465c-86a9-38d8ec17967f](https://musicbrainz.org/recording/a8377745-9f94-465c-86a9-38d8ec17967f) | Luisa Miller: Atto I, scena 1. “T'amo d'amor”      |
-| [https://musicbrainz.org/recording/2ced2b5c-5f45-4425-a2d9-b685b9f52739](https://musicbrainz.org/recording/2ced2b5c-5f45-4425-a2d9-b685b9f52739) | Luisa Miller: Atto I, scena 1. “Ferma ed ascolta“  |
-| [https://musicbrainz.org/recording/b72c848e-4409-4150-88a0-b931d037743e](https://musicbrainz.org/recording/b72c848e-4409-4150-88a0-b931d037743e) | Luisa Miller: Atto I, scena 1. “Sacra la scelta”   |
-| [https://musicbrainz.org/recording/3de8c7bd-c419-481d-815c-26370eabde51](https://musicbrainz.org/recording/3de8c7bd-c419-481d-815c-26370eabde51) | Luisa Miller: Atto I, scena 1. “Costarti, o vecchi |
-| [https://musicbrainz.org/recording/ab1e8334-1215-4aa0-bdb2-96c681126b9e](https://musicbrainz.org/recording/ab1e8334-1215-4aa0-bdb2-96c681126b9e) | Luisa Miller: Atto I, scena 1. “Ah, fu giusto il m |
-| [https://musicbrainz.org/recording/0cd7f2ec-8726-4fd6-a840-93a6ab81b2e1](https://musicbrainz.org/recording/0cd7f2ec-8726-4fd6-a840-93a6ab81b2e1) | Luisa Miller: Atto I, scena 2. “Che mai narrasti“  |
-| [https://musicbrainz.org/recording/6444c384-3eaa-42ff-9f46-33f71b0d1c3d](https://musicbrainz.org/recording/6444c384-3eaa-42ff-9f46-33f71b0d1c3d) | Luisa Miller: Atto I, scena 2. “Il mio sangue, la  |
-| [https://musicbrainz.org/recording/75ddac68-8a8a-47ae-8b97-f538d2a4ab0b](https://musicbrainz.org/recording/75ddac68-8a8a-47ae-8b97-f538d2a4ab0b) | Luisa Miller: Atto I, scena 2. “Padre, m'abbraccia |
-| [https://musicbrainz.org/recording/e05771f7-14b2-4476-8f37-a96704446ca7](https://musicbrainz.org/recording/e05771f7-14b2-4476-8f37-a96704446ca7) | Luisa Miller: Atto I, scena 2. “Quale un sorriso d |
-| [https://musicbrainz.org/recording/79e15ac6-326c-4704-981c-7ea4993b2c94](https://musicbrainz.org/recording/79e15ac6-326c-4704-981c-7ea4993b2c94) | Luisa Miller: Atto I, scena 2. “Duchessa, dall'aul |
-| [https://musicbrainz.org/recording/bbee67b2-35db-4413-913b-523c0505ec3a](https://musicbrainz.org/recording/bbee67b2-35db-4413-913b-523c0505ec3a) | Luisa Miller: Atto I, scena 3. “Sciogliete i levri |
-| [https://musicbrainz.org/recording/e307c9d8-ba6c-41ad-9a3a-ad67e2c4a16d](https://musicbrainz.org/recording/e307c9d8-ba6c-41ad-9a3a-ad67e2c4a16d) | Luisa Miller: Atto I, scena 3. “Del conte di Walte |
-| [https://musicbrainz.org/recording/8b1c6d0c-f51b-4300-affa-523abb34c4a5](https://musicbrainz.org/recording/8b1c6d0c-f51b-4300-affa-523abb34c4a5) | Luisa Miller: Atto I, scena 3. “Tu, tu, signor”    |
-| [https://musicbrainz.org/recording/e9605cc4-9568-4a83-b76e-982ae7c1992e](https://musicbrainz.org/recording/e9605cc4-9568-4a83-b76e-982ae7c1992e) | Luisa Miller: Atto I, scena 3. “Fra' mortali ancor |
-| [https://musicbrainz.org/recording/23eee596-fdee-4ea3-8d54-947c229dd9f8](https://musicbrainz.org/recording/23eee596-fdee-4ea3-8d54-947c229dd9f8) | Luisa Miller: Atto I, scena 3. “I cenni miei si co |
-| [https://musicbrainz.org/recording/b2136dcc-41a7-457b-8ba8-cbd47e7c99ec](https://musicbrainz.org/recording/b2136dcc-41a7-457b-8ba8-cbd47e7c99ec) | Luisa Miller: Atto II, scena 1. “Ah, Luisa, ove se |
-| [https://musicbrainz.org/recording/1722507a-37ce-4a03-b1c9-846419c31487](https://musicbrainz.org/recording/1722507a-37ce-4a03-b1c9-846419c31487) | Luisa Miller: Atto II, scena 1. “Il padre tuo”     |
-| [https://musicbrainz.org/recording/beea7444-29c6-4e85-b6fe-b6acb72d40ee](https://musicbrainz.org/recording/beea7444-29c6-4e85-b6fe-b6acb72d40ee) | Luisa Miller: Atto II, scena 1. “Tu puniscimi, o s |
-| [https://musicbrainz.org/recording/5f566e2f-f0dc-4ab6-8240-3753d3eba5ef](https://musicbrainz.org/recording/5f566e2f-f0dc-4ab6-8240-3753d3eba5ef) | Luisa Miller: Atto II, scena 1. “Qui nulla s'atten |
-| [https://musicbrainz.org/recording/45efa2a4-c3ce-4834-9ec1-43ae10bc1f93](https://musicbrainz.org/recording/45efa2a4-c3ce-4834-9ec1-43ae10bc1f93) | Luisa Miller: Atto II, scena 1. “A brani, o perfid |
-| [https://musicbrainz.org/recording/e21ee785-de8a-4921-a238-3e9d51f1311c](https://musicbrainz.org/recording/e21ee785-de8a-4921-a238-3e9d51f1311c) | Luisa Miller: Atto II, scena 2. “Egli delira”      |
-| [https://musicbrainz.org/recording/fe4d5f9f-5c16-4e3f-8794-3c8b74cbddd6](https://musicbrainz.org/recording/fe4d5f9f-5c16-4e3f-8794-3c8b74cbddd6) | Luisa Miller: Atto II, scena 2. “L'alto retaggio”  |
-| [https://musicbrainz.org/recording/0abab175-3807-4fa3-a256-3b20ddf0776f](https://musicbrainz.org/recording/0abab175-3807-4fa3-a256-3b20ddf0776f) | Luisa Miller: Atto II, scena 2. “Vien la duchessa” |
-| [https://musicbrainz.org/recording/c9406fe4-6d7a-4277-b98e-c608a329f391](https://musicbrainz.org/recording/c9406fe4-6d7a-4277-b98e-c608a329f391) | Luisa Miller: Atto II, scena 2. “Presentarti alla  |
-| [https://musicbrainz.org/recording/f999a350-7c0b-45e6-9fdb-a9c0a0924cdd](https://musicbrainz.org/recording/f999a350-7c0b-45e6-9fdb-a9c0a0924cdd) | Luisa Miller: Atto II, scena 3. “Il foglio dunque” |
-| [https://musicbrainz.org/recording/401e716f-c9f6-44f7-aafc-a641cd2536fe](https://musicbrainz.org/recording/401e716f-c9f6-44f7-aafc-a641cd2536fe) | Luisa Miller: Atto II, scena 3. “Quando le sere al |
-| [https://musicbrainz.org/recording/a5dc180c-bccb-4c3f-aaee-85bccaa33fdd](https://musicbrainz.org/recording/a5dc180c-bccb-4c3f-aaee-85bccaa33fdd) | Luisa Miller: Atto II, scena 3. “Di me chiedeste”  |
-| [https://musicbrainz.org/recording/9bebb563-1faf-455b-a883-77a5d95fef32](https://musicbrainz.org/recording/9bebb563-1faf-455b-a883-77a5d95fef32) | Luisa Miller: Atto II, scena 3. “L'ara, o l'avello |
-| [https://musicbrainz.org/recording/2034245d-4a9c-41f0-809a-b7a26148decf](https://musicbrainz.org/recording/2034245d-4a9c-41f0-809a-b7a26148decf) | Luisa Miller: Atto III. Coro d'introduzione        |
-| [https://musicbrainz.org/recording/873e78d6-bcd3-42f8-98e0-fd48cea4ad52](https://musicbrainz.org/recording/873e78d6-bcd3-42f8-98e0-fd48cea4ad52) | Luisa Miller: Atto III, scena 1. “O dolce amica”   |
-| [https://musicbrainz.org/recording/aed076d7-9790-4de7-8cf0-002acef1fe9c](https://musicbrainz.org/recording/aed076d7-9790-4de7-8cf0-002acef1fe9c) | Luisa Miller: Atto III, scena 1. “Pallida, mesta s |
-| [https://musicbrainz.org/recording/bda923b0-24b4-4950-abb6-762adb53ede5](https://musicbrainz.org/recording/bda923b0-24b4-4950-abb6-762adb53ede5) | Luisa Miller: Atto III, scena 1. “La tomba è un le |
-| [https://musicbrainz.org/recording/a457494e-0531-44ac-8417-9dd3e0fbd194](https://musicbrainz.org/recording/a457494e-0531-44ac-8417-9dd3e0fbd194) | Luisa Miller: Atto III, scena 1. “Andrem, raminghi |
-| [https://musicbrainz.org/recording/b5b6a9ce-81fe-4593-851d-50b64e329549](https://musicbrainz.org/recording/b5b6a9ce-81fe-4593-851d-50b64e329549) | Luisa Miller: Atto III, scena 2. “Ah, l'ultima pre |
-| [https://musicbrainz.org/recording/834e8482-2fb7-4c70-911d-3facdb967aaf](https://musicbrainz.org/recording/834e8482-2fb7-4c70-911d-3facdb967aaf) | Luisa Miller: Atto III, scena 2. “Piangi, piangi”  |
-| [https://musicbrainz.org/recording/d13c4e6f-6708-4fb7-bc7d-4051e831217a](https://musicbrainz.org/recording/d13c4e6f-6708-4fb7-bc7d-4051e831217a) | Luisa Miller: Atto III, scena 2. “Donna, per noi t |
-| [https://musicbrainz.org/recording/ef7b3946-5c84-466f-8fa5-8719e843201c](https://musicbrainz.org/recording/ef7b3946-5c84-466f-8fa5-8719e843201c) | Luisa Miller: Atto III, scena 2. “Padre, ricevi l' |
-| [https://musicbrainz.org/recording/cd1bcc4b-044d-4af8-993e-be7fc854b4eb](https://musicbrainz.org/recording/cd1bcc4b-044d-4af8-993e-be7fc854b4eb) | Fidelio, op. 72: Act I. No. 9 Recitative and Aria: |
-| [https://musicbrainz.org/recording/ea47dd69-c23a-4959-a7f0-7e75cc361c01](https://musicbrainz.org/recording/ea47dd69-c23a-4959-a7f0-7e75cc361c01) | Symphony in C Major: I. Allegro non troppo, vivace |
-| [https://musicbrainz.org/recording/5451d190-930b-4258-9d12-ff2261c2a954](https://musicbrainz.org/recording/5451d190-930b-4258-9d12-ff2261c2a954) | Symphony in C Major: II. Andante espressivo e sost |
-| [https://musicbrainz.org/recording/e1eb85b0-feb7-473e-8dcf-37865f57de77](https://musicbrainz.org/recording/e1eb85b0-feb7-473e-8dcf-37865f57de77) | Symphony in C Major: III. Allegro spiritoso        |
-| [https://musicbrainz.org/recording/c615f991-e479-427d-a868-861d633b32a3](https://musicbrainz.org/recording/c615f991-e479-427d-a868-861d633b32a3) | Introduction to Act III (from " Ariane Et Barbe Bl |
-| [https://musicbrainz.org/recording/56d921d0-82da-4e80-9ffb-aefdc56bbca9](https://musicbrainz.org/recording/56d921d0-82da-4e80-9ffb-aefdc56bbca9) | Romeo and Juliet Suite no. 1, op. 64a: 7. Tybalt’s |
-| [https://musicbrainz.org/recording/0a9c1237-c937-48e2-a8e8-9c410b0543d5](https://musicbrainz.org/recording/0a9c1237-c937-48e2-a8e8-9c410b0543d5) | Tragic Overture, op. 81                            |
-| [https://musicbrainz.org/recording/0674d5de-36a3-4593-99ca-1cf8fef4e56e](https://musicbrainz.org/recording/0674d5de-36a3-4593-99ca-1cf8fef4e56e) | Messa da requiem: “Ingemisco”                      |
-| [https://musicbrainz.org/recording/29760b90-096f-4188-813a-a1aace59f065](https://musicbrainz.org/recording/29760b90-096f-4188-813a-a1aace59f065) | La traviata: Preludio                              |
-| [https://musicbrainz.org/recording/2a60d0ae-46a3-4cdc-8ba1-bd063c23c9f1](https://musicbrainz.org/recording/2a60d0ae-46a3-4cdc-8ba1-bd063c23c9f1) | La traviata: Atto I. Brindisi “Libiamo ne' lieti c |
-| [https://musicbrainz.org/recording/0a9cd004-3339-4bc6-b48f-647056210021](https://musicbrainz.org/recording/0a9cd004-3339-4bc6-b48f-647056210021) | La traviata: Atto II. “Alfredo!... Voi!... - Sì, a |
-| [https://musicbrainz.org/recording/346da313-11b3-43a4-9c91-9b1d9e9a9535](https://musicbrainz.org/recording/346da313-11b3-43a4-9c91-9b1d9e9a9535) | The Rite of Spring, Part I “Adoration of the Earth |
-| [https://musicbrainz.org/recording/4b391999-a920-4c3f-aee9-5bbff6f9cfa9](https://musicbrainz.org/recording/4b391999-a920-4c3f-aee9-5bbff6f9cfa9) | Water Music Suite no. 2 in D major, HWV 349: XI. M |
-| [https://musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665](https://musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665) | Water Music Suite no. 2 in D major, HWV 349: XII.  |
-| [https://musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665](https://musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665) | Water Music Suite no. 2 in D major, HWV 349: XII.  |
-| [https://musicbrainz.org/recording/69a2e053-5051-4c45-becb-c2fad30b136b](https://musicbrainz.org/recording/69a2e053-5051-4c45-becb-c2fad30b136b) | Water Music Suite no. 3 in G major, HWV 350: XIV.  |
-| [https://musicbrainz.org/recording/d08c4ed6-7784-4ee4-be18-38ea888f65e2](https://musicbrainz.org/recording/d08c4ed6-7784-4ee4-be18-38ea888f65e2) | Water Music Suite no. 3 in G major, HWV 350: XV. R |
-| [https://musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316](https://musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316) | Water Music Suite no. 2 in D major, HWV 349: IX. A |
-| [https://musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316](https://musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316) | Water Music Suite no. 2 in D major, HWV 349: IX. A |
-| [https://musicbrainz.org/recording/9d663a73-1fc5-4995-95b2-7923319c500c](https://musicbrainz.org/recording/9d663a73-1fc5-4995-95b2-7923319c500c) | Water Music Suite no. 3 in G major, HWV 350: XVI.  |
-| [https://musicbrainz.org/recording/8fd43bb5-5c75-4864-90bd-a90751f05b5b](https://musicbrainz.org/recording/8fd43bb5-5c75-4864-90bd-a90751f05b5b) | William Tell (extract)                             |
-| [https://musicbrainz.org/recording/37d8108b-c49c-493a-b858-79d8bf415ead](https://musicbrainz.org/recording/37d8108b-c49c-493a-b858-79d8bf415ead) | Symphony in D minor, op. 48: I. Lento              |
-| [https://musicbrainz.org/recording/83751260-83b8-42db-8828-1329f824e3b1](https://musicbrainz.org/recording/83751260-83b8-42db-8828-1329f824e3b1) | Mefistofele: Ave Signor, Degli Angeli              |
-| [https://musicbrainz.org/recording/ef7c328a-f719-4642-b16f-2adb4f69a575](https://musicbrainz.org/recording/ef7c328a-f719-4642-b16f-2adb4f69a575) | Festive Overture, op. 96                           |
-| [https://musicbrainz.org/recording/13a0a01a-33cf-4f5b-bc4c-aad1e949dc9a](https://musicbrainz.org/recording/13a0a01a-33cf-4f5b-bc4c-aad1e949dc9a) | Ernani: Atto III. "Un patto! Un giuramento! ... Si |
-| [https://musicbrainz.org/recording/0341a555-9823-4851-85d3-72605e04d9c9](https://musicbrainz.org/recording/0341a555-9823-4851-85d3-72605e04d9c9) | Aida: Atto IV, scena 1. Scena del giudizio. "A lui |
-| [https://musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1](https://musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1) | Requiem: Libera me Dies Irae                       |
-| [https://musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1](https://musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1) | Requiem: Libera me Dies Irae                       |
-| [https://musicbrainz.org/recording/b7db9912-fd89-4ede-9d0f-a19c7ae682cd](https://musicbrainz.org/recording/b7db9912-fd89-4ede-9d0f-a19c7ae682cd) | Cavalleria rusticana: “Intanto amici … Viva il vin |
-| [https://musicbrainz.org/recording/55fd0d9b-68b5-4b88-adf6-5b4430aa31cb](https://musicbrainz.org/recording/55fd0d9b-68b5-4b88-adf6-5b4430aa31cb) | Pagliacci: Atto I. “Recitar!...Vesti la giubba”    |
-| [https://musicbrainz.org/recording/037c4669-a982-4e99-a354-a75372c839db](https://musicbrainz.org/recording/037c4669-a982-4e99-a354-a75372c839db) | Ernani: “Mercé diletti amici ... Come rugiada al c |
-| [https://musicbrainz.org/recording/7a78224b-6432-46ae-88a9-d2e3816cf1a8](https://musicbrainz.org/recording/7a78224b-6432-46ae-88a9-d2e3816cf1a8) | La forza del destino: “O tu che in seno agli angel |
-| [https://musicbrainz.org/recording/b1487fdf-e886-4633-b4bb-a1293dd0da27](https://musicbrainz.org/recording/b1487fdf-e886-4633-b4bb-a1293dd0da27) | Un ballo in maschera: Atto I, scena 2. “Su profete |
-| [https://musicbrainz.org/recording/b9c60b9c-f72d-400d-a138-de9d69016236](https://musicbrainz.org/recording/b9c60b9c-f72d-400d-a138-de9d69016236) | Messa Da Requiem, opera: Hostias                   |
-| [https://musicbrainz.org/recording/be23cd26-5982-4aab-bf4b-c923f5d954c1](https://musicbrainz.org/recording/be23cd26-5982-4aab-bf4b-c923f5d954c1) | Cavalleria rusticana: “Mamma, quel vino è generoso |
-| [https://musicbrainz.org/recording/eb7169fc-f658-4f4d-89d8-428a213f118f](https://musicbrainz.org/recording/eb7169fc-f658-4f4d-89d8-428a213f118f) | Di’ tu se fedele                                   |
-| [https://musicbrainz.org/recording/8a00afb8-32e7-4051-978b-21720ee60e6d](https://musicbrainz.org/recording/8a00afb8-32e7-4051-978b-21720ee60e6d) | Ma se m’è forza perderti                           |
-| [https://musicbrainz.org/recording/fb81d711-20ac-4d83-bc8c-a091798baa08](https://musicbrainz.org/recording/fb81d711-20ac-4d83-bc8c-a091798baa08) | O, tu che in seno agli angeli                      |
-| [https://musicbrainz.org/recording/a4fcc850-41b3-4798-87c9-a1e74505349f](https://musicbrainz.org/recording/a4fcc850-41b3-4798-87c9-a1e74505349f) | Rigoletto: Atto I, scena 2. “Soccorso, padre mio.. |
-| [https://musicbrainz.org/recording/18ada081-221b-4dfb-86fb-1beeca7096ee](https://musicbrainz.org/recording/18ada081-221b-4dfb-86fb-1beeca7096ee) | Rigoletto: Atto II. “Parmi veder le lagrime“       |
-| [https://musicbrainz.org/recording/7b128440-63a1-4088-8b7b-52ea634c1815](https://musicbrainz.org/recording/7b128440-63a1-4088-8b7b-52ea634c1815) | Swan Lake - Ballet Suite, op. 20: Scene            |
-| [https://musicbrainz.org/recording/7b9ade50-1448-42ec-8480-f6da708bc692](https://musicbrainz.org/recording/7b9ade50-1448-42ec-8480-f6da708bc692) | Messa in fa maggiore “Di Chimay”: Kyrie: I. Kyrie  |
-| [https://musicbrainz.org/recording/a8d7c914-ffc0-4dcd-bbd6-a6f18260a17d](https://musicbrainz.org/recording/a8d7c914-ffc0-4dcd-bbd6-a6f18260a17d) | Messa in fa maggiore “Di Chimay”: Kyrie: II. Chris |
-| [https://musicbrainz.org/recording/2f3e5223-8c87-47ad-9438-64d0310e9b30](https://musicbrainz.org/recording/2f3e5223-8c87-47ad-9438-64d0310e9b30) | Messa in fa maggiore “Di Chimay”: Kyrie: III. Kyri |
-| [https://musicbrainz.org/recording/400e2ef5-622a-43df-bf4d-9b7abd95689a](https://musicbrainz.org/recording/400e2ef5-622a-43df-bf4d-9b7abd95689a) | Messa in fa maggiore “Di Chimay”: Gloria: I. Glori |
-| [https://musicbrainz.org/recording/4f918bc9-a95a-419a-b24e-25b399da3c5f](https://musicbrainz.org/recording/4f918bc9-a95a-419a-b24e-25b399da3c5f) | Messa in fa maggiore “Di Chimay”: Gloria: II. Laud |
-| [https://musicbrainz.org/recording/8367aeba-fea0-4da0-9212-1df9ba17333e](https://musicbrainz.org/recording/8367aeba-fea0-4da0-9212-1df9ba17333e) | Messa in fa maggiore “Di Chimay”: Gloria: III. Glo |
-| [https://musicbrainz.org/recording/60351199-6f18-43fb-8985-4406a9bdbdba](https://musicbrainz.org/recording/60351199-6f18-43fb-8985-4406a9bdbdba) | Messa in fa maggiore “Di Chimay”: Gloria: IV. Qui  |
-| [https://musicbrainz.org/recording/0973b0d2-d9e2-428c-a5fe-3cee5f22aa1f](https://musicbrainz.org/recording/0973b0d2-d9e2-428c-a5fe-3cee5f22aa1f) | Messa in fa maggiore “Di Chimay”: Gloria: V. In Gl |
-| [https://musicbrainz.org/recording/f0522cb6-46c6-4226-adb7-01a91081280a](https://musicbrainz.org/recording/f0522cb6-46c6-4226-adb7-01a91081280a) | Messa in fa maggiore “Di Chimay”: Credo: I. Credo: |
-| [https://musicbrainz.org/recording/e80322b4-7784-4bd6-989c-ce9aa95b4ecf](https://musicbrainz.org/recording/e80322b4-7784-4bd6-989c-ce9aa95b4ecf) | Messa in fa maggiore “Di Chimay”: Credo: II. Et in |
-| [https://musicbrainz.org/recording/a189c833-8c1d-4c13-bb04-8d39ce7c819c](https://musicbrainz.org/recording/a189c833-8c1d-4c13-bb04-8d39ce7c819c) | Messa in fa maggiore “Di Chimay”: Credo: III. Cruc |
-| [https://musicbrainz.org/recording/0323a57d-f4cc-4885-a5fd-62b93ad2e315](https://musicbrainz.org/recording/0323a57d-f4cc-4885-a5fd-62b93ad2e315) | Messa in fa maggiore “Di Chimay”: Credo: IV. Et re |
-| [https://musicbrainz.org/recording/02b9ed8b-04bd-40a8-8fef-ff6a920b7b08](https://musicbrainz.org/recording/02b9ed8b-04bd-40a8-8fef-ff6a920b7b08) | Messa in fa maggiore “Di Chimay”: Credo: V. Et exp |
-| [https://musicbrainz.org/recording/e2159d28-67d9-4c47-b4de-1dbc03d42a27](https://musicbrainz.org/recording/e2159d28-67d9-4c47-b4de-1dbc03d42a27) | Messa in fa maggiore “Di Chimay”: Credo: VI. Et vi |
-| [https://musicbrainz.org/recording/2a6ce276-bb29-4620-bff8-61cd154f77ba](https://musicbrainz.org/recording/2a6ce276-bb29-4620-bff8-61cd154f77ba) | Messa in fa maggiore “Di Chimay”: Sanctus: Maestos |
-| [https://musicbrainz.org/recording/05dc360d-880b-4847-8621-44d7af563d1f](https://musicbrainz.org/recording/05dc360d-880b-4847-8621-44d7af563d1f) | Messa in fa maggiore “Di Chimay”: Benedictus: Larg |
-| [https://musicbrainz.org/recording/96e249e8-fa90-4156-95ae-607e847b1e5c](https://musicbrainz.org/recording/96e249e8-fa90-4156-95ae-607e847b1e5c) | Messa in fa maggiore “Di Chimay”: Agnus Dei: I. Ag |
-| [https://musicbrainz.org/recording/e6b65a84-3780-4a36-80ba-f715e724dcc7](https://musicbrainz.org/recording/e6b65a84-3780-4a36-80ba-f715e724dcc7) | Messa in fa maggiore “Di Chimay”: Agnus Dei: II. D |
-| [https://musicbrainz.org/recording/82beb7bf-5276-4b10-92b4-6ba8026e26bf](https://musicbrainz.org/recording/82beb7bf-5276-4b10-92b4-6ba8026e26bf) | Aida: Atto IV, scena 1. Scena “L'aborrita rivale a |
-| [https://musicbrainz.org/recording/274ca880-c8eb-4626-99ee-56e44204430b](https://musicbrainz.org/recording/274ca880-c8eb-4626-99ee-56e44204430b) | Les Noces de Figaro: “Non piu andrai”              |
-| [https://musicbrainz.org/recording/1c20b269-d0e0-4fdc-8d94-62ec6ffc7c13](https://musicbrainz.org/recording/1c20b269-d0e0-4fdc-8d94-62ec6ffc7c13) | Les Noces de Figaro: “Dove sono” (Air de la comtes |
-| [https://musicbrainz.org/recording/5192450a-270c-45fc-8ea3-7cc6739ca99a](https://musicbrainz.org/recording/5192450a-270c-45fc-8ea3-7cc6739ca99a) | Concerto for Orchestra (Sz. 116): Giuoco delle cop |
-| [https://musicbrainz.org/recording/dbd6b1f8-e5e9-4fa8-b125-bcb53aa0463a](https://musicbrainz.org/recording/dbd6b1f8-e5e9-4fa8-b125-bcb53aa0463a) | Concerto for Orchestra (Sz. 116): Elegia (Andante  |
-| [https://musicbrainz.org/recording/94dfcc92-7c87-4e01-923e-04bd28770800](https://musicbrainz.org/recording/94dfcc92-7c87-4e01-923e-04bd28770800) | Concerto for Orchestra (Sz. 116): Intermezzo inter |
-| [https://musicbrainz.org/recording/6b02bdb7-c507-45b0-bf50-03b87a0be4c0](https://musicbrainz.org/recording/6b02bdb7-c507-45b0-bf50-03b87a0be4c0) | Concerto for Orchestra (Sz. 116): Finale (Pesante  |
-| [https://musicbrainz.org/recording/9bb6b333-0800-4a22-83ee-e777f1e599a6](https://musicbrainz.org/recording/9bb6b333-0800-4a22-83ee-e777f1e599a6) | Porgy and Bess: Act I, Scene I. Introduction: Jasb |
-| [https://musicbrainz.org/recording/5d663290-1f63-4353-9816-dc4bbbebb109](https://musicbrainz.org/recording/5d663290-1f63-4353-9816-dc4bbbebb109) | Porgy and Bess: Act I, Scene I. "Summertime" (Clar |
-| [https://musicbrainz.org/recording/6e07c61a-d8e9-47e4-b0bc-ac4959ce793f](https://musicbrainz.org/recording/6e07c61a-d8e9-47e4-b0bc-ac4959ce793f) | Porgy and Bess: Act I, Scene I. "Oh, nobody knows  |
-| [https://musicbrainz.org/recording/4060ef81-4543-4426-ae6b-44f150794e99](https://musicbrainz.org/recording/4060ef81-4543-4426-ae6b-44f150794e99) | Porgy and Bess: Act I, Scene I. "Give him to me" - |
-| [https://musicbrainz.org/recording/bb73aecc-e5f3-4b02-bb30-7183033c01f7](https://musicbrainz.org/recording/bb73aecc-e5f3-4b02-bb30-7183033c01f7) | Porgy and Bess: Act I, Scene I. "Here's the ol' cr |
-| [https://musicbrainz.org/recording/8fa26ae7-c4bf-4e47-b0d8-ffab16d8846a](https://musicbrainz.org/recording/8fa26ae7-c4bf-4e47-b0d8-ffab16d8846a) | Porgy and Bess: Act I, Scene I. "Here comes Big Bo |
-| [https://musicbrainz.org/recording/b2896bb5-23a0-49eb-aa4e-48dbd077e209](https://musicbrainz.org/recording/b2896bb5-23a0-49eb-aa4e-48dbd077e209) | Porgy and Bess: Act I, Scene I. "Jesus, he's kille |
-| [https://musicbrainz.org/recording/33eb40ea-921a-4342-bb44-dfac07d5042e](https://musicbrainz.org/recording/33eb40ea-921a-4342-bb44-dfac07d5042e) | Porgy and Bess: Act I, Scene II. "Where is brudder |
-| [https://musicbrainz.org/recording/e73860f1-774d-4e29-a572-cd1dc3364573](https://musicbrainz.org/recording/e73860f1-774d-4e29-a572-cd1dc3364573) | Porgy and Bess: Act I, Scene II. "Overflow, overfl |
-| [https://musicbrainz.org/recording/c7279e9d-96d3-424f-973f-2cfcea70b1f5](https://musicbrainz.org/recording/c7279e9d-96d3-424f-973f-2cfcea70b1f5) | Porgy and Bess: Act I, Scene II. "A saucer-burying |
-| [https://musicbrainz.org/recording/6db1357e-96fd-4f86-a10a-ad78854ff657](https://musicbrainz.org/recording/6db1357e-96fd-4f86-a10a-ad78854ff657) | Porgy and Bess: Act I, Scene II. "My man's gone no |
-| [https://musicbrainz.org/recording/a2f62458-4cf6-4b25-b306-1494c1c0a8fc](https://musicbrainz.org/recording/a2f62458-4cf6-4b25-b306-1494c1c0a8fc) | Porgy and Bess: Act I, Scene II. "How de saucer st |
-| [https://musicbrainz.org/recording/6ef99ac3-02a8-4dbe-b557-e78e619ece7e](https://musicbrainz.org/recording/6ef99ac3-02a8-4dbe-b557-e78e619ece7e) | Porgy and Bess: Act II, Scene I. "Mus' be you mens |
-| [https://musicbrainz.org/recording/4b59da09-3d5b-4a41-bccc-80fbefe7144e](https://musicbrainz.org/recording/4b59da09-3d5b-4a41-bccc-80fbefe7144e) | Porgy and Bess: Act II, Scene I. "Lissen there, wh |
-| [https://musicbrainz.org/recording/c702f38f-a5b9-47ed-b118-b78776124f36](https://musicbrainz.org/recording/c702f38f-a5b9-47ed-b118-b78776124f36) | Porgy and Bess: Act II, Scene I. "Mornin', Lawyer, |
-| [https://musicbrainz.org/recording/c663d180-a21c-4127-9771-e5dd4220c9d1](https://musicbrainz.org/recording/c663d180-a21c-4127-9771-e5dd4220c9d1) | Porgy and Bess: Act II, Scene I. "Buzzard keep on  |
-| [https://musicbrainz.org/recording/e056f541-be7f-4262-8419-0d05bf8b0b6d](https://musicbrainz.org/recording/e056f541-be7f-4262-8419-0d05bf8b0b6d) | Porgy and Bess: Act II, Scene I. "'Lo Bess, goin'  |
-| [https://musicbrainz.org/recording/3764a5a1-414d-4df3-a031-6d669662dc64](https://musicbrainz.org/recording/3764a5a1-414d-4df3-a031-6d669662dc64) | Porgy and Bess: Act II, Scene I. "Honey, we sure g |
-| [https://musicbrainz.org/recording/e4528e4d-8ecc-4f1a-a863-65de56c1fdae](https://musicbrainz.org/recording/e4528e4d-8ecc-4f1a-a863-65de56c1fdae) | Porgy and Bess: Act II, Scene I. "Oh, I can't sit  |
-| [https://musicbrainz.org/recording/25cfde1c-75a0-4849-bcb0-19255002d896](https://musicbrainz.org/recording/25cfde1c-75a0-4849-bcb0-19255002d896) | Porgy and Bess: Act II, Scene II. "I ain't got no  |
-| [https://musicbrainz.org/recording/a47ca169-f4b7-466e-b091-b44b1d3b4be9](https://musicbrainz.org/recording/a47ca169-f4b7-466e-b091-b44b1d3b4be9) | Porgy and Bess: Act II, Scene II. "It ain't necess |
-| [https://musicbrainz.org/recording/71a74429-304c-450f-ae91-b23e191a3955](https://musicbrainz.org/recording/71a74429-304c-450f-ae91-b23e191a3955) | Porgy and Bess: Act II, Scene II. "Crown!" (Bess,  |
-| [https://musicbrainz.org/recording/e83c7856-aa09-4aa9-a3a8-706596566f17](https://musicbrainz.org/recording/e83c7856-aa09-4aa9-a3a8-706596566f17) | Porgy and Bess: Act II, Scene II. "Oh, what you wa |
-| [https://musicbrainz.org/recording/e84965f1-fefd-4b6c-8b26-9732947ace29](https://musicbrainz.org/recording/e84965f1-fefd-4b6c-8b26-9732947ace29) | Porgy and Bess: Act II, Scene III. "Honey, dat's a |
-| [https://musicbrainz.org/recording/6f7b7e15-697f-45a3-a31f-953e1dcb092b](https://musicbrainz.org/recording/6f7b7e15-697f-45a3-a31f-953e1dcb092b) | Porgy and Bess: Act II, Scene III. "Take yo' han's |
-| [https://musicbrainz.org/recording/b44fd8f8-98fe-4847-afe5-d1717eeca255](https://musicbrainz.org/recording/b44fd8f8-98fe-4847-afe5-d1717eeca255) | Porgy and Bess: Act II, Scene III. "Oh, doctor Jes |
-| [https://musicbrainz.org/recording/98e82b92-9878-4477-b677-0e3d775f1f36](https://musicbrainz.org/recording/98e82b92-9878-4477-b677-0e3d775f1f36) | Porgy and Bess: Act II, Scene III. "Oh dey's so fr |
-| [https://musicbrainz.org/recording/6c70ab9e-c2f5-49f7-87a5-48742aa51776](https://musicbrainz.org/recording/6c70ab9e-c2f5-49f7-87a5-48742aa51776) | Porgy and Bess: Act II, Scene III. "Porgy, Porgy,  |
-| [https://musicbrainz.org/recording/103e7b86-f177-425f-a9f7-7019457e8e13](https://musicbrainz.org/recording/103e7b86-f177-425f-a9f7-7019457e8e13) | Porgy and Bess: Act II, Scene III. "I wants to sta |
-| [https://musicbrainz.org/recording/9c66c5e1-3c0c-428f-94ba-795942d69d6e](https://musicbrainz.org/recording/9c66c5e1-3c0c-428f-94ba-795942d69d6e) | Porgy and Bess: Act II, Scene III. "Why you been o |
-| [https://musicbrainz.org/recording/1ab165f9-09df-4d4a-9bcf-a193e92eb961](https://musicbrainz.org/recording/1ab165f9-09df-4d4a-9bcf-a193e92eb961) | Porgy and Bess: Act II, Scene IV. "Oh, Doctor Jesu |
-| [https://musicbrainz.org/recording/53b8ace5-22a6-4a0f-a477-74c9d90f55df](https://musicbrainz.org/recording/53b8ace5-22a6-4a0f-a477-74c9d90f55df) | Porgy and Bess: Act II, Scene IV. "One of dese mor |
-| [https://musicbrainz.org/recording/012d60a9-cf62-41d2-aab1-a1390d70c33b](https://musicbrainz.org/recording/012d60a9-cf62-41d2-aab1-a1390d70c33b) | Porgy and Bess: Act II, Scene IV. "Oh, dere's some |
-| [https://musicbrainz.org/recording/f00b93c9-f71b-4640-963a-e4b6525a8bd8](https://musicbrainz.org/recording/f00b93c9-f71b-4640-963a-e4b6525a8bd8) | Porgy and Bess: Act II, Scene IV. "You is a nice p |
-| [https://musicbrainz.org/recording/f34b18fb-c9fd-404d-a62d-b9bb6f220aee](https://musicbrainz.org/recording/f34b18fb-c9fd-404d-a62d-b9bb6f220aee) | Porgy and Bess: Act II, Scene IV. "A red-headed wo |
-| [https://musicbrainz.org/recording/515c9649-ea43-4558-b572-6ce1ab309f7c](https://musicbrainz.org/recording/515c9649-ea43-4558-b572-6ce1ab309f7c) | Porgy and Bess: Act III, Scene I. "Clara, Clara, d |
-| [https://musicbrainz.org/recording/6aa223fb-4ad2-4b52-8296-f6c19019856b](https://musicbrainz.org/recording/6aa223fb-4ad2-4b52-8296-f6c19019856b) | Porgy and Bess: Act III, Scene I. "Summertime" - P |
-| [https://musicbrainz.org/recording/f1681612-0b00-49ea-8d2f-c1e1ff867e54](https://musicbrainz.org/recording/f1681612-0b00-49ea-8d2f-c1e1ff867e54) | Porgy and Bess: Act III, Scene II. "Wait for us at |
-| [https://musicbrainz.org/recording/3a943f6f-52e1-4921-b20e-2a80c39e3b36](https://musicbrainz.org/recording/3a943f6f-52e1-4921-b20e-2a80c39e3b36) | Porgy and Bess: Act III, Scene II. "Oh, Lawd, what |
-| [https://musicbrainz.org/recording/a60fa7a9-f534-476a-b551-bbed042b6384](https://musicbrainz.org/recording/a60fa7a9-f534-476a-b551-bbed042b6384) | Porgy and Bess: Act III, Scene II. "Listen: there' |
-| [https://musicbrainz.org/recording/29d29370-cefe-4dd6-9163-35e92b187b2c](https://musicbrainz.org/recording/29d29370-cefe-4dd6-9163-35e92b187b2c) | Porgy and Bess: Act III, Scene III. Introduction   |
-| [https://musicbrainz.org/recording/3a6e1b64-7c3b-4f58-8d9d-49a6c03080cd](https://musicbrainz.org/recording/3a6e1b64-7c3b-4f58-8d9d-49a6c03080cd) | Porgy and Bess: Act III, Scene III. "Good mornin', |
-| [https://musicbrainz.org/recording/ffd1a8aa-dc21-47e3-84d6-52b860e0da40](https://musicbrainz.org/recording/ffd1a8aa-dc21-47e3-84d6-52b860e0da40) | Porgy and Bess: Act III, Scene III. "Dem white fol |
-| [https://musicbrainz.org/recording/1fa1e323-4310-4336-9320-f4997005a84c](https://musicbrainz.org/recording/1fa1e323-4310-4336-9320-f4997005a84c) | Porgy and Bess: Act III, Scene III. "Where's Bess? |
-| [https://musicbrainz.org/recording/1976d835-a766-4600-b8b5-406b0eebddcc](https://musicbrainz.org/recording/1976d835-a766-4600-b8b5-406b0eebddcc) | Porgy and Bess: Act III, Scene III. "Bess is gone" |
-| [https://musicbrainz.org/recording/18a2fe49-f5ac-4d1f-a8b8-b82ecc779d50](https://musicbrainz.org/recording/18a2fe49-f5ac-4d1f-a8b8-b82ecc779d50) | Porgy and Bess: Act III, Scene III. "Oh Lawd, I'm  |
-| [https://musicbrainz.org/recording/a52e389e-02cb-49ef-8e1b-3234d1bbb93c](https://musicbrainz.org/recording/a52e389e-02cb-49ef-8e1b-3234d1bbb93c) | Daphnis et Chloé: Première Partie. Les jeunes fill |
-| [https://musicbrainz.org/recording/671c843d-65d4-400b-8c0a-7a17b7c6f4ef](https://musicbrainz.org/recording/671c843d-65d4-400b-8c0a-7a17b7c6f4ef) | Daphnis et Chloé: Première Partie. L'on perçoit de |
-| [https://musicbrainz.org/recording/ee7c0480-576b-4e76-b883-904df3512e56](https://musicbrainz.org/recording/ee7c0480-576b-4e76-b883-904df3512e56) | Daphnis et Chloé: Deuxiéme Partie. Bryaxis veut l' |
-| [https://musicbrainz.org/recording/c9d436aa-283f-4fda-bfe7-6aa187e366e1](https://musicbrainz.org/recording/c9d436aa-283f-4fda-bfe7-6aa187e366e1) | The Planets Suite for Orchestra, op. 32: Neptune,  |
-| [https://musicbrainz.org/recording/fc3a17b7-23da-4ab5-9d3a-8dc398f67ef3](https://musicbrainz.org/recording/fc3a17b7-23da-4ab5-9d3a-8dc398f67ef3) | Éclairs sur l'Au-delà...: I. Apparition du Christ  |
-| [https://musicbrainz.org/recording/730ac63b-5130-43c3-bf90-9c579c60f0e0](https://musicbrainz.org/recording/730ac63b-5130-43c3-bf90-9c579c60f0e0) | Éclairs sur l'Au-delà...: II. La Constellation du  |
-| [https://musicbrainz.org/recording/17a5bb32-4e7b-435e-81fe-272fd4c4cd1f](https://musicbrainz.org/recording/17a5bb32-4e7b-435e-81fe-272fd4c4cd1f) | Éclairs sur l'Au-delà...: III. L'Oiseau-lyre et la |
-| [https://musicbrainz.org/recording/cedb1c60-dbe8-4d5e-a238-2d63f398c52f](https://musicbrainz.org/recording/cedb1c60-dbe8-4d5e-a238-2d63f398c52f) | Éclairs sur l'Au-delà...: IV. Les Élus marqués du  |
-| [https://musicbrainz.org/recording/e8ba859a-397a-4e0c-8372-17694ada4771](https://musicbrainz.org/recording/e8ba859a-397a-4e0c-8372-17694ada4771) | Éclairs sur l'Au-delà...: V. Demeurer dans l'Amour |
-| [https://musicbrainz.org/recording/b1bb47dd-037f-4aa0-aa52-7768e9c7f156](https://musicbrainz.org/recording/b1bb47dd-037f-4aa0-aa52-7768e9c7f156) | Éclairs sur l'Au-delà...: VI. Les Sept Anges aux s |
-| [https://musicbrainz.org/recording/0363834f-d206-4a99-92e5-f0f16f1063a1](https://musicbrainz.org/recording/0363834f-d206-4a99-92e5-f0f16f1063a1) | Éclairs sur l'Au-delà...: VII. Et Dieu essuiera to |
-| [https://musicbrainz.org/recording/4ce69aee-75dd-458c-be3a-e40cd1859570](https://musicbrainz.org/recording/4ce69aee-75dd-458c-be3a-e40cd1859570) | Éclairs sur l'Au-delà...: VIII. Les Étoiles et la  |
-| [https://musicbrainz.org/recording/d5cec65a-876d-45bc-b2f3-3198474080f4](https://musicbrainz.org/recording/d5cec65a-876d-45bc-b2f3-3198474080f4) | Éclairs sur l'Au-delà...: IX. Plusieurs Oiseaux de |
-| [https://musicbrainz.org/recording/5050ff32-d660-4559-a819-7444b7abee16](https://musicbrainz.org/recording/5050ff32-d660-4559-a819-7444b7abee16) | Éclairs sur l'Au-delà...: X. Le Chemin de l'Invisi |
-| [https://musicbrainz.org/recording/29ef3ae0-5070-4067-934c-8f1917301559](https://musicbrainz.org/recording/29ef3ae0-5070-4067-934c-8f1917301559) | Éclairs sur l'Au-delà...: XI. Le Christ, lumière d |
-| [https://musicbrainz.org/recording/ab6fa81a-665f-45c5-9c76-ab075baa4e88](https://musicbrainz.org/recording/ab6fa81a-665f-45c5-9c76-ab075baa4e88) | Love Songs of Hafiz: Desires                       |
-| [https://musicbrainz.org/recording/915c0667-886c-48bf-9eb8-9d918b2b1e84](https://musicbrainz.org/recording/915c0667-886c-48bf-9eb8-9d918b2b1e84) | Love Songs of Hafiz: The Infatuated East Wind      |
-| [https://musicbrainz.org/recording/37915689-94d0-4830-b819-4d9d38afb52f](https://musicbrainz.org/recording/37915689-94d0-4830-b819-4d9d38afb52f) | Love Songs of Hafiz: Dance                         |
-| [https://musicbrainz.org/recording/b0e39fde-1021-430d-b1c8-e80888861a74](https://musicbrainz.org/recording/b0e39fde-1021-430d-b1c8-e80888861a74) | Love Songs of Hafiz: Pearls of My soul             |
-| [https://musicbrainz.org/recording/9a5a8025-33d6-4d60-bf35-1df96785236f](https://musicbrainz.org/recording/9a5a8025-33d6-4d60-bf35-1df96785236f) | Love Songs of Hafiz: Eternal Youth                 |
-| [https://musicbrainz.org/recording/5b23897d-a938-4b95-8c18-f71e01f8e96d](https://musicbrainz.org/recording/5b23897d-a938-4b95-8c18-f71e01f8e96d) | Love Songs of Hafiz: Your Voice                    |
-| [https://musicbrainz.org/recording/fbbeee68-abe7-435b-a41d-8ead02af3846](https://musicbrainz.org/recording/fbbeee68-abe7-435b-a41d-8ead02af3846) | Love Songs of Hafiz: Drinking Song                 |
-| [https://musicbrainz.org/recording/019f59bf-38f5-4b83-aced-4cf67ee435cd](https://musicbrainz.org/recording/019f59bf-38f5-4b83-aced-4cf67ee435cd) | Love Songs of Hafiz: Hafiz' Grave                  |
-| [https://musicbrainz.org/recording/4f8f2e80-3e93-43b6-b979-d9a08270a500](https://musicbrainz.org/recording/4f8f2e80-3e93-43b6-b979-d9a08270a500) | Glagolitic Mass: VII. Organ solo (Postlude)        |
-| [https://musicbrainz.org/recording/5c7cf15f-94c4-425e-9422-92894a2ccce3](https://musicbrainz.org/recording/5c7cf15f-94c4-425e-9422-92894a2ccce3) | Glagolitic Mass: VIII. Intrada                     |
-| [https://musicbrainz.org/recording/a22bae13-7b50-4c7f-aed3-599e9aa38212](https://musicbrainz.org/recording/a22bae13-7b50-4c7f-aed3-599e9aa38212) | La mort de Cléopâtre: I. Scène lyrique             |
-| [https://musicbrainz.org/recording/364e5198-8195-4801-bc2e-ead6c87433ab](https://musicbrainz.org/recording/364e5198-8195-4801-bc2e-ead6c87433ab) | La mort de Cléopâtre: II. Méditation               |
-| [https://musicbrainz.org/recording/c2232c77-ef97-442f-a027-f3c7f1b30f5e](https://musicbrainz.org/recording/c2232c77-ef97-442f-a027-f3c7f1b30f5e) | Erwartung, op. 17: 1. Szene "Hier hinein? Man sieh |
-| [https://musicbrainz.org/recording/74ed1338-c2b6-4dec-9c0f-67b278dcca09](https://musicbrainz.org/recording/74ed1338-c2b6-4dec-9c0f-67b278dcca09) | Erwartung, op. 17: 2. Szene "1st das noch der Weg? |
-| [https://musicbrainz.org/recording/c03ee3be-041b-4d54-b830-e4ab1f615750](https://musicbrainz.org/recording/c03ee3be-041b-4d54-b830-e4ab1f615750) | Erwartung, op. 17: 3. Szene "Da kommt ein Licht!"  |
-| [https://musicbrainz.org/recording/446f182b-5e3e-4a3a-b9f3-00b5aae32db3](https://musicbrainz.org/recording/446f182b-5e3e-4a3a-b9f3-00b5aae32db3) | Der Abschied (Das Lied von der Erde - 6th movement |
-| [https://musicbrainz.org/recording/91ada88a-553b-41bc-bedc-dbcc9d6b6b80](https://musicbrainz.org/recording/91ada88a-553b-41bc-bedc-dbcc9d6b6b80) | War Requiem, op. 66: I. Requiem aeternam. "Requiem |
-| [https://musicbrainz.org/recording/818bc55a-ccb3-48b8-9876-b1ae62580448](https://musicbrainz.org/recording/818bc55a-ccb3-48b8-9876-b1ae62580448) | Shéhérazade: Asie                                  |
-| [https://musicbrainz.org/recording/749a59bb-b2ce-4f3e-ba4f-0bb76f386651](https://musicbrainz.org/recording/749a59bb-b2ce-4f3e-ba4f-0bb76f386651) | Shéhérazade: La Flûte enchantée                    |
-| [https://musicbrainz.org/recording/b9896265-7c26-431b-b6b9-2acb6a78cb92](https://musicbrainz.org/recording/b9896265-7c26-431b-b6b9-2acb6a78cb92) | Shéhérazade: L'Indifférent                         |
-| [https://musicbrainz.org/recording/5f64927d-3b24-4860-80d6-6664dd8abfc8](https://musicbrainz.org/recording/5f64927d-3b24-4860-80d6-6664dd8abfc8) | Fidelio: Act I, no. 2. Rezitativ - Marzelline, ist |
-| [https://musicbrainz.org/recording/db32c860-acf0-4ae6-9b78-175b1b1aa3a7](https://musicbrainz.org/recording/db32c860-acf0-4ae6-9b78-175b1b1aa3a7) | Fidelio: Act I, no. 9. Rezitativ - Meister Rocco,  |
-| [https://musicbrainz.org/recording/ca294bf6-769b-4185-9c4c-8f3867384dd3](https://musicbrainz.org/recording/ca294bf6-769b-4185-9c4c-8f3867384dd3) | Rhapsody on a Theme of Paganini, op. 43: Introduct |
-| [https://musicbrainz.org/recording/587db2a9-f24c-4723-8ce6-e9dbfc73dd49](https://musicbrainz.org/recording/587db2a9-f24c-4723-8ce6-e9dbfc73dd49) | Turangalîla-Symphonie: V. Joie du sang des étoiles |
-| [https://musicbrainz.org/recording/15e0325d-17e8-496f-8d61-0eb4282195a6](https://musicbrainz.org/recording/15e0325d-17e8-496f-8d61-0eb4282195a6) | Symphony no. 9 in D minor, op. 125: II. Molto viva |
-| [https://musicbrainz.org/recording/4ed2b301-f4ca-4612-b473-61152b00bd5b](https://musicbrainz.org/recording/4ed2b301-f4ca-4612-b473-61152b00bd5b) | I. Introduction: Representation of Chaos: Largo    |
-| [https://musicbrainz.org/recording/cd4a3b06-6345-444d-ae10-6053f6a1a61d](https://musicbrainz.org/recording/cd4a3b06-6345-444d-ae10-6053f6a1a61d) | II. The Earthquake: Presto e con tutta la forza    |
-| [https://musicbrainz.org/recording/4a149c7b-312f-46b8-b37f-b627a67454be](https://musicbrainz.org/recording/4a149c7b-312f-46b8-b37f-b627a67454be) | VIII. Introduction to Winter (Original Version)    |
-| [https://musicbrainz.org/recording/e2e46298-e829-4fb5-af12-bc7d00081006](https://musicbrainz.org/recording/e2e46298-e829-4fb5-af12-bc7d00081006) | Wonderful Town: No. 1, Overture                    |
-| [https://musicbrainz.org/recording/8f4b33ef-5f9f-4b72-acfa-dfae98caec27](https://musicbrainz.org/recording/8f4b33ef-5f9f-4b72-acfa-dfae98caec27) | Wonderful Town, Act I: No. 2. Christopher Street   |
-| [https://musicbrainz.org/recording/6c23fc0f-7065-4ad0-a1e2-09d47fb79d86](https://musicbrainz.org/recording/6c23fc0f-7065-4ad0-a1e2-09d47fb79d86) | Wonderful Town, Act I: No. 3. Ohio                 |
-| [https://musicbrainz.org/recording/28747906-f8ac-4982-86f5-7497e643a782](https://musicbrainz.org/recording/28747906-f8ac-4982-86f5-7497e643a782) | Wonderful Town, Act I: No. 4. Conquering New York  |
-| [https://musicbrainz.org/recording/0d3d4faf-6970-4e16-9d1d-a929a5504100](https://musicbrainz.org/recording/0d3d4faf-6970-4e16-9d1d-a929a5504100) | Wonderful Town, Act I: No. 5. One Hundred Easy Way |
-| [https://musicbrainz.org/recording/538b9d27-9312-4792-ac62-3378aae37648](https://musicbrainz.org/recording/538b9d27-9312-4792-ac62-3378aae37648) | Wonderful Town, Act I: No. 6. What a Waste         |
-| [https://musicbrainz.org/recording/ad2b2b0d-d7b1-41ac-8821-dbbea587e524](https://musicbrainz.org/recording/ad2b2b0d-d7b1-41ac-8821-dbbea587e524) | Wonderful Town, Act I: No. 8. A Little Bit in Love |
-| [https://musicbrainz.org/recording/cd2b589a-a36a-49d8-81f9-39532155fc8f](https://musicbrainz.org/recording/cd2b589a-a36a-49d8-81f9-39532155fc8f) | Wonderful Town, Act I: No. 9. Pass the Football    |
-| [https://musicbrainz.org/recording/5b245e9f-6e48-4ed5-a5ea-68a0780fb0a8](https://musicbrainz.org/recording/5b245e9f-6e48-4ed5-a5ea-68a0780fb0a8) | Wonderful Town, Act I: No. 10. Conversation Piece  |
-| [https://musicbrainz.org/recording/b16cab95-7a37-4323-a148-0abf3df18a8a](https://musicbrainz.org/recording/b16cab95-7a37-4323-a148-0abf3df18a8a) | Wonderful Town, Act I: No. 11. A Quiet Girl        |
-| [https://musicbrainz.org/recording/62b3c1ad-c1af-439d-bbb9-0fabbb9af94a](https://musicbrainz.org/recording/62b3c1ad-c1af-439d-bbb9-0fabbb9af94a) | Wonderful Town, Act I: No. 12. Conga!              |
-| [https://musicbrainz.org/recording/2c162b8d-9420-4e9d-82d9-02d37c67179d](https://musicbrainz.org/recording/2c162b8d-9420-4e9d-82d9-02d37c67179d) | Wonderful Town: No. 13: Entr'acte                  |
-| [https://musicbrainz.org/recording/4b555708-7340-4ef5-8a09-db2ea5ecf06a](https://musicbrainz.org/recording/4b555708-7340-4ef5-8a09-db2ea5ecf06a) | Wonderful Town, Act II: No. 14. My Darlin' Eileen  |
-| [https://musicbrainz.org/recording/c342ff16-9c96-4d9c-a78c-48c598e5349a](https://musicbrainz.org/recording/c342ff16-9c96-4d9c-a78c-48c598e5349a) | Wonderful Town, Act II: No. 15. Swing!             |
-| [https://musicbrainz.org/recording/f66c41ef-7cb1-4557-b306-195399f0c974](https://musicbrainz.org/recording/f66c41ef-7cb1-4557-b306-195399f0c974) | Wonderful Town, Act II: No. 16. Quiet Incidental   |
-| [https://musicbrainz.org/recording/c10f0607-906b-48fb-8be1-76362287953f](https://musicbrainz.org/recording/c10f0607-906b-48fb-8be1-76362287953f) | Wonderful Town, Act II: No. 16a. Ohio (Reprise)    |
-| [https://musicbrainz.org/recording/da4d1269-4a57-49eb-89fc-dcf9002d03e7](https://musicbrainz.org/recording/da4d1269-4a57-49eb-89fc-dcf9002d03e7) | Wonderful Town, Act II: No. 17. It's Love          |
-| [https://musicbrainz.org/recording/e2dd4568-ab01-4f0e-b67d-a3b3164493da](https://musicbrainz.org/recording/e2dd4568-ab01-4f0e-b67d-a3b3164493da) | Wonderful Town, Act II: No. 18. Ballet at the Vill |
-| [https://musicbrainz.org/recording/54b6a812-af98-41f1-92e2-e494ecd38597](https://musicbrainz.org/recording/54b6a812-af98-41f1-92e2-e494ecd38597) | Wonderful Town, Act II: No. 19. Wrong Note Rag     |
-| [https://musicbrainz.org/recording/6fab2776-a466-4ec8-9049-5749087152b3](https://musicbrainz.org/recording/6fab2776-a466-4ec8-9049-5749087152b3) | Wonderful Town, Act II: No. 19a. It's Love (Repris |
-| [https://musicbrainz.org/recording/2a6f20a1-04e3-495d-9c55-f3d79c37dc14](https://musicbrainz.org/recording/2a6f20a1-04e3-495d-9c55-f3d79c37dc14) | Wonderful Town, Act I: No. 12. Conga! (Audience Pa |
-| [https://musicbrainz.org/recording/fa08d14d-792b-4677-9561-b0d24c854ffa](https://musicbrainz.org/recording/fa08d14d-792b-4677-9561-b0d24c854ffa) | Liebeslieder-Walzer, op. 52: Rede, Mädchen, allzu  |
-| [https://musicbrainz.org/recording/2549bd8f-12dc-4c5c-a173-3f80b83e3e63](https://musicbrainz.org/recording/2549bd8f-12dc-4c5c-a173-3f80b83e3e63) | Liebeslieder-Walzer, op. 52: Am Gesteine rauscht d |
-| [https://musicbrainz.org/recording/bd20d1f1-2f93-4580-953a-b91c2f99148f](https://musicbrainz.org/recording/bd20d1f1-2f93-4580-953a-b91c2f99148f) | Liebeslieder-Walzer, op. 52: O die Frauen          |
-| [https://musicbrainz.org/recording/04b91740-c8cc-442f-8889-a4160a11b66b](https://musicbrainz.org/recording/04b91740-c8cc-442f-8889-a4160a11b66b) | Liebeslieder-Walzer, op. 52: Wie des Abends schöne |
-| [https://musicbrainz.org/recording/d433ca78-f110-44b5-8efc-e680044f7bd9](https://musicbrainz.org/recording/d433ca78-f110-44b5-8efc-e680044f7bd9) | Liebeslieder-Walzer, op. 52: Die grüne Hopfenranke |
-| [https://musicbrainz.org/recording/9fb60204-6a7d-4143-89ac-84d503582582](https://musicbrainz.org/recording/9fb60204-6a7d-4143-89ac-84d503582582) | Liebeslieder-Walzer, op. 52: Ein kleiner, hübscher |
-| [https://musicbrainz.org/recording/27cdbbb0-7291-4f58-a41f-b4039e8b5942](https://musicbrainz.org/recording/27cdbbb0-7291-4f58-a41f-b4039e8b5942) | Liebeslieder-Walzer, op. 52: Wohl schön bewandt wa |
-| [https://musicbrainz.org/recording/70787630-3a25-4a12-812f-f49853425dab](https://musicbrainz.org/recording/70787630-3a25-4a12-812f-f49853425dab) | Liebeslieder-Walzer, op. 52: Wenn so lind dein Aug |
-| [https://musicbrainz.org/recording/354e309a-bfe7-45c0-ab6f-f45bcfb8e302](https://musicbrainz.org/recording/354e309a-bfe7-45c0-ab6f-f45bcfb8e302) | Liebeslieder-Walzer, op. 52: Am Donaustrande       |
-| [https://musicbrainz.org/recording/ffe3cba6-109e-48b1-8645-33e583863730](https://musicbrainz.org/recording/ffe3cba6-109e-48b1-8645-33e583863730) | Liebeslieder-Walzer, op. 52: O wie sanft die Quell |
-| [https://musicbrainz.org/recording/ab448950-11c1-457d-9cfb-f9233c0545da](https://musicbrainz.org/recording/ab448950-11c1-457d-9cfb-f9233c0545da) | Liebeslieder-Walzer, op. 52: Nein, es ist nicht au |
-| [https://musicbrainz.org/recording/5f9cd4a0-0311-40b5-92ba-b316a2893700](https://musicbrainz.org/recording/5f9cd4a0-0311-40b5-92ba-b316a2893700) | Liebeslieder-Walzer, op. 52: Schlosser auf         |
-| [https://musicbrainz.org/recording/364c01d3-fa6e-4210-8fd1-74a3a8898469](https://musicbrainz.org/recording/364c01d3-fa6e-4210-8fd1-74a3a8898469) | Liebeslieder-Walzer, op. 52: Vögelein durchrauscht |
-| [https://musicbrainz.org/recording/705afcc3-a49c-446d-88c3-aa91e4865937](https://musicbrainz.org/recording/705afcc3-a49c-446d-88c3-aa91e4865937) | Liebeslieder-Walzer, op. 52: Sieh, wie ist die Wel |
-| [https://musicbrainz.org/recording/fe61d741-b9fd-43ee-9d36-28abd887ec02](https://musicbrainz.org/recording/fe61d741-b9fd-43ee-9d36-28abd887ec02) | Liebeslieder-Walzer, op. 52: Nachtigall, sie singt |
-| [https://musicbrainz.org/recording/8247b63f-813d-4784-a576-bc7a33f1b5f7](https://musicbrainz.org/recording/8247b63f-813d-4784-a576-bc7a33f1b5f7) | Liebeslieder-Walzer, op. 52: Ein dunkeler Schacht  |
-| [https://musicbrainz.org/recording/055fa6c8-dbea-4a43-a4ee-064001264522](https://musicbrainz.org/recording/055fa6c8-dbea-4a43-a4ee-064001264522) | Liebeslieder-Walzer, op. 52: Nicht wandle, mein Li |
-| [https://musicbrainz.org/recording/858d80b1-bd20-4f9d-920e-6ac5607ae787](https://musicbrainz.org/recording/858d80b1-bd20-4f9d-920e-6ac5607ae787) | Liebeslieder-Walzer, op. 52: Es bebt das Gesträuch |
-| [https://musicbrainz.org/recording/92c34525-ee4a-4af6-96f0-036e2026be57](https://musicbrainz.org/recording/92c34525-ee4a-4af6-96f0-036e2026be57) | Gesang der Parzen, op. 89: Song of the Fates       |
-| [https://musicbrainz.org/recording/e83727a6-4569-4f40-97b8-97b7b4853ce5](https://musicbrainz.org/recording/e83727a6-4569-4f40-97b8-97b7b4853ce5) | Passacaglia & Fugue in C minor                     |
-| [https://musicbrainz.org/recording/1659bf87-1891-4097-ad25-2d9b34972291](https://musicbrainz.org/recording/1659bf87-1891-4097-ad25-2d9b34972291) | Pétrouchka: Tableau I : Fête populaire de la semai |
-| [https://musicbrainz.org/recording/cec2e159-45d8-43d2-afd8-77e528eb22dc](https://musicbrainz.org/recording/cec2e159-45d8-43d2-afd8-77e528eb22dc) | Pétrouchka: Tableau I : Fête populaire de la semai |
-| [https://musicbrainz.org/recording/c4bfda6f-5fbf-4b3f-b686-075fb5d079dd](https://musicbrainz.org/recording/c4bfda6f-5fbf-4b3f-b686-075fb5d079dd) | Pétrouchka: Tableau I : Fête populaire de la semai |
-| [https://musicbrainz.org/recording/af62d908-2fa9-4161-aad1-00135559a8c4](https://musicbrainz.org/recording/af62d908-2fa9-4161-aad1-00135559a8c4) | Lohengrin: Prelude Act I                           |
-| [https://musicbrainz.org/recording/f2d6008c-da5e-4517-b8f8-f9dd375634fe](https://musicbrainz.org/recording/f2d6008c-da5e-4517-b8f8-f9dd375634fe) | Lohengrin: Prelude Act III                         |
-| [https://musicbrainz.org/recording/cbd69699-d940-4569-84f6-364e7dd31419](https://musicbrainz.org/recording/cbd69699-d940-4569-84f6-364e7dd31419) | Aida: Preludio                                     |
-| [https://musicbrainz.org/recording/1c4a966a-494c-4dac-bb71-dd64c8e08a5f](https://musicbrainz.org/recording/1c4a966a-494c-4dac-bb71-dd64c8e08a5f) | Aida: Atto I, scena 1. “Si, corre voce che l'Etiop |
-| [https://musicbrainz.org/recording/58ff9519-7795-45b1-962d-16ad660c007a](https://musicbrainz.org/recording/58ff9519-7795-45b1-962d-16ad660c007a) | Aida: Atto I, scena 1. Romanza “Se quel guerrier i |
-| [https://musicbrainz.org/recording/033c517a-b5e4-42e2-b8c5-2575b06c5db9](https://musicbrainz.org/recording/033c517a-b5e4-42e2-b8c5-2575b06c5db9) | Aida: Atto I, scena 1. “Quale insolita gioia nel t |
-| [https://musicbrainz.org/recording/08a99c58-52c3-4198-98c4-78d8b7d63182](https://musicbrainz.org/recording/08a99c58-52c3-4198-98c4-78d8b7d63182) | Aida: Atto I, scena 1. “Dessa!” (Radamès, Amneris) |
-| [https://musicbrainz.org/recording/f0e4e302-4133-4e7e-9069-d350d90868ee](https://musicbrainz.org/recording/f0e4e302-4133-4e7e-9069-d350d90868ee) | Aida: Atto I: Ohimé! Di guerre fremere             |
-| [https://musicbrainz.org/recording/e38e943c-2b3e-4983-a86c-6d416e139c16](https://musicbrainz.org/recording/e38e943c-2b3e-4983-a86c-6d416e139c16) | Aida: Atto I, scena 1. “Alta cagion v'aduna” (Mess |
-| [https://musicbrainz.org/recording/15ece3a6-31dc-49aa-9459-c4fac2244db2](https://musicbrainz.org/recording/15ece3a6-31dc-49aa-9459-c4fac2244db2) | Aida: Atto I, scena 1. “Il sacro suolo dell'Egitto |
-| [https://musicbrainz.org/recording/d40c0a63-f5a4-48fb-b434-7ddedd10d1a4](https://musicbrainz.org/recording/d40c0a63-f5a4-48fb-b434-7ddedd10d1a4) | Aida: Atto I, scena 1. Scena e pezzo d’assieme “Su |
-| [https://musicbrainz.org/recording/734e601a-31bd-4e9f-ac41-8b373e017fec](https://musicbrainz.org/recording/734e601a-31bd-4e9f-ac41-8b373e017fec) | Aida: Atto I, scena 1. “Ritorna vincitor!” (Aida)  |
-| [https://musicbrainz.org/recording/7522a033-9a53-4e37-ac28-64b37b530790](https://musicbrainz.org/recording/7522a033-9a53-4e37-ac28-64b37b530790) | Aida: Atto I, scena 2. “Possente, possente Fthà …  |
-| [https://musicbrainz.org/recording/b24a091d-e6d0-49e5-b38c-0af36d14d7d0](https://musicbrainz.org/recording/b24a091d-e6d0-49e5-b38c-0af36d14d7d0) | Aida: Atto I: Sacred Dance of the Priestesses      |
-| [https://musicbrainz.org/recording/50e8e976-b505-4e0a-a7dd-da2d67dfefa3](https://musicbrainz.org/recording/50e8e976-b505-4e0a-a7dd-da2d67dfefa3) | Aida: Atto I, scena 2. “Mortal, diletto ai numi” ( |
-| [https://musicbrainz.org/recording/8948329e-5089-4228-8f81-7e886f814687](https://musicbrainz.org/recording/8948329e-5089-4228-8f81-7e886f814687) | Aida: Atto I, scena 2. “Nume, custode e vindice” ( |
-| [https://musicbrainz.org/recording/8c5111e7-e02d-4a89-b38f-181df5a59652](https://musicbrainz.org/recording/8c5111e7-e02d-4a89-b38f-181df5a59652) | Aida: Atto II, scena 1. Scena e coro di donne "Chi |
-| [https://musicbrainz.org/recording/3b254025-d54d-416d-9e6d-4d8a0409d01a](https://musicbrainz.org/recording/3b254025-d54d-416d-9e6d-4d8a0409d01a) | Aida: Atto II: Dance of the Moorish Slaves         |
-| [https://musicbrainz.org/recording/a4a5f32c-b52a-4bdd-86c3-41a573589baa](https://musicbrainz.org/recording/a4a5f32c-b52a-4bdd-86c3-41a573589baa) | Aida: Atto II, scena 1. “Vieni, sul crin ti piovan |
-| [https://musicbrainz.org/recording/86a3de8f-3175-4ebc-b669-302b2b4d8820](https://musicbrainz.org/recording/86a3de8f-3175-4ebc-b669-302b2b4d8820) | Aida: Atto II: Silenzio! Aida verso noi s'avanza   |
-| [https://musicbrainz.org/recording/65bee5ad-a2c9-420a-afa5-fa2f2b41ec8b](https://musicbrainz.org/recording/65bee5ad-a2c9-420a-afa5-fa2f2b41ec8b) | Aida: Atto II, scena 1. “Pietà ti prenda del mio d |
-| [https://musicbrainz.org/recording/1ed8153e-5ff0-4efe-9e54-47cab5009e88](https://musicbrainz.org/recording/1ed8153e-5ff0-4efe-9e54-47cab5009e88) | Aida: Atto II: Su! Del Nilo al sacro lido          |
-| [https://musicbrainz.org/recording/86d6d135-e558-4bf3-b477-7c091dcb1abe](https://musicbrainz.org/recording/86d6d135-e558-4bf3-b477-7c091dcb1abe) | Aida: Atto II, scena 2. “Gloria all'Egitto, ad Isi |
-| [https://musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146](https://musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146) | Aida: Atto II: March & Ballet                      |
-| [https://musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146](https://musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146) | Aida: Atto II: March & Ballet                      |
-| [https://musicbrainz.org/recording/a39be5f5-1921-44c2-b92b-a3245dd3d7b7](https://musicbrainz.org/recording/a39be5f5-1921-44c2-b92b-a3245dd3d7b7) | Aida: Atto II: Vieni, o guerriero vindice          |
-| [https://musicbrainz.org/recording/b9f8a2a1-653e-48d1-8197-361f7309476c](https://musicbrainz.org/recording/b9f8a2a1-653e-48d1-8197-361f7309476c) | Aida: Atto II, scena 2. “Salvator della patria” (I |
-| [https://musicbrainz.org/recording/7024a5b4-39e2-4745-a8a7-4575cf47cbc1](https://musicbrainz.org/recording/7024a5b4-39e2-4745-a8a7-4575cf47cbc1) | Aida: Atto II: Concedi in pria                     |
-| [https://musicbrainz.org/recording/9373193a-9a06-483b-b6c2-06c67f7f2ae5](https://musicbrainz.org/recording/9373193a-9a06-483b-b6c2-06c67f7f2ae5) | Aida: Atto II, scena 2. “Che veggo! Egli? Mio padr |
-| [https://musicbrainz.org/recording/3fb7f84a-effb-4dcf-a6ee-fe280c888c35](https://musicbrainz.org/recording/3fb7f84a-effb-4dcf-a6ee-fe280c888c35) | Aida: Atto II: Quest'assisa ch'io vesto vi dica    |
-| [https://musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f](https://musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f) | Aida: Atto II: Ma tu, re, tu, signore possente     |
-| [https://musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f](https://musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f) | Aida: Atto II: Ma tu, re, tu, signore possente     |
-| [https://musicbrainz.org/recording/32092ccc-1676-45d4-a47c-4b0ace642063](https://musicbrainz.org/recording/32092ccc-1676-45d4-a47c-4b0ace642063) | Aida: Atto II: O re, pei sacri numi                |
-| [https://musicbrainz.org/recording/30892639-d375-4fda-8085-fc9835010a74](https://musicbrainz.org/recording/30892639-d375-4fda-8085-fc9835010a74) | Aida: Atto II, scena 2. “Gloria all'Egitto, ad Isi |
-| [https://musicbrainz.org/recording/4400eb8e-ce19-4741-8509-2bc8846c9c19](https://musicbrainz.org/recording/4400eb8e-ce19-4741-8509-2bc8846c9c19) | Aida: Atto II: Fa' cor: della tua patria           |
-| [https://musicbrainz.org/recording/926c1337-8a3b-4997-b898-7725f2e301f7](https://musicbrainz.org/recording/926c1337-8a3b-4997-b898-7725f2e301f7) | Aida: Atto III: O tu, che sei d'Osiride            |
-| [https://musicbrainz.org/recording/153e81f4-99f4-411f-a80a-148cd6f436ff](https://musicbrainz.org/recording/153e81f4-99f4-411f-a80a-148cd6f436ff) | Aida: Atto III: Vieni d'Iside al tempio            |
-| [https://musicbrainz.org/recording/81842aec-fbc8-438c-ab00-d7df3ef0a57d](https://musicbrainz.org/recording/81842aec-fbc8-438c-ab00-d7df3ef0a57d) | Aida: Atto III. “Qui Radames verra” (Aida)         |
-| [https://musicbrainz.org/recording/6b553857-5f9c-47be-9307-301f20be3674](https://musicbrainz.org/recording/6b553857-5f9c-47be-9307-301f20be3674) | Aida: Atto III. Romanza “O patria mia” (Aida)      |
-| [https://musicbrainz.org/recording/3cbed2d4-96e4-4edd-9528-7435465e7d9e](https://musicbrainz.org/recording/3cbed2d4-96e4-4edd-9528-7435465e7d9e) | Aida: Atto III. “Ciel! mio padre!” (Aida, Amonasro |
-| [https://musicbrainz.org/recording/df4cab61-df4e-48f5-beca-e6c2ca77062b](https://musicbrainz.org/recording/df4cab61-df4e-48f5-beca-e6c2ca77062b) | Aida: Atto III. “Rivedrai le foreste imbalsamate”  |
-| [https://musicbrainz.org/recording/33508b6a-e270-45af-b11b-13953c59c989](https://musicbrainz.org/recording/33508b6a-e270-45af-b11b-13953c59c989) | Aida: Atto III: In armi ora si desta il popol nost |
-| [https://musicbrainz.org/recording/4460f377-bb4f-45cd-b7c4-bb5f4400cf87](https://musicbrainz.org/recording/4460f377-bb4f-45cd-b7c4-bb5f4400cf87) | Aida: Atto III: Padre! A costoro schiava non sono  |
-| [https://musicbrainz.org/recording/27503d83-0aec-4309-90df-feb70c5327df](https://musicbrainz.org/recording/27503d83-0aec-4309-90df-feb70c5327df) | Aida: Atto III: Pur ti riveggo, mia dolce Aida     |
-| [https://musicbrainz.org/recording/bcd6a4ad-0774-4cd9-8837-1854f909cb0b](https://musicbrainz.org/recording/bcd6a4ad-0774-4cd9-8837-1854f909cb0b) | Aida: Atto III: Nel fiero anelito di nuova guerra  |
-| [https://musicbrainz.org/recording/5e0b140f-c7cc-4fba-93a9-3dfa79f8fad7](https://musicbrainz.org/recording/5e0b140f-c7cc-4fba-93a9-3dfa79f8fad7) | Aida: Atto III: Fuggiam gli ardori inospiti        |
-| [https://musicbrainz.org/recording/a5f3c89f-7008-49c0-ab73-c234e2b8372b](https://musicbrainz.org/recording/a5f3c89f-7008-49c0-ab73-c234e2b8372b) | Aida: Atto III. “Aida! Tu non m'ami. Va!”          |
-| [https://musicbrainz.org/recording/9a443743-8f97-4a86-8f6a-27582600017b](https://musicbrainz.org/recording/9a443743-8f97-4a86-8f6a-27582600017b) | Aida: Atto III: Ah no! Fuggiamo!                   |
-| [https://musicbrainz.org/recording/673ccc07-b994-4514-9a09-1369a8737658](https://musicbrainz.org/recording/673ccc07-b994-4514-9a09-1369a8737658) | Aida: Atto III. Finale III “Ma dimmi; per qual via |
-| [https://musicbrainz.org/recording/0fe68387-f709-437a-8b5a-474297e7f14a](https://musicbrainz.org/recording/0fe68387-f709-437a-8b5a-474297e7f14a) | Aida: Atto III: Traditor                           |
-| [https://musicbrainz.org/recording/78de4652-5cf3-4496-b997-5a6fb46eb326](https://musicbrainz.org/recording/78de4652-5cf3-4496-b997-5a6fb46eb326) | Aida: Atto IV, scena 1. Scena “L'aborrita rivale a |
-| [https://musicbrainz.org/recording/321cf8b4-064f-4645-94bf-0bea433ef01a](https://musicbrainz.org/recording/321cf8b4-064f-4645-94bf-0bea433ef01a) | Aida: Atto IV: Io l'amo, io l'amo sempre!          |
-| [https://musicbrainz.org/recording/8e0383f4-c167-46b8-a4ac-96628ad1a595](https://musicbrainz.org/recording/8e0383f4-c167-46b8-a4ac-96628ad1a595) | Aida: Atto IV, scena 1. “Già i sacerdoti adunansi” |
-| [https://musicbrainz.org/recording/15178cde-5070-4be8-a39e-6ecbcc2c67d0](https://musicbrainz.org/recording/15178cde-5070-4be8-a39e-6ecbcc2c67d0) | Aida: Atto IV: Ah! Du dêi vivere!                  |
-| [https://musicbrainz.org/recording/1ea71c80-13f7-4e37-8873-9ed67107285d](https://musicbrainz.org/recording/1ea71c80-13f7-4e37-8873-9ed67107285d) | Aida: Atto IV: Chi ti salva, sciagurato            |
-| [https://musicbrainz.org/recording/093dfd6d-89a8-41ea-82d1-d5f964a022a8](https://musicbrainz.org/recording/093dfd6d-89a8-41ea-82d1-d5f964a022a8) | Aida: Atto IV, scena 1: Scena del giudizio: “Ohimè |
-| [https://musicbrainz.org/recording/3bac1b01-84e5-4b9c-9c38-b155dc56f20a](https://musicbrainz.org/recording/3bac1b01-84e5-4b9c-9c38-b155dc56f20a) | Aida: Atto IV: “Spirto del nume, sovra noi discend |
-| [https://musicbrainz.org/recording/d2d1cc51-a0af-4265-baa2-5e9facfd2415](https://musicbrainz.org/recording/d2d1cc51-a0af-4265-baa2-5e9facfd2415) | Aida: Atto IV: Radamès! Radamès! Radamès!          |
-| [https://musicbrainz.org/recording/85a539d5-5c93-45ee-94d1-8bfe408485ad](https://musicbrainz.org/recording/85a539d5-5c93-45ee-94d1-8bfe408485ad) | Aida: Atto IV: A lui vivo la tomba!                |
-| [https://musicbrainz.org/recording/c19039ba-7b02-4a5f-b4f6-c49dda1be947](https://musicbrainz.org/recording/c19039ba-7b02-4a5f-b4f6-c49dda1be947) | Aida: Atto IV, scena 2. “La fatal pietra sovra me  |
-| [https://musicbrainz.org/recording/8d1b52ca-d9bf-4c98-9a15-03891c786caa](https://musicbrainz.org/recording/8d1b52ca-d9bf-4c98-9a15-03891c786caa) | Aida: Atto IV: Presago il core della tua condanna  |
-| [https://musicbrainz.org/recording/4e13432d-77ef-454f-a453-f4fa5e5f9ed3](https://musicbrainz.org/recording/4e13432d-77ef-454f-a453-f4fa5e5f9ed3) | Aida: Atto IV, scena 2. “Vedi? Di morte l’angelo”  |
-| [https://musicbrainz.org/recording/384d4ba8-5c73-4af7-9b4c-2b0af8e65a5b](https://musicbrainz.org/recording/384d4ba8-5c73-4af7-9b4c-2b0af8e65a5b) | Aida: Atto IV, scena 2. “O terra addio” (Aida, Rad |
-| [https://musicbrainz.org/recording/5002ea4b-01e6-4089-8a83-188fda779523](https://musicbrainz.org/recording/5002ea4b-01e6-4089-8a83-188fda779523) | La Traviata: Act I: Prelude                        |
-| [https://musicbrainz.org/recording/9f935486-1dbe-4439-b002-e4052b3b1fca](https://musicbrainz.org/recording/9f935486-1dbe-4439-b002-e4052b3b1fca) | La Traviata: Act I: Dell'invito trascorsa e già l' |
-| [https://musicbrainz.org/recording/d6501198-01c3-49ac-bcdf-f06a9f6dd4d0](https://musicbrainz.org/recording/d6501198-01c3-49ac-bcdf-f06a9f6dd4d0) | La Traviata: Act I: Libiamo ne' lieti calici (Brin |
-| [https://musicbrainz.org/recording/314537b2-67cb-4a48-8bb1-7c0f0ea7eb25](https://musicbrainz.org/recording/314537b2-67cb-4a48-8bb1-7c0f0ea7eb25) | La Traviata: Act I: Che è ciò (Waltz Duet)         |
-| [https://musicbrainz.org/recording/6fbcd76d-cfb0-4ac4-8b92-2cbffb8dcd84](https://musicbrainz.org/recording/6fbcd76d-cfb0-4ac4-8b92-2cbffb8dcd84) | La Traviata: Act I: Un dì felice, eterea           |
-| [https://musicbrainz.org/recording/4127a299-4cdd-4839-8388-12cdaafea0f8](https://musicbrainz.org/recording/4127a299-4cdd-4839-8388-12cdaafea0f8) | La Traviata: Act I: Ebben? Che diavol fate?        |
-| [https://musicbrainz.org/recording/5287aea7-d91a-46a4-8e0e-26424ce4294e](https://musicbrainz.org/recording/5287aea7-d91a-46a4-8e0e-26424ce4294e) | La Traviata: Act I: Si ridesta in ciel l'aurora    |
-| [https://musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4](https://musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4) | La Traviata: Act I: È strano, è strano! ... Ah, fo |
-| [https://musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4](https://musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4) | La Traviata: Act I: È strano, è strano! ... Ah, fo |
-| [https://musicbrainz.org/recording/0c189272-cdc9-42e5-a606-f621b7989384](https://musicbrainz.org/recording/0c189272-cdc9-42e5-a606-f621b7989384) | La Traviata: Act I: Follie! Follie! Delirio vano   |
-| [https://musicbrainz.org/recording/00ecc95a-771d-444b-a9fc-faa4aab1df4d](https://musicbrainz.org/recording/00ecc95a-771d-444b-a9fc-faa4aab1df4d) | La Traviata: Act I: Sempre libera                  |
-| [https://musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2](https://musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2) | La Traviata: Act II: Scene 1: Lunge da lei ... De' |
-| [https://musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2](https://musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2) | La Traviata: Act II: Scene 1: Lunge da lei ... De' |
-| [https://musicbrainz.org/recording/35092096-6bf6-437e-b404-34fd8d975eff](https://musicbrainz.org/recording/35092096-6bf6-437e-b404-34fd8d975eff) | La Traviata: Act II: Scene 1: Annina, donde vieni? |
-| [https://musicbrainz.org/recording/10e0931b-b6ab-4632-b2d1-8759e93e0537](https://musicbrainz.org/recording/10e0931b-b6ab-4632-b2d1-8759e93e0537) | La Traviata: Act II: Scene 1: Alfredo? — Per Parig |
-| [https://musicbrainz.org/recording/a503d7eb-e051-4f7b-9b81-d8577c6b8555](https://musicbrainz.org/recording/a503d7eb-e051-4f7b-9b81-d8577c6b8555) | La Traviata: Act II: Scene 1: Pura siccome un ange |
-| [https://musicbrainz.org/recording/30aa4394-f230-45a5-b8ef-4689e49d2dab](https://musicbrainz.org/recording/30aa4394-f230-45a5-b8ef-4689e49d2dab) | La Traviata: Act II: Scene 1: Non sapete quale aff |
-| [https://musicbrainz.org/recording/277019d4-8c14-4695-90b8-473d68e768e3](https://musicbrainz.org/recording/277019d4-8c14-4695-90b8-473d68e768e3) | La Traviata: Act II: Scene 1: Ah, dite alle giovin |
-| [https://musicbrainz.org/recording/f64090f7-36ec-4bac-ad8e-5a52e4709e8d](https://musicbrainz.org/recording/f64090f7-36ec-4bac-ad8e-5a52e4709e8d) | La Traviata: Act II: Scene 1: Morrò! Morrò!        |
-| [https://musicbrainz.org/recording/04f928d3-03de-4a4d-8e37-1dab07be0f32](https://musicbrainz.org/recording/04f928d3-03de-4a4d-8e37-1dab07be0f32) | La Traviata: Act II: Scene 1: Dammi tu forza, o ci |
-| [https://musicbrainz.org/recording/14636ac8-9363-4c05-aa54-db2a913c5e4b](https://musicbrainz.org/recording/14636ac8-9363-4c05-aa54-db2a913c5e4b) | La Traviata: Act II: Scene 1: Ah, vive sol quel co |
-| [https://musicbrainz.org/recording/de4f5d4d-cc50-412f-ad74-c47d6cdbfb14](https://musicbrainz.org/recording/de4f5d4d-cc50-412f-ad74-c47d6cdbfb14) | La Traviata: Act II: Scene 1: Di Provenza          |
-| [https://musicbrainz.org/recording/97b7bdb1-3cea-489f-a65e-5ae743023540](https://musicbrainz.org/recording/97b7bdb1-3cea-489f-a65e-5ae743023540) | La Traviata: Act II: Scene 1: Ne rispondi          |
-| [https://musicbrainz.org/recording/57dd17ff-3917-42f9-961e-c04ba2a76e35](https://musicbrainz.org/recording/57dd17ff-3917-42f9-961e-c04ba2a76e35) | La Traviata: Act II: Scene 2: Avrem lieta di masch |
-| [https://musicbrainz.org/recording/bdadc664-d887-476e-8874-6d693838bec1](https://musicbrainz.org/recording/bdadc664-d887-476e-8874-6d693838bec1) | La Traviata: Act II: Scene 2: Noi siamo zingarelle |
-| [https://musicbrainz.org/recording/ab4da307-2397-402e-bf10-5cbe0ab286ef](https://musicbrainz.org/recording/ab4da307-2397-402e-bf10-5cbe0ab286ef) | La Traviata: Act II: Scene 2: Di Madride noi siam  |
-| [https://musicbrainz.org/recording/71d1f3ac-e6f6-4eb6-82bb-fca5f9445ccf](https://musicbrainz.org/recording/71d1f3ac-e6f6-4eb6-82bb-fca5f9445ccf) | La Traviata: Act II: Scene 2: Alfredo! Voi?        |
-| [https://musicbrainz.org/recording/4b2ee296-afd6-40b1-8ae9-2fca7fcf58f6](https://musicbrainz.org/recording/4b2ee296-afd6-40b1-8ae9-2fca7fcf58f6) | La Traviata: Act II: Scene 2: Invitato a qui segui |
-| [https://musicbrainz.org/recording/96f428e4-6c73-44d5-a3f3-693bcfc0687e](https://musicbrainz.org/recording/96f428e4-6c73-44d5-a3f3-693bcfc0687e) | La Traviata: Act II: Scene 2: Ogni suo aver tal fe |
-| [https://musicbrainz.org/recording/29c47bdd-7278-49cd-adae-13c3df1ddd31](https://musicbrainz.org/recording/29c47bdd-7278-49cd-adae-13c3df1ddd31) | La Traviata: Act II: Scene 2: Di sprezzo degno sé  |
-| [https://musicbrainz.org/recording/5a49282c-6fc7-4533-91a1-60927ea02f82](https://musicbrainz.org/recording/5a49282c-6fc7-4533-91a1-60927ea02f82) | La Traviata: Act II: Scene 3: Prelude              |
-| [https://musicbrainz.org/recording/25a9d78a-a517-47c7-a406-9c5a7c1ddae8](https://musicbrainz.org/recording/25a9d78a-a517-47c7-a406-9c5a7c1ddae8) | La Traviata: Act II: Scene 3: Annina? — Comandate? |
-| [https://musicbrainz.org/recording/ba04f38b-0996-42f1-8ed1-097dddb02e50](https://musicbrainz.org/recording/ba04f38b-0996-42f1-8ed1-097dddb02e50) | La Traviata: Act II: Scene 3: Teneste la promesa.. |
-| [https://musicbrainz.org/recording/b910e50e-3fba-44f6-8e3e-86a8f73d0cee](https://musicbrainz.org/recording/b910e50e-3fba-44f6-8e3e-86a8f73d0cee) | La Traviata: Act II: Scene 3: Addio del passato    |
-| [https://musicbrainz.org/recording/af19449c-262f-40ee-941b-033c96b6e11e](https://musicbrainz.org/recording/af19449c-262f-40ee-941b-033c96b6e11e) | La Traviata: Act II: Scene 3: Largo al quadrupede  |
-| [https://musicbrainz.org/recording/dd76648f-d176-4c8c-af12-6d0891568d67](https://musicbrainz.org/recording/dd76648f-d176-4c8c-af12-6d0891568d67) | La Traviata: Act II: Scene 3: Signora — Che t'acca |
-| [https://musicbrainz.org/recording/cd94b8f5-8260-4f94-8045-6fc7f0fa6ff1](https://musicbrainz.org/recording/cd94b8f5-8260-4f94-8045-6fc7f0fa6ff1) | La Traviata: Act II: Scene 3: Parigi, o cara       |
-| [https://musicbrainz.org/recording/74314e2d-30be-46fd-a8c6-61d141c10365](https://musicbrainz.org/recording/74314e2d-30be-46fd-a8c6-61d141c10365) | La Traviata: Act II: Scene 3: Ah, non più          |
-| [https://musicbrainz.org/recording/b82bf637-81f1-49b3-aa35-c8a29b4163cd](https://musicbrainz.org/recording/b82bf637-81f1-49b3-aa35-c8a29b4163cd) | La Traviata: Act II: Scene 3: Ah, gran Dio, morir  |
-| [https://musicbrainz.org/recording/07e370d3-999b-459e-b28e-c2499b737175](https://musicbrainz.org/recording/07e370d3-999b-459e-b28e-c2499b737175) | La Traviata: Act II: Scene 3: Ah, Violetta! — Voi, |
-| [https://musicbrainz.org/recording/6d83a1a1-2251-4168-b68f-ca6bc78375e4](https://musicbrainz.org/recording/6d83a1a1-2251-4168-b68f-ca6bc78375e4) | La Traviata: Act II: Scene 3: Prendi, quest'è l'im |
-| [https://musicbrainz.org/recording/ae088b43-4fd0-46f3-bdbe-5b44ea0b04d9](https://musicbrainz.org/recording/ae088b43-4fd0-46f3-bdbe-5b44ea0b04d9) | La Traviata: Act II: Scene 3: Finale. È strano!    |
-| [https://musicbrainz.org/recording/dee3e711-38f8-4c35-a7be-b367a899682c](https://musicbrainz.org/recording/dee3e711-38f8-4c35-a7be-b367a899682c) | Requiem Mass no. 1 in C minor: Introitus et Kyrie  |
-| [https://musicbrainz.org/recording/17cbe33b-387b-43b0-b6cb-8d765e4c5ff7](https://musicbrainz.org/recording/17cbe33b-387b-43b0-b6cb-8d765e4c5ff7) | Requiem Mass no. 1 in C minor: Graduale            |
-| [https://musicbrainz.org/recording/9613f47b-9ea8-4359-9ad3-32664b716c6a](https://musicbrainz.org/recording/9613f47b-9ea8-4359-9ad3-32664b716c6a) | Requiem Mass no. 1 in C minor: Dies irae           |
-| [https://musicbrainz.org/recording/b39e5096-78b3-4d75-a2ee-fcbde0b355b4](https://musicbrainz.org/recording/b39e5096-78b3-4d75-a2ee-fcbde0b355b4) | Requiem Mass no. 1 in C minor: Offertorium         |
-| [https://musicbrainz.org/recording/ba468178-b742-4c08-bedf-23c2753a45c1](https://musicbrainz.org/recording/ba468178-b742-4c08-bedf-23c2753a45c1) | Requiem Mass no. 1 in C minor: Sanctus             |
-| [https://musicbrainz.org/recording/f1ddebbe-a355-4b3e-be58-6bde0e0ee2ec](https://musicbrainz.org/recording/f1ddebbe-a355-4b3e-be58-6bde0e0ee2ec) | Requiem Mass no. 1 in C minor: Pie Jesu            |
-| [https://musicbrainz.org/recording/b1105869-4c78-4ac6-86df-eb08bb8f44db](https://musicbrainz.org/recording/b1105869-4c78-4ac6-86df-eb08bb8f44db) | Requiem Mass no. 1 in C minor: Agnus Dei           |
-| [https://musicbrainz.org/recording/60d7c787-8fb4-42ef-82a5-b47bda0a7dca](https://musicbrainz.org/recording/60d7c787-8fb4-42ef-82a5-b47bda0a7dca) | Mefistofele: Prologue: Ave, Signor degli angeli    |
-| [https://musicbrainz.org/recording/073a1699-46b6-4299-a211-f038fdd53e2a](https://musicbrainz.org/recording/073a1699-46b6-4299-a211-f038fdd53e2a) | Mefistofele: Prologue: Ave, Signor. Perdona        |
-| [https://musicbrainz.org/recording/641eeb6e-2261-443a-b3be-fed1bbd0d3d0](https://musicbrainz.org/recording/641eeb6e-2261-443a-b3be-fed1bbd0d3d0) | Mefistofele: Prologue: T'è noto Faust?             |
-| [https://musicbrainz.org/recording/0898a358-44b4-423f-98d6-5e6b282d2ef4](https://musicbrainz.org/recording/0898a358-44b4-423f-98d6-5e6b282d2ef4) | Mefistofele: Prologue: Siam nimbi volanti          |
-| [https://musicbrainz.org/recording/f14f791c-de18-42b6-8840-64bf216131df](https://musicbrainz.org/recording/f14f791c-de18-42b6-8840-64bf216131df) | Mefistofele: Prologue: Salve, Regina!              |
-| [https://musicbrainz.org/recording/4bec2847-7700-4c58-84e3-cdab63308e8a](https://musicbrainz.org/recording/4bec2847-7700-4c58-84e3-cdab63308e8a) | I Lombardi: Atto III. Orchestral Opening           |
-| [https://musicbrainz.org/recording/ba24b0cd-234d-460c-9125-d3fd512c2a9d](https://musicbrainz.org/recording/ba24b0cd-234d-460c-9125-d3fd512c2a9d) | I Lombardi: Atto III. Trio “Qui posa il fianco!”   |
-| [https://musicbrainz.org/recording/ac843adf-c060-4714-8acf-cfb7f782a552](https://musicbrainz.org/recording/ac843adf-c060-4714-8acf-cfb7f782a552) | Rigoletto: Act IV: E l’ami?                        |
-| [https://musicbrainz.org/recording/bf10ee53-ca19-48fa-8159-f1e3c298af3d](https://musicbrainz.org/recording/bf10ee53-ca19-48fa-8159-f1e3c298af3d) | Rigoletto: Act IV: La donna è mobile               |
-| [https://musicbrainz.org/recording/94e8c28a-cd44-4475-96eb-c8aa0c0f74f5](https://musicbrainz.org/recording/94e8c28a-cd44-4475-96eb-c8aa0c0f74f5) | Rigoletto: Act IV: Un dì, se ben rammentomi        |
-| [https://musicbrainz.org/recording/17a0eeea-6497-4298-8b4f-325f67a4b92e](https://musicbrainz.org/recording/17a0eeea-6497-4298-8b4f-325f67a4b92e) | Rigoletto: Act IV: Bella figlia dell’amore (Quarte |
-| [https://musicbrainz.org/recording/3c50d251-5a92-4dda-8888-df562762b56c](https://musicbrainz.org/recording/3c50d251-5a92-4dda-8888-df562762b56c) | Rigoletto: Act IV: M’odi! Ritorna a casa           |
-| [https://musicbrainz.org/recording/560aaead-534a-4680-a2c9-cf20d2e2f8d2](https://musicbrainz.org/recording/560aaead-534a-4680-a2c9-cf20d2e2f8d2) | Rigoletto: Act IV: È amabile in vero cotal giovino |
-| [https://musicbrainz.org/recording/7724c90a-f1d4-4000-9776-6046460d1924](https://musicbrainz.org/recording/7724c90a-f1d4-4000-9776-6046460d1924) | Rigoletto: Act IV: Della vendetta alfin            |
-| [https://musicbrainz.org/recording/ba309b5d-b969-4a01-992e-cc59fa8e85f7](https://musicbrainz.org/recording/ba309b5d-b969-4a01-992e-cc59fa8e85f7) | Rigoletto: Act IV: Chi è mai?                      |
-| [https://musicbrainz.org/recording/db164932-bba5-4ecb-8d76-19c3ce80183a](https://musicbrainz.org/recording/db164932-bba5-4ecb-8d76-19c3ce80183a) | Rigoletto: Act IV: V’ho ingannato                  |
-| [https://musicbrainz.org/recording/4e5dc2d9-789e-4ac0-8c1c-6a46711e61ab](https://musicbrainz.org/recording/4e5dc2d9-789e-4ac0-8c1c-6a46711e61ab) | Rigoletto: Act IV: Lassû in cielo                  |
-| [https://musicbrainz.org/recording/f2fabd6b-0f18-4e6f-899c-cd626b382a5f](https://musicbrainz.org/recording/f2fabd6b-0f18-4e6f-899c-cd626b382a5f) | Carmen: Aragonaise (Entr'acte Act IV)              |
-| [https://musicbrainz.org/recording/e98225b4-e689-4ed8-b630-5d2306e000dc](https://musicbrainz.org/recording/e98225b4-e689-4ed8-b630-5d2306e000dc) | Il segreto di Susanna: Ouverture                   |
-| [https://musicbrainz.org/recording/8fdca9c8-623d-42ed-8115-e9d2c4dbb570](https://musicbrainz.org/recording/8fdca9c8-623d-42ed-8115-e9d2c4dbb570) | La Pie Voleuse: Ouverture                          |
-| [https://musicbrainz.org/recording/56f687b4-36f2-4141-9d02-eccb96f9c4c9](https://musicbrainz.org/recording/56f687b4-36f2-4141-9d02-eccb96f9c4c9) | Messa da requiem: Ia. Requiem Aeternam             |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+|                                 recording_url                                 |                   recording_name                   |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
+| <https://beta.musicbrainz.org/recording/7ca313cb-255a-4e7e-af24-794c010fb9b0> | Il Barbiere Di Siviglia: Act I. No. 1. Introduzion |
+| <https://beta.musicbrainz.org/recording/7b157f23-1f50-4f66-9396-3b8161300366> | Il Barbiere Di Siviglia: Act I. No. 3. Canzone "Se |
+| <https://beta.musicbrainz.org/recording/7b157f23-1f50-4f66-9396-3b8161300366> | Il Barbiere Di Siviglia: Act I. No. 3. Canzone "Se |
+| <https://beta.musicbrainz.org/recording/9c406da0-73f0-41d9-8a5d-bf9600dbcebd> | Il Barbiere Di Siviglia: Act I. No. 6. Aria "La ca |
+| <https://beta.musicbrainz.org/recording/47acb5f7-80f4-4a69-848c-49890b546cc6> | Carmen : Acte II. Entr’acte                        |
+| <https://beta.musicbrainz.org/recording/33e0a0b9-4b80-4de6-83fd-39d355e5fe7c> | Carmen : Acte II. « Vous avez quelque chose à nous |
+| <https://beta.musicbrainz.org/recording/5c5e39e8-3ef1-4ad6-a453-1402bf7567d8> | Carmen : Acte II. « Tout est bien alors » (Carmen, |
+| <https://beta.musicbrainz.org/recording/17361a0c-62c2-4723-87a6-6cc7f6784b8b> | Carmen : Acte II, Nº 13. Couplet (Air du Toréador) |
+| <https://beta.musicbrainz.org/recording/80d5ae8f-2dd1-4215-832b-2116536f0b15> | Carmen : Acte II, Nº 15. Chanson « Amoureuse…ce n’ |
+| <https://beta.musicbrainz.org/recording/1334acc2-c1ba-4232-b678-2ffcb964c1cb> | Carmen : Acte III. Entr’acte                       |
+| <https://beta.musicbrainz.org/recording/f5c16ed7-b061-4d33-b924-5ee78381100d> | Carmen : Acte III, Nº 18. Introduction « Ecoute, c |
+| <https://beta.musicbrainz.org/recording/5d28cd20-d976-44c4-91bf-b570ce6aa04f> | Carmen : Acte III. « Halte ! Nous allons nous arrê |
+| <https://beta.musicbrainz.org/recording/940b1ac8-4c86-4e8c-9bfa-f590d36f34d8> | Carmen : Acte III, Nº 19. Trio « Mêlons ! » « Mêlo |
+| <https://beta.musicbrainz.org/recording/715f33cd-b4a4-4252-9797-1a761bf382b2> | Carmen : Acte III. Air des cartes « Carreau, pique |
+| <https://beta.musicbrainz.org/recording/dcb0c557-db5b-4fc3-a380-2c50afa7f99e> | Carmen : Acte III, Nº 20. Morceau d’ensemble « Qua |
+| <https://beta.musicbrainz.org/recording/92c996d9-e4e8-45f8-b410-b2ce83e29417> | Carmen : Acte III. « Mais… je ne me trompe pas… »  |
+| <https://beta.musicbrainz.org/recording/92c996d9-e4e8-45f8-b410-b2ce83e29417> | Carmen : Acte III. « Mais… je ne me trompe pas… »  |
+| <https://beta.musicbrainz.org/recording/f02d6eeb-b5c0-467a-9e45-56121e381359> | Carmen : Acte III, Nº 23. Finale « Holà, José ! »  |
+| <https://beta.musicbrainz.org/recording/4e4ca9a2-e103-4df7-8c4a-06ccc6e98c0b> | Carmen : Acte III, Nº 24. Chœur « À deux cuartos » |
+| <https://beta.musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc> | Aida: Atto III. “O patria mia”                     |
+| <https://beta.musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc> | Aida: Atto III. “O patria mia”                     |
+| <https://beta.musicbrainz.org/recording/5e319862-91cc-4c6c-8b1f-87ac06504efc> | Aida: Atto III. “O patria mia”                     |
+| <https://beta.musicbrainz.org/recording/7615a254-6c27-4f09-9ad2-798d7bca5fd7> | Night on Bald Mountain                             |
+| <https://beta.musicbrainz.org/recording/ad28c70f-b788-42ee-9469-7496b3c2617b> | The Destruction of Sennacherib                     |
+| <https://beta.musicbrainz.org/recording/08bcece3-60da-4e6b-bd5b-c98a40df0e47> | Salammbô: Chorus of Priestesses                    |
+| <https://beta.musicbrainz.org/recording/2c442531-42d1-4a7c-ad7c-ad8fe01e2dcd> | Oedipus in Athens: Chorus of People in the Temple  |
+| <https://beta.musicbrainz.org/recording/ae96a7d7-7eda-4412-b35f-bd0128a5ba29> | Joshua                                             |
+| <https://beta.musicbrainz.org/recording/ac39c07d-b9dd-478a-9f1e-a4aa1971c203> | Pictures at an Exhibition: Promenade. Allegro gius |
+| <https://beta.musicbrainz.org/recording/72a66c2b-73e2-4961-929a-10084ff4542a> | Pictures at an Exhibition: I. Gnomus. Vivo         |
+| <https://beta.musicbrainz.org/recording/35e56f64-00f1-4a97-b7d9-f0927c9dc989> | Pictures at an Exhibition: Promenade. Moderato com |
+| <https://beta.musicbrainz.org/recording/87bb37d2-adfb-49e7-af4b-32402ba9b496> | Pictures at an Exhibition: II. The Old Castle. And |
+| <https://beta.musicbrainz.org/recording/5f42d4d1-3633-4071-a977-a0037b579480> | Pictures at an Exhibition: Promenade. Moderato non |
+| <https://beta.musicbrainz.org/recording/8afc4e56-54b2-44e6-b821-9d6fff33612e> | Pictures at an Exhibition: III. Tuileries Gardens. |
+| <https://beta.musicbrainz.org/recording/f31191db-0d72-4ca6-8591-dff0e5587a02> | Pictures at an Exhibition: IV. Bydło. Sempre moder |
+| <https://beta.musicbrainz.org/recording/8e94bb88-2796-4b8f-872b-f0c1249e660a> | Pictures at an Exhibition: Promenade. Tranquillo   |
+| <https://beta.musicbrainz.org/recording/0b8a5dbb-ff01-4f58-bc27-745b3914c471> | Pictures at an Exhibition: V. Ballet of the Unhatc |
+| <https://beta.musicbrainz.org/recording/3b981535-5b47-44ed-90eb-e44a9aa1fb02> | Pictures at an Exhibition: VI. Samuel Goldenberg a |
+| <https://beta.musicbrainz.org/recording/9d3d81d4-aa05-4020-bc20-376d1ffeb03f> | Pictures at an Exhibition: VII. The Limoges Market |
+| <https://beta.musicbrainz.org/recording/397f3768-b487-47ca-962a-0ed05e555373> | Pictures at an Exhibition: VIII. The Catacombs: Se |
+| <https://beta.musicbrainz.org/recording/f9d1d435-d575-46cf-a563-5ba3514eb122> | Pictures at an Exhibition: Cum mortuis in lingua m |
+| <https://beta.musicbrainz.org/recording/ac91f8c2-5f1c-4a06-b6a6-52a19a689e85> | L'italiana in Algeri: Atto II. Recitativo: “Che be |
+| <https://beta.musicbrainz.org/recording/a1ee86ce-93bc-4a07-a68e-8711556477d9> | Carmen: Votre toast ... Toréador en garde          |
+| <https://beta.musicbrainz.org/recording/7d949eb6-14f5-43cd-acb7-3d6eb9f6f488> | Don Carlo: È dessa! ... Un detto, un sol           |
+| <https://beta.musicbrainz.org/recording/fbbacea1-63cd-4b5e-9b2c-7cc617e83b3f> | Don Carlo: Ma lassù ci vedremo                     |
+| <https://beta.musicbrainz.org/recording/33038ebf-45ed-43a2-a235-eef598dd89e1> | I Lombardi: All'armi? ... Che ascolto!             |
+| <https://beta.musicbrainz.org/recording/0a01d426-5b5d-4ffe-b5f6-540f5dc19605> | Otello: Già nella notte densa                      |
+| <https://beta.musicbrainz.org/recording/00a45ab1-3455-407e-8b9b-349673adbff8> | Rigoletto: Giovanna, ho dei rimorsi                |
+| <https://beta.musicbrainz.org/recording/d3611a4c-3027-49ce-9074-0ed24e1b5365> | Rigoletto: E il sol dell'anima                     |
+| <https://beta.musicbrainz.org/recording/b090ece0-e0f0-4f37-abe6-be604ca0b185> | Rigoletto: Che m'ami, deh, ripetimi                |
+| <https://beta.musicbrainz.org/recording/fa11c6b4-568f-42b8-af63-67ec95278ede> | Rigoletto: Atto I, Scena II. “Addio! speranza ed a |
+| <https://beta.musicbrainz.org/recording/39b5070d-3a76-4dc3-9edf-58b3b88e284c> | Aida: La fatal pietra sovra me si chiuse           |
+| <https://beta.musicbrainz.org/recording/e3fa0a05-868d-4faf-9974-f7d6e01a5d5a> | Aida: O terra, addio                               |
+| <https://beta.musicbrainz.org/recording/1deead2f-8be8-4cfd-8cb0-ae054d669940> | Il trovatore: Miserere ... Quel suon, quelle preci |
+| <https://beta.musicbrainz.org/recording/0c9b5275-d16e-40aa-ad77-8a0ed8bc1811> | Tannhäuser: Overture                               |
+| <https://beta.musicbrainz.org/recording/4bd6010c-fe5d-4b55-a12a-50840739fd42> | Tannhäuser: Wie Todesahnung Dämmrung Deckt Die Lan |
+| <https://beta.musicbrainz.org/recording/455d8cb0-ee62-4470-a2ad-16e6bdbd675c> | Die Meistersinger Von Nurnberg: Prelude to Act I   |
+| <https://beta.musicbrainz.org/recording/96ed18ed-a84a-471c-bb2a-711283288e75> | Aida: Atto II. “Il dolor che in quel volto favella |
+| <https://beta.musicbrainz.org/recording/96ed18ed-a84a-471c-bb2a-711283288e75> | Aida: Atto II. “Il dolor che in quel volto favella |
+| <https://beta.musicbrainz.org/recording/e8d4a62a-271a-4778-ae0b-6a0588bdaf68> | Aida: Atto III. Duetto “Nel fiero anelito… Fuggiam |
+| <https://beta.musicbrainz.org/recording/63005186-43ea-4c3f-b1c1-3589a7addfe3> | Macbeth: Atto II. Finale II: "Si colmi il calice"  |
+| <https://beta.musicbrainz.org/recording/10c1e186-7c1c-46f5-8982-3a9ce66a7071> | Macbeth: Atto IV. Scena ed aria: "Dove siam? che b |
+| <https://beta.musicbrainz.org/recording/99bd6a4a-7e3b-4888-8c35-b892f51216ab> | La Cenerentola: Atto I. Introduzione "No, no, no:  |
+| <https://beta.musicbrainz.org/recording/0bac4150-95c0-4d72-8291-a3e305296b00> | La Cenerentola: Atto I. Introduzione "Una volta c' |
+| <https://beta.musicbrainz.org/recording/36667e71-64cf-42f5-b32b-2136583d8d34> | La Cenerentola: Atto I. Introduzione "O figlie ama |
+| <https://beta.musicbrainz.org/recording/d2f54a6a-a1eb-4e3f-957c-cfe17eb0098f> | La Cenerentola: Atto I. Recitativo "Cenerentola, p |
+| <https://beta.musicbrainz.org/recording/539ad125-d768-4d2e-857a-05ee96f3e51c> | La Cenerentola: Atto I. Cavatina "Miei rampolli fe |
+| <https://beta.musicbrainz.org/recording/c9c0b396-cc01-44ba-874b-866cb28d8f19> | La Cenerentola: Atto I. Recitativo "Sappiate che f |
+| <https://beta.musicbrainz.org/recording/ceb3c849-fffb-4a0a-9702-d99f82c45734> | La Cenerentola: Atto I. Scena "Tutto è deserto" (R |
+| <https://beta.musicbrainz.org/recording/3734825c-1dcd-4b10-9e15-25ad27ec1819> | La Cenerentola: Atto I. Duetto "Un soave non so ch |
+| <https://beta.musicbrainz.org/recording/bd895a6b-56ab-4256-a96e-506fd385e0c2> | La Cenerentola: Atto I. Recitativo "Non so che dir |
+| <https://beta.musicbrainz.org/recording/a8610799-b12e-4e5d-99d2-46b1f2871e57> | La Cenerentola: Atto I. Coro "Scegli la sposa" - C |
+| <https://beta.musicbrainz.org/recording/0c0876ef-bcee-496a-ba07-f7eb88ace298> | La Cenerentola: Atto I. Recitativo "Allegrissimame |
+| <https://beta.musicbrainz.org/recording/fbc08ba9-29e5-4124-af1d-0c6ca14e60bb> | La Cenerentola: Atto I. Quintetto "Signor, una par |
+| <https://beta.musicbrainz.org/recording/a9f8acf9-56c1-46a3-b1bc-6c1c5c6629ec> | La Cenerentola: Atto I. Recitativo "Si, tutto cang |
+| <https://beta.musicbrainz.org/recording/d8f173a0-d5c1-4cc8-9124-431e00aae26a> | La Cenerentola: Atto I. Aria "Là del ciel nell'arc |
+| <https://beta.musicbrainz.org/recording/1a8b89d7-a10d-4feb-820a-b5bce2c8bde5> | La Cenerentola: Atto I. Recitativo "Ma bravo, brav |
+| <https://beta.musicbrainz.org/recording/52cf72de-48b2-41b3-aae7-6d1b1a3100c4> | La Cenerentola: Atto I. Coro "Conciossiacosacché"  |
+| <https://beta.musicbrainz.org/recording/c8b5705c-e117-431d-9e4c-0cc36e40390c> | La Cenerentola: Finale I. Duetto "Zitto, zitto: pi |
+| <https://beta.musicbrainz.org/recording/5edd7ac0-21b7-4fe3-a627-4b94de0aab1f> | La Cenerentola: Finale I. "Ah! Se velata ancor" (C |
+| <https://beta.musicbrainz.org/recording/73f7b418-d5af-4580-bf81-33cb93e4d03d> | La Cenerentola: Finale I. "Signor, Altezza, è in t |
+| <https://beta.musicbrainz.org/recording/28fe3951-e193-45de-b55a-c923c9ca50cb> | La Cenerentola: Atto II. Recitativo "Mi par che qu |
+| <https://beta.musicbrainz.org/recording/1c5882a6-b96f-4c9a-ac99-cc9d01d68f3a> | La Cenerentola: Atto II. Aria "Sia qualunque delle |
+| <https://beta.musicbrainz.org/recording/6219973a-2adf-43c7-bf34-3573054a7848> | La Cenerentola: Atto II. Recitativo "Ah! Questa be |
+| <https://beta.musicbrainz.org/recording/300885d2-4189-4468-bf23-24a5e4373331> | La Cenerentola: Atto II. Recitativo "È allor... se |
+| <https://beta.musicbrainz.org/recording/fc85d50c-4f58-4b5a-aecc-4d75fd815618> | La Cenerentola: Atto II. Aria "Sì, ritrovarla io g |
+| <https://beta.musicbrainz.org/recording/c05cb71a-2103-4fdf-9993-acadd64617b6> | La Cenerentola: Atto II. Recitativo "Ma dunque io  |
+| <https://beta.musicbrainz.org/recording/a32b11f0-9e3f-49e3-b7e8-802896b9a0a4> | La Cenerentola: Atto II. Duetto "Un segreto d'impo |
+| <https://beta.musicbrainz.org/recording/ab28552c-0ce5-4054-9384-6f80beb06dee> | La Cenerentola: Atto II. Canzone "Una volta c'era  |
+| <https://beta.musicbrainz.org/recording/42118507-b1df-423f-a465-d699c965c12b> | La Cenerentola: Atto II. Recitativo "Quanto sei ca |
+| <https://beta.musicbrainz.org/recording/67b3327b-d6fa-4c20-b6d4-641becd3f822> | La Cenerentola: Atto II. Temporale                 |
+| <https://beta.musicbrainz.org/recording/cd25d5f6-572a-4881-8d91-a3138fa58fc5> | La Cenerentola: Atto II. Recitativo "Scusate, amic |
+| <https://beta.musicbrainz.org/recording/73adfaf7-08d5-493c-b21c-e61878a5e01a> | La Cenerentola: Atto II. Sestetto "Siete voi?" - " |
+| <https://beta.musicbrainz.org/recording/ec74ed36-2fa1-4a9f-9408-477f2a692413> | La Cenerentola: Atto II. Sestetto "Donna sciocca!  |
+| <https://beta.musicbrainz.org/recording/37f99e41-488a-4099-9816-9eb90237db55> | La Cenerentola: Atto II. Recitativo "Giusto ciel"  |
+| <https://beta.musicbrainz.org/recording/bd29fb7b-271c-4b50-958f-cef45fc83eba> | La Cenerentola: Finale II. Coro "Della fortuna ins |
+| <https://beta.musicbrainz.org/recording/9927c004-86e1-4533-830c-31dedd1b4da3> | La Cenerentola: Finale II. Scena "Sposa" - "Signor |
+| <https://beta.musicbrainz.org/recording/410bccbc-9013-480b-a52d-088a54125f36> | La Cenerentola: Finale II. Rondò "Nacqui all'affan |
+| <https://beta.musicbrainz.org/recording/7735c773-e7b2-4d19-8c82-e1d724ae69d9> | Il barbiere di Siviglia: Atto I, Scena II. (no. 2) |
+| <https://beta.musicbrainz.org/recording/7735c773-e7b2-4d19-8c82-e1d724ae69d9> | Il barbiere di Siviglia: Atto I, Scena II. (no. 2) |
+| <https://beta.musicbrainz.org/recording/aaab1426-8049-4899-9a07-9c3cd1337005> | Grabstein für Stephan, op. 15c                     |
+| <https://beta.musicbrainz.org/recording/91d85a32-bdaa-49ec-a652-62d0bb428333> | Gruppen                                            |
+| <https://beta.musicbrainz.org/recording/c8cb48ad-a79f-4cd6-a6d3-b7ced9379916> | Stele: I. Adagio                                   |
+| <https://beta.musicbrainz.org/recording/11cb11fd-1c9f-475b-8bc0-6ee22f177758> | Stele: II. Lamentoso disperato, con moto           |
+| <https://beta.musicbrainz.org/recording/32086333-d31e-4d4c-a1a7-99d26187f9f6> | Stele: III. Molto sostenuto                        |
+| <https://beta.musicbrainz.org/recording/dd44549e-0d59-40c4-8d49-2319242fd85b> | Il Barbiere Di Siviglia: Act I, No. 9. Recitativo  |
+| <https://beta.musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0> | Il Barbiere Di Siviglia: Act I. "Alto là!"         |
+| <https://beta.musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0> | Il Barbiere Di Siviglia: Act I. "Alto là!"         |
+| <https://beta.musicbrainz.org/recording/0c4ddaa0-9f09-45c3-80eb-ac18174fabb0> | Il Barbiere Di Siviglia: Act I. "Alto là!"         |
+| <https://beta.musicbrainz.org/recording/863cda3f-9d10-406d-8f8c-18297400508e> | Il Barbiere Di Siviglia: Act II. Recitativo "Ma ve |
+| <https://beta.musicbrainz.org/recording/be18cbbb-edfd-409e-800f-7647996116de> | Il Barbiere Di Siviglia: Act II, No. 13. Quintetto |
+| <https://beta.musicbrainz.org/recording/be18cbbb-edfd-409e-800f-7647996116de> | Il Barbiere Di Siviglia: Act II, No. 13. Quintetto |
+| <https://beta.musicbrainz.org/recording/a4d25ede-8060-4c13-8e7d-1d008a7163ac> | Il Barbiere Di Siviglia: Act II, No. 14. Aria "Il  |
+| <https://beta.musicbrainz.org/recording/74402834-b9ba-4802-ac54-699be6cb1a2f> | Il Barbiere Di Siviglia: Act II, No. 15. Temporale |
+| <https://beta.musicbrainz.org/recording/7303ecec-db03-4ca5-a816-8347a2de758d> | Il Barbiere Di Siviglia: Act II, No. 16. Terzetto  |
+| <https://beta.musicbrainz.org/recording/66cacd3c-d85f-4dc1-b5f1-aecfc2146164> | MacBeth: Atto I. Scena e duetto. "Due vaticini com |
+| <https://beta.musicbrainz.org/recording/26e6a7d6-5d28-4562-9af9-2a572f022339> | MacBeth: Atto I. Scena e cavatina. "Vieni! t'affre |
+| <https://beta.musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db> | MacBeth: Atto I. Scena e sestetto - Finale I. "Di  |
+| <https://beta.musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db> | MacBeth: Atto I. Scena e sestetto - Finale I. "Di  |
+| <https://beta.musicbrainz.org/recording/fd94e602-9aa3-4d91-b341-6ff9eba8eb49> | MacBeth: Atto II. Scena ed aria. "La luce langue"  |
+| <https://beta.musicbrainz.org/recording/f9432b7f-e38f-4aac-a24f-0a82b46dd37a> | MacBeth: Atto II. Coro di sicari. "Chi osò mandarv |
+| <https://beta.musicbrainz.org/recording/1393c72a-1960-496a-a814-8c59db823fe3> | MacBeth: Atto II. Coro di sicari, gran scena. "Stu |
+| <https://beta.musicbrainz.org/recording/9501ffde-4410-4b70-94ac-9831f388b0c0> | MacBeth: Atto II. Finale II. "Va', spirto d'abisso |
+| <https://beta.musicbrainz.org/recording/9bac9ea4-7897-467b-840d-41a5d6064279> | MacBeth: Atto III. Coro d'introduzione - incantesi |
+| <https://beta.musicbrainz.org/recording/c2459a0a-59ca-4865-8f2f-59f0c671077c> | MacBeth: Atto III. Ballo. Allegro vivacissimo - Un |
+| <https://beta.musicbrainz.org/recording/07f68613-6250-49c3-b6ad-d0b241a2f2b0> | MacBeth: Atto III. Gran scena delle apparizioni. " |
+| <https://beta.musicbrainz.org/recording/334dd265-30a2-49c2-aeea-b60cb11ab648> | MacBeth: Atto III. Gran scena delle apparizioni. " |
+| <https://beta.musicbrainz.org/recording/66634214-0894-4c9f-98e2-6a4ad38e140b> | MacBeth: Atto III. Coro di streghe e ballabile. "O |
+| <https://beta.musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71> | MacBeth: Atto III. Scena e duetto - Finale III. "O |
+| <https://beta.musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71> | MacBeth: Atto III. Scena e duetto - Finale III. "O |
+| <https://beta.musicbrainz.org/recording/e867c786-be82-4647-8000-ece1e5e13dc9> | MacBeth: Atto IV. Coro di profughi scozzesi. "Patr |
+| <https://beta.musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd> | MacBeth: Atto IV. Scena ed aria. "O figli, o figli |
+| <https://beta.musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd> | MacBeth: Atto IV. Scena ed aria. "O figli, o figli |
+| <https://beta.musicbrainz.org/recording/67f96049-521a-472a-832a-c6a8c6751a24> | MacBeth: Atto IV. Gran scena del sonnambulismo. "V |
+| <https://beta.musicbrainz.org/recording/09230167-a342-41de-962b-e3fe283ac077> | MacBeth: Atto IV. Gran scena del sonnambulismo. "U |
+| <https://beta.musicbrainz.org/recording/8d76f843-0576-410e-ac05-d5e4b8fbe9a9> | MacBeth: Atto IV. Scena ed aria. "Perfidi! All'ang |
+| <https://beta.musicbrainz.org/recording/47f6e145-c8d9-4df0-95fc-7bbbf3745987> | MacBeth: Atto IV. Scena ed aria. "Pietà, rispetto, |
+| <https://beta.musicbrainz.org/recording/74e88ff8-6cfc-4d86-8d6b-0358a0064e0f> | MacBeth: Atto IV. Scena e battaglia. "Ella è morta |
+| <https://beta.musicbrainz.org/recording/80bc2255-22f8-49a3-af96-cc99103a474d> | MacBeth: Atto IV. Morte di Macbeth. "Mal per te me |
+| <https://beta.musicbrainz.org/recording/934bf578-6fe1-4035-98cd-adb4899db8e8> | MacBeth: Atto IV. Inno di vittoria - Finale. "Vitt |
+| <https://beta.musicbrainz.org/recording/0dc11aa5-4a8b-4513-baa8-07da77f2be74> | Symphonie "Mathis der Maler": I. "Engelkonzert", R |
+| <https://beta.musicbrainz.org/recording/baa7179f-0899-4d26-bc40-53a28449b6bc> | Symphonie "Mathis der Maler": II. "Grablegung", Se |
+| <https://beta.musicbrainz.org/recording/94e709c9-042c-40d3-adb6-5a104a7bd4fe> | Symphonie "Mathis der Maler": III. "Versuchung des |
+| <https://beta.musicbrainz.org/recording/1be91186-f5c7-4232-bf55-2688d14e12ae> | Nobilissima Visione: I. "Einleitung und Rondo", Se |
+| <https://beta.musicbrainz.org/recording/7fc797c6-1cfa-4fd6-8a29-d81f48cccd1a> | Nobilissima Visione: II. "Marsch und Pastorale", L |
+| <https://beta.musicbrainz.org/recording/0ac4fb64-67e0-4b4d-b44c-e260c4d98770> | Nobilissima Visione: III. "Passacaglia", Feierlich |
+| <https://beta.musicbrainz.org/recording/32129f29-4238-4c4c-ba71-0a31d6a49393> | Symphonische Metamorphosen nach Themen von Carl Ma |
+| <https://beta.musicbrainz.org/recording/45c279a9-92a5-46f2-b043-cec376c8ddd7> | Symphonische Metamorphosen nach Themen von Carl Ma |
+| <https://beta.musicbrainz.org/recording/4de599fb-2a8a-445b-ad9d-aae117e1099c> | Symphonische Metamorphosen nach Themen von Carl Ma |
+| <https://beta.musicbrainz.org/recording/243902e5-4691-4da9-9edf-7b57b3611920> | Gesang der Apollopriesterin, op. 33 no. 2          |
+| <https://beta.musicbrainz.org/recording/415b6121-35ea-409a-9308-b83d21dc609d> | Freundliche Vision, op. 48 no. 1                   |
+| <https://beta.musicbrainz.org/recording/494bba9a-7dd5-45bc-9c3d-5750e2ecbece> | Cäcilie, op. 27 no. 2                              |
+| <https://beta.musicbrainz.org/recording/926f318e-5915-4055-a280-02238f1d5d5a> | Verführung, op. 33 no. 1                           |
+| <https://beta.musicbrainz.org/recording/aa94eb1c-5c09-40ce-8c30-dee5cdd7aa7a> | Frühlingsfeier, op. 56 no. 5                       |
+| <https://beta.musicbrainz.org/recording/75549621-5c26-49a9-85d5-646a9f45b54e> | Waldseligkeit, op. 49 no. 1                        |
+| <https://beta.musicbrainz.org/recording/e891b423-13a1-43b2-84f5-869e8c401133> | Vier letzte Lieder: Frühling                       |
+| <https://beta.musicbrainz.org/recording/a3d01c6b-5221-4d46-868e-a33253b6b4cf> | Vier letzte Lieder: September                      |
+| <https://beta.musicbrainz.org/recording/25ffc915-c814-4177-9afc-3b19ba3c620c> | Vier letzte Lieder: Beim Schlafengehen             |
+| <https://beta.musicbrainz.org/recording/1f9511c0-4642-4732-bc9f-2a790e55802b> | Vier letzte Lieder: Im Abendrot                    |
+| <https://beta.musicbrainz.org/recording/a2b6a6fd-43a7-4333-b8d1-9aaa3f591571> | Manca la guida al piè: Recitativo: "È dover che lu |
+| <https://beta.musicbrainz.org/recording/7b3b5c0a-ccec-41ea-8c74-d22e50c5775c> | Manca la guida al piè: Aria: "Manca la guida al pi |
+| <https://beta.musicbrainz.org/recording/dd0eb6a2-9c2a-449b-8e2a-ce0adeeb02b0> | Il barbiere di Siviglia: Overture                  |
+| <https://beta.musicbrainz.org/recording/77fb065b-15e2-45f3-a97c-7eed9457da56> | La Cenerentola: Overture                           |
+| <https://beta.musicbrainz.org/recording/54078e4a-a36d-4bf1-819e-c92661b795b8> | L'assedio di Corinto: Overture                     |
+| <https://beta.musicbrainz.org/recording/0eadd384-51c6-4ca2-a973-1957bec81f73> | Macbeth: Prelude                                   |
+| <https://beta.musicbrainz.org/recording/d1e99a43-ffba-45a0-b2a7-10622b38f541> | Un ballo in maschera: Prelude                      |
+| <https://beta.musicbrainz.org/recording/48298a42-4aba-4d72-8a68-2f11fcceafda> | Carmen : Acte II, Nº 16. Duo « Je vais danser en v |
+| <https://beta.musicbrainz.org/recording/c0fb6287-96c8-4a21-99e3-d870551a2267> | Carmen : Acte II. « Non ! Tu ne m’aimes pas ! » (C |
+| <https://beta.musicbrainz.org/recording/65714ec3-7814-4360-b1c6-5a574e91f7db> | Carmen : Acte II, Nº 17. Finale « Holà ! Carmen !  |
+| <https://beta.musicbrainz.org/recording/3639d3b5-216f-4013-b3e9-7fac8e6c6578> | Carmen : Acte I, Nº 1. Introduction « Sur la place |
+| <https://beta.musicbrainz.org/recording/34e890dd-29dc-4961-af1c-c0a56a8c5ef9> | Carmen : Acte I. « Regardez donc cette petite » (M |
+| <https://beta.musicbrainz.org/recording/a242e5b0-2545-4a9a-b5fb-3d8bf98dcd5a> | Carmen : Acte I, Nº 2. Marche et Chœur des Gamins  |
+| <https://beta.musicbrainz.org/recording/98a023bc-a59c-463c-a6c3-069e6559a828> | Carmen : Acte I. « Dites‐moi, brigadier ? » (Zunig |
+| <https://beta.musicbrainz.org/recording/a6d8ff96-dfcf-4be1-b654-d383343bcacf> | Carmen : Acte I. « Mais nous ne voyons pas la Carm |
+| <https://beta.musicbrainz.org/recording/e63e5426-88f8-476a-a933-7ee82d2a6ba2> | Carmen : Acte I. « Quand je vous aimerai ? » / Nº  |
+| <https://beta.musicbrainz.org/recording/3e787369-289a-4fbb-87b4-de59c22dc30f> | Carmen : Acte I, Nº 5. Scène « Carmen, sur tes pas |
+| <https://beta.musicbrainz.org/recording/868afc58-5d10-4ddf-978a-5c16d406b387> | Carmen : Acte I. « Monsieur le brigadier ? » (Mica |
+| <https://beta.musicbrainz.org/recording/653189ec-1f77-40a2-b382-0b7e6470ef3c> | Carmen : Acte I, Nº 7. Chœur « Au secours ! » (Les |
+| <https://beta.musicbrainz.org/recording/e5a4c8ce-5011-4d37-b275-4b47b60832fc> | Carmen : Acte I. « Voyons, brigadier… » (Zuniga, D |
+| <https://beta.musicbrainz.org/recording/e5a4c8ce-5011-4d37-b275-4b47b60832fc> | Carmen : Acte I. « Voyons, brigadier… » (Zuniga, D |
+| <https://beta.musicbrainz.org/recording/28de2ff7-1c12-4872-ab91-bb119f56892d> | Concerto for Violin and Orchestra no. 5 in A major |
+| <https://beta.musicbrainz.org/recording/4db4a58b-705e-4e48-84f5-239e0811cb2a> | Piano Concerto, op. 42: I. Andante                 |
+| <https://beta.musicbrainz.org/recording/98358d92-e749-4f72-a7f6-8d85c8e2d9de> | Piano Concerto, op. 42: II. Molto allegro          |
+| <https://beta.musicbrainz.org/recording/b17649c6-cb52-451a-9063-07c196aefd73> | Piano Concerto, op. 42: III. Adagio                |
+| <https://beta.musicbrainz.org/recording/3eb99afa-808d-4130-a59a-d4f55b3b0d85> | Piano Concerto, op. 42: IV. Giocoso (moderato)     |
+| <https://beta.musicbrainz.org/recording/84d8a1c5-f05a-45bc-b6bc-7431833d6451> | Luisa Miller: “Oh! Fede negar potessi …”           |
+| <https://beta.musicbrainz.org/recording/0a17fd52-88da-4e3b-b96e-706f7a75a8e6> | Luisa Miller: Atto II. “Quando le sere al placido” |
+| <https://beta.musicbrainz.org/recording/df27c954-82df-4126-86d5-cec271abd6a6> | I lombardi alla prima crociata: Atto II. “La mia l |
+| <https://beta.musicbrainz.org/recording/e46d433e-1031-4ebb-bb37-ecf653aba55f> | Ernani: “Mercè, diletti amici :”                   |
+| <https://beta.musicbrainz.org/recording/703a0f1b-0bcb-4745-abbc-a8da85067547> | Ernani: “Come rugiada al cespite”                  |
+| <https://beta.musicbrainz.org/recording/1f263b7c-e7b8-4ee8-9135-27f346b61953> | Ernani: Atto I. “Dell'esilio nel dolor... O tu che |
+| <https://beta.musicbrainz.org/recording/297f35b6-49d5-47bf-bf3d-55ca4e278fc7> | Otello: “Dio, mi potevi scagliar …”                |
+| <https://beta.musicbrainz.org/recording/6ccb3426-1c2a-468c-8889-1c0f2bd8435d> | Otello: Atto III. “Ma, o pianto, o duo!”           |
+| <https://beta.musicbrainz.org/recording/0bf807e3-7bb4-4e3a-8b2e-c08594530bfe> | Otello: Atto IV. “Niun mi tema”                    |
+| <https://beta.musicbrainz.org/recording/a77aa576-2ac9-4d15-a303-b4dcc90dcdbd> | La forza del destino: Introduzione (Orchestra)     |
+| <https://beta.musicbrainz.org/recording/f0d0e5a7-e23e-4a7c-a6f4-e834414083b8> | La forza del destino: ”La vita è inferno …”        |
+| <https://beta.musicbrainz.org/recording/f821d35c-79f2-470d-9e91-05a73546965f> | La forza del destino: Atto III. “O tu in seno agli |
+| <https://beta.musicbrainz.org/recording/5b72f89c-0dab-4185-a371-adfbe079eedf> | Jérusalem : « L'émir auprès de lui m'appelle … »   |
+| <https://beta.musicbrainz.org/recording/ec92a405-9822-4a79-80d9-9079d9aaa2ee> | Jérusalem : Acte II. « Je veux encore entendre »   |
+| <https://beta.musicbrainz.org/recording/a669da55-1f12-4f98-b94e-a8997f3bb42c> | Il trovatore: Atto III. “Ah, si, ben mio”          |
+| <https://beta.musicbrainz.org/recording/44ed82e6-2538-4b8f-9245-b44490ac27c7> | Banditen-Galopp, op. 378                           |
+| <https://beta.musicbrainz.org/recording/2c03e8f5-f7c9-448a-9a77-bbc7b71bd8c9> | Il barbiere di Siviglia: Atto I, (no. 5a) “Una voc |
+| <https://beta.musicbrainz.org/recording/4332fed8-b079-4acd-9efe-bc9ef7446738> | Il barbiere di Siviglia: Atto II, Scena IX. (no. 1 |
+| <https://beta.musicbrainz.org/recording/1bd589f7-0779-48ab-9910-8960453b427f> | Aida: Atto I, scena 1. “Vieni, o diletta appressat |
+| <https://beta.musicbrainz.org/recording/1bd589f7-0779-48ab-9910-8960453b427f> | Aida: Atto I, scena 1. “Vieni, o diletta appressat |
+| <https://beta.musicbrainz.org/recording/58ba91c0-3e36-4fd1-8c27-cdda44cc697c> | Aida: Atto II, scena 1. “Pietà ti prenda del mio d |
+| <https://beta.musicbrainz.org/recording/3a717c59-52b1-41d9-b101-bf71184db94a> | Aida: Atto II, scena 2. “Il dolor che in quel volt |
+| <https://beta.musicbrainz.org/recording/8119aba5-73b7-4e38-8112-8309c82d117b> | Aida: Atto IV, scena 1. Duetto “Già i Sacerdoti ad |
+| <https://beta.musicbrainz.org/recording/33da0ce1-2dd0-425b-8bf7-d3e6da3f4ce5> | Keqrops                                            |
+| <https://beta.musicbrainz.org/recording/4ccb589e-a98e-4e9e-b00f-7faf2ccce1b5> | Piano Concerto no. 2 in C minor, op. 18            |
+| <https://beta.musicbrainz.org/recording/484a50d1-1376-45c5-a4d4-519a8676f21b> | The Tempest, op. 18                                |
+| <https://beta.musicbrainz.org/recording/5caae2d8-22ab-4c08-9422-3ee5870790d5> | The Firebird (Concert Suite 1919)                  |
+| <https://beta.musicbrainz.org/recording/b9b67cc1-378c-4ace-a5d7-1d38c2f695f7> | Chi non ode e chi non vede: Aria: “Chi non ode e c |
+| <https://beta.musicbrainz.org/recording/74a1b272-7df7-4edb-8730-5537e3a28367> | Chi non ode e chi non vede: Recitativo: “Di costei |
+| <https://beta.musicbrainz.org/recording/4dc34cc7-7896-4f00-943f-fd7912f16a74> | Chi non ode e chi non vede: Largo: “Tu dovresti, A |
+| <https://beta.musicbrainz.org/recording/50cd2570-7e84-4635-bd0a-6ee6453fcedb> | Chi non ode e chi non vede: Recitativo: “Ma dove i |
+| <https://beta.musicbrainz.org/recording/9c2d591b-cc6c-49fc-b626-ef05da4036b9> | Chi non ode e chi non vede: Largo stentato: “Miser |
+| <https://beta.musicbrainz.org/recording/a75e94ed-004f-414a-b329-05498c31b8a5> | Chi non ode e chi non vede: Aria. Presto: “Cadrò c |
+| <https://beta.musicbrainz.org/recording/fb697fe3-e8c0-4138-beb1-e9d7c0020d47> | Dixit Dominus: VI. Dominus a dextris tuis          |
+| <https://beta.musicbrainz.org/recording/0d7c199b-6932-4469-881a-db166115e5f1> | Aida: Atto IV, scena 2. “Immenso Fthà... O terra,  |
+| <https://beta.musicbrainz.org/recording/0d7c199b-6932-4469-881a-db166115e5f1> | Aida: Atto IV, scena 2. “Immenso Fthà... O terra,  |
+| <https://beta.musicbrainz.org/recording/043bc766-b58b-46d3-bd32-cdf284a91df0> | Flötenkonzert no. 2 D-dur, KV 314: II. Adagio ma n |
+| <https://beta.musicbrainz.org/recording/127fb839-984e-4d01-9649-79fea8b62d0f> | Dixit Dominus: I. Dixit Dominus                    |
+| <https://beta.musicbrainz.org/recording/10bc682c-6bdb-4025-a274-02341affe1d2> | Dixit Dominus: II. Virgam virtutis                 |
+| <https://beta.musicbrainz.org/recording/b56efcfb-6ed7-45ea-9f04-8793bcaa8dc4> | Dixit Dominus: III. Dominare                       |
+| <https://beta.musicbrainz.org/recording/ee818918-1b8d-43b7-8421-fb7928a91ede> | Dixit Dominus: IV. Tecum principium                |
+| <https://beta.musicbrainz.org/recording/2473f258-1feb-409f-b43d-bcd2df181c02> | Dixit Dominus: V. Juravit Dominus                  |
+| <https://beta.musicbrainz.org/recording/9e869ab9-63e1-4c72-9490-43e66a153e5b> | Dixit Dominus: VII. Gloria Patri                   |
+| <https://beta.musicbrainz.org/recording/9780534a-1b30-4c80-8bb8-9f9dcccb9afd> | Konzert für Klavier und Orchester, op. 42: Molto a |
+| <https://beta.musicbrainz.org/recording/efe0cf30-b088-4e9d-9395-d2989e28ad10> | Macbeth: Atto I, scena 1. “Giorno non vidi mai si  |
+| <https://beta.musicbrainz.org/recording/6e7d0569-0c8a-4e44-8a20-1ad449cc59d3> | Macbeth: Atto I, scena 2. “Nel di della vittoria i |
+| <https://beta.musicbrainz.org/recording/7a93f1c1-c168-4e0b-b833-33682cb2919c> | Macbeth: Atto I, scena 2. “Oh donna mia!”          |
+| <https://beta.musicbrainz.org/recording/8849dbd7-c53e-4bb8-b757-6cb327ef0041> | Macbeth: Atto I, scena 2. “Sappia la sposa mia, ch |
+| <https://beta.musicbrainz.org/recording/fcdaac55-d367-4ce0-b126-a401a3d921ec> | Macbeth: Atto II, scena 1. “Perché mi sfuggi”      |
+| <https://beta.musicbrainz.org/recording/69f8d804-6641-4438-beb6-825c3c9ccb7c> | Macbeth: Atto II, scena 2. “Chi v'impose unirvi a  |
+| <https://beta.musicbrainz.org/recording/9d234d9b-87c6-44b1-868f-43dcbce7b84a> | Macbeth: Atto II, scena 2. “Studia il passo, o mio |
+| <https://beta.musicbrainz.org/recording/ac4d03e1-caf6-4093-bdef-f0398bdb5312> | Macbeth: Atto II, scena 3. “Salve, o Re!”          |
+| <https://beta.musicbrainz.org/recording/1f4b29b7-2014-4d8c-b14c-d2c7eb09fe2f> | Macbeth: Atto III. “Finche appelli, silenti m'atte |
+| <https://beta.musicbrainz.org/recording/1c6d1b97-54d2-4983-ad37-911a5efbe28f> | Macbeth: Atto III. “Ondine e Silfidi dall'ali cand |
+| <https://beta.musicbrainz.org/recording/b74bf2e0-3718-4c35-9ba9-3fef0f78b840> | Macbeth: Atto III. “Ove son io?”                   |
+| <https://beta.musicbrainz.org/recording/7748fe5f-a7a8-414f-a68e-5ad9220297fe> | Macbeth: Atto IV, scena 1. “Patria oppressa!”      |
+| <https://beta.musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d> | Macbeth: Atto IV, scena 1. “O figli, o figli miei! |
+| <https://beta.musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d> | Macbeth: Atto IV, scena 1. “O figli, o figli miei! |
+| <https://beta.musicbrainz.org/recording/e277accc-2ed8-47e5-927f-4e0247a22ef4> | Macbeth: Atto IV, scena 2. “Vegliammo invan due no |
+| <https://beta.musicbrainz.org/recording/39c2bce1-b9ef-4c98-a17a-e4a88581a967> | Macbeth: Atto IV, scena 3. “Perfidi! All'anglo con |
+| <https://beta.musicbrainz.org/recording/b96a215d-5a52-4b17-b146-04b597a20e73> | Macbeth: Atto IV, scena 3. “Ella e morta!”         |
+| <https://beta.musicbrainz.org/recording/0896e911-a991-4fea-92a7-04a4a3564b42> | Macbeth: Atto IV, scena 4. “Vittoria!”             |
+| <https://beta.musicbrainz.org/recording/09e0afae-c10c-4e28-ba5f-03b494bf9962> | La Cenerentola: Atto I. Introduzione "O figlie ama |
+| <https://beta.musicbrainz.org/recording/d821722b-eb22-4174-8a5d-8f3edaace3ff> | La Cenerentola: Atto I. Cavatina "Miei rampolli fe |
+| <https://beta.musicbrainz.org/recording/2944e32a-5c6c-47fb-bb24-c04784b3dc61> | La Cenerentola: Atto I. Scena "Tutto è deserto" (R |
+| <https://beta.musicbrainz.org/recording/d476f962-0113-462f-b84a-7c0cb0bc67df> | La Cenerentola: Atto I. Coro "Scegli la sposa" - C |
+| <https://beta.musicbrainz.org/recording/f539f0b3-e98a-4819-8eb9-5918e9be75f9> | La Cenerentola: Atto I. Reitativo "Allegrissimamen |
+| <https://beta.musicbrainz.org/recording/67191e5c-e7f5-4fc9-9a3f-9e17b987ac17> | La Cenerentola: Atto I. Quintetto "Signor, una par |
+| <https://beta.musicbrainz.org/recording/0ff8da54-c8d2-4ad7-84b4-d5b65755a710> | La Cenerentola: Atto I. Aria "Là del ciel nell'arc |
+| <https://beta.musicbrainz.org/recording/6169f05d-aebd-48ca-b6c5-74c0e6cf8934> | La Cenerentola: Atto I. Coro "Conciossiacosacché"  |
+| <https://beta.musicbrainz.org/recording/f238aa32-f116-4847-8a6f-6c5b8a309dee> | La Cenerentola: Atto II. Recitativo "Mi par che qu |
+| <https://beta.musicbrainz.org/recording/d5b91d48-6f95-4142-a203-92a0ac0db115> | La Cenerentola: Atto II. Aria "Sì, ritrovarla io g |
+| <https://beta.musicbrainz.org/recording/aa55058b-132a-47f4-967c-263ae916a4b7> | La Cenerentola: Atto II. Duetto "Un segreto d'impo |
+| <https://beta.musicbrainz.org/recording/a7141a15-c994-4fb8-92f1-d6959c4c689b> | La Cenerentola: Atto II. Canzone "Una volta c'era  |
+| <https://beta.musicbrainz.org/recording/b582a2ad-0d6b-493c-ab03-cceaca319226> | La Cenerentola: Atto II. Temporale - Recitativo "S |
+| <https://beta.musicbrainz.org/recording/798a5be1-ec1f-4b1d-b8df-d112fca93d36> | La Cenerentola: Atto II. Sestetto "Siete voi?" - " |
+| <https://beta.musicbrainz.org/recording/58545c8a-8ded-4352-9d22-aa870027a060> | La Cenerentola: Atto II. Sestetto "Donna sciocca!  |
+| <https://beta.musicbrainz.org/recording/2cb6c3ac-4f26-47e0-97f5-94ebd4386df2> | La Cenerentola: Atto II. Finale II. Coro "Della fo |
+| <https://beta.musicbrainz.org/recording/834e37af-7f82-497d-8734-1f77c682ab12> | La Cenerentola: Finale II. Scena "Sposa" - "Signor |
+| <https://beta.musicbrainz.org/recording/ad982025-44ea-4b1c-92db-d6ce88e88df7> | Wo die Zitronen blüh'n, op. 364 (Walzer)           |
+| <https://beta.musicbrainz.org/recording/af2798fc-dc65-4c98-8959-c0f59ce5833f> | Die Walküre: Act I, Scene II. "Ich weiß ein wildes |
+| <https://beta.musicbrainz.org/recording/2648c525-c75f-4e2d-a0a2-a32dbb87414c> | Die Walküre: Act II, Scene I. "Nun zäume dein Roß" |
+| <https://beta.musicbrainz.org/recording/d9086be6-474f-48a6-8498-392056151c3b> | Ameriques                                          |
+| <https://beta.musicbrainz.org/recording/ecc6c9d6-c920-4fda-bbad-5babdd30b8f3> | Gurre-Lieder, Part I: no. 1: Orchestral Prelude    |
+| <https://beta.musicbrainz.org/recording/d51ad16b-9df4-4f3c-8327-23d9cb923504> | Das Rheingold: Szene III. Hehe! hehe! hieher! hieh |
+| <https://beta.musicbrainz.org/recording/ab8a6a8c-517f-4540-b573-c67680c402f3> | Friede auf Erden, op. 13                           |
+| <https://beta.musicbrainz.org/recording/d70d2e55-b8b3-41d3-a176-ddf12ec5a981> | Das Rheingold: Szene III. Verwandlumgsmusik        |
+| <https://beta.musicbrainz.org/recording/c5fa5d08-07f1-40cd-b926-378c7b090e18> | Das Rheingold: Szene IV. Wohlan, die Nibelungen ri |
+| <https://beta.musicbrainz.org/recording/44d927e3-c673-4f96-a3bd-fda704a4aec7> | Das Rheingold: Szene IV. Zu deiner Lösung mußt du  |
+| <https://beta.musicbrainz.org/recording/58e33906-aef3-45a4-a728-75b8a3365975> | Das Rheingold: Szene IV. Lauschtest du seinem Lieb |
+| <https://beta.musicbrainz.org/recording/5d1ba52d-76f2-450e-8ed1-745727d2ec69> | Das Rheingold: Szene IV. Halt! Nicht sie berürth!  |
+| <https://beta.musicbrainz.org/recording/4ed2d60a-bd4b-43a9-ba05-09e7f57af5ea> | Das Rheingold: Szene IV. Nicht so leicht und locke |
+| <https://beta.musicbrainz.org/recording/3247ec81-2ac7-47a2-91c0-20086d6ee80e> | Parsifal: Nun achte wohl, und laß mich seh'n - Zum |
+| <https://beta.musicbrainz.org/recording/ded5c35f-03be-4d59-b034-88a66f1071a4> | Die Walküre: Act III, Scene I. Ritt der Walküren   |
+| <https://beta.musicbrainz.org/recording/b87be973-d45a-40af-bbcd-81275eb675eb> | ...Explosante-fixe...                              |
+| <https://beta.musicbrainz.org/recording/6be30997-7e23-4805-9545-5f695d071419> | The Firebird: Infernal Dance                       |
+| <https://beta.musicbrainz.org/recording/c1b1d690-6ef2-4383-a340-3a0a6259663b> | Fuga (Ricercata) (after Musical Offering BWV 1079: |
+| <https://beta.musicbrainz.org/recording/a1ea7b8a-a36b-438e-91c0-adc2db5519d3> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/c2290955-00c6-49a8-aa90-87e10bef9379> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/ff882a82-69e0-41aa-b7b7-123bd404decf> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/36d04abe-a2cc-4271-a701-d967c6625a30> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/f18cf14e-546b-420c-a0a9-99970d5a01a3> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/6cffc803-ea16-4c9d-a92b-39981db2e742> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/f863a4c7-8350-4f95-a990-5738c5e38b4d> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/e4767b06-732a-424e-9385-f4de2f48be09> | Le Sacre du Printemps: Premiere Partie - L'Adorati |
+| <https://beta.musicbrainz.org/recording/5e3e3fb5-17ed-4089-8e6c-85f522499d6a> | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
+| <https://beta.musicbrainz.org/recording/c1360255-a5b2-4513-846b-32e41b4b943e> | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
+| <https://beta.musicbrainz.org/recording/d946dedf-8ffd-4f02-833d-c161d3584995> | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
+| <https://beta.musicbrainz.org/recording/6ca07f70-ae13-4084-90a2-fd30fe013c58> | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
+| <https://beta.musicbrainz.org/recording/98773ca4-9399-4fa1-990a-9ee70a7f5fc8> | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
+| <https://beta.musicbrainz.org/recording/a37f3986-611d-46f9-80c7-a0c59d8f311f> | Le Sacre du Printemps: Seconde Partie - Le Sacrifi |
+| <https://beta.musicbrainz.org/recording/30537dd2-44f0-48bd-a5cd-48e5924cdc53> | Four Etudes for Orchestra: Danse                   |
+| <https://beta.musicbrainz.org/recording/b5f47e07-0408-4395-9f75-377fdb2df628> | Four Etudes for Orchestra: Excentrique             |
+| <https://beta.musicbrainz.org/recording/6cfcc0bf-28fa-4997-9c9b-3be51a34a8ee> | Four Etudes for Orchestra: Cantique                |
+| <https://beta.musicbrainz.org/recording/8e9a0904-2031-4c7a-949a-87d2a23e71cb> | Four Etudes for Orchestra: Madrid                  |
+| <https://beta.musicbrainz.org/recording/34ff9735-4285-4daf-b4fe-7c8ee1d4d214> | Sechs Stücke für großes Orchestrer, op. 6          |
+| <https://beta.musicbrainz.org/recording/52fbf1da-3ed1-4f20-ab63-75e3bc4e7365> | Così fan tutte: Overture                           |
+| <https://beta.musicbrainz.org/recording/e1781b70-af17-4dc1-a139-17d211835764> | Symphony no. 31 in D major, K. 300a/297 "Paris": I |
+| <https://beta.musicbrainz.org/recording/42be3004-132b-4f27-9545-2764ed0918a4> | Die Zauberflöte: Act I. Nr. 8 Finale: »Zum Ziele f |
+| <https://beta.musicbrainz.org/recording/5e78474c-46e5-4431-bd27-d71599691df2> | Il dissoluto punito, ossia il Don Giovanni, K. 527 |
+| <https://beta.musicbrainz.org/recording/248d18f4-5162-42f1-92bb-69da09821be7> | Die Zauberflöte, K. 620: Act II, Scene XXIX. "Papa |
+| <https://beta.musicbrainz.org/recording/2ed2732d-1c36-4d79-b8ca-02422f1998ba> | Don Juan                                           |
+| <https://beta.musicbrainz.org/recording/22dd3ecb-0e89-484f-854b-33da5079e097> | Der Rosenkavalier, Op. 59: Waltzes from Act III    |
+| <https://beta.musicbrainz.org/recording/d971d2d7-ddb1-4020-a046-a19cac390290> | Konzert für Horn und Orchester No. 3 Es-dur, KV 44 |
+| <https://beta.musicbrainz.org/recording/c2465b04-2e72-4e5e-9f84-821df67b72d2> | Fidelio: Act I, No. 10. "Nun sprecht, wie ging's?" |
+| <https://beta.musicbrainz.org/recording/eae9863c-3819-4401-a702-4dddbe10f615> | Symphony No. 6 in F major, Op. 68 "Pastorale": V.  |
+| <https://beta.musicbrainz.org/recording/a030d729-c9eb-42dd-a033-7ad65823c7d3> | Die Zauberflöte: Act II. Nr. 21 Finale: »Tamino me |
+| <https://beta.musicbrainz.org/recording/884c3e69-7ea2-499f-98dc-4a6df91e35a1> | Konzert für Horn und Orchester Nr. 1 D-dur KV 412: |
+| <https://beta.musicbrainz.org/recording/7d8e5930-0e49-41b4-8dc2-1669e4fa2c6f> | Requiem in D minor, K. 626: 3. Sequentia: Dies ira |
+| <https://beta.musicbrainz.org/recording/2d2e73e1-fda5-431a-8e2d-d82ca5a6bfb0> | Der Rosenkavalier: Akt I. Einleitung / “Wie du war |
+| <https://beta.musicbrainz.org/recording/ad05df74-7114-4c20-8d00-74eccfa4f7bb> | Der Rosenkavalier: Akt I. “Er Katzenkopf, Er Unvor |
+| <https://beta.musicbrainz.org/recording/e8723989-d7e5-4295-819f-b4c858ddfba3> | Der Rosenkavalier: Akt I. “Selbstverständlich empf |
+| <https://beta.musicbrainz.org/recording/cc830b63-a943-4356-97e7-c89f178f7245> | Der Rosenkavalier: Akt I. “Hat Sie schon einmal mi |
+| <https://beta.musicbrainz.org/recording/a517557a-2fed-4539-8379-dfa51ddd3930> | Der Rosenkavalier: Akt I. “I komm' glei” - “Drei a |
+| <https://beta.musicbrainz.org/recording/fc035cec-0d4a-41bb-bacf-9cc8f39a9c69> | Der Rosenkavalier: Akt I. “Di rigori armato il sen |
+| <https://beta.musicbrainz.org/recording/372126ed-89eb-4301-a600-4a79f376aca6> | Der Rosenkavalier: Akt I. “Als Morgengabe - ganz s |
+| <https://beta.musicbrainz.org/recording/c77648a2-737e-4848-b910-200b338ca011> | Der Rosenkavalier: Akt I. “Da geht er hin, der auf |
+| <https://beta.musicbrainz.org/recording/30504c0c-4eb3-4a57-aa9c-7b8582efb8ce> | Der Rosenkavalier: Akt I. “Ach, du bist wieder da! |
+| <https://beta.musicbrainz.org/recording/897e0c86-9cd4-4b11-a942-24ac0d99dc6f> | Der Rosenkavalier: Akt I. “Die Zeit, die ist ein s |
+| <https://beta.musicbrainz.org/recording/12abd029-4547-40c7-9701-88c50d744a2a> | Der Rosenkavalier: Akt II. Einleitung / “Ein ernst |
+| <https://beta.musicbrainz.org/recording/c08a0b15-22a4-403e-92c9-5b8a6c448a83> | Der Rosenkavalier: Akt II. “Mir ist die Ehre wider |
+| <https://beta.musicbrainz.org/recording/f165e4fe-d8b2-44da-b10d-439e671f06cc> | Der Rosenkavalier: Akt II. “Ich kenn' Ihn schon re |
+| <https://beta.musicbrainz.org/recording/4a584abc-6bb6-4a20-8910-2a0f2797160d> | Der Rosenkavalier: Akt II. “Jetzt aber kommt mein  |
+| <https://beta.musicbrainz.org/recording/98c69028-0795-44e8-9e17-bb80b62edc89> | Der Rosenkavalier: Akt II. “Wird Sie das Mannsbild |
+| <https://beta.musicbrainz.org/recording/745c683c-59be-4c1c-9509-4ec1da2df18a> | Der Rosenkavalier: Akt II. “Herr Baron von Lerchen |
+| <https://beta.musicbrainz.org/recording/e22a37bd-575f-4a17-b9f0-9b285da43b5d> | Der Rosenkavalier: Akt II. “Da lieg' ich! Was eine |
+| <https://beta.musicbrainz.org/recording/b8e8d32b-686e-4168-8e99-89cc21def670> | Der Rosenkavalier: Akt III. Einleitung und Pantomi |
+| <https://beta.musicbrainz.org/recording/58003f9b-9497-41ce-9c2f-54a618b49ed7> | Der Rosenkavalier: Akt III. Walzer - “Hab'n Euer G |
+| <https://beta.musicbrainz.org/recording/22602871-30bb-4e7e-bc01-d7e94d1301db> | Der Rosenkavalier: Akt III. “Die schöne Musi!” (Oc |
+| <https://beta.musicbrainz.org/recording/dec9f7f2-f347-42e7-a6e1-a9f5177e9e41> | Der Rosenkavalier: Akt III. “Er ist es! Es ist mei |
+| <https://beta.musicbrainz.org/recording/7d4d8ed1-a551-4240-82fe-360a3b7c89af> | Der Rosenkavalier: Akt III. “Bin glücklich über Ma |
+| <https://beta.musicbrainz.org/recording/72e14405-d2de-4eb1-8842-83c88bde0251> | Der Rosenkavalier: Akt III. “Leopold, wir gehn!” ( |
+| <https://beta.musicbrainz.org/recording/9b31e0a9-edb6-493e-a06a-77a43b3fc00e> | Der Rosenkavalier: Akt III. “Mein Gott, es war nic |
+| <https://beta.musicbrainz.org/recording/29a0a02d-2c1c-4f65-8a6f-468f4f98591e> | Der Rosenkavalier: Akt III. “Marie Theres'!” ... “ |
+| <https://beta.musicbrainz.org/recording/6159e6bb-20c4-4ed3-ad1b-e38856e5a367> | Der Rosenkavalier: Akt III. “Ist ein Traum, kann n |
+| <https://beta.musicbrainz.org/recording/f87deec3-f6f2-4ece-9e40-7156788b2555> | Wozzeck: Erster Akt: »Langsam, Wozzeck, langsam!«  |
+| <https://beta.musicbrainz.org/recording/69ca40e6-eb50-4638-85d2-f5697d35723d> | Wozzeck: Erster Akt: »Du, der Platz ist verflucht! |
+| <https://beta.musicbrainz.org/recording/8a5db668-ae6e-4408-937a-fcb0dacbb95b> | Wozzeck: Erster Akt: »Tschin Bum...! Hörst Bub? Da |
+| <https://beta.musicbrainz.org/recording/ff7a4f6c-0b2f-4a02-a400-ba3c4a511031> | Wozzeck: Erster Akt: »Was erleb' ich, Wozzeck?«    |
+| <https://beta.musicbrainz.org/recording/bb94e6b7-f765-442b-aa7b-ff76e185a4a2> | Wozzeck: Erster Akt: »Geh einmal vor Dich hin...«  |
+| <https://beta.musicbrainz.org/recording/bb519352-2e0b-4f0c-ab9e-02e0845d7c53> | Wozzeck: Zweiter Akt: Orchester-Einleitung · »Was  |
+| <https://beta.musicbrainz.org/recording/2e11670b-626f-4a98-8c3f-bad0048c7d5a> | Wozzeck: Zweiter Akt: »Wohin so eilig, geehrtester |
+| <https://beta.musicbrainz.org/recording/e99b3276-87c4-4e32-b9b8-5c3736188421> | Wozzeck: Zweiter Akt: Verwandlung · Überleitende T |
+| <https://beta.musicbrainz.org/recording/1f50b1ee-5c1f-40aa-9731-2d1c2e188b2a> | Wozzeck: Zweiter Akt: »Ich hab' ein Hemdlein an, d |
+| <https://beta.musicbrainz.org/recording/103ebc86-966c-4d13-9c12-5ec45ebedf34> | Wozzeck: Zweiter Akt: »Oh! oh! Andres! Ich kann ni |
+| <https://beta.musicbrainz.org/recording/d3d6a755-571e-41bb-abf2-f5cea7f803f1> | Wozzeck: Dritter Akt: »Und ist kein Betrug in sein |
+| <https://beta.musicbrainz.org/recording/59c26b7f-cd46-4ea2-b1fd-199744390167> | Wozzeck: Dritter Akt: »Dort links geht's in die St |
+| <https://beta.musicbrainz.org/recording/e82a713f-d93f-4855-905c-4a36db9141c6> | Wozzeck: Dritter Akt: »Tantz Alle; tantz nur zu... |
+| <https://beta.musicbrainz.org/recording/e22d1230-e1a6-4424-b8f9-decfbb1dd312> | Wozzeck: Dritter Akt: Verwandlung · Orchester-Nach |
+| <https://beta.musicbrainz.org/recording/801f4811-3534-49c1-9519-d0b0af666689> | Fidelio, op. 72: Act II. No. 11 Introduction and A |
+| <https://beta.musicbrainz.org/recording/2823f625-4952-4b8e-a60e-d6f0610e8951> | Salome: Scene I. "Wie Schon Ist Die Prinzessin Sal |
+| <https://beta.musicbrainz.org/recording/13999749-3299-4ef0-abc0-a1ef7d5c43b9> | Salome: Scene II. "Ich Will Nicht Bleiben"         |
+| <https://beta.musicbrainz.org/recording/9d351ff1-6204-4906-bac9-f874e3fb5711> | Salome: Scene III. "Wo Ist Er, Dessen Sundebecher  |
+| <https://beta.musicbrainz.org/recording/0dacd7a4-798a-41cf-b6dc-abdd01f0d644> | Salome: Scene III. "Ich Will Ihn Naher Beseh'n"    |
+| <https://beta.musicbrainz.org/recording/0ed5a054-7c6f-4be4-9cdb-79062fcc68e7> | Salome: Scene III. "Tiemals, Tochter Babylons, Toc |
+| <https://beta.musicbrainz.org/recording/ee29dab8-4fe4-43f4-8c06-4c2b8ca69876> | Salome: Scene IV. "Wo Ist Salome? Wo Ist Die Prinz |
+| <https://beta.musicbrainz.org/recording/0d666534-02a3-4609-af83-20a51c1e1ada> | Salome: Scene IV. "Salome, Komm, Trink Mit Mir"    |
+| <https://beta.musicbrainz.org/recording/5a2abf4e-cb25-40c7-88f1-a1e4b0eb9916> | Salome: Scene IV. "Tanz Fur Mich, Salome!"         |
+| <https://beta.musicbrainz.org/recording/0c466275-c884-4142-a9d2-5272fcaffa8f> | Salome: Scene IV. Salomes Tanz                     |
+| <https://beta.musicbrainz.org/recording/3558188b-c6bc-4a55-86cf-8f125a5d4802> | Salome: Scene IV. "Ah! Herrlich, Wundervoll!"      |
+| <https://beta.musicbrainz.org/recording/7aab9a2b-8bd8-468f-8d64-b7d2bce7313d> | Salome: Scene IV. "Salome, Bedenk, Was Du Tun Will |
+| <https://beta.musicbrainz.org/recording/0781c9c4-f661-45db-8002-52cae5ee6c93> | Salome: Scene IV. "Ah! Du Wolltest Mich Nicht Dein |
+| <https://beta.musicbrainz.org/recording/bad3f1f4-8443-4922-b5c7-06529a75f48b> | Salome: Scene IV. "Ah! Ich Habe Deinen Mund GekusB |
+| <https://beta.musicbrainz.org/recording/4b3b5c30-3b80-4732-a0e6-ff6e4b9790a3> | Ariadne auf Naxos: Sein Wir Wieder Gut (Finalszene |
+| <https://beta.musicbrainz.org/recording/32f85d5a-2421-48e2-a229-cf8d3f0464f8> | Ariadne auf Naxos: Wo War Ich? Tot? Und Lebe (Szen |
+| <https://beta.musicbrainz.org/recording/1ece3a95-788d-4648-8282-ecb0b0eaca9c> | Ariadne auf Naxos: Großmächtige Prinzessin (Arie d |
+| <https://beta.musicbrainz.org/recording/836a8e18-bad2-4ef4-bada-a9db6a98ede4> | Die Frau Ohne Schatten: Was Wollt Ihr Hier? Wo Kom |
+| <https://beta.musicbrainz.org/recording/326b406c-c14e-42d7-b7ef-21028151684f> | Die Frau Ohne Schatten: Vater Bist Du's? (Szene au |
+| <https://beta.musicbrainz.org/recording/47c07371-6073-4ca8-bc9b-59e25dee2399> | Capriccio: Morgen Mittag Um Elf! (Monolog der Gräf |
+| <https://beta.musicbrainz.org/recording/9531b7b1-3401-44f9-b9fc-90638f807743> | Daphne: Unheilvolle Daphne! Weil Ein Gott Dich Gel |
+| <https://beta.musicbrainz.org/recording/939b1e4b-d53a-4d87-b5e8-6a26de2f6c13> | Elektra: Wer Bist Denn Du? (Szene Orest - Elektra) |
+| <https://beta.musicbrainz.org/recording/27132863-ef17-4ad1-a59f-775749fdf9b9> | Ariadne auf Naxos: Es Gibt Ein Reich, Wo Alles Rei |
+| <https://beta.musicbrainz.org/recording/9e3b3561-a214-4808-b599-45ab232d0cec> | Ein Heldenleben, op. 40: I. Der Herd               |
+| <https://beta.musicbrainz.org/recording/b5a2ffaa-d86c-4a84-9017-32ccad9a6135> | Ein Heldenleben, op. 40: II. Des Helden Widersache |
+| <https://beta.musicbrainz.org/recording/d339b7f4-2f71-41a1-9373-725c6ecc541d> | Ein Heldenleben, op. 40: III. Des Helden Gefahrtin |
+| <https://beta.musicbrainz.org/recording/15febf88-517a-470a-90d7-aff48e0639a7> | Ein Heldenleben, op. 40: IV. Des Helden Walstatt   |
+| <https://beta.musicbrainz.org/recording/efb6fb6e-ed78-48ed-b0c4-a4bfdb952aba> | Ein Heldenleben, op. 40: V. Des Helden Friedenswer |
+| <https://beta.musicbrainz.org/recording/54199678-aca5-4725-bb36-cff3bd5abe6c> | Ein Heldenleben, op. 40: VI. Des Helden Weltflucht |
+| <https://beta.musicbrainz.org/recording/ed0ab27c-af2c-4d9c-bcc6-b1b44544263d> | I. Adagio - Allegro non troppo                     |
+| <https://beta.musicbrainz.org/recording/a7d01635-6338-4691-a7f4-ac6a6b9e3519> | II. Allegro con grazia                             |
+| <https://beta.musicbrainz.org/recording/ea33f80b-6a77-436e-bc67-aaf6379a7e6f> | III. Allegro molto vivace                          |
+| <https://beta.musicbrainz.org/recording/d720caec-1e35-44da-80ee-67a2a0ab0ca1> | IV. Finale. Adagio lamentoso - Andante             |
+| <https://beta.musicbrainz.org/recording/d1f948b3-297e-45b7-aaf2-e8ba3c64b393> | Les Contes d’Hoffmann : Frantz, n’ouvre à personne |
+| <https://beta.musicbrainz.org/recording/f522540e-da4c-4775-9215-d97486a23cfd> | Hänsel und Gretel: Act I. “Brüderchen, komm tanz’  |
+| <https://beta.musicbrainz.org/recording/df4f6a7a-11fd-47e8-a252-5d4601137783> | Symphony no. 8 'Unfinished", D. 759, Allegro moder |
+| <https://beta.musicbrainz.org/recording/af26c0d1-f354-4c7a-82de-4e772587f66d> | Faust: Act I                                       |
+| <https://beta.musicbrainz.org/recording/c6c1b6fa-4332-44b7-8f03-e08e1c524d9a> | Faust: Act II                                      |
+| <https://beta.musicbrainz.org/recording/fb5b452c-34b7-4746-9943-a119bdf03636> | Faust: Act III                                     |
+| <https://beta.musicbrainz.org/recording/7f1149f6-ccfd-4b3d-8c73-1522577d9228> | Faust: Act IV                                      |
+| <https://beta.musicbrainz.org/recording/698c737c-3728-47f8-bb8f-64bf7e0556e5> | Faust: Act V                                       |
+| <https://beta.musicbrainz.org/recording/80c9908c-2e8f-4699-804f-c09fb149b29d> | Sur la mer calmée                                  |
+| <https://beta.musicbrainz.org/recording/1ee37495-10a7-4a4c-b432-fa9ad3d25ecf> | Symphony in D minor: I. Lento                      |
+| <https://beta.musicbrainz.org/recording/318283c9-4bf0-4c8a-b4e1-a8d48e66b482> | Symphony in D minor: II. Allegretto                |
+| <https://beta.musicbrainz.org/recording/67d62cca-29c9-448e-a307-73f891c23a77> | Symphony in D minor: III. Allegro non troppo       |
+| <https://beta.musicbrainz.org/recording/75cfe951-eaa2-4fa6-a322-b081f47bf918> | Symphony No. 2 in D major, Op. 73: I. Allegro non  |
+| <https://beta.musicbrainz.org/recording/f9f73256-c3ef-4864-9740-4a73a3f6b137> | Symphony no. 8 in C minor: I. Allegro moderato     |
+| <https://beta.musicbrainz.org/recording/b655519b-1a3c-4b22-99cc-84793e8a7813> | Symphony no. 8 in C minor: II. Scherzo: Allegro mo |
+| <https://beta.musicbrainz.org/recording/70a131b0-3e0b-42aa-aed5-c6f739da7d88> | Symphony no. 8 in C minor: III. Adagio. Feierlich  |
+| <https://beta.musicbrainz.org/recording/efbfe005-bed2-4fc3-9562-c3e04c392b8c> | Symphony no. 8 in C minor: IV. Finale: Feilerlich, |
+| <https://beta.musicbrainz.org/recording/badf49c0-cd86-43a7-802b-47a4ce258c87> | Symphony no. 9 in D minor, op. 125 "Choral": I. Al |
+| <https://beta.musicbrainz.org/recording/fa433000-cb6b-454f-a032-6e9df10e424f> | Symphony no. 9 in D minor, op. 125 "Choral": II. M |
+| <https://beta.musicbrainz.org/recording/d41172f4-69a7-4b39-94e3-b5ec9f400dff> | Symphony no. 9 in D minor, op. 125 "Choral": III.  |
+| <https://beta.musicbrainz.org/recording/b7e745d8-3761-42da-9503-e37494ba6dd4> | Symphony no. 2 in D major, op. 36: I. Adagio molto |
+| <https://beta.musicbrainz.org/recording/8ae1c990-a517-4ae3-8780-bd7c8a613261> | Symphony no. 2 in D major, op. 36: II. Larghetto   |
+| <https://beta.musicbrainz.org/recording/42a86ad9-26be-4177-8a48-968fa0d79f58> | Symphony no. 2 in D major, op. 36: III. Scherzo. A |
+| <https://beta.musicbrainz.org/recording/25698dd7-b619-4609-89a9-5d190b4679dd> | Symphony no. 2 in D major, op. 36: IV. Allegro mol |
+| <https://beta.musicbrainz.org/recording/5ee526c4-d4f5-46ce-b663-d3a9daacec21> | Concerto for Violin and large Chamber Orchestra: I |
+| <https://beta.musicbrainz.org/recording/fe67ce91-224c-48b1-b15c-76d09c55dd30> | Concerto for Violin and large Chamber Orchestra: I |
+| <https://beta.musicbrainz.org/recording/4241a817-d5a6-4cc6-b243-a74b0ac74a65> | Concerto for Violin and large Chamber Orchestra: I |
+| <https://beta.musicbrainz.org/recording/3c3c8f64-e978-4d7a-a36b-564d16c80a83> | Concertante Musik für Orchester, Op. 10: Moderato  |
+| <https://beta.musicbrainz.org/recording/af068f47-f2e3-40a9-9476-3ad9e14dba9c> | Tristan und Isolde, WWV 90: Act II, Scene II. "O s |
+| <https://beta.musicbrainz.org/recording/c2caac83-fd74-4415-97a8-cbcfd341b9ad> | Daphnis et Chloé - Suite n. 2                      |
+| <https://beta.musicbrainz.org/recording/58dddafe-f344-45b6-8274-5bff1ac5973f> | Symphony no. 3 in F, op. 90: Allegro con brio - Un |
+| <https://beta.musicbrainz.org/recording/787ed6b2-a7da-46d7-bf37-cd115fe4041d> | Music to Johann Wolfgang von Goethe's Tragedy “Egm |
+| <https://beta.musicbrainz.org/recording/a55f951e-6c46-4f5f-be75-86881f5bd8bb> | Die Hochzeit des Figaro: Gott der Liebe            |
+| <https://beta.musicbrainz.org/recording/eb726d23-64d1-4063-8dd8-930484ad1046> | Die Hochzeit des Figaro: Komm nun, liebe Susanna   |
+| <https://beta.musicbrainz.org/recording/2d7da2e0-44c4-4bcc-84a9-c0c711c29803> | Die Hochzeit des Figaro: Sagt nun, Ihr Frauen      |
+| <https://beta.musicbrainz.org/recording/4554dfee-65e7-4212-9c15-a0c3f7c0867b> | Die Hochzeit des Figaro: Bravo, welch schone Stimm |
+| <https://beta.musicbrainz.org/recording/2679a3aa-f710-4351-aad6-eb1e7eb1ddb0> | Die Hochzeit des Figaro: Nur naher, knien Sie hin  |
+| <https://beta.musicbrainz.org/recording/b76396e0-b0f9-4447-8267-2d916fd8de7f> | Die Hochzeit des Figaro: Ende nun die Possen       |
+| <https://beta.musicbrainz.org/recording/6f314b19-e9bc-42ec-ba60-aa1e57ba4d63> | Die Hochzeit des Figaro: Was ist denn das          |
+| <https://beta.musicbrainz.org/recording/28c13928-066f-41ec-b673-9f4eab3f11e9> | Die Hochzeit des Figaro: Wohlan, wird's bald gesch |
+| <https://beta.musicbrainz.org/recording/1047cf1c-0bc7-403e-b7d6-4dd455811395> | Die Hochzeit des Figaro: Also Sie wollen nicht off |
+| <https://beta.musicbrainz.org/recording/5ed6c93c-82ec-4ef0-a5d6-8e5a71c5343f> | Die Hochzeit des Figaro: Geschwind die Tur geoffne |
+| <https://beta.musicbrainz.org/recording/4030dc59-bb8c-4bb9-b183-e10335336fa4> | Die Hochzeit des Figaro: Alles wie ich es verlasse |
+| <https://beta.musicbrainz.org/recording/a3e0ce73-7b41-4d12-9eeb-e327534f6b2a> | Die Hochzeit des Figaro: Komm heraus, verworfner K |
+| <https://beta.musicbrainz.org/recording/4ef1322f-d7e1-4213-bcce-c7df4319eb7c> | Die Hochzeit des Figaro: Herr Graf, uns erwarten d |
+| <https://beta.musicbrainz.org/recording/3ec3af9b-3173-473b-9c2a-a7517856471c> | Die Hochzeit des Figaro: Wei?t Du nicht, mein lieb |
+| <https://beta.musicbrainz.org/recording/eeba15ce-6f39-4364-a859-4197081e917e> | Die Hochzeit des Figaro: Gnad'ger Herr, Herr Graf  |
+| <https://beta.musicbrainz.org/recording/5944e78d-3f48-4f0c-92f5-8599a1769743> | Die Hochzeit des Figaro: Gnad'ger Herr, von Ihren  |
+| <https://beta.musicbrainz.org/recording/0f578bda-a400-4604-8927-173d25477ae1> | Die Hochzeit des Figaro: Welch' sonderbare Wirren  |
+| <https://beta.musicbrainz.org/recording/f2c5c8a4-f75e-4c1b-a2f4-57903f46188e> | Die Hochzeit des Figaro: Warum gab'st Du bis heute |
+| <https://beta.musicbrainz.org/recording/dd2917db-0759-42e4-8a0e-b2608aa303ef> | Die Hochzeit des Figaro: Und warum warst du mit mi |
+| <https://beta.musicbrainz.org/recording/4d4f4618-ede5-4654-ad19-378d04a573c8> | Die Hochzeit des Figaro: Der Proze? schon gewonnen |
+| <https://beta.musicbrainz.org/recording/27f79ed2-012d-41a1-8174-9d33baad8b10> | Die Hochzeit des Figaro: Der Proze? ist entschiede |
+| <https://beta.musicbrainz.org/recording/08e0e726-f3fd-4d8a-8d96-810f44752233> | Die Hochzeit des Figaro: La? mein liebes Kind dich |
+| <https://beta.musicbrainz.org/recording/aa6db5ef-eaa1-48a9-a00d-2b0f0f6f32cc> | Die Hochzeit des Figaro: Seh'n Sie in ihm          |
+| <https://beta.musicbrainz.org/recording/3735798d-8e60-4bad-b7e6-4193038946b2> | Die Hochzeit des Figaro: Komm mit, schoner Page    |
+| <https://beta.musicbrainz.org/recording/22166618-68ea-4ad0-9480-ab7a7c02f169> | Die Hochzeit des Figaro: Wo Susanna nur bleibt ... |
+| <https://beta.musicbrainz.org/recording/4e320c64-dec5-44d4-8724-f9d1524d379c> | Die Hochzeit des Figaro: Ganz gewi?, gnad'ger Herr |
+| <https://beta.musicbrainz.org/recording/9a47640b-ab91-41d4-91fa-2e98e489d8f7> | Die Hochzeit des Figaro: Welch' uberraschende Losu |
+| <https://beta.musicbrainz.org/recording/c49a86a9-c009-4fc5-ba07-3568255442e2> | Die Hochzeit des Figaro: Canzonetta sull'aria      |
+| <https://beta.musicbrainz.org/recording/da06b5f5-1be6-4eb1-88ba-7c76af10ccb1> | Die Hochzeit des Figaro: Diese Rosen, zarte Bluten |
+| <https://beta.musicbrainz.org/recording/5040f136-49ee-45f8-b4e8-d3f268f0fdfd> | Die Hochzeit des Figaro: Schon naht der Festzug -  |
+| <https://beta.musicbrainz.org/recording/e62f230a-5f2a-4a0e-8fd2-390f240037c3> | Die Hochzeit des Figaro: Ungluckselige kleine Nade |
+| <https://beta.musicbrainz.org/recording/27a5389d-a93d-4b13-a65b-caeb7f4040ed> | Die Hochzeit des Figaro: Barbarina, was suchst Du  |
+| <https://beta.musicbrainz.org/recording/d8c265d5-45bc-4194-8ef0-e574b3469ddc> | Die Hochzeit des Figaro: Im Pavillon zur Linken    |
+| <https://beta.musicbrainz.org/recording/f13b7234-a8a3-4894-9c32-500c6aabc927> | Die Hochzeit des Figaro: Alles ist rcihtig ... - A |
+| <https://beta.musicbrainz.org/recording/6bd6c326-a7d5-40ac-b45c-c9a56fbd5e05> | Die Hochzeit des Figaro: Frau Grafin, Marcellina s |
+| <https://beta.musicbrainz.org/recording/c673c933-b338-449e-a472-68835f0d34a5> | Die Hochzeit des Figaro: Endlich naht sich die Stu |
+| <https://beta.musicbrainz.org/recording/a4cb7004-c31a-46bd-8830-e1583fe85ffb> | Die Hochzeit des Figaro: Schandliche, mich so schn |
+| <https://beta.musicbrainz.org/recording/23a0c76b-054a-4030-9f29-13aab499b383> | Die Hochzeit des Figaro: Still, nur still, ich wil |
+| <https://beta.musicbrainz.org/recording/46af3a70-0bc1-4778-ab38-94a6b7c5be71> | Die Hochzeit des Figaro: Jetzt scheint ja alles st |
+| <https://beta.musicbrainz.org/recording/8ae39eac-dc67-46e0-b9c4-723eafddf26e> | Die Hochzeit des Figaro: Holla, holla ! Leute, Leu |
+| <https://beta.musicbrainz.org/recording/843927e6-2fe0-4da0-805b-45ade997f6b1> | The Passion According to St. Matthew: Erster Teil: |
+| <https://beta.musicbrainz.org/recording/d86ba9fb-ee9d-40f0-afa2-a8ace0264617> | Tristan und Isolde: Akt II. Einleitung             |
+| <https://beta.musicbrainz.org/recording/238f4f70-a656-4286-bf34-d3948d2e4a12> | Tristan und Isolde: Akt II. »Hörst du sie noch?« ( |
+| <https://beta.musicbrainz.org/recording/9d3880f0-9137-47b6-bb02-f1f2544ab691> | Tristan und Isolde: Akt II. »Der deiner harrt - o  |
+| <https://beta.musicbrainz.org/recording/7328689c-dd05-4051-90c1-a403a47f65fc> | Tristan und Isolde: Akt II. »Dein Werk? O tör'ge M |
+| <https://beta.musicbrainz.org/recording/b29bab10-43e2-4e9d-9178-e0b9133ed579> | Tristan und Isolde: Akt II. »Isolde! Geliebte!« (T |
+| <https://beta.musicbrainz.org/recording/d3b17d36-3ab7-4340-bf08-4acdee91a77a> | Tristan und Isolde: Akt II. »Das Licht! Das Licht! |
+| <https://beta.musicbrainz.org/recording/3cdc9613-1161-4afa-9ff6-24e73bad519c> | Tristan und Isolde: Akt II. »O sink hernieder, Nac |
+| <https://beta.musicbrainz.org/recording/42d69f06-3d03-46af-bdd0-de9e3b38bf69> | Tristan und Isolde: Akt II. »Einsam wachend in her |
+| <https://beta.musicbrainz.org/recording/974bab81-4d1f-4185-aaa0-05296c3e259d> | Tristan und Isolde: Akt II. »Lausch, Geliebter!« - |
+| <https://beta.musicbrainz.org/recording/f4e54bcf-5ba5-4420-bf27-5102a2d3af16> | Tristan und Isolde: Akt II. »So starben wir, um un |
+| <https://beta.musicbrainz.org/recording/7561a975-6962-421d-bad4-c9a7417001f5> | Tristan und Isolde: Akt II. »O ew'ge Nacht, süße N |
+| <https://beta.musicbrainz.org/recording/fb6f8af1-f80c-40af-a514-500758aa0402> | Tristan und Isolde: Akt II. »Bette dich, Tristan!« |
+| <https://beta.musicbrainz.org/recording/a15b682e-f8ef-4f7a-9c7c-681101105a5e> | Tristan und Isolde: Akt II. »Tatest du's wirklich? |
+| <https://beta.musicbrainz.org/recording/28da8f46-2d7d-4ef2-a151-93e8b4a2b47b> | Tristan und Isolde: Akt II. »Wozu die Dienste ohne |
+| <https://beta.musicbrainz.org/recording/37fdccc4-31c8-446d-9850-d71005c5c53e> | Tristan und Isolde: Akt II. »Dies wundervolle Weib |
+| <https://beta.musicbrainz.org/recording/011cfed5-0c7f-413d-9a46-a276c4b95c73> | Tristan und Isolde: Akt II. »O König, das kann ich |
+| <https://beta.musicbrainz.org/recording/52076ccc-e1a1-48ab-97ee-c01efbf1355d> | Tristan und Isolde: Akt II. »Verräter! Ha! Zur Rac |
+| <https://beta.musicbrainz.org/recording/2c4d2faf-3a62-4745-8ec3-6ad4e0c6ea0e> | Requiem in D minor, K. 626 (Süßmayr completion): I |
+| <https://beta.musicbrainz.org/recording/ffc62b77-c539-4f96-a7ff-22ba6d83e109> | Symphony No. 6 in B minor, Op. 74 "Pathétique": I. |
+| <https://beta.musicbrainz.org/recording/b1ea9ad5-b06d-45db-bce3-390b1a50783d> | Symphony No. 6 in B minor, Op. 74 "Pathétique": II |
+| <https://beta.musicbrainz.org/recording/4d976ff4-413b-41e3-82e7-67d87b1230f0> | Symphony No. 6 in B minor, Op. 74 "Pathétique": II |
+| <https://beta.musicbrainz.org/recording/c0c52350-af0a-4b6f-9391-df67a2dc7db3> | Symphony No. 6 in B minor, Op. 74 "Pathétique": IV |
+| <https://beta.musicbrainz.org/recording/7d88c715-40c7-404e-847c-345917eacc67> | Rigoletto: Preludio                                |
+| <https://beta.musicbrainz.org/recording/f84508d1-2392-4f08-a191-e7bd9903092e> | Rigoletto: Atto I, scena 1. "Della mia bella incog |
+| <https://beta.musicbrainz.org/recording/18f7b4c0-7e04-4e4d-ab55-80412d2b4c52> | Rigoletto: Atto I, scena 1. "Questa o quella"      |
+| <https://beta.musicbrainz.org/recording/e221a108-1e72-4e5d-b1af-09352e98a661> | Rigoletto: Atto I, scena 1. "Ch'io gli parli"      |
+| <https://beta.musicbrainz.org/recording/0a822cd6-f991-4a47-8ea1-5e36172a538e> | Rigoletto: Atto I, scena 2. "Quel vecchio malediva |
+| <https://beta.musicbrainz.org/recording/0b21a563-28d5-4415-bac9-c2c274813f0d> | Rigoletto: Atto I, scena 2. "Pari siamo"           |
+| <https://beta.musicbrainz.org/recording/2d50178d-bad1-4e56-830f-5f1f4fa7f8f3> | Rigoletto: Atto I, scena 2. "Figlia!" / "Mio padre |
+| <https://beta.musicbrainz.org/recording/3d90b620-4008-4307-8ee4-5667b55663d6> | Rigoletto: Atto I, scena 2. "Già da tre lune"      |
+| <https://beta.musicbrainz.org/recording/7a6878bb-0542-43e5-b433-3e1b686e5f50> | Rigoletto: Atto I, scena 2. "Giovanna, ho dei rimo |
+| <https://beta.musicbrainz.org/recording/9b89a8dc-a6f1-42e1-987e-8f8425e555b9> | Rigoletto: Atto I, scena 2. "È il sol dell'anima"  |
+| <https://beta.musicbrainz.org/recording/8f55ea0d-5be5-4a92-9dee-52faf5c43544> | Rigoletto: Atto I, scena 2. "Che m'ami, deh, ripet |
+| <https://beta.musicbrainz.org/recording/e8f0605b-e10d-46ed-9564-e02d829cead0> | Rigoletto: Atto I, scena 2. "Caro nome"            |
+| <https://beta.musicbrainz.org/recording/25ef62e0-b80e-4a65-87e6-53f6ca284ce9> | Rigoletto: Atto I, scena 2. "Riedo!... Perché?"    |
+| <https://beta.musicbrainz.org/recording/f7668d6e-e84d-4cb5-86c3-7415d5bc996e> | Rigoletto: Atto I, scena 2. "Zitti, zitti"         |
+| <https://beta.musicbrainz.org/recording/b1fe6dbf-c170-4c48-9be8-ffc087c4779a> | Rigoletto: Atto II. “Ella mi fu rapita"            |
+| <https://beta.musicbrainz.org/recording/f2b45c27-f8c5-4b44-bc14-98304fea2ca4> | Rigoletto: Atto II. “Parmi veder le lagrime"       |
+| <https://beta.musicbrainz.org/recording/0b6a9d42-7ffe-45e0-9414-163a4544e11b> | Rigoletto: Atto II. “Duca, Duca!"                  |
+| <https://beta.musicbrainz.org/recording/c6d92269-bb40-4a2d-87be-8120ccf4d145> | Rigoletto: Atto II. “Povero Rigoletto"             |
+| <https://beta.musicbrainz.org/recording/1bfd1ebd-13d3-4b4e-9355-80e2236ed7db> | Rigoletto: Atto II. “Cortigiani, vil razza dannata |
+| <https://beta.musicbrainz.org/recording/8c29b055-76ec-41ef-a50b-a0a3f9e2a306> | Rigoletto: Atto II. “Mio padre"                    |
+| <https://beta.musicbrainz.org/recording/dae2f14e-3780-4774-8f39-900643bb896b> | Rigoletto: Atto II. “Tutte le feste al tempio"     |
+| <https://beta.musicbrainz.org/recording/5363f2ce-b337-48d9-afec-b52af7e33daa> | Rigoletto: Atto II. “Ah! Solo per me l'infamia"    |
+| <https://beta.musicbrainz.org/recording/2c65358f-5023-4486-9a65-e6f8e2b5cc20> | Rigoletto: Atto II. “Poiché fosti invano da me mal |
+| <https://beta.musicbrainz.org/recording/c3a3212d-fbb5-4bdb-8a87-14f1aac8dfd3> | Rigoletto: Atto III. “E l'ami? - Sempre"           |
+| <https://beta.musicbrainz.org/recording/6a825b9f-d01f-43a2-ab1d-387989a56ec9> | Rigoletto: Atto III. “La donna è mobile"           |
+| <https://beta.musicbrainz.org/recording/58cc4ec0-dee8-4fe0-9f92-6543f7a8f8d6> | Rigoletto: Atto III. “Un dì, si ben rammentomi"    |
+| <https://beta.musicbrainz.org/recording/ffc59e52-3ea8-494f-bc64-45e21efaa9a4> | Rigoletto: Atto III. “Bella figlia dell'amore"     |
+| <https://beta.musicbrainz.org/recording/3f491382-c6d5-4c44-adb0-d4bc5ee68664> | Rigoletto: Atto III. “M'odi, ritorna a casa"       |
+| <https://beta.musicbrainz.org/recording/c6f29401-0377-41a2-b3f8-f476cd931b98> | Rigoletto: Atto III. “Maddalena?"                  |
+| <https://beta.musicbrainz.org/recording/5aebc280-4417-4de0-8335-37d89e20264c> | Rigoletto: Atto III. “È amabile in vero"           |
+| <https://beta.musicbrainz.org/recording/7201d61f-37a0-4456-a478-59f322df524d> | Rigoletto: Atto III. “Della vendetta alfin giunge  |
+| <https://beta.musicbrainz.org/recording/bd33a4d4-93d1-4529-be5c-d1163b3d1e60> | Rigoletto: Atto III. “Chi è mai, chi è qui in sua  |
+| <https://beta.musicbrainz.org/recording/92cab889-b257-4090-bea5-411f1a4f61cc> | Rigoletto: Atto III. “V'ho ingannato... Colpevole  |
+| <https://beta.musicbrainz.org/recording/429dfbae-629c-48da-b806-00fae760f392> | The Barber of Seville                              |
+| <https://beta.musicbrainz.org/recording/036f11f3-4a17-4756-93f8-259333b1be23> | Symfonie no. 8 in G grote terts, op. 88            |
+| <https://beta.musicbrainz.org/recording/7c924d3c-92e8-4453-b39b-19f03a115cdf> | Rigoletto: Questo o quella                         |
+| <https://beta.musicbrainz.org/recording/e0fa6822-8709-4d09-a144-ff5bf5f3762e> | Rigoletto: Ella mi fu rapita                       |
+| <https://beta.musicbrainz.org/recording/5dcef208-82fc-4c6f-8902-01cfe4c0a5a6> | Io la vidi                                         |
+| <https://beta.musicbrainz.org/recording/26b4e205-2e9a-4240-904c-0c65aed899cb> | Requiem, Op. 48: Pie Jesu                          |
+| <https://beta.musicbrainz.org/recording/2597645a-8f11-4857-9e4f-5c942996a043> | Missa Solemnis, per soli, coro, orchestra e organo |
+| <https://beta.musicbrainz.org/recording/fa605856-b26c-423d-9124-de3c28b0e1aa> | Missa Solemnis, per soli, coro, orchestra e organo |
+| <https://beta.musicbrainz.org/recording/7188424e-4312-41a9-8052-9232331ba613> | Missa Solemnis, per soli, coro, orchestra e organo |
+| <https://beta.musicbrainz.org/recording/697d8a79-8e97-4285-81da-f1ae75419b7c> | Missa Solemnis, per soli, coro, orchestra e organo |
+| <https://beta.musicbrainz.org/recording/3f70c11e-58c3-49cd-9635-fe77e09b82a6> | Missa Solemnis, per soli, coro, orchestra e organo |
+| <https://beta.musicbrainz.org/recording/6bc4ad2b-6bf6-41f6-b16a-3111ec16fd00> | Rigoletto: Atto I. “Questa o quella … Partite? Cru |
+| <https://beta.musicbrainz.org/recording/7090745b-f2df-4ee1-be7e-a76b7068e218> | Rigoletto, Act 1: "Questa o quella...Partite? Crud |
+| <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
+| <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
+| <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
+| <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
+| <https://beta.musicbrainz.org/recording/a364dd86-d451-4be9-b7cd-6fdafabe4bca> | Il barbiere di Siviglia (Milano, 16.02.1956 - live |
+| <https://beta.musicbrainz.org/recording/110bb519-d410-4996-a153-c8756d95a39d> | Don Giovanni: Acte II. "Sola, sola in buio loco"   |
+| <https://beta.musicbrainz.org/recording/8038a24a-b414-4f21-afa3-b4d2fa1cb703> | Don Giovanni: Ouverture                            |
+| <https://beta.musicbrainz.org/recording/dfc76e6e-eb0d-4606-8158-5c81062c7352> | Don Giovanni, Atto I: Notte e giorno faticar       |
+| <https://beta.musicbrainz.org/recording/2bebdd69-2556-442d-b621-f2e8d75801bf> | Don Giovanni, Atto I: Ma qual mai s'offre, oh Dei  |
+| <https://beta.musicbrainz.org/recording/d429e8e7-a8f0-4590-89f6-6ab08482c6d5> | Don Giovanni, Atto I: Ah chi mi dice mai           |
+| <https://beta.musicbrainz.org/recording/c9fbcb6e-d47e-4380-b74d-a41378d9515c> | Don Giovanni, Atto I: Madamina, il catalogo è ques |
+| <https://beta.musicbrainz.org/recording/b0a1008a-f62b-412d-84b8-cafd7f1685e5> | Don Giovanni, Atto I: Giovinette che fate all'amor |
+| <https://beta.musicbrainz.org/recording/38fd9457-6410-4430-9829-5e7a2764e39f> | Don Giovanni, Atto I: Ho capito, Signor, sì        |
+| <https://beta.musicbrainz.org/recording/07460b6e-87dd-478b-9d83-1c4c33ca1d89> | Don Giovanni, Atto I: Là ci darem la mano          |
+| <https://beta.musicbrainz.org/recording/801676cb-a730-429a-bef0-dc02cdfc6c74> | Don Giovanni, Atto I: Ah fuggi il traditor         |
+| <https://beta.musicbrainz.org/recording/ed95574f-b5ae-45a3-b71a-6b3fa3f6447a> | Don Giovanni, Atto I: Non ti fidar, o misera       |
+| <https://beta.musicbrainz.org/recording/a978052f-1324-4752-85c4-721cceda8a0e> | Don Giovanni, Atto I: Don Ottavio, son morta!      |
+| <https://beta.musicbrainz.org/recording/57458d29-c44e-4498-ab48-ce167d9faf10> | Don Giovanni, Atto I: Dalla sua pace               |
+| <https://beta.musicbrainz.org/recording/cd49f3ca-d89c-477e-b7bb-ed060db57b72> | Don Giovanni, Atto I: Io deggio, ad ogni patto     |
+| <https://beta.musicbrainz.org/recording/0a8aaf00-9a96-4063-bf25-dd29c90c52d5> | Don Giovanni, Atto I: Finch'han dal vino           |
+| <https://beta.musicbrainz.org/recording/6986b098-7f86-428e-b6c3-aecb9a0dd443> | Don Giovanni, Atto I: Batti, batti, o bel Masetto  |
+| <https://beta.musicbrainz.org/recording/59948f00-82c2-4f0c-9321-eee66829bf77> | Don Giovanni, Atto I: Presto, presto, pria ch'ei v |
+| <https://beta.musicbrainz.org/recording/88a2d36d-a0c6-4ddb-ab13-d4da542796da> | Don Giovanni, Atto II: Eh via buffone              |
+| <https://beta.musicbrainz.org/recording/ff1cab02-79a3-460f-8805-15d24995642a> | Don Giovanni, Atto II: Ah taci, ingiusto core      |
+| <https://beta.musicbrainz.org/recording/b6b2993e-960a-4d56-9ce7-6e78d127e989> | Don Giovanni, Atto II: Deh vieni alla finestra     |
+| <https://beta.musicbrainz.org/recording/dea91af0-7886-4c5b-a2c9-91259486e1ec> | Don Giovanni, Atto II: Metà di voi qua vadano      |
+| <https://beta.musicbrainz.org/recording/c33bd5b8-a1c2-495f-ac31-58e350c3cf27> | Don Giovanni, Atto II: Vedrai, carino              |
+| <https://beta.musicbrainz.org/recording/e079cae7-bff8-4719-96b0-5a6694e21991> | Don Giovanni, Atto II: Di molte faci il lume       |
+| <https://beta.musicbrainz.org/recording/57e72fef-0857-4ce2-8033-36bdece8a061> | Don Giovanni, Atto II: Ah pietà, signori miei      |
+| <https://beta.musicbrainz.org/recording/8f7b50fb-898a-4583-9cae-213c0e4c193c> | Don Giovanni, Atto II: Il mio tesoro intanto       |
+| <https://beta.musicbrainz.org/recording/5cd162d1-51ae-47d5-97ff-705678cf3f38> | Don Giovanni, Atto II: Mi tradì quell'alma ingrata |
+| <https://beta.musicbrainz.org/recording/bf784b80-69e4-4e68-8c41-fcf27a056b9a> | Don Giovanni, Atto II: O statua gentilissima       |
+| <https://beta.musicbrainz.org/recording/e649e636-0dc5-4c45-ab52-0893d1c7951c> | Don Giovanni, Atto II: Non mi dir, bell'idol mio   |
+| <https://beta.musicbrainz.org/recording/eccd278b-6537-4fe2-841b-319446547aad> | Don Giovanni, Atto II: Già la mensa è preparata    |
+| <https://beta.musicbrainz.org/recording/04197f56-5ef5-4ad2-bfee-9fed1c03377e> | Mass in B minor BWV 232, Sanctus                   |
+| <https://beta.musicbrainz.org/recording/154505fc-4a30-4a56-b781-72cbce3c78d5> | L’Orfeo: Toccata – Prologo: Ritornello             |
+| <https://beta.musicbrainz.org/recording/154505fc-4a30-4a56-b781-72cbce3c78d5> | L’Orfeo: Toccata – Prologo: Ritornello             |
+| <https://beta.musicbrainz.org/recording/9e72be3d-06b0-40af-b669-9d0140d3cbb0> | L’Orfeo, Prologo: «Dal mio Parnasso» (La Musica)   |
+| <https://beta.musicbrainz.org/recording/3208f370-4618-41ae-a447-f3e24f39d0fd> | L’Orfeo, Atto primo: «Rosa del ciel» (Orfeo)       |
+| <https://beta.musicbrainz.org/recording/53eefc12-6181-4932-bbe9-0a80a437bc18> | L’Orfeo, Atto primo: «Io non dirò qual sia» (Eurid |
+| <https://beta.musicbrainz.org/recording/fa4616ee-55db-4838-b3f5-aef12482795a> | L’Orfeo, Atto primo: «Lasciate i monti» (Coro di n |
+| <https://beta.musicbrainz.org/recording/cfe2dd6c-debe-4a81-b605-96e8fd28f06d> | L’Orfeo, Atto primo: «Vieni, Imeneo» (Coro di ninf |
+| <https://beta.musicbrainz.org/recording/8ec61302-f6fe-4ecc-bfad-4f5ee88d2ef8> | L’Orfeo, Atto secondo: Ritornello – «Vi ricorda» ( |
+| <https://beta.musicbrainz.org/recording/cbfcaad9-6428-4457-9502-b61d95822fa8> | L’Orfeo, Atto secondo: «Mira, deh mira» (Pastore I |
+| <https://beta.musicbrainz.org/recording/7ca2f21a-c0de-47b5-baad-6bfdc9e770d1> | L’Orfeo, Atto secondo: «Lassa, dunque debb’io» (La |
+| <https://beta.musicbrainz.org/recording/006e00e0-3756-457a-8856-4037f01809cb> | L’Orfeo, Atto secondo: «Donde vieni?» (Orfeo, La m |
+| <https://beta.musicbrainz.org/recording/5bec0be7-47ee-4fc4-8907-0785342ee44c> | L’Orfeo, Atto secondo: «Ahi, caso acerbo» (Pastore |
+| <https://beta.musicbrainz.org/recording/f6a3b704-85fc-48f6-8eca-c78c657d666b> | L’Orfeo, Atto secondo: «Tu se’ morta» (Orfeo)      |
+| <https://beta.musicbrainz.org/recording/fed3b7a3-b659-4aac-8bc5-f467eb172eb5> | L’Orfeo, Atto secondo: «Ahi, caso acerbo» (Coro di |
+| <https://beta.musicbrainz.org/recording/9f5cab01-ff94-4c0e-898b-aa27cdca54f1> | L’Orfeo, Atto secondo: «Ma io, che in questa lingu |
+| <https://beta.musicbrainz.org/recording/6bd03619-c77b-4a33-b5a1-7bb5a02dcbc7> | L’Orfeo, Atto terzo: Sinfonia (I)                  |
+| <https://beta.musicbrainz.org/recording/217a0de6-3417-403f-a85a-8d64e402edcd> | L’Orfeo, Atto terzo: «Scorto da te, mio nume» (Orf |
+| <https://beta.musicbrainz.org/recording/f052fb40-2efb-4bb5-8ccf-b641db543521> | L’Orfeo, Atto terzo: «Ecco l’atra palude» (La sper |
+| <https://beta.musicbrainz.org/recording/d5e75e09-af65-4c58-b961-616a15a7502f> | L’Orfeo, Atto terzo: «Dove, ah dove ten’ vai» (Orf |
+| <https://beta.musicbrainz.org/recording/395907f7-f40b-4af8-a1b3-cb7e741f1421> | L’Orfeo, Atto terzo: «O tu, ch’inanzi morte» (Caro |
+| <https://beta.musicbrainz.org/recording/9f1eec9d-0bda-4e98-a301-ffe428852abf> | L’Orfeo, Atto terzo: Sinfonia (II)                 |
+| <https://beta.musicbrainz.org/recording/c4ab92b2-9299-4397-88c9-28b245035b77> | L’Orfeo, Atto terzo: «Possente spirto» (Orfeo)     |
+| <https://beta.musicbrainz.org/recording/f3d535cf-a4ee-4fe7-a2c9-40a1a3eb7084> | L’Orfeo, Atto terzo: «Ei dorme, e la mia cetra» (O |
+| <https://beta.musicbrainz.org/recording/ff9abe44-04ed-43ad-abd2-b45cee89fe23> | L’Orfeo, Atto terzo: Sinfonia (IV)                 |
+| <https://beta.musicbrainz.org/recording/c2587859-37fc-47c4-b066-524b4a788172> | L’Orfeo, Atto terzo: «Nulla impresa per uom» (Coro |
+| <https://beta.musicbrainz.org/recording/bb5905cb-1651-4d47-b1c7-38b5d8aa6436> | L’Orfeo, Atto terzo: Sinfonia (V)                  |
+| <https://beta.musicbrainz.org/recording/844ab828-6ed3-4bc8-ab0f-a1ab4117f9b2> | L’Orfeo, Atto quarto: «Signor, quell’infelice» (Pr |
+| <https://beta.musicbrainz.org/recording/a6c5359f-89c2-4e73-a06b-667944cc3540> | L’Orfeo, Atto quarto: «Benche severo» (Plutone)    |
+| <https://beta.musicbrainz.org/recording/a76f26ae-e48c-49d8-8269-07482737aa3d> | L’Orfeo, Atto quarto: «Quale onor di te fia degno» |
+| <https://beta.musicbrainz.org/recording/18bed4f5-20ba-41a8-b1de-14ba10400e06> | L’Orfeo, Atto quarto: «Rott’hai la legge» (Spirito |
+| <https://beta.musicbrainz.org/recording/59afa9e5-c8d4-499a-a5d7-5b866fc48852> | L’Orfeo, Atto quarto: «Ahi, vista troppo dolce» (E |
+| <https://beta.musicbrainz.org/recording/6bfc7799-c659-4b65-9762-7df9d54af83c> | L’Orfeo, Atto quinto: Ritornello                   |
+| <https://beta.musicbrainz.org/recording/99d91fb0-f14e-4618-985b-f8cee2b1646e> | L’Orfeo, Atto quinto: «Questi i campi di Tracia» ( |
+| <https://beta.musicbrainz.org/recording/a1ed4709-e701-4f1d-8ae8-c4cc41e8fede> | L’Orfeo, Atto quinto: Sinfonia                     |
+| <https://beta.musicbrainz.org/recording/ff9c035f-a7ac-45a7-b5ae-d4804cb44832> | L’Orfeo, Atto quinto: «Perche a lo sdegno» (Apollo |
+| <https://beta.musicbrainz.org/recording/33f7af67-103a-4f09-bce6-6e9317aaed9f> | L’Orfeo, Atto quinto: «Vanne Orfeo» (Coro di pasto |
+| <https://beta.musicbrainz.org/recording/7bd06d2c-de9e-41d4-8a41-6e5b8c00c2ec> | L’Orfeo, Atto quinto: Moresca                      |
+| <https://beta.musicbrainz.org/recording/4a3a5950-65ab-4e25-8271-3815294d8214> | Symphony no. 8, op. 88: IV. Allegro ma non troppo  |
+| <https://beta.musicbrainz.org/recording/64aaeaab-3168-49e0-8ee5-d2c123f72bdd> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
+| <https://beta.musicbrainz.org/recording/7afab6fa-440e-4cb3-ba34-9e977441550b> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
+| <https://beta.musicbrainz.org/recording/14f9e41d-7461-4aa7-946c-741750ad23da> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
+| <https://beta.musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628> | Concerto for Piano no. 23 in A major, K. 488: II.  |
+| <https://beta.musicbrainz.org/recording/ab4e616b-3a0c-4313-b4f0-d7c16ce3e628> | Concerto for Piano no. 23 in A major, K. 488: II.  |
+| <https://beta.musicbrainz.org/recording/d2886e55-091f-4a6e-bad8-1d8f60e715fb> | Mass in B minor, BWV 232: No. 24 Agnus Dei         |
+| <https://beta.musicbrainz.org/recording/e403ccbf-bc7b-4683-822d-77c67211b2cd> | Il dissoluto punito, ossia il Don Giovanni, K. 527 |
+| <https://beta.musicbrainz.org/recording/3ee1a8b0-9b67-4d33-aa80-d0b8dcfc9dbf> | Concerto for Piano no. 5 in E-flat major, op. 73 “ |
+| <https://beta.musicbrainz.org/recording/b9f0a15f-1023-4f3b-915c-2568429f6070> | Requiem in D minor, K. 626 (Beyer Edition): VI. "B |
+| <https://beta.musicbrainz.org/recording/874afbce-737f-4edb-8264-37fc45d069e6> | Symphony no. 36 in C major, K. 425 “Linz”: II. And |
+| <https://beta.musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55> | Weihnachts-Oratorium, BWV 248: Teil I, II. Evangel |
+| <https://beta.musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55> | Weihnachts-Oratorium, BWV 248: Teil I, II. Evangel |
+| <https://beta.musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586> | Weihnachts-Oratorium, BWV 248: Teil I, VI. Evangel |
+| <https://beta.musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586> | Weihnachts-Oratorium, BWV 248: Teil I, VI. Evangel |
+| <https://beta.musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932> | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
+| <https://beta.musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932> | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
+| <https://beta.musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932> | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
+| <https://beta.musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f> | Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Evang |
+| <https://beta.musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f> | Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Evang |
+| <https://beta.musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694> | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
+| <https://beta.musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694> | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
+| <https://beta.musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694> | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
+| <https://beta.musicbrainz.org/recording/f94a93d7-5e17-479a-a6c2-a8e4e5c8a697> | Weihnachts-Oratorium, BWV 248: Teil VI, LX. Evange |
+| <https://beta.musicbrainz.org/recording/51b95aad-d11d-4181-98ba-d8975e9e3ca5> | Kantate, BWV 3 "Ach Gott, wie manches Herzeleid":  |
+| <https://beta.musicbrainz.org/recording/d9e38bd8-6ea0-4352-a5ca-1147fb6dfba3> | Regina coeli, K. 276                               |
+| <https://beta.musicbrainz.org/recording/9f50656d-da43-47e2-8c2f-0dbf17cb4f8e> | Kantate, BWV 212 "Mer hahn en neue Oberkeet": II.  |
+| <https://beta.musicbrainz.org/recording/8688e12c-26ea-4495-8ea2-fb3f5df632d7> | Kantate, BWV 212 "Mer hahn en neue Oberkeet": IV.  |
+| <https://beta.musicbrainz.org/recording/d5e614fe-f5ee-494f-9e16-3682b410b90e> | Kantate, BWV 212 "Mer hahn en neue Oberkeet": XX.  |
+| <https://beta.musicbrainz.org/recording/11b55bc4-264e-4636-b397-f7a47b1b70fb> | Violin concerto in D major, op. 61: I. Allegro, ma |
+| <https://beta.musicbrainz.org/recording/4c87e06b-8531-41af-a451-0087f5691449> | Violin concerto in D major, op. 61: II. Larghetto  |
+| <https://beta.musicbrainz.org/recording/4323f806-2c2d-42cd-87b4-ad524ea75d53> | Violin concerto in D major, op. 61: III. Rondo. Al |
+| <https://beta.musicbrainz.org/recording/72549c0e-aa1b-4e8e-a61e-1fbe04aa2b03> | Romance in G major, op. 40                         |
+| <https://beta.musicbrainz.org/recording/0f3ede59-62c0-4232-8cee-e553afe51181> | Romance in F major, op. 50                         |
+| <https://beta.musicbrainz.org/recording/731eaab9-63fe-4875-9221-c7b8115561a5> | Die Zauberflöte, K. 620: Act I, Scene I. Introduct |
+| <https://beta.musicbrainz.org/recording/bbdd6390-72f2-4aee-893d-31377d4100f5> | Die Zauberflöte, K. 620: Act I, Scene III. No. 2 A |
+| <https://beta.musicbrainz.org/recording/215a920b-a3cc-4200-b396-3e4daa5428eb> | Die Zauberflöte, K. 620: Act I, Scene VIII. No. 5  |
+| <https://beta.musicbrainz.org/recording/687c92a3-bec6-4b00-9e06-86c5df304d00> | Die Zauberflöte, K. 620: Act I, Scene XV. No. 8 Fi |
+| <https://beta.musicbrainz.org/recording/84988701-460a-4036-b3d5-08b693674a90> | Die Zauberflöte, K. 620: Act I, Scene XV. No. 8 Fi |
+| <https://beta.musicbrainz.org/recording/3014671d-81d3-426d-bcee-0ded04cf68de> | Die Zauberflöte, K. 620: Act I, Scene XV. No. 8 Fi |
+| <https://beta.musicbrainz.org/recording/aea030ca-5a02-4b99-a487-d31a482d2ffd> | Die Zauberflöte, K. 620: Act II, Scene VII. No. 13 |
+| <https://beta.musicbrainz.org/recording/6646390b-5f49-4e1f-b585-0bc8a87f08b9> | Die Zauberflöte, K. 620: Act II, Scene VIII. No. 1 |
+| <https://beta.musicbrainz.org/recording/1bbd1892-319a-47a2-8a55-b3117cb6a09c> | Die Zauberflöte, K. 620: Act II, Scene XIX. No. 17 |
+| <https://beta.musicbrainz.org/recording/adbe5d4c-3293-4f45-a49f-ec07badce414> | Die Zauberflöte, K. 620: Act II, Scene XXIII. No.  |
+| <https://beta.musicbrainz.org/recording/1613d488-d166-402c-96ea-67c35f861b20> | Die Zauberflöte, K. 620: Act II, Scene XXVI. No. 2 |
+| <https://beta.musicbrainz.org/recording/a286d833-6faa-4ebb-9ca2-7e6abe1d528d> | Konzert für Violine d-Moll, Rekonstruktion nach de |
+| <https://beta.musicbrainz.org/recording/bb330fc9-69bc-4e58-88ca-a80188dda6b8> | Konzert für Violine d-Moll, Rekonstruktion nach de |
+| <https://beta.musicbrainz.org/recording/d37ae03a-935e-453e-a702-32a35dedf9d9> | Konzert für Violine d-Moll, Rekonstruktion nach de |
+| <https://beta.musicbrainz.org/recording/944ed9f9-0ea4-4625-8d7d-a6a89bedba31> | Le nozze di Figaro, K 492: Act I: (h) "La vendetta |
+| <https://beta.musicbrainz.org/recording/4cc99225-7d69-4fc5-a7cc-daee7fb94660> | Le nozze di Figaro, K 492: Act II: (f) "Venite, in |
+| <https://beta.musicbrainz.org/recording/a54b5e66-42b4-451e-add4-1bcab227352a> | Symphony no. 4 in D minor, op. 120: I. Zeimlich la |
+| <https://beta.musicbrainz.org/recording/93dcabf3-573d-423a-a150-c83e3d886966> | Cantata No.68, aria ‘Mein gläubiges Herze’ (extrac |
+| <https://beta.musicbrainz.org/recording/6a04fe66-357d-4efb-95d7-f7a2f070cb44> | Täubchen, das entflattert ist                      |
+| <https://beta.musicbrainz.org/recording/c83046de-5402-4840-b5d9-4c44e34ce19e> | Ach, ich darf nicht hin zu ihr                     |
+| <https://beta.musicbrainz.org/recording/e44d720d-9131-423f-a89c-159103374d6f> | Nein, mit solchen Advokaten                        |
+| <https://beta.musicbrainz.org/recording/22932d5e-31ac-4b15-a540-05fba4066075> | So, muss allein ich bleiben                        |
+| <https://beta.musicbrainz.org/recording/4aa43acb-539c-47dd-a2b7-ab197561e204> | Trinke, Liebchen, trinke schnell                   |
+| <https://beta.musicbrainz.org/recording/ebe00ae2-ffd9-4510-aa63-0d1772b114a4> | Ein Souper uns heute winkt                         |
+| <https://beta.musicbrainz.org/recording/87edc55e-3298-4a68-b831-145b371ac1b9> | Ich lade gern mir Gaeste ein                       |
+| <https://beta.musicbrainz.org/recording/4a259454-1b16-4d27-abcc-309f9b084d36> | Ach, meine Herrn und Damen... Mein Herr Marquis    |
+| <https://beta.musicbrainz.org/recording/769aa3c4-e08e-4a47-b35e-528b561e41a6> | Dieser Anstand, so manierlich                      |
+| <https://beta.musicbrainz.org/recording/12732e60-27c0-4fbe-98a7-639819e7956a> | Klänge der Heimat                                  |
+| <https://beta.musicbrainz.org/recording/722d0680-60c7-432f-b2f5-b7dfe74bd744> | Im Feuerstrom der Reben                            |
+| <https://beta.musicbrainz.org/recording/295f7b5e-8ffb-4b3c-9bcc-3cbbc9e794f4> | Genug damit, genug                                 |
+| <https://beta.musicbrainz.org/recording/3a72f380-26e1-4523-9f29-343340f23ddb> | Ich stehe voll Zagen                               |
+| <https://beta.musicbrainz.org/recording/f71c8e82-7e18-41b0-85a6-63a65089e9c6> | Spiel' ich die Unschuld vom Lande                  |
+| <https://beta.musicbrainz.org/recording/3dc400c2-e40f-4c48-896b-566a896de3ca> | O Fledermaus, o Fledermaus                         |
+| <https://beta.musicbrainz.org/recording/a252f7c9-e3d0-4f6d-86c1-b3973449237b> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/9211179e-ee86-490d-b468-4364a8475dcc> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/1a2548ba-70fa-4c7e-9e93-e8aef969238a> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/e7549457-5f32-452d-b6c0-6c49787e03ee> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/0332565f-b073-45b6-bed8-055892e42331> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/3ee82635-65d7-41dd-ae2d-7dd738804886> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/cabad17a-d06e-4b56-bf6b-0a6a8c8d2e8c> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/7ad93c3f-dd60-4b14-8272-34080cb6d3d7> | Matthäus-Passion, BWV 244: Teil I, VIII. Arie (Sop |
+| <https://beta.musicbrainz.org/recording/0cf05a2d-96c6-4379-81fb-18213e4e473e> | Johannes-Passion, BWV 245: Teil I. No. 9 Aria (Sop |
+| <https://beta.musicbrainz.org/recording/1a998f26-67be-4933-94cf-dfa29e399413> | Matthäus-Passion, BWV 244: Teil II, LIV. Choral "O |
+| <https://beta.musicbrainz.org/recording/326c3d33-108c-4e8c-b096-129ad0baf548> | Magnificat: XIII. Magnificat                       |
+| <https://beta.musicbrainz.org/recording/4916fd47-2b40-45f1-9828-dddd1a863f43> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/d8990611-6c6b-4d50-9d43-ec4948154da9> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/5c181dd3-17e7-44a4-a947-3be94eaf6533> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/190722d0-d5c9-49b3-b5d5-fa04d8f66e3e> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/ba55351e-4858-4277-987a-bd3f8480f1cd> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/20fdf9b6-920b-4952-a489-16839f4d6a8c> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/ec521844-623a-4b60-aeeb-90775f003b20> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/a3aba407-a63b-4f41-989d-74441a4741be> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/ef4d2355-93e0-4e46-9a25-57146f11dd0e> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/2dbd5a0a-2896-4171-92be-c8962258cfa4> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/1681f9bc-2c83-45e6-a1e0-55edb5821ab8> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| <https://beta.musicbrainz.org/recording/c523ed7f-507f-4f0f-8b9a-0e1f7ef1d8d1> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/6076447f-7e48-469c-9594-98fd1564eeb8> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/901921f6-b615-4ee5-8ce6-15344ff841a5> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/0dc4c39c-0020-46c2-90e0-f5ba9697f1a3> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/200c11e8-c54d-4ed3-861d-07e33c268bbc> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/32573f2f-76cc-47a8-974d-36099cea189a> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/d6109637-5945-4bee-8b4e-0a008f468931> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| <https://beta.musicbrainz.org/recording/0d67b09d-f409-4173-b38f-5ff7b32e8f82> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/67d12056-08b9-4aea-b217-8b87b54ef947> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/361c6a38-a5b5-4b76-aa0b-1785bf850b06> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/f6c555e5-05bb-4983-a45f-88db8605c00a> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/bde344c0-09bd-473e-83b6-2047539b968e> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/b8b00b8a-15ed-4f83-a1d1-e1bbf78ea5b9> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/8238c533-3882-48f0-a333-7bb4f8f7fd87> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| <https://beta.musicbrainz.org/recording/8c2611aa-4cc4-4132-bf59-d7725c340dfb> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/f36ba0c9-7309-4ba3-a1bb-8c8f71541b77> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/1b4d6074-ed85-4b96-8812-6519136dfe07> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/66cc913e-73fc-459b-8e46-566837526ad1> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/e9158e83-a0ab-4cb6-9fb4-61fd5dfd0a83> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/bcdab71b-157b-4495-97fe-7c30a9004ae3> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/adc3fb1d-8c9f-4b20-92f5-86af947ab5c1> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| <https://beta.musicbrainz.org/recording/54c0c221-f739-45da-b32a-52ba1701bdb3> | Cantata, BWV 104 "Du Hirte Israel, höre," I. Coro. |
+| <https://beta.musicbrainz.org/recording/aa29d418-46de-4f70-bd16-bd745b365901> | Cantata, BWV 104 "Du Hirte Israel, höre," II. Reci |
+| <https://beta.musicbrainz.org/recording/16fcdee9-765b-4af2-8f3e-214f80d62690> | Cantata, BWV 104 "Du Hirte Israel, höre," III. Ari |
+| <https://beta.musicbrainz.org/recording/b5d67478-8cb2-4d61-affa-0aebc7b94d80> | Cantata, BWV 104 "Du Hirte Israel, höre," IV. Reci |
+| <https://beta.musicbrainz.org/recording/04ce4042-ddda-41b0-86dc-13a79d7959e4> | Cantata, BWV 104 "Du Hirte Israel, höre," V. Aria  |
+| <https://beta.musicbrainz.org/recording/57615c38-e408-4c96-b140-d905b8ad44b5> | Cantata, BWV 104 "Du Hirte Israel, höre," VI. Chor |
+| <https://beta.musicbrainz.org/recording/b2b6afc7-6310-41e4-8af3-c3ee191ae330> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| <https://beta.musicbrainz.org/recording/99bb24fe-9ac7-4b6b-a41f-f52e6072f4e6> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| <https://beta.musicbrainz.org/recording/1f069cc5-5772-4ed0-bdc9-430755ae1630> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| <https://beta.musicbrainz.org/recording/1122a72b-bb71-4506-bbbd-84f679a4791b> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| <https://beta.musicbrainz.org/recording/237e4041-2f74-4e1d-91ab-cc4b0695596d> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," V |
+| <https://beta.musicbrainz.org/recording/a9d8e191-2b07-40b3-9c4d-ed2c191d1deb> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," V |
+| <https://beta.musicbrainz.org/recording/d76cd583-1006-4f1d-b48c-a01e6aa4a79f> | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
+| <https://beta.musicbrainz.org/recording/d08b49dc-549f-4689-a7b5-b36c0cb90794> | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
+| <https://beta.musicbrainz.org/recording/ded55392-e62e-4978-9b85-2e77f39f10a7> | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
+| <https://beta.musicbrainz.org/recording/779ee7b9-3606-4df0-8d9f-6ff8fb50c442> | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
+| <https://beta.musicbrainz.org/recording/355a208d-4faf-4cc6-be0a-07f200e25395> | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
+| <https://beta.musicbrainz.org/recording/504f69e8-7b3c-492a-96da-16b9651d1c9c> | Cantata, BWV 109 "Ich glaube, lieber Herr, hilf me |
+| <https://beta.musicbrainz.org/recording/10236938-7488-41a9-9cc9-bdb80b34d906> | Cantata, BWV 110 "Unser Mund sei voll Lachens," I. |
+| <https://beta.musicbrainz.org/recording/76479607-09c3-4235-a1fb-ce8d7339663c> | Cantata, BWV 110 "Unser Mund sei voll Lachens," II |
+| <https://beta.musicbrainz.org/recording/6f96a9e3-9b75-4812-b949-70401358787f> | Cantata, BWV 110 "Unser Mund sei voll Lachens," II |
+| <https://beta.musicbrainz.org/recording/ba8bf873-fec6-45a4-865f-0f15cbec0a3b> | Cantata, BWV 110 "Unser Mund sei voll Lachens," IV |
+| <https://beta.musicbrainz.org/recording/a8ac833f-c39d-453a-b37f-3516bd712e96> | Cantata, BWV 110 "Unser Mund sei voll Lachens," V. |
+| <https://beta.musicbrainz.org/recording/94b550d9-d788-4916-9948-210fa750be7a> | Cantata, BWV 110 "Unser Mund sei voll Lachens," VI |
+| <https://beta.musicbrainz.org/recording/cd81f2ca-594b-4fda-aedb-42b850cbfa09> | Cantata, BWV 110 "Unser Mund sei voll Lachens," VI |
+| <https://beta.musicbrainz.org/recording/2d7174c8-1891-4ddf-9a67-9129355cc4e3> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| <https://beta.musicbrainz.org/recording/45cd4f1f-2266-4703-b3cf-b6b3434eb072> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| <https://beta.musicbrainz.org/recording/1e9022a1-59a9-420b-b72d-62856c288d0e> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| <https://beta.musicbrainz.org/recording/36e7e6ca-11ec-48e3-9e16-e0b86d73f7d5> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| <https://beta.musicbrainz.org/recording/008299ec-4f56-4fd2-b969-e0236bb6ed08> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| <https://beta.musicbrainz.org/recording/d09512c0-95ac-4e20-9ab4-837badedf091> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| <https://beta.musicbrainz.org/recording/f90ad82b-8829-4dc6-8e2a-b358bb891c32> | Die Schönbrunner, op. 200                          |
+| <https://beta.musicbrainz.org/recording/8780edfe-adfe-493b-a7c8-48f37f5abc42> | Jägers Lust, op. 82                                |
+| <https://beta.musicbrainz.org/recording/337e108d-11ff-442c-a296-f6a354958de4> | Morgenblätter, op. 279                             |
+| <https://beta.musicbrainz.org/recording/4f1d0173-12ed-415f-ae21-d8adcd84c2c9> | Electro‐magnetische Polka, op. 110                 |
+| <https://beta.musicbrainz.org/recording/858e4491-2277-46e7-b99e-56362a5525f0> | Electrofor‐Polka, op. 297                          |
+| <https://beta.musicbrainz.org/recording/2df757df-a2c6-44f6-a777-2f1972864387> | Overture to Eine Nacht in Venedig (Berlin version) |
+| <https://beta.musicbrainz.org/recording/bf801f03-b649-4eb9-bb2d-babae22043ae> | Harlekin‐Polka, op. 48                             |
+| <https://beta.musicbrainz.org/recording/f61b01f6-ac77-4a0a-98f2-0671d43b33b6> | Dorfschwalben aus Österreich, op. 164              |
+| <https://beta.musicbrainz.org/recording/4df87909-5991-4cb4-90d8-408251447e8b> | Steyrische Tänze, op. 165                          |
+| <https://beta.musicbrainz.org/recording/1c1a09d8-531e-48aa-a9f1-32a3807039ff> | Vergnügungszug, op. 281                            |
+| <https://beta.musicbrainz.org/recording/249a6c4b-c9d7-4c58-95f0-ec0a666c3d31> | Seid umschlungen, Millionen, op. 443               |
+| <https://beta.musicbrainz.org/recording/582ccb2d-c091-4cf4-9e68-bc64b0229e58> | Der Kobold, op. 226                                |
+| <https://beta.musicbrainz.org/recording/9abd539e-dd9a-4980-babf-c3ca6e129f32> | Luzifer‐Polka, op. 266                             |
+| <https://beta.musicbrainz.org/recording/fe06eac3-fa01-4bfd-8c8a-15e10ba5b7f2> | Ohne Sorgen, op. 271                               |
+| <https://beta.musicbrainz.org/recording/a7ebe3ec-943b-47a4-8d3d-995601961683> | An der schönen blauen Donau, op. 314               |
+| <https://beta.musicbrainz.org/recording/19a09bd9-a0c1-41e4-8eef-bdfae764c294> | Radetzky‐Marsch, op. 228                           |
+| <https://beta.musicbrainz.org/recording/ed6ca88b-6b7b-48fc-ad21-54769e4b5d6f> | Fidelio: Nr. 1 Duett : "Jetzt, Schätzchen, jetzt s |
+| <https://beta.musicbrainz.org/recording/1fe880a0-28b9-4a5d-b4bf-7c365eaf69f9> | Fidelio: Nr. 2 Arie : "O wär' ich schon mit dir ve |
+| <https://beta.musicbrainz.org/recording/1fe880a0-28b9-4a5d-b4bf-7c365eaf69f9> | Fidelio: Nr. 2 Arie : "O wär' ich schon mit dir ve |
+| <https://beta.musicbrainz.org/recording/7368e776-3c5e-4a2a-8fe5-ff0eed9f5e91> | Fidelio: Nr. 3 Quartett : "Mir ist so wunderbar"   |
+| <https://beta.musicbrainz.org/recording/5f319b78-f7fe-41ed-a8d8-7083ba4df90c> | Fidelio: Nr. 4 Arie : "Hat man nicht auch Gold bei |
+| <https://beta.musicbrainz.org/recording/5f319b78-f7fe-41ed-a8d8-7083ba4df90c> | Fidelio: Nr. 4 Arie : "Hat man nicht auch Gold bei |
+| <https://beta.musicbrainz.org/recording/0e813ea8-5914-4470-bdd1-43e036c7cb92> | Fidelio: Nr. 6 Marsch                              |
+| <https://beta.musicbrainz.org/recording/a28cc7af-5f47-4542-ba4b-80e6bef3d4e5> | Fidelio: Nr. 7 Arie mit Chor : "Ha, welch ein Auge |
+| <https://beta.musicbrainz.org/recording/bb8d1c38-6bcc-49ef-bf8c-d6891f7950c0> | Fidelio: Nr. 9 Rezitativ und Arie : "Abscheulicher |
+| <https://beta.musicbrainz.org/recording/bb8d1c38-6bcc-49ef-bf8c-d6891f7950c0> | Fidelio: Nr. 9 Rezitativ und Arie : "Abscheulicher |
+| <https://beta.musicbrainz.org/recording/e7c3e5f0-ff6a-46c5-a7bc-128987502fbd> | Fidelio: Nr. 10 Finale : "Nun sprecht, wie ging's? |
+| <https://beta.musicbrainz.org/recording/e7c3e5f0-ff6a-46c5-a7bc-128987502fbd> | Fidelio: Nr. 10 Finale : "Nun sprecht, wie ging's? |
+| <https://beta.musicbrainz.org/recording/878c1049-fd5c-4ce0-8fee-769d5fd4ba66> | Fidelio: Nr. 11 Introduktion und Arie : "Gott! - W |
+| <https://beta.musicbrainz.org/recording/3b60cdc3-1f99-4c23-a792-04b4bf6683c0> | Fidelio: Nr. 11 Introduktion und Arie : "In des Le |
+| <https://beta.musicbrainz.org/recording/9227b64b-d0f0-4276-b87b-072b3ce53738> | Fidelio: Nr. 13 Terzett : "Euch werde Lohn"        |
+| <https://beta.musicbrainz.org/recording/fae72678-ee53-4252-a642-0c6bb35f5578> | Fidelio: Nr. 14 Quartett : "Er sterbe!"            |
+| <https://beta.musicbrainz.org/recording/fae72678-ee53-4252-a642-0c6bb35f5578> | Fidelio: Nr. 14 Quartett : "Er sterbe!"            |
+| <https://beta.musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081> | Fidelio: Nr. 16 Finale : "Des besten Königs Wink u |
+| <https://beta.musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081> | Fidelio: Nr. 16 Finale : "Des besten Königs Wink u |
+| <https://beta.musicbrainz.org/recording/64947907-a0f1-4103-be04-d9744a97a081> | Fidelio: Nr. 16 Finale : "Des besten Königs Wink u |
+| <https://beta.musicbrainz.org/recording/e39b6288-bc91-4a79-a9e7-52788915811a> | Symphony no. 4 in B-flat major, op. 60: I. Adagio  |
+| <https://beta.musicbrainz.org/recording/84987e33-3fa2-4d40-9b30-3a5ff87b4b6a> | Symphony no. 4 in B-flat major, op. 60: II. Adagio |
+| <https://beta.musicbrainz.org/recording/169855d9-fd3a-4da9-acfa-19c9b0e0a95e> | Symphony no. 4 in B-flat major, op. 60: III. Alleg |
+| <https://beta.musicbrainz.org/recording/c8420ebe-c73f-4cdb-9410-e4a10c9b9758> | Symphony no. 4 in B-flat major, op. 60: IV. Allegr |
+| <https://beta.musicbrainz.org/recording/7ac3d2de-3f0d-468f-a235-12e57ddbd711> | Symphony no. 5 in C minor, op. 67: I. Allegro con  |
+| <https://beta.musicbrainz.org/recording/57450be4-2431-4b28-951b-3d0e77445c1c> | Symphony no. 5 in C minor, op. 67: II. Andante con |
+| <https://beta.musicbrainz.org/recording/d1fc8f3b-9aea-4f91-b1bd-96ad6d76a56f> | Symphony no. 5 in C minor, op. 67: III. Allegro -  |
+| <https://beta.musicbrainz.org/recording/9160f618-fd8f-433b-b986-1d582f4e2245> | Symphony no. 5 in C minor, op. 67: IV. Allegro     |
+| <https://beta.musicbrainz.org/recording/e932b447-660c-46e6-a2fb-480f0daaead0> | Concerto for oboe d'amore in A major, BWV 1055R: 1 |
+| <https://beta.musicbrainz.org/recording/9e20b551-a438-4cc1-934c-456c052e3501> | Concerto for oboe d'amore in A major, BWV 1055R: 2 |
+| <https://beta.musicbrainz.org/recording/b357801f-5b86-4206-a7fd-f1affc134307> | Concerto for oboe d'amore in A major, BWV 1055R: 3 |
+| <https://beta.musicbrainz.org/recording/ef329369-2040-4bef-bbbc-bff6138323a3> | Sinfonia in D major, BWV 1045                      |
+| <https://beta.musicbrainz.org/recording/8111baa0-ce43-4f84-a4a3-75d67dbd60ec> | Water Music, Suite no. 1 in F major, HWV 348: I. O |
+| <https://beta.musicbrainz.org/recording/e798c080-f32d-44de-b355-3ab31229a5b2> | Water Music, Suite no. 1 in F major, HWV 348: II.  |
+| <https://beta.musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd> | Water Music, Suite no. 1 in F major, HWV 348: III. |
+| <https://beta.musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd> | Water Music, Suite no. 1 in F major, HWV 348: III. |
+| <https://beta.musicbrainz.org/recording/9fc589dc-2a77-439e-b1ca-e384748b2cfe> | Water Music, Suite no. 1 in F major, HWV 348: IV.  |
+| <https://beta.musicbrainz.org/recording/cd1dddc0-8129-4ea2-864a-7dea5758a4bf> | Water Music, Suite no. 1 in F major, HWV 348: V. A |
+| <https://beta.musicbrainz.org/recording/07517ee5-e9ae-4fcf-8ce3-d055ad05ae96> | Water Music, Suite no. 1 in F major, HWV 348: VI.  |
+| <https://beta.musicbrainz.org/recording/56bdfcfd-1933-49ca-82be-15161973951d> | Water Music, Suite no. 1 in F major, HWV 348: VII. |
+| <https://beta.musicbrainz.org/recording/aa92dcf9-3874-4877-85b2-028e380ea3c1> | Water Music, Suite no. 1 in F major, HWV 348: VIII |
+| <https://beta.musicbrainz.org/recording/ee0b51c2-413b-4fc3-84d9-b7fec444057d> | Water Music, Suite no. 1 in F major, HWV 348: IX.  |
+| <https://beta.musicbrainz.org/recording/3fdbd49d-e059-4395-846e-461078fa605b> | Water Music, Suite no. 1 in F major, HWV 348: XI.  |
+| <https://beta.musicbrainz.org/recording/32fa10d7-0cf9-4509-bd0a-aab8aeb2b075> | Water Music, Suite no. 1 in F major, HWV 348: XII. |
+| <https://beta.musicbrainz.org/recording/fa96003e-11b2-418f-84d1-38cb0edf3e86> | Water Music, Suite no. 1 in F major, HWV 348: XIV. |
+| <https://beta.musicbrainz.org/recording/81883851-a87a-42a2-9f2f-c38bd9992e8b> | Water Music, Suite no. 1 in F major, HWV 348: XV.  |
+| <https://beta.musicbrainz.org/recording/4be7ea29-da3f-48ec-82fd-0279960f5b01> | Water Music, Suite no. 1 in F major, HWV 348: XVI. |
+| <https://beta.musicbrainz.org/recording/9172dc77-bfa2-4511-a816-fca4d30a35d4> | Water Music, Suite no. 1 in F major, HWV 348: XX.  |
+| <https://beta.musicbrainz.org/recording/abbe4272-5331-4ae6-91c2-5e65a0b58b0f> | La finta giardiniera: Act II. "Ah che son disperat |
+| <https://beta.musicbrainz.org/recording/26e033c3-0542-45ff-833b-ad0c8c482c7e> | Die Zauberflöte, K. 620: Act I, Scene VI. No. 4 Re |
+| <https://beta.musicbrainz.org/recording/ef954844-ac69-4fed-b0c6-434a1e83ba82> | Missa solemnis: Benedictus (excerpt)               |
+| <https://beta.musicbrainz.org/recording/5ad84131-cbee-4376-a4c7-c18d02e07ebb> | Symphony no. 9 in D minor op. 21: Finale (excerpts |
+| <https://beta.musicbrainz.org/recording/080a30af-1d59-40cd-83da-81173a613ca5> | Piano Concerto in A minor op. 54: Allegro vivace ( |
+| <https://beta.musicbrainz.org/recording/27ddfd66-f7ef-4024-8344-c282e8bb5194> | L'Orfea - Mira, deh mira Orfeo...In un fiorito pra |
+| <https://beta.musicbrainz.org/recording/f650bed5-5368-477c-82d4-c834de31ce0a> | "Gott ist unsre Zuversicht", BWV 197: 1. [Chorus:] |
+| <https://beta.musicbrainz.org/recording/123e5340-f25a-4207-9bb6-e45f1942fd6d> | "Gott ist unsre Zuversicht", BWV 197: 2. Recitativ |
+| <https://beta.musicbrainz.org/recording/181cf701-8bd8-47f0-ac67-d932dc5bd418> | "Gott ist unsre Zuversicht", BWV 197: 3. Aria: "Sc |
+| <https://beta.musicbrainz.org/recording/39f1df0e-1b2b-4cf3-ab00-7ace2483ff80> | "Gott ist unsre Zuversicht", BWV 197: 4. Recitativ |
+| <https://beta.musicbrainz.org/recording/dad71972-cb73-4005-b937-3f8aaf341c59> | "Gott ist unsre Zuversicht", BWV 197: 5. Chorale:  |
+| <https://beta.musicbrainz.org/recording/22636090-ad5c-4f37-bc5a-7b2af260ab80> | "Gott ist unsre Zuversicht", BWV 197: 6. Aria: "O  |
+| <https://beta.musicbrainz.org/recording/a138468f-7f84-4ff0-a74d-507e18c7a487> | "Gott ist unsre Zuversicht", BWV 197: 7. Recitativ |
+| <https://beta.musicbrainz.org/recording/0a902329-4b29-4a2d-ae95-966a1275a836> | "Gott ist unsre Zuversicht", BWV 197: 8. Aria: "Ve |
+| <https://beta.musicbrainz.org/recording/b07484cb-d810-4484-8def-75ecc001a87d> | "Gott ist unsre Zuversicht", BWV 197: 9. Recitativ |
+| <https://beta.musicbrainz.org/recording/9bdb39c1-69b6-48a7-9b68-66431339b790> | "Gott ist unsre Zuversicht", BWV 197: 10. Chorale: |
+| <https://beta.musicbrainz.org/recording/59923632-1459-4aa4-af1d-5878b9de4b34> | Radetzky‐Marsch op. 228 (original version)         |
+| <https://beta.musicbrainz.org/recording/7cf8a073-af7e-4186-9d60-61afb414c8f7> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 1  |
+| <https://beta.musicbrainz.org/recording/bf5bea2e-9090-4f5b-9abc-ae95a180c2ce> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 2  |
+| <https://beta.musicbrainz.org/recording/5e060654-82f4-41f8-ba00-535f6e1bdb13> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 3  |
+| <https://beta.musicbrainz.org/recording/394cf641-5562-4131-8563-7d47017f807c> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 4  |
+| <https://beta.musicbrainz.org/recording/91addd37-8fdf-4d22-b979-b976d3556050> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 5  |
+| <https://beta.musicbrainz.org/recording/7d7272cc-29fc-4052-942a-68ad8e6d08ea> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 6  |
+| <https://beta.musicbrainz.org/recording/82c8f201-560c-49d0-b4b4-e3b34da58399> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 7  |
+| <https://beta.musicbrainz.org/recording/21f9918f-c935-4d53-b1ca-881b1fc648ad> | Die Jahreszeiten, Hob. XXI:3: Die Frühling. No. 8  |
+| <https://beta.musicbrainz.org/recording/d7c6d95e-b013-47f2-a300-f99f28e73e52> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 9 In |
+| <https://beta.musicbrainz.org/recording/c44274f7-efab-4e4f-b113-cd7f2e75b801> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 10 A |
+| <https://beta.musicbrainz.org/recording/eb50f76e-8afa-415e-b0ec-fa1895015b49> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 11 T |
+| <https://beta.musicbrainz.org/recording/19af4ca8-f13d-4037-a53c-d90b6d079c8a> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 12 R |
+| <https://beta.musicbrainz.org/recording/75cedf47-7eec-4c7e-a34f-0ce62bb92647> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 13 C |
+| <https://beta.musicbrainz.org/recording/4e2cfa9e-e105-4fea-8ae7-c1bcea824676> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 14 R |
+| <https://beta.musicbrainz.org/recording/41b66677-15b2-4053-b8a7-9caa369a105f> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 15 A |
+| <https://beta.musicbrainz.org/recording/0d04a91c-e237-4a7c-8290-f6c28a607d2e> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 16 R |
+| <https://beta.musicbrainz.org/recording/c160a5cc-65db-4eba-a017-42b1f66dc5a9> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 17 C |
+| <https://beta.musicbrainz.org/recording/db57c9c3-52f4-4838-86f0-99317e849d73> | Die Jahreszeiten, Hob. XXI:3: Der Sommer: No. 18 T |
+| <https://beta.musicbrainz.org/recording/780ec225-519b-4dfb-a4b2-0bc949962123> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 19 I |
+| <https://beta.musicbrainz.org/recording/f3009085-dfff-4f05-acf3-6fb4afcdc8ef> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 20 T |
+| <https://beta.musicbrainz.org/recording/8818e19b-4e0b-42c5-82e3-0e8012e462b1> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 21 R |
+| <https://beta.musicbrainz.org/recording/6536f458-1dea-42ff-bb27-e619a3648419> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 22 D |
+| <https://beta.musicbrainz.org/recording/37782e33-b885-4598-a854-1bd4f307d5bb> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 23 R |
+| <https://beta.musicbrainz.org/recording/9337eff0-8a53-4fc6-85c1-51cc637984fe> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 24 A |
+| <https://beta.musicbrainz.org/recording/7e75a29e-71db-45b3-b27a-2044ab970997> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 25 R |
+| <https://beta.musicbrainz.org/recording/860333ed-e1bd-4f90-be91-26a12eb7caa7> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 26 C |
+| <https://beta.musicbrainz.org/recording/56625655-7071-46bb-a4fc-b96a60f7a9aa> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 27 R |
+| <https://beta.musicbrainz.org/recording/db8cf1c5-13f1-4cf8-bfea-786a694692d3> | Die Jahreszeiten, Hob. XXI:3: Der Herbst: No. 28 C |
+| <https://beta.musicbrainz.org/recording/1ea10681-8faf-4b61-929b-748fad11b8d8> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 29 I |
+| <https://beta.musicbrainz.org/recording/2db73673-d560-47fb-b531-42fa02a26f16> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 30 C |
+| <https://beta.musicbrainz.org/recording/1952ca15-299b-4b40-9a88-a2e93dc011e3> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 31 R |
+| <https://beta.musicbrainz.org/recording/494e69f6-452d-4a52-835c-6004bd4d21ae> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 32 A |
+| <https://beta.musicbrainz.org/recording/9a83e9e0-a2ea-4305-9a11-9db90a8e21b6> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 33 R |
+| <https://beta.musicbrainz.org/recording/883b15a3-a2e8-4164-a47c-3966a49a24f0> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 34 S |
+| <https://beta.musicbrainz.org/recording/fcac4ac6-9308-4366-bfff-5cc500a2f4db> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 35 R |
+| <https://beta.musicbrainz.org/recording/fdf1b9b8-6c4c-47c8-bdf5-4b3251aae31a> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 36 S |
+| <https://beta.musicbrainz.org/recording/be547bed-a358-4428-b470-f1961b86a7f1> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 37 R |
+| <https://beta.musicbrainz.org/recording/ce7d6267-e5e5-4054-aa3f-63a5fcb12a5b> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 38 A |
+| <https://beta.musicbrainz.org/recording/44fccd3d-18c1-4610-86c8-6980404bc9ff> | Die Jahreszeiten, Hob. XXI:3: Der Winter: No. 39 T |
+| <https://beta.musicbrainz.org/recording/949f8c3f-dfbe-4e38-bef2-029899e9a013> | Academic Festival Overture in C minor, op. 80      |
+| <https://beta.musicbrainz.org/recording/fc36d6a8-e5db-464a-ad9b-0c400ee41a5f> | Symphony no. 2 in D major, op. 73: I. Allegro non  |
+| <https://beta.musicbrainz.org/recording/2c006706-d54b-452f-b325-dc79ca9ff889> | Praise to God in all lands Cantata Nr. 51: Praise  |
+| <https://beta.musicbrainz.org/recording/4cd34940-c096-4dfd-a65f-8d643b99127b> | Praise to God in all lands Cantata Nr. 51: Alleluj |
+| <https://beta.musicbrainz.org/recording/939de82b-e06e-40b9-8206-b31348acec18> | Overture “Leonore”, op. 138                        |
+| <https://beta.musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc> | Mass in B minor, BWV 232: Credo: Crucifixus / Et r |
+| <https://beta.musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc> | Mass in B minor, BWV 232: Credo: Crucifixus / Et r |
+| <https://beta.musicbrainz.org/recording/96a39166-4a40-4913-8cbe-29fa16636149> | Weihnachts-Oratorium, BWV 248: Teil II, XII. Chora |
+| <https://beta.musicbrainz.org/recording/c2ccaf90-2283-4c61-8579-cd20791302e9> | Weihnachts-Oratorium, BWV 248: Teil II, XVII Aria  |
+| <https://beta.musicbrainz.org/recording/ea26bdb0-3ffa-4d5f-8cf1-3f40881d29e1> | Weihnachts-Oratorium, BWV 248: Teil II, XXIII. Ari |
+| <https://beta.musicbrainz.org/recording/bf0dd2f8-e297-4eda-920e-b69ea96128f6> | Symphonie Nr. 5 c-moll, op. 67: 1. Allegro con bri |
+| <https://beta.musicbrainz.org/recording/e9a114ee-5d66-4dd5-a9a7-1824c8a4bf10> | Symphonie Nr. 5 c-moll, op. 67: 2. Andante con mot |
+| <https://beta.musicbrainz.org/recording/e11dacfc-181b-4300-91ba-99eb0f0f13e0> | Symphonie Nr. 5 c-moll, op. 67: 3. Allegro         |
+| <https://beta.musicbrainz.org/recording/391cd42c-85cd-4f40-b8ed-a8aa9b35bb86> | Symphonie Nr. 5 c-moll, op. 67: 4. Allegro         |
+| <https://beta.musicbrainz.org/recording/1e0e9659-d26d-4d38-b3a7-65e5ddaf9b36> | Christmas Oratorio, BWV 248: Part II. Sinfonia     |
+| <https://beta.musicbrainz.org/recording/cb5c85cc-e4d5-4520-9da0-cbe2cd558e4d> | Symphony no. 9 in D minor, op. 125 “Choral”: IV. P |
+| <https://beta.musicbrainz.org/recording/fd0d2014-28af-41d7-9cfe-34b133509226> | Symphony no. 7 in E major: I. Allegro moderato     |
+| <https://beta.musicbrainz.org/recording/2be72a68-f1dc-41fb-9465-58b12e667324> | Symphony no. 7 in E major: II. Adagio. Sehr feierl |
+| <https://beta.musicbrainz.org/recording/aee12892-81ab-48b4-9676-80bbd96314af> | Symphony no. 7 in E major: III. Scherzo. Sehr schn |
+| <https://beta.musicbrainz.org/recording/6ed0a20e-3381-4584-a0b1-617ad85cdd4d> | Symphony no. 7 in E major: IV. Finale. Bewegt, doc |
+| <https://beta.musicbrainz.org/recording/864b8220-abdf-4501-a216-ef08e5ea9f73> | La traviata: Atto I. “Follie! Delirio vano è quest |
+| <https://beta.musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad> | La traviata: Atto II. “Lunge da lei… De’miei bolle |
+| <https://beta.musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad> | La traviata: Atto II. “Lunge da lei… De’miei bolle |
+| <https://beta.musicbrainz.org/recording/9de94a43-6b50-4737-add2-9214b1a726ad> | La traviata: Atto II. “Lunge da lei… De’miei bolle |
+| <https://beta.musicbrainz.org/recording/b9e96ce0-b212-40cf-a4b5-2154452b0fef> | La traviata: Atto III. “Teneste la promessa… Atten |
+| <https://beta.musicbrainz.org/recording/9c815caf-7d9a-4cef-838a-d8a82538a2fd> | Der Freischütz: III. Akt. No. 11 Entr’acte         |
+| <https://beta.musicbrainz.org/recording/e3d0f585-a770-4526-8227-2e3eb18c1ba0> | Der Freischütz: III. Akt, VI. Auftritt. “Wer legt  |
+| <https://beta.musicbrainz.org/recording/48bcd019-9a71-4df0-9c36-77f87cebf37d> | La traviata: Atto I. “È strano… Ah, fors’è lui” (V |
+| <https://beta.musicbrainz.org/recording/59a254ff-2f16-44c5-a05f-005c74129be6> | Ritter Pázmán: Csárdás                             |
+| <https://beta.musicbrainz.org/recording/4d87f5d0-441b-4335-aa3c-a4b4dbe9cbc8> | The Blue Danube (Waltz), Op. 314                   |
+| <https://beta.musicbrainz.org/recording/b4e6edad-6c94-4776-ab11-c3248fb3dc24> | Tristan und Isolde: Act III: "Mild und leise vie e |
+| <https://beta.musicbrainz.org/recording/ae62249f-3a3c-4502-9d78-adf7cb3ffeda> | Symphony no. 4 in B-flat, op. 60: I. Adagio - Alle |
+| <https://beta.musicbrainz.org/recording/8a84cd30-e774-4b91-b12c-e57b495a4881> | Symphony no. 4 in B-flat, op. 60: II. Adagio       |
+| <https://beta.musicbrainz.org/recording/853e6a22-25d2-4147-a490-963a1bdb4c2b> | Symphony no. 4 in B-flat, op. 60: III. Allegro viv |
+| <https://beta.musicbrainz.org/recording/e115f6c3-2e1a-4d96-bada-ae753611cb38> | Symphony no. 4 in B-flat, op. 60: IV. Allegro ma n |
+| <https://beta.musicbrainz.org/recording/71eb4665-3b4b-4796-8d21-3a86ddeafe20> | Symphony no. 7 in A, op. 92: I. Poco sostenuto - V |
+| <https://beta.musicbrainz.org/recording/7dfac67d-8dd7-484c-9634-27973ee81c0c> | Symphony no. 7 in A, op. 92: II. Allegretto        |
+| <https://beta.musicbrainz.org/recording/481829ca-e51f-430f-9691-71ec928ec363> | Symphony no. 7 in A, op. 92: IV. Allegro con brio  |
+| <https://beta.musicbrainz.org/recording/75fcf919-101b-4f41-a71b-3eed5af3c82f> | Symphony no. 7 in A, op. 92: III. Presto - Assai m |
+| <https://beta.musicbrainz.org/recording/2c456f61-0350-45f9-93e6-372821023f0b> | Die Dreigroschenoper: Die Moritat von Mackie Messe |
+| <https://beta.musicbrainz.org/recording/48f82d71-50ff-4c39-b909-5bc03debad7b> | Fidelio, Act I, No. 5: Terzett: Gut, Söhnchen, gut |
+| <https://beta.musicbrainz.org/recording/e9fd3da2-de31-401c-b487-763a9474861e> | Fidelio, Act II: III. Nur hurtig fort              |
+| <https://beta.musicbrainz.org/recording/316086d5-b9dc-45e5-bb0e-2e73d94be767> | Fidelio, Act II: IV. Er erwacht!                   |
+| <https://beta.musicbrainz.org/recording/a66ca481-f0f2-4122-99ae-c730860fe802> | Le Vaisseau fantôme: Johohoe! Traft ihr das Schiff |
+| <https://beta.musicbrainz.org/recording/ee9d4fc6-e55d-4328-b932-382221e5e7aa> | Don Giovanni : Madamina il catalogo è questo (Lepo |
+| <https://beta.musicbrainz.org/recording/e8ea35b1-73dd-4708-ad41-a5d3ecb72c44> | Kleine Dreigroschenmusik: I. Ouvertüre             |
+| <https://beta.musicbrainz.org/recording/e07c3da4-bf16-46c0-868e-a900d86864e8> | Kleine Dreigroschenmusik: II. Die Moritat von Mack |
+| <https://beta.musicbrainz.org/recording/38a2ba15-5a99-4645-9ff5-1771dbb366a6> | Kleine Dreigroschenmusik: III. Die Ballade vom ang |
+| <https://beta.musicbrainz.org/recording/b2925ff4-ea34-453b-bc41-8d072a61354a> | Kleine Dreigroschenmusik: IV. Polly's Lied         |
+| <https://beta.musicbrainz.org/recording/0acfde42-c4a9-460b-b9f1-c99e573f4f1d> | Kleine Dreigroschenmusik: V. Tango-Ballade         |
+| <https://beta.musicbrainz.org/recording/ed4e3c63-714e-4669-851c-bdfdb7e7c605> | Kleine Dreigroschenmusik: VI. Kanonen-Lied         |
+| <https://beta.musicbrainz.org/recording/83504042-ad47-4719-aab6-2d2636436a24> | Kleine Dreigroschenmusik: VII. Dreigroschen-Finale |
+| <https://beta.musicbrainz.org/recording/a75b2d51-8dfa-4181-8da1-93a4e90e2000> | Kleine Dreigroschenmusik: Moritat (Mack, the Knife |
+| <https://beta.musicbrainz.org/recording/36f0be16-7b41-4f5c-aa0c-f37674bcb7c5> | Kleine Dreigroschenmusik: Ballade                  |
+| <https://beta.musicbrainz.org/recording/d54e241b-868c-4507-acca-5251d9aa5909> | Kleine Dreigroschenmusik: Tango-Ballade            |
+| <https://beta.musicbrainz.org/recording/7563b63a-7917-450e-8413-cf8b548647c3> | Kleine Dreigroschenmusik: Kanonensong              |
+| <https://beta.musicbrainz.org/recording/bac49c91-378f-47a5-a3fd-46502d5caeee> | Kleine Dreigroschenmusik: Die Moritat von Mackie M |
+| <https://beta.musicbrainz.org/recording/159cdb98-2fbc-472d-bd74-041f8b15d2b8> | Kleine Dreigroschenmusik: Die Ballade vom angenehm |
+| <https://beta.musicbrainz.org/recording/72019db5-e2f9-40f8-b3df-7516edd7827d> | Kleine Dreigroschenmusik: Tango‐Ballade            |
+| <https://beta.musicbrainz.org/recording/a6a2ab42-afb3-49a5-ac12-f36c616be065> | Kleine Dreigroschenmusik: Kanonensong              |
+| <https://beta.musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9> | Fidelio: Mir ist so wunderbar / Komn, Hoffnung     |
+| <https://beta.musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9> | Fidelio: Mir ist so wunderbar / Komn, Hoffnung     |
+| <https://beta.musicbrainz.org/recording/ad52869e-0cd2-43ba-ae0e-7fb2f2352d76> | Overture “Leonore” no. 3, op. 72b: Adagio - Allegr |
+| <https://beta.musicbrainz.org/recording/a54bc417-d4ac-44e5-990c-b891cab3f5cb> | Fire-Bringers                                      |
+| <https://beta.musicbrainz.org/recording/7bf75690-9d54-48d9-9671-e32a7ee5c9bc> | Overture “Coriolan”, op. 62                        |
+| <https://beta.musicbrainz.org/recording/11ed366a-4853-452c-8130-5740a0819d57> | Overture “Ein Sommernachtstraum”, op. 21           |
+| <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
+| <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
+| <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
+| <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
+| <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
+| <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
+| <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
+| <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
+| <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
+| <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
+| <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
+| <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
+| <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
+| <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
+| <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
+| <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
+| <https://beta.musicbrainz.org/recording/56cf495b-2725-480c-8f41-fdd96180b951> | Salome, op. 54: Tanz der sieben Schleier           |
+| <https://beta.musicbrainz.org/recording/5174e75a-90fb-466d-a461-dfce676faa40> | Die Meistersinger Akt I: Zu einer Freiung und Zunf |
+| <https://beta.musicbrainz.org/recording/00b5a9db-f8c3-48e0-a16e-f1f9b6cbccf4> | Die Meistersinger Akt I: Nicht doch, Ihr Meister,  |
+| <https://beta.musicbrainz.org/recording/3032426e-e9ea-4c73-a10f-50dd801177d0> | Die Meistersinger Akt I: Wohl Meister! Zur Tagesor |
+| <https://beta.musicbrainz.org/recording/bcaad815-4a27-4a58-9407-a56aec61a972> | Die Meistersinger Akt I: Was Euch zum Liede Richt  |
+| <https://beta.musicbrainz.org/recording/c9f5c8d3-97fe-47ba-bae6-33110b14fbac> | Die Meistersinger von Nürnberg Akt II: Das dacht'  |
+| <https://beta.musicbrainz.org/recording/78bedb5b-ad22-4a44-9c1b-fab4f0814e98> | Die Meistersinger von Nürnberg Akt II: Hört, ihr L |
+| <https://beta.musicbrainz.org/recording/2b48e713-8533-4a24-b08c-27fc28a63127> | Die Meistersinger von Nürnberg Akt II: Zum Teufel  |
+| <https://beta.musicbrainz.org/recording/107b2fde-c7f2-4e0b-a00f-1d275799697d> | Die Meistersinger von Nürnberg Akt III, Bild 1: So |
+| <https://beta.musicbrainz.org/recording/c8c20df9-7f49-41cc-bd94-00426182a92e> | Die Meistersinger von Nürnberg Akt III, Bild 1: Me |
+| <https://beta.musicbrainz.org/recording/79e17af2-cec8-4d36-8d9b-551cc1eecddc> | Die Meistersinger von Nürnberg Akt III, Bild 1: Se |
+| <https://beta.musicbrainz.org/recording/84c7491c-7d87-482f-bb8b-6c20cb1e6753> | Wesendonk Lieder (Five Poems for Female Voice): "T |
+| <https://beta.musicbrainz.org/recording/37b82e3b-f21b-4bf0-a64f-ede61bf6dcbc> | Tristan und Isolde: 3. Aufzug "Wie kan ich her?"   |
+| <https://beta.musicbrainz.org/recording/c0e97e0c-2087-40d9-9474-f803cf7fa292> | Parsifal, WWV 111: Act I. "Vom Bade kehrt der Köni |
+| <https://beta.musicbrainz.org/recording/635f71bc-d5c3-42d6-a3ea-1db981f0d2bc> | Parsifal, WWV 111: Act I. Verwandlungsmusik        |
+| <https://beta.musicbrainz.org/recording/e5b557f5-d14f-4077-b8f2-8b4953a89ea3> | Parsifal, WWV 111: Act I. "Enthüllet den Gral!" (T |
+| <https://beta.musicbrainz.org/recording/3ee42873-8622-4cce-9b1a-6d275df74cb2> | Parsifal, WWV 111: Act I. "Wein und Brot des letzt |
+| <https://beta.musicbrainz.org/recording/3f7a0899-82d8-4e39-ba27-cd5cb2bc819e> | Parsifal, WWV 111: Act II. "Hier war das Tosen! Hi |
+| <https://beta.musicbrainz.org/recording/02ff7406-8a71-4e08-b69c-869c4d6c355f> | Parsifal, WWV 111: Act II. "Komm, komm, holder Kna |
+| <https://beta.musicbrainz.org/recording/02076bbb-54a7-407f-b2d6-4d80b8a266cf> | Parsifal, WWV 111: Act II. "Parsifal! - Weile!" (K |
+| <https://beta.musicbrainz.org/recording/1139e753-4bb7-491f-9be3-98eca26110b1> | Parsifal, WWV 111: Act II. "Parsifal! - Weile!" (P |
+| <https://beta.musicbrainz.org/recording/e2c5404d-7096-44c3-a8cf-5c0e29a0168e> | Parsifal, WWV 111: Act II. "Ich sah das Kind" (Kun |
+| <https://beta.musicbrainz.org/recording/f9f4b57f-8dfb-47db-9681-761575ffe31b> | Parsifal, WWV 111: Act II. "Wehe! Wehe! Was tat ic |
+| <https://beta.musicbrainz.org/recording/d22ab8fa-b44d-4f63-ba8f-17b38c1af814> | Parsifal, WWV 111: Act II. "Amfortas! Die Wunde!"  |
+| <https://beta.musicbrainz.org/recording/860ec77a-f586-4ad5-a64b-9128dda74d97> | Siegfried Idyll                                    |
+| <https://beta.musicbrainz.org/recording/59109ecb-caa4-4d55-8c0a-7628f37dd8a8> | Lohengrin Overture                                 |
+| <https://beta.musicbrainz.org/recording/96f40488-02e2-4db2-9d56-0d3f4230eaea> | Parsifal - Prelude                                 |
+| <https://beta.musicbrainz.org/recording/a449478b-fe54-4312-884a-51a0f69ee5bc> | Tristan und Isolde: Mild und leise (Liebestod)     |
+| <https://beta.musicbrainz.org/recording/2d3f2e50-c88a-499a-8079-bd0abf71fcc0> | El Sombrero de Tres Picos, G. 53 Part I: Danza de  |
+| <https://beta.musicbrainz.org/recording/100d4b31-d536-4ce8-9ea2-d7d9d4468519> | El Sombrero de Tres Picos, G. 53 Part II: Danza de |
+| <https://beta.musicbrainz.org/recording/fae0e6fa-aff3-4d57-96c5-140459386f45> | El Sombrero de Tres Picos, G. 53 Part II: Danza de |
+| <https://beta.musicbrainz.org/recording/7e08d079-6a35-41d3-8de0-647060fa428f> | El Sombrero de Tres Picos, G. 53 Part II: Danza Fi |
+| <https://beta.musicbrainz.org/recording/c3566b77-5092-44fc-b5c4-9a9ada2d1efc> | Harold en Italie, op. 16: II. Marche de Pèlerins,  |
+| <https://beta.musicbrainz.org/recording/b145a3b3-f035-41c3-8ba2-96771a6c8239> | The Rite of Spring: L'Adoration de la terre        |
+| <https://beta.musicbrainz.org/recording/7b864389-bc0f-439f-9c42-5024a62ad401> | The Rite of Spring: Le Sacrifice                   |
+| <https://beta.musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c> | Messe in h-Moll, BWV 232: Gloria                   |
+| <https://beta.musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c> | Messe in h-Moll, BWV 232: Gloria                   |
+| <https://beta.musicbrainz.org/recording/b71e3abb-142d-41da-acc2-9a2d74e6bdd8> | Symphony Nr. 8 in C-moll, WAB 108 (2. rev. 1887-18 |
+| <https://beta.musicbrainz.org/recording/ceb4440a-65ec-4e9c-aad1-d0856e66f11b> | Symphony Nr. 8 in C-moll, WAB 108 (2. rev. 1887-18 |
+| <https://beta.musicbrainz.org/recording/6712a820-61d5-4bf0-8b28-6ffaaa43ec52> | Carmen: Je vais dancer en votre honneur            |
+| <https://beta.musicbrainz.org/recording/9b017ad0-05d5-4f6e-bba2-6c3d95ab1583> | Madama Butterfly: Act II. Un bel di, vedremo       |
+| <https://beta.musicbrainz.org/recording/cfe3dfbb-9456-4fbf-b75a-6282cbc71c2b> | Turandot: 3. Signore ascolta!...Non piangere, Liù! |
+| <https://beta.musicbrainz.org/recording/a52ca468-a07b-48ad-b86a-696d64267188> | Pictures at an Exhibition                          |
+| <https://beta.musicbrainz.org/recording/4604cf57-b6a2-4e58-b8f2-4b5994b51da2> | Pictures at an Exhibition                          |
+| <https://beta.musicbrainz.org/recording/2290ada8-d8a3-4585-b337-681f9cedff3d> | Otello: Qua, ragazzi, del vino!... Iaffia l'ugola! |
+| <https://beta.musicbrainz.org/recording/ded82a79-aec6-4069-810d-6e0ea747bab1> | Otello: E qual certezza sognate voi                |
+| <https://beta.musicbrainz.org/recording/94a444ae-9a41-4e56-a754-240d7c85c571> | Fidelio: Act 1 - Marsch                            |
+| <https://beta.musicbrainz.org/recording/58d01dac-3743-49af-a9f7-a08e5202081b> | Manfred Symphony, op. 58: I. Lento lugubre – Moder |
+| <https://beta.musicbrainz.org/recording/8bb1adcc-4826-42a7-be34-6616bd0c4a61> | Manfred Symphony, op. 58: IV. Allegro con fuoco    |
+| <https://beta.musicbrainz.org/recording/48b8e7e2-a7f3-427c-9da5-d7be66d93d2f> | Tod und Verklärung, op. 24                         |
+| <https://beta.musicbrainz.org/recording/00c87388-b30f-4888-9165-51cd83437d65> | Don Juan, op.20                                    |
+| <https://beta.musicbrainz.org/recording/2b4a3f75-f374-461d-ae8e-4ad9cbe8f275> | Don Quixote, op. 35: Einleitung (Mäßiges Zeitmaß): |
+| <https://beta.musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c> | Aida: Atto I, scena 1. “Or di Vulcano al tempio” ( |
+| <https://beta.musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c> | Aida: Atto I, scena 1. “Or di Vulcano al tempio” ( |
+| <https://beta.musicbrainz.org/recording/47f52672-d268-4291-bcf5-86d48eafa711> | Luisa Miller: Atto I, scena 1. Sinfonia            |
+| <https://beta.musicbrainz.org/recording/7ba20401-66aa-4089-838d-7d365ab5322b> | Luisa Miller: Atto I, scena 1. Introduzione        |
+| <https://beta.musicbrainz.org/recording/8f274f81-a912-4289-bafc-4948b1d85a63> | Luisa Miller: Atto I, scena 1. “Ti desta, Luisa”   |
+| <https://beta.musicbrainz.org/recording/42db2571-72a6-4389-9a5e-318fc152d8cf> | Luisa Miller: Atto I, scena 1. “Ecco mia figlia”   |
+| <https://beta.musicbrainz.org/recording/1af2be23-8726-40f4-bc08-56c1e5cac11a> | Luisa Miller: Atto I, scena 1. “Lo vidi, e 'l prim |
+| <https://beta.musicbrainz.org/recording/a8377745-9f94-465c-86a9-38d8ec17967f> | Luisa Miller: Atto I, scena 1. “T'amo d'amor”      |
+| <https://beta.musicbrainz.org/recording/2ced2b5c-5f45-4425-a2d9-b685b9f52739> | Luisa Miller: Atto I, scena 1. “Ferma ed ascolta“  |
+| <https://beta.musicbrainz.org/recording/b72c848e-4409-4150-88a0-b931d037743e> | Luisa Miller: Atto I, scena 1. “Sacra la scelta”   |
+| <https://beta.musicbrainz.org/recording/3de8c7bd-c419-481d-815c-26370eabde51> | Luisa Miller: Atto I, scena 1. “Costarti, o vecchi |
+| <https://beta.musicbrainz.org/recording/ab1e8334-1215-4aa0-bdb2-96c681126b9e> | Luisa Miller: Atto I, scena 1. “Ah, fu giusto il m |
+| <https://beta.musicbrainz.org/recording/0cd7f2ec-8726-4fd6-a840-93a6ab81b2e1> | Luisa Miller: Atto I, scena 2. “Che mai narrasti“  |
+| <https://beta.musicbrainz.org/recording/6444c384-3eaa-42ff-9f46-33f71b0d1c3d> | Luisa Miller: Atto I, scena 2. “Il mio sangue, la  |
+| <https://beta.musicbrainz.org/recording/75ddac68-8a8a-47ae-8b97-f538d2a4ab0b> | Luisa Miller: Atto I, scena 2. “Padre, m'abbraccia |
+| <https://beta.musicbrainz.org/recording/e05771f7-14b2-4476-8f37-a96704446ca7> | Luisa Miller: Atto I, scena 2. “Quale un sorriso d |
+| <https://beta.musicbrainz.org/recording/79e15ac6-326c-4704-981c-7ea4993b2c94> | Luisa Miller: Atto I, scena 2. “Duchessa, dall'aul |
+| <https://beta.musicbrainz.org/recording/bbee67b2-35db-4413-913b-523c0505ec3a> | Luisa Miller: Atto I, scena 3. “Sciogliete i levri |
+| <https://beta.musicbrainz.org/recording/e307c9d8-ba6c-41ad-9a3a-ad67e2c4a16d> | Luisa Miller: Atto I, scena 3. “Del conte di Walte |
+| <https://beta.musicbrainz.org/recording/8b1c6d0c-f51b-4300-affa-523abb34c4a5> | Luisa Miller: Atto I, scena 3. “Tu, tu, signor”    |
+| <https://beta.musicbrainz.org/recording/e9605cc4-9568-4a83-b76e-982ae7c1992e> | Luisa Miller: Atto I, scena 3. “Fra' mortali ancor |
+| <https://beta.musicbrainz.org/recording/23eee596-fdee-4ea3-8d54-947c229dd9f8> | Luisa Miller: Atto I, scena 3. “I cenni miei si co |
+| <https://beta.musicbrainz.org/recording/b2136dcc-41a7-457b-8ba8-cbd47e7c99ec> | Luisa Miller: Atto II, scena 1. “Ah, Luisa, ove se |
+| <https://beta.musicbrainz.org/recording/1722507a-37ce-4a03-b1c9-846419c31487> | Luisa Miller: Atto II, scena 1. “Il padre tuo”     |
+| <https://beta.musicbrainz.org/recording/beea7444-29c6-4e85-b6fe-b6acb72d40ee> | Luisa Miller: Atto II, scena 1. “Tu puniscimi, o s |
+| <https://beta.musicbrainz.org/recording/5f566e2f-f0dc-4ab6-8240-3753d3eba5ef> | Luisa Miller: Atto II, scena 1. “Qui nulla s'atten |
+| <https://beta.musicbrainz.org/recording/45efa2a4-c3ce-4834-9ec1-43ae10bc1f93> | Luisa Miller: Atto II, scena 1. “A brani, o perfid |
+| <https://beta.musicbrainz.org/recording/e21ee785-de8a-4921-a238-3e9d51f1311c> | Luisa Miller: Atto II, scena 2. “Egli delira”      |
+| <https://beta.musicbrainz.org/recording/fe4d5f9f-5c16-4e3f-8794-3c8b74cbddd6> | Luisa Miller: Atto II, scena 2. “L'alto retaggio”  |
+| <https://beta.musicbrainz.org/recording/0abab175-3807-4fa3-a256-3b20ddf0776f> | Luisa Miller: Atto II, scena 2. “Vien la duchessa” |
+| <https://beta.musicbrainz.org/recording/c9406fe4-6d7a-4277-b98e-c608a329f391> | Luisa Miller: Atto II, scena 2. “Presentarti alla  |
+| <https://beta.musicbrainz.org/recording/f999a350-7c0b-45e6-9fdb-a9c0a0924cdd> | Luisa Miller: Atto II, scena 3. “Il foglio dunque” |
+| <https://beta.musicbrainz.org/recording/401e716f-c9f6-44f7-aafc-a641cd2536fe> | Luisa Miller: Atto II, scena 3. “Quando le sere al |
+| <https://beta.musicbrainz.org/recording/a5dc180c-bccb-4c3f-aaee-85bccaa33fdd> | Luisa Miller: Atto II, scena 3. “Di me chiedeste”  |
+| <https://beta.musicbrainz.org/recording/9bebb563-1faf-455b-a883-77a5d95fef32> | Luisa Miller: Atto II, scena 3. “L'ara, o l'avello |
+| <https://beta.musicbrainz.org/recording/2034245d-4a9c-41f0-809a-b7a26148decf> | Luisa Miller: Atto III. Coro d'introduzione        |
+| <https://beta.musicbrainz.org/recording/873e78d6-bcd3-42f8-98e0-fd48cea4ad52> | Luisa Miller: Atto III, scena 1. “O dolce amica”   |
+| <https://beta.musicbrainz.org/recording/aed076d7-9790-4de7-8cf0-002acef1fe9c> | Luisa Miller: Atto III, scena 1. “Pallida, mesta s |
+| <https://beta.musicbrainz.org/recording/bda923b0-24b4-4950-abb6-762adb53ede5> | Luisa Miller: Atto III, scena 1. “La tomba è un le |
+| <https://beta.musicbrainz.org/recording/a457494e-0531-44ac-8417-9dd3e0fbd194> | Luisa Miller: Atto III, scena 1. “Andrem, raminghi |
+| <https://beta.musicbrainz.org/recording/b5b6a9ce-81fe-4593-851d-50b64e329549> | Luisa Miller: Atto III, scena 2. “Ah, l'ultima pre |
+| <https://beta.musicbrainz.org/recording/834e8482-2fb7-4c70-911d-3facdb967aaf> | Luisa Miller: Atto III, scena 2. “Piangi, piangi”  |
+| <https://beta.musicbrainz.org/recording/d13c4e6f-6708-4fb7-bc7d-4051e831217a> | Luisa Miller: Atto III, scena 2. “Donna, per noi t |
+| <https://beta.musicbrainz.org/recording/ef7b3946-5c84-466f-8fa5-8719e843201c> | Luisa Miller: Atto III, scena 2. “Padre, ricevi l' |
+| <https://beta.musicbrainz.org/recording/cd1bcc4b-044d-4af8-993e-be7fc854b4eb> | Fidelio, op. 72: Act I. No. 9 Recitative and Aria: |
+| <https://beta.musicbrainz.org/recording/ea47dd69-c23a-4959-a7f0-7e75cc361c01> | Symphony in C Major: I. Allegro non troppo, vivace |
+| <https://beta.musicbrainz.org/recording/5451d190-930b-4258-9d12-ff2261c2a954> | Symphony in C Major: II. Andante espressivo e sost |
+| <https://beta.musicbrainz.org/recording/e1eb85b0-feb7-473e-8dcf-37865f57de77> | Symphony in C Major: III. Allegro spiritoso        |
+| <https://beta.musicbrainz.org/recording/c615f991-e479-427d-a868-861d633b32a3> | Introduction to Act III (from " Ariane Et Barbe Bl |
+| <https://beta.musicbrainz.org/recording/56d921d0-82da-4e80-9ffb-aefdc56bbca9> | Romeo and Juliet Suite no. 1, op. 64a: 7. Tybalt’s |
+| <https://beta.musicbrainz.org/recording/0a9c1237-c937-48e2-a8e8-9c410b0543d5> | Tragic Overture, op. 81                            |
+| <https://beta.musicbrainz.org/recording/0674d5de-36a3-4593-99ca-1cf8fef4e56e> | Messa da requiem: “Ingemisco”                      |
+| <https://beta.musicbrainz.org/recording/29760b90-096f-4188-813a-a1aace59f065> | La traviata: Preludio                              |
+| <https://beta.musicbrainz.org/recording/2a60d0ae-46a3-4cdc-8ba1-bd063c23c9f1> | La traviata: Atto I. Brindisi “Libiamo ne' lieti c |
+| <https://beta.musicbrainz.org/recording/0a9cd004-3339-4bc6-b48f-647056210021> | La traviata: Atto II. “Alfredo!... Voi!... - Sì, a |
+| <https://beta.musicbrainz.org/recording/346da313-11b3-43a4-9c91-9b1d9e9a9535> | The Rite of Spring, Part I “Adoration of the Earth |
+| <https://beta.musicbrainz.org/recording/4b391999-a920-4c3f-aee9-5bbff6f9cfa9> | Water Music Suite no. 2 in D major, HWV 349: XI. M |
+| <https://beta.musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665> | Water Music Suite no. 2 in D major, HWV 349: XII.  |
+| <https://beta.musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665> | Water Music Suite no. 2 in D major, HWV 349: XII.  |
+| <https://beta.musicbrainz.org/recording/69a2e053-5051-4c45-becb-c2fad30b136b> | Water Music Suite no. 3 in G major, HWV 350: XIV.  |
+| <https://beta.musicbrainz.org/recording/d08c4ed6-7784-4ee4-be18-38ea888f65e2> | Water Music Suite no. 3 in G major, HWV 350: XV. R |
+| <https://beta.musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316> | Water Music Suite no. 2 in D major, HWV 349: IX. A |
+| <https://beta.musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316> | Water Music Suite no. 2 in D major, HWV 349: IX. A |
+| <https://beta.musicbrainz.org/recording/9d663a73-1fc5-4995-95b2-7923319c500c> | Water Music Suite no. 3 in G major, HWV 350: XVI.  |
+| <https://beta.musicbrainz.org/recording/8fd43bb5-5c75-4864-90bd-a90751f05b5b> | William Tell (extract)                             |
+| <https://beta.musicbrainz.org/recording/37d8108b-c49c-493a-b858-79d8bf415ead> | Symphony in D minor, op. 48: I. Lento              |
+| <https://beta.musicbrainz.org/recording/83751260-83b8-42db-8828-1329f824e3b1> | Mefistofele: Ave Signor, Degli Angeli              |
+| <https://beta.musicbrainz.org/recording/ef7c328a-f719-4642-b16f-2adb4f69a575> | Festive Overture, op. 96                           |
+| <https://beta.musicbrainz.org/recording/13a0a01a-33cf-4f5b-bc4c-aad1e949dc9a> | Ernani: Atto III. "Un patto! Un giuramento! ... Si |
+| <https://beta.musicbrainz.org/recording/0341a555-9823-4851-85d3-72605e04d9c9> | Aida: Atto IV, scena 1. Scena del giudizio. "A lui |
+| <https://beta.musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1> | Requiem: Libera me Dies Irae                       |
+| <https://beta.musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1> | Requiem: Libera me Dies Irae                       |
+| <https://beta.musicbrainz.org/recording/b7db9912-fd89-4ede-9d0f-a19c7ae682cd> | Cavalleria rusticana: “Intanto amici … Viva il vin |
+| <https://beta.musicbrainz.org/recording/55fd0d9b-68b5-4b88-adf6-5b4430aa31cb> | Pagliacci: Atto I. “Recitar!...Vesti la giubba”    |
+| <https://beta.musicbrainz.org/recording/037c4669-a982-4e99-a354-a75372c839db> | Ernani: “Mercé diletti amici ... Come rugiada al c |
+| <https://beta.musicbrainz.org/recording/7a78224b-6432-46ae-88a9-d2e3816cf1a8> | La forza del destino: “O tu che in seno agli angel |
+| <https://beta.musicbrainz.org/recording/b1487fdf-e886-4633-b4bb-a1293dd0da27> | Un ballo in maschera: Atto I, scena 2. “Su profete |
+| <https://beta.musicbrainz.org/recording/b9c60b9c-f72d-400d-a138-de9d69016236> | Messa Da Requiem, opera: Hostias                   |
+| <https://beta.musicbrainz.org/recording/be23cd26-5982-4aab-bf4b-c923f5d954c1> | Cavalleria rusticana: “Mamma, quel vino è generoso |
+| <https://beta.musicbrainz.org/recording/eb7169fc-f658-4f4d-89d8-428a213f118f> | Di’ tu se fedele                                   |
+| <https://beta.musicbrainz.org/recording/8a00afb8-32e7-4051-978b-21720ee60e6d> | Ma se m’è forza perderti                           |
+| <https://beta.musicbrainz.org/recording/fb81d711-20ac-4d83-bc8c-a091798baa08> | O, tu che in seno agli angeli                      |
+| <https://beta.musicbrainz.org/recording/a4fcc850-41b3-4798-87c9-a1e74505349f> | Rigoletto: Atto I, scena 2. “Soccorso, padre mio.. |
+| <https://beta.musicbrainz.org/recording/18ada081-221b-4dfb-86fb-1beeca7096ee> | Rigoletto: Atto II. “Parmi veder le lagrime“       |
+| <https://beta.musicbrainz.org/recording/7b128440-63a1-4088-8b7b-52ea634c1815> | Swan Lake - Ballet Suite, op. 20: Scene            |
+| <https://beta.musicbrainz.org/recording/7b9ade50-1448-42ec-8480-f6da708bc692> | Messa in fa maggiore “Di Chimay”: Kyrie: I. Kyrie  |
+| <https://beta.musicbrainz.org/recording/a8d7c914-ffc0-4dcd-bbd6-a6f18260a17d> | Messa in fa maggiore “Di Chimay”: Kyrie: II. Chris |
+| <https://beta.musicbrainz.org/recording/2f3e5223-8c87-47ad-9438-64d0310e9b30> | Messa in fa maggiore “Di Chimay”: Kyrie: III. Kyri |
+| <https://beta.musicbrainz.org/recording/400e2ef5-622a-43df-bf4d-9b7abd95689a> | Messa in fa maggiore “Di Chimay”: Gloria: I. Glori |
+| <https://beta.musicbrainz.org/recording/4f918bc9-a95a-419a-b24e-25b399da3c5f> | Messa in fa maggiore “Di Chimay”: Gloria: II. Laud |
+| <https://beta.musicbrainz.org/recording/8367aeba-fea0-4da0-9212-1df9ba17333e> | Messa in fa maggiore “Di Chimay”: Gloria: III. Glo |
+| <https://beta.musicbrainz.org/recording/60351199-6f18-43fb-8985-4406a9bdbdba> | Messa in fa maggiore “Di Chimay”: Gloria: IV. Qui  |
+| <https://beta.musicbrainz.org/recording/0973b0d2-d9e2-428c-a5fe-3cee5f22aa1f> | Messa in fa maggiore “Di Chimay”: Gloria: V. In Gl |
+| <https://beta.musicbrainz.org/recording/f0522cb6-46c6-4226-adb7-01a91081280a> | Messa in fa maggiore “Di Chimay”: Credo: I. Credo: |
+| <https://beta.musicbrainz.org/recording/e80322b4-7784-4bd6-989c-ce9aa95b4ecf> | Messa in fa maggiore “Di Chimay”: Credo: II. Et in |
+| <https://beta.musicbrainz.org/recording/a189c833-8c1d-4c13-bb04-8d39ce7c819c> | Messa in fa maggiore “Di Chimay”: Credo: III. Cruc |
+| <https://beta.musicbrainz.org/recording/0323a57d-f4cc-4885-a5fd-62b93ad2e315> | Messa in fa maggiore “Di Chimay”: Credo: IV. Et re |
+| <https://beta.musicbrainz.org/recording/02b9ed8b-04bd-40a8-8fef-ff6a920b7b08> | Messa in fa maggiore “Di Chimay”: Credo: V. Et exp |
+| <https://beta.musicbrainz.org/recording/e2159d28-67d9-4c47-b4de-1dbc03d42a27> | Messa in fa maggiore “Di Chimay”: Credo: VI. Et vi |
+| <https://beta.musicbrainz.org/recording/2a6ce276-bb29-4620-bff8-61cd154f77ba> | Messa in fa maggiore “Di Chimay”: Sanctus: Maestos |
+| <https://beta.musicbrainz.org/recording/05dc360d-880b-4847-8621-44d7af563d1f> | Messa in fa maggiore “Di Chimay”: Benedictus: Larg |
+| <https://beta.musicbrainz.org/recording/96e249e8-fa90-4156-95ae-607e847b1e5c> | Messa in fa maggiore “Di Chimay”: Agnus Dei: I. Ag |
+| <https://beta.musicbrainz.org/recording/e6b65a84-3780-4a36-80ba-f715e724dcc7> | Messa in fa maggiore “Di Chimay”: Agnus Dei: II. D |
+| <https://beta.musicbrainz.org/recording/82beb7bf-5276-4b10-92b4-6ba8026e26bf> | Aida: Atto IV, scena 1. Scena “L'aborrita rivale a |
+| <https://beta.musicbrainz.org/recording/274ca880-c8eb-4626-99ee-56e44204430b> | Les Noces de Figaro: “Non piu andrai”              |
+| <https://beta.musicbrainz.org/recording/1c20b269-d0e0-4fdc-8d94-62ec6ffc7c13> | Les Noces de Figaro: “Dove sono” (Air de la comtes |
+| <https://beta.musicbrainz.org/recording/5192450a-270c-45fc-8ea3-7cc6739ca99a> | Concerto for Orchestra (Sz. 116): Giuoco delle cop |
+| <https://beta.musicbrainz.org/recording/dbd6b1f8-e5e9-4fa8-b125-bcb53aa0463a> | Concerto for Orchestra (Sz. 116): Elegia (Andante  |
+| <https://beta.musicbrainz.org/recording/94dfcc92-7c87-4e01-923e-04bd28770800> | Concerto for Orchestra (Sz. 116): Intermezzo inter |
+| <https://beta.musicbrainz.org/recording/6b02bdb7-c507-45b0-bf50-03b87a0be4c0> | Concerto for Orchestra (Sz. 116): Finale (Pesante  |
+| <https://beta.musicbrainz.org/recording/9bb6b333-0800-4a22-83ee-e777f1e599a6> | Porgy and Bess: Act I, Scene I. Introduction: Jasb |
+| <https://beta.musicbrainz.org/recording/5d663290-1f63-4353-9816-dc4bbbebb109> | Porgy and Bess: Act I, Scene I. "Summertime" (Clar |
+| <https://beta.musicbrainz.org/recording/6e07c61a-d8e9-47e4-b0bc-ac4959ce793f> | Porgy and Bess: Act I, Scene I. "Oh, nobody knows  |
+| <https://beta.musicbrainz.org/recording/4060ef81-4543-4426-ae6b-44f150794e99> | Porgy and Bess: Act I, Scene I. "Give him to me" - |
+| <https://beta.musicbrainz.org/recording/bb73aecc-e5f3-4b02-bb30-7183033c01f7> | Porgy and Bess: Act I, Scene I. "Here's the ol' cr |
+| <https://beta.musicbrainz.org/recording/8fa26ae7-c4bf-4e47-b0d8-ffab16d8846a> | Porgy and Bess: Act I, Scene I. "Here comes Big Bo |
+| <https://beta.musicbrainz.org/recording/b2896bb5-23a0-49eb-aa4e-48dbd077e209> | Porgy and Bess: Act I, Scene I. "Jesus, he's kille |
+| <https://beta.musicbrainz.org/recording/33eb40ea-921a-4342-bb44-dfac07d5042e> | Porgy and Bess: Act I, Scene II. "Where is brudder |
+| <https://beta.musicbrainz.org/recording/e73860f1-774d-4e29-a572-cd1dc3364573> | Porgy and Bess: Act I, Scene II. "Overflow, overfl |
+| <https://beta.musicbrainz.org/recording/c7279e9d-96d3-424f-973f-2cfcea70b1f5> | Porgy and Bess: Act I, Scene II. "A saucer-burying |
+| <https://beta.musicbrainz.org/recording/6db1357e-96fd-4f86-a10a-ad78854ff657> | Porgy and Bess: Act I, Scene II. "My man's gone no |
+| <https://beta.musicbrainz.org/recording/a2f62458-4cf6-4b25-b306-1494c1c0a8fc> | Porgy and Bess: Act I, Scene II. "How de saucer st |
+| <https://beta.musicbrainz.org/recording/6ef99ac3-02a8-4dbe-b557-e78e619ece7e> | Porgy and Bess: Act II, Scene I. "Mus' be you mens |
+| <https://beta.musicbrainz.org/recording/4b59da09-3d5b-4a41-bccc-80fbefe7144e> | Porgy and Bess: Act II, Scene I. "Lissen there, wh |
+| <https://beta.musicbrainz.org/recording/c702f38f-a5b9-47ed-b118-b78776124f36> | Porgy and Bess: Act II, Scene I. "Mornin', Lawyer, |
+| <https://beta.musicbrainz.org/recording/c663d180-a21c-4127-9771-e5dd4220c9d1> | Porgy and Bess: Act II, Scene I. "Buzzard keep on  |
+| <https://beta.musicbrainz.org/recording/e056f541-be7f-4262-8419-0d05bf8b0b6d> | Porgy and Bess: Act II, Scene I. "'Lo Bess, goin'  |
+| <https://beta.musicbrainz.org/recording/3764a5a1-414d-4df3-a031-6d669662dc64> | Porgy and Bess: Act II, Scene I. "Honey, we sure g |
+| <https://beta.musicbrainz.org/recording/e4528e4d-8ecc-4f1a-a863-65de56c1fdae> | Porgy and Bess: Act II, Scene I. "Oh, I can't sit  |
+| <https://beta.musicbrainz.org/recording/25cfde1c-75a0-4849-bcb0-19255002d896> | Porgy and Bess: Act II, Scene II. "I ain't got no  |
+| <https://beta.musicbrainz.org/recording/a47ca169-f4b7-466e-b091-b44b1d3b4be9> | Porgy and Bess: Act II, Scene II. "It ain't necess |
+| <https://beta.musicbrainz.org/recording/71a74429-304c-450f-ae91-b23e191a3955> | Porgy and Bess: Act II, Scene II. "Crown!" (Bess,  |
+| <https://beta.musicbrainz.org/recording/e83c7856-aa09-4aa9-a3a8-706596566f17> | Porgy and Bess: Act II, Scene II. "Oh, what you wa |
+| <https://beta.musicbrainz.org/recording/e84965f1-fefd-4b6c-8b26-9732947ace29> | Porgy and Bess: Act II, Scene III. "Honey, dat's a |
+| <https://beta.musicbrainz.org/recording/6f7b7e15-697f-45a3-a31f-953e1dcb092b> | Porgy and Bess: Act II, Scene III. "Take yo' han's |
+| <https://beta.musicbrainz.org/recording/b44fd8f8-98fe-4847-afe5-d1717eeca255> | Porgy and Bess: Act II, Scene III. "Oh, doctor Jes |
+| <https://beta.musicbrainz.org/recording/98e82b92-9878-4477-b677-0e3d775f1f36> | Porgy and Bess: Act II, Scene III. "Oh dey's so fr |
+| <https://beta.musicbrainz.org/recording/6c70ab9e-c2f5-49f7-87a5-48742aa51776> | Porgy and Bess: Act II, Scene III. "Porgy, Porgy,  |
+| <https://beta.musicbrainz.org/recording/103e7b86-f177-425f-a9f7-7019457e8e13> | Porgy and Bess: Act II, Scene III. "I wants to sta |
+| <https://beta.musicbrainz.org/recording/9c66c5e1-3c0c-428f-94ba-795942d69d6e> | Porgy and Bess: Act II, Scene III. "Why you been o |
+| <https://beta.musicbrainz.org/recording/1ab165f9-09df-4d4a-9bcf-a193e92eb961> | Porgy and Bess: Act II, Scene IV. "Oh, Doctor Jesu |
+| <https://beta.musicbrainz.org/recording/53b8ace5-22a6-4a0f-a477-74c9d90f55df> | Porgy and Bess: Act II, Scene IV. "One of dese mor |
+| <https://beta.musicbrainz.org/recording/012d60a9-cf62-41d2-aab1-a1390d70c33b> | Porgy and Bess: Act II, Scene IV. "Oh, dere's some |
+| <https://beta.musicbrainz.org/recording/f00b93c9-f71b-4640-963a-e4b6525a8bd8> | Porgy and Bess: Act II, Scene IV. "You is a nice p |
+| <https://beta.musicbrainz.org/recording/f34b18fb-c9fd-404d-a62d-b9bb6f220aee> | Porgy and Bess: Act II, Scene IV. "A red-headed wo |
+| <https://beta.musicbrainz.org/recording/515c9649-ea43-4558-b572-6ce1ab309f7c> | Porgy and Bess: Act III, Scene I. "Clara, Clara, d |
+| <https://beta.musicbrainz.org/recording/6aa223fb-4ad2-4b52-8296-f6c19019856b> | Porgy and Bess: Act III, Scene I. "Summertime" - P |
+| <https://beta.musicbrainz.org/recording/f1681612-0b00-49ea-8d2f-c1e1ff867e54> | Porgy and Bess: Act III, Scene II. "Wait for us at |
+| <https://beta.musicbrainz.org/recording/3a943f6f-52e1-4921-b20e-2a80c39e3b36> | Porgy and Bess: Act III, Scene II. "Oh, Lawd, what |
+| <https://beta.musicbrainz.org/recording/a60fa7a9-f534-476a-b551-bbed042b6384> | Porgy and Bess: Act III, Scene II. "Listen: there' |
+| <https://beta.musicbrainz.org/recording/29d29370-cefe-4dd6-9163-35e92b187b2c> | Porgy and Bess: Act III, Scene III. Introduction   |
+| <https://beta.musicbrainz.org/recording/3a6e1b64-7c3b-4f58-8d9d-49a6c03080cd> | Porgy and Bess: Act III, Scene III. "Good mornin', |
+| <https://beta.musicbrainz.org/recording/ffd1a8aa-dc21-47e3-84d6-52b860e0da40> | Porgy and Bess: Act III, Scene III. "Dem white fol |
+| <https://beta.musicbrainz.org/recording/1fa1e323-4310-4336-9320-f4997005a84c> | Porgy and Bess: Act III, Scene III. "Where's Bess? |
+| <https://beta.musicbrainz.org/recording/1976d835-a766-4600-b8b5-406b0eebddcc> | Porgy and Bess: Act III, Scene III. "Bess is gone" |
+| <https://beta.musicbrainz.org/recording/18a2fe49-f5ac-4d1f-a8b8-b82ecc779d50> | Porgy and Bess: Act III, Scene III. "Oh Lawd, I'm  |
+| <https://beta.musicbrainz.org/recording/a52e389e-02cb-49ef-8e1b-3234d1bbb93c> | Daphnis et Chloé: Première Partie. Les jeunes fill |
+| <https://beta.musicbrainz.org/recording/671c843d-65d4-400b-8c0a-7a17b7c6f4ef> | Daphnis et Chloé: Première Partie. L'on perçoit de |
+| <https://beta.musicbrainz.org/recording/ee7c0480-576b-4e76-b883-904df3512e56> | Daphnis et Chloé: Deuxiéme Partie. Bryaxis veut l' |
+| <https://beta.musicbrainz.org/recording/c9d436aa-283f-4fda-bfe7-6aa187e366e1> | The Planets Suite for Orchestra, op. 32: Neptune,  |
+| <https://beta.musicbrainz.org/recording/fc3a17b7-23da-4ab5-9d3a-8dc398f67ef3> | Éclairs sur l'Au-delà...: I. Apparition du Christ  |
+| <https://beta.musicbrainz.org/recording/730ac63b-5130-43c3-bf90-9c579c60f0e0> | Éclairs sur l'Au-delà...: II. La Constellation du  |
+| <https://beta.musicbrainz.org/recording/17a5bb32-4e7b-435e-81fe-272fd4c4cd1f> | Éclairs sur l'Au-delà...: III. L'Oiseau-lyre et la |
+| <https://beta.musicbrainz.org/recording/cedb1c60-dbe8-4d5e-a238-2d63f398c52f> | Éclairs sur l'Au-delà...: IV. Les Élus marqués du  |
+| <https://beta.musicbrainz.org/recording/e8ba859a-397a-4e0c-8372-17694ada4771> | Éclairs sur l'Au-delà...: V. Demeurer dans l'Amour |
+| <https://beta.musicbrainz.org/recording/b1bb47dd-037f-4aa0-aa52-7768e9c7f156> | Éclairs sur l'Au-delà...: VI. Les Sept Anges aux s |
+| <https://beta.musicbrainz.org/recording/0363834f-d206-4a99-92e5-f0f16f1063a1> | Éclairs sur l'Au-delà...: VII. Et Dieu essuiera to |
+| <https://beta.musicbrainz.org/recording/4ce69aee-75dd-458c-be3a-e40cd1859570> | Éclairs sur l'Au-delà...: VIII. Les Étoiles et la  |
+| <https://beta.musicbrainz.org/recording/d5cec65a-876d-45bc-b2f3-3198474080f4> | Éclairs sur l'Au-delà...: IX. Plusieurs Oiseaux de |
+| <https://beta.musicbrainz.org/recording/5050ff32-d660-4559-a819-7444b7abee16> | Éclairs sur l'Au-delà...: X. Le Chemin de l'Invisi |
+| <https://beta.musicbrainz.org/recording/29ef3ae0-5070-4067-934c-8f1917301559> | Éclairs sur l'Au-delà...: XI. Le Christ, lumière d |
+| <https://beta.musicbrainz.org/recording/ab6fa81a-665f-45c5-9c76-ab075baa4e88> | Love Songs of Hafiz: Desires                       |
+| <https://beta.musicbrainz.org/recording/915c0667-886c-48bf-9eb8-9d918b2b1e84> | Love Songs of Hafiz: The Infatuated East Wind      |
+| <https://beta.musicbrainz.org/recording/37915689-94d0-4830-b819-4d9d38afb52f> | Love Songs of Hafiz: Dance                         |
+| <https://beta.musicbrainz.org/recording/b0e39fde-1021-430d-b1c8-e80888861a74> | Love Songs of Hafiz: Pearls of My soul             |
+| <https://beta.musicbrainz.org/recording/9a5a8025-33d6-4d60-bf35-1df96785236f> | Love Songs of Hafiz: Eternal Youth                 |
+| <https://beta.musicbrainz.org/recording/5b23897d-a938-4b95-8c18-f71e01f8e96d> | Love Songs of Hafiz: Your Voice                    |
+| <https://beta.musicbrainz.org/recording/fbbeee68-abe7-435b-a41d-8ead02af3846> | Love Songs of Hafiz: Drinking Song                 |
+| <https://beta.musicbrainz.org/recording/019f59bf-38f5-4b83-aced-4cf67ee435cd> | Love Songs of Hafiz: Hafiz' Grave                  |
+| <https://beta.musicbrainz.org/recording/4f8f2e80-3e93-43b6-b979-d9a08270a500> | Glagolitic Mass: VII. Organ solo (Postlude)        |
+| <https://beta.musicbrainz.org/recording/5c7cf15f-94c4-425e-9422-92894a2ccce3> | Glagolitic Mass: VIII. Intrada                     |
+| <https://beta.musicbrainz.org/recording/a22bae13-7b50-4c7f-aed3-599e9aa38212> | La mort de Cléopâtre: I. Scène lyrique             |
+| <https://beta.musicbrainz.org/recording/364e5198-8195-4801-bc2e-ead6c87433ab> | La mort de Cléopâtre: II. Méditation               |
+| <https://beta.musicbrainz.org/recording/c2232c77-ef97-442f-a027-f3c7f1b30f5e> | Erwartung, op. 17: 1. Szene "Hier hinein? Man sieh |
+| <https://beta.musicbrainz.org/recording/74ed1338-c2b6-4dec-9c0f-67b278dcca09> | Erwartung, op. 17: 2. Szene "1st das noch der Weg? |
+| <https://beta.musicbrainz.org/recording/c03ee3be-041b-4d54-b830-e4ab1f615750> | Erwartung, op. 17: 3. Szene "Da kommt ein Licht!"  |
+| <https://beta.musicbrainz.org/recording/446f182b-5e3e-4a3a-b9f3-00b5aae32db3> | Der Abschied (Das Lied von der Erde - 6th movement |
+| <https://beta.musicbrainz.org/recording/91ada88a-553b-41bc-bedc-dbcc9d6b6b80> | War Requiem, op. 66: I. Requiem aeternam. "Requiem |
+| <https://beta.musicbrainz.org/recording/818bc55a-ccb3-48b8-9876-b1ae62580448> | Shéhérazade: Asie                                  |
+| <https://beta.musicbrainz.org/recording/749a59bb-b2ce-4f3e-ba4f-0bb76f386651> | Shéhérazade: La Flûte enchantée                    |
+| <https://beta.musicbrainz.org/recording/b9896265-7c26-431b-b6b9-2acb6a78cb92> | Shéhérazade: L'Indifférent                         |
+| <https://beta.musicbrainz.org/recording/5f64927d-3b24-4860-80d6-6664dd8abfc8> | Fidelio: Act I, no. 2. Rezitativ - Marzelline, ist |
+| <https://beta.musicbrainz.org/recording/db32c860-acf0-4ae6-9b78-175b1b1aa3a7> | Fidelio: Act I, no. 9. Rezitativ - Meister Rocco,  |
+| <https://beta.musicbrainz.org/recording/ca294bf6-769b-4185-9c4c-8f3867384dd3> | Rhapsody on a Theme of Paganini, op. 43: Introduct |
+| <https://beta.musicbrainz.org/recording/587db2a9-f24c-4723-8ce6-e9dbfc73dd49> | Turangalîla-Symphonie: V. Joie du sang des étoiles |
+| <https://beta.musicbrainz.org/recording/15e0325d-17e8-496f-8d61-0eb4282195a6> | Symphony no. 9 in D minor, op. 125: II. Molto viva |
+| <https://beta.musicbrainz.org/recording/4ed2b301-f4ca-4612-b473-61152b00bd5b> | I. Introduction: Representation of Chaos: Largo    |
+| <https://beta.musicbrainz.org/recording/cd4a3b06-6345-444d-ae10-6053f6a1a61d> | II. The Earthquake: Presto e con tutta la forza    |
+| <https://beta.musicbrainz.org/recording/4a149c7b-312f-46b8-b37f-b627a67454be> | VIII. Introduction to Winter (Original Version)    |
+| <https://beta.musicbrainz.org/recording/e2e46298-e829-4fb5-af12-bc7d00081006> | Wonderful Town: No. 1, Overture                    |
+| <https://beta.musicbrainz.org/recording/8f4b33ef-5f9f-4b72-acfa-dfae98caec27> | Wonderful Town, Act I: No. 2. Christopher Street   |
+| <https://beta.musicbrainz.org/recording/6c23fc0f-7065-4ad0-a1e2-09d47fb79d86> | Wonderful Town, Act I: No. 3. Ohio                 |
+| <https://beta.musicbrainz.org/recording/28747906-f8ac-4982-86f5-7497e643a782> | Wonderful Town, Act I: No. 4. Conquering New York  |
+| <https://beta.musicbrainz.org/recording/0d3d4faf-6970-4e16-9d1d-a929a5504100> | Wonderful Town, Act I: No. 5. One Hundred Easy Way |
+| <https://beta.musicbrainz.org/recording/538b9d27-9312-4792-ac62-3378aae37648> | Wonderful Town, Act I: No. 6. What a Waste         |
+| <https://beta.musicbrainz.org/recording/ad2b2b0d-d7b1-41ac-8821-dbbea587e524> | Wonderful Town, Act I: No. 8. A Little Bit in Love |
+| <https://beta.musicbrainz.org/recording/cd2b589a-a36a-49d8-81f9-39532155fc8f> | Wonderful Town, Act I: No. 9. Pass the Football    |
+| <https://beta.musicbrainz.org/recording/5b245e9f-6e48-4ed5-a5ea-68a0780fb0a8> | Wonderful Town, Act I: No. 10. Conversation Piece  |
+| <https://beta.musicbrainz.org/recording/b16cab95-7a37-4323-a148-0abf3df18a8a> | Wonderful Town, Act I: No. 11. A Quiet Girl        |
+| <https://beta.musicbrainz.org/recording/62b3c1ad-c1af-439d-bbb9-0fabbb9af94a> | Wonderful Town, Act I: No. 12. Conga!              |
+| <https://beta.musicbrainz.org/recording/2c162b8d-9420-4e9d-82d9-02d37c67179d> | Wonderful Town: No. 13: Entr'acte                  |
+| <https://beta.musicbrainz.org/recording/4b555708-7340-4ef5-8a09-db2ea5ecf06a> | Wonderful Town, Act II: No. 14. My Darlin' Eileen  |
+| <https://beta.musicbrainz.org/recording/c342ff16-9c96-4d9c-a78c-48c598e5349a> | Wonderful Town, Act II: No. 15. Swing!             |
+| <https://beta.musicbrainz.org/recording/f66c41ef-7cb1-4557-b306-195399f0c974> | Wonderful Town, Act II: No. 16. Quiet Incidental   |
+| <https://beta.musicbrainz.org/recording/c10f0607-906b-48fb-8be1-76362287953f> | Wonderful Town, Act II: No. 16a. Ohio (Reprise)    |
+| <https://beta.musicbrainz.org/recording/da4d1269-4a57-49eb-89fc-dcf9002d03e7> | Wonderful Town, Act II: No. 17. It's Love          |
+| <https://beta.musicbrainz.org/recording/e2dd4568-ab01-4f0e-b67d-a3b3164493da> | Wonderful Town, Act II: No. 18. Ballet at the Vill |
+| <https://beta.musicbrainz.org/recording/54b6a812-af98-41f1-92e2-e494ecd38597> | Wonderful Town, Act II: No. 19. Wrong Note Rag     |
+| <https://beta.musicbrainz.org/recording/6fab2776-a466-4ec8-9049-5749087152b3> | Wonderful Town, Act II: No. 19a. It's Love (Repris |
+| <https://beta.musicbrainz.org/recording/2a6f20a1-04e3-495d-9c55-f3d79c37dc14> | Wonderful Town, Act I: No. 12. Conga! (Audience Pa |
+| <https://beta.musicbrainz.org/recording/fa08d14d-792b-4677-9561-b0d24c854ffa> | Liebeslieder-Walzer, op. 52: Rede, Mädchen, allzu  |
+| <https://beta.musicbrainz.org/recording/2549bd8f-12dc-4c5c-a173-3f80b83e3e63> | Liebeslieder-Walzer, op. 52: Am Gesteine rauscht d |
+| <https://beta.musicbrainz.org/recording/bd20d1f1-2f93-4580-953a-b91c2f99148f> | Liebeslieder-Walzer, op. 52: O die Frauen          |
+| <https://beta.musicbrainz.org/recording/04b91740-c8cc-442f-8889-a4160a11b66b> | Liebeslieder-Walzer, op. 52: Wie des Abends schöne |
+| <https://beta.musicbrainz.org/recording/d433ca78-f110-44b5-8efc-e680044f7bd9> | Liebeslieder-Walzer, op. 52: Die grüne Hopfenranke |
+| <https://beta.musicbrainz.org/recording/9fb60204-6a7d-4143-89ac-84d503582582> | Liebeslieder-Walzer, op. 52: Ein kleiner, hübscher |
+| <https://beta.musicbrainz.org/recording/27cdbbb0-7291-4f58-a41f-b4039e8b5942> | Liebeslieder-Walzer, op. 52: Wohl schön bewandt wa |
+| <https://beta.musicbrainz.org/recording/70787630-3a25-4a12-812f-f49853425dab> | Liebeslieder-Walzer, op. 52: Wenn so lind dein Aug |
+| <https://beta.musicbrainz.org/recording/354e309a-bfe7-45c0-ab6f-f45bcfb8e302> | Liebeslieder-Walzer, op. 52: Am Donaustrande       |
+| <https://beta.musicbrainz.org/recording/ffe3cba6-109e-48b1-8645-33e583863730> | Liebeslieder-Walzer, op. 52: O wie sanft die Quell |
+| <https://beta.musicbrainz.org/recording/ab448950-11c1-457d-9cfb-f9233c0545da> | Liebeslieder-Walzer, op. 52: Nein, es ist nicht au |
+| <https://beta.musicbrainz.org/recording/5f9cd4a0-0311-40b5-92ba-b316a2893700> | Liebeslieder-Walzer, op. 52: Schlosser auf         |
+| <https://beta.musicbrainz.org/recording/364c01d3-fa6e-4210-8fd1-74a3a8898469> | Liebeslieder-Walzer, op. 52: Vögelein durchrauscht |
+| <https://beta.musicbrainz.org/recording/705afcc3-a49c-446d-88c3-aa91e4865937> | Liebeslieder-Walzer, op. 52: Sieh, wie ist die Wel |
+| <https://beta.musicbrainz.org/recording/fe61d741-b9fd-43ee-9d36-28abd887ec02> | Liebeslieder-Walzer, op. 52: Nachtigall, sie singt |
+| <https://beta.musicbrainz.org/recording/8247b63f-813d-4784-a576-bc7a33f1b5f7> | Liebeslieder-Walzer, op. 52: Ein dunkeler Schacht  |
+| <https://beta.musicbrainz.org/recording/055fa6c8-dbea-4a43-a4ee-064001264522> | Liebeslieder-Walzer, op. 52: Nicht wandle, mein Li |
+| <https://beta.musicbrainz.org/recording/858d80b1-bd20-4f9d-920e-6ac5607ae787> | Liebeslieder-Walzer, op. 52: Es bebt das Gesträuch |
+| <https://beta.musicbrainz.org/recording/92c34525-ee4a-4af6-96f0-036e2026be57> | Gesang der Parzen, op. 89: Song of the Fates       |
+| <https://beta.musicbrainz.org/recording/e83727a6-4569-4f40-97b8-97b7b4853ce5> | Passacaglia & Fugue in C minor                     |
+| <https://beta.musicbrainz.org/recording/1659bf87-1891-4097-ad25-2d9b34972291> | Pétrouchka: Tableau I : Fête populaire de la semai |
+| <https://beta.musicbrainz.org/recording/cec2e159-45d8-43d2-afd8-77e528eb22dc> | Pétrouchka: Tableau I : Fête populaire de la semai |
+| <https://beta.musicbrainz.org/recording/c4bfda6f-5fbf-4b3f-b686-075fb5d079dd> | Pétrouchka: Tableau I : Fête populaire de la semai |
+| <https://beta.musicbrainz.org/recording/af62d908-2fa9-4161-aad1-00135559a8c4> | Lohengrin: Prelude Act I                           |
+| <https://beta.musicbrainz.org/recording/f2d6008c-da5e-4517-b8f8-f9dd375634fe> | Lohengrin: Prelude Act III                         |
+| <https://beta.musicbrainz.org/recording/cbd69699-d940-4569-84f6-364e7dd31419> | Aida: Preludio                                     |
+| <https://beta.musicbrainz.org/recording/1c4a966a-494c-4dac-bb71-dd64c8e08a5f> | Aida: Atto I, scena 1. “Si, corre voce che l'Etiop |
+| <https://beta.musicbrainz.org/recording/58ff9519-7795-45b1-962d-16ad660c007a> | Aida: Atto I, scena 1. Romanza “Se quel guerrier i |
+| <https://beta.musicbrainz.org/recording/033c517a-b5e4-42e2-b8c5-2575b06c5db9> | Aida: Atto I, scena 1. “Quale insolita gioia nel t |
+| <https://beta.musicbrainz.org/recording/08a99c58-52c3-4198-98c4-78d8b7d63182> | Aida: Atto I, scena 1. “Dessa!” (Radamès, Amneris) |
+| <https://beta.musicbrainz.org/recording/f0e4e302-4133-4e7e-9069-d350d90868ee> | Aida: Atto I: Ohimé! Di guerre fremere             |
+| <https://beta.musicbrainz.org/recording/e38e943c-2b3e-4983-a86c-6d416e139c16> | Aida: Atto I, scena 1. “Alta cagion v'aduna” (Mess |
+| <https://beta.musicbrainz.org/recording/15ece3a6-31dc-49aa-9459-c4fac2244db2> | Aida: Atto I, scena 1. “Il sacro suolo dell'Egitto |
+| <https://beta.musicbrainz.org/recording/d40c0a63-f5a4-48fb-b434-7ddedd10d1a4> | Aida: Atto I, scena 1. Scena e pezzo d’assieme “Su |
+| <https://beta.musicbrainz.org/recording/734e601a-31bd-4e9f-ac41-8b373e017fec> | Aida: Atto I, scena 1. “Ritorna vincitor!” (Aida)  |
+| <https://beta.musicbrainz.org/recording/7522a033-9a53-4e37-ac28-64b37b530790> | Aida: Atto I, scena 2. “Possente, possente Fthà …  |
+| <https://beta.musicbrainz.org/recording/b24a091d-e6d0-49e5-b38c-0af36d14d7d0> | Aida: Atto I: Sacred Dance of the Priestesses      |
+| <https://beta.musicbrainz.org/recording/50e8e976-b505-4e0a-a7dd-da2d67dfefa3> | Aida: Atto I, scena 2. “Mortal, diletto ai numi” ( |
+| <https://beta.musicbrainz.org/recording/8948329e-5089-4228-8f81-7e886f814687> | Aida: Atto I, scena 2. “Nume, custode e vindice” ( |
+| <https://beta.musicbrainz.org/recording/8c5111e7-e02d-4a89-b38f-181df5a59652> | Aida: Atto II, scena 1. Scena e coro di donne "Chi |
+| <https://beta.musicbrainz.org/recording/3b254025-d54d-416d-9e6d-4d8a0409d01a> | Aida: Atto II: Dance of the Moorish Slaves         |
+| <https://beta.musicbrainz.org/recording/a4a5f32c-b52a-4bdd-86c3-41a573589baa> | Aida: Atto II, scena 1. “Vieni, sul crin ti piovan |
+| <https://beta.musicbrainz.org/recording/86a3de8f-3175-4ebc-b669-302b2b4d8820> | Aida: Atto II: Silenzio! Aida verso noi s'avanza   |
+| <https://beta.musicbrainz.org/recording/65bee5ad-a2c9-420a-afa5-fa2f2b41ec8b> | Aida: Atto II, scena 1. “Pietà ti prenda del mio d |
+| <https://beta.musicbrainz.org/recording/1ed8153e-5ff0-4efe-9e54-47cab5009e88> | Aida: Atto II: Su! Del Nilo al sacro lido          |
+| <https://beta.musicbrainz.org/recording/86d6d135-e558-4bf3-b477-7c091dcb1abe> | Aida: Atto II, scena 2. “Gloria all'Egitto, ad Isi |
+| <https://beta.musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146> | Aida: Atto II: March & Ballet                      |
+| <https://beta.musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146> | Aida: Atto II: March & Ballet                      |
+| <https://beta.musicbrainz.org/recording/a39be5f5-1921-44c2-b92b-a3245dd3d7b7> | Aida: Atto II: Vieni, o guerriero vindice          |
+| <https://beta.musicbrainz.org/recording/b9f8a2a1-653e-48d1-8197-361f7309476c> | Aida: Atto II, scena 2. “Salvator della patria” (I |
+| <https://beta.musicbrainz.org/recording/7024a5b4-39e2-4745-a8a7-4575cf47cbc1> | Aida: Atto II: Concedi in pria                     |
+| <https://beta.musicbrainz.org/recording/9373193a-9a06-483b-b6c2-06c67f7f2ae5> | Aida: Atto II, scena 2. “Che veggo! Egli? Mio padr |
+| <https://beta.musicbrainz.org/recording/3fb7f84a-effb-4dcf-a6ee-fe280c888c35> | Aida: Atto II: Quest'assisa ch'io vesto vi dica    |
+| <https://beta.musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f> | Aida: Atto II: Ma tu, re, tu, signore possente     |
+| <https://beta.musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f> | Aida: Atto II: Ma tu, re, tu, signore possente     |
+| <https://beta.musicbrainz.org/recording/32092ccc-1676-45d4-a47c-4b0ace642063> | Aida: Atto II: O re, pei sacri numi                |
+| <https://beta.musicbrainz.org/recording/30892639-d375-4fda-8085-fc9835010a74> | Aida: Atto II, scena 2. “Gloria all'Egitto, ad Isi |
+| <https://beta.musicbrainz.org/recording/4400eb8e-ce19-4741-8509-2bc8846c9c19> | Aida: Atto II: Fa' cor: della tua patria           |
+| <https://beta.musicbrainz.org/recording/926c1337-8a3b-4997-b898-7725f2e301f7> | Aida: Atto III: O tu, che sei d'Osiride            |
+| <https://beta.musicbrainz.org/recording/153e81f4-99f4-411f-a80a-148cd6f436ff> | Aida: Atto III: Vieni d'Iside al tempio            |
+| <https://beta.musicbrainz.org/recording/81842aec-fbc8-438c-ab00-d7df3ef0a57d> | Aida: Atto III. “Qui Radames verra” (Aida)         |
+| <https://beta.musicbrainz.org/recording/6b553857-5f9c-47be-9307-301f20be3674> | Aida: Atto III. Romanza “O patria mia” (Aida)      |
+| <https://beta.musicbrainz.org/recording/3cbed2d4-96e4-4edd-9528-7435465e7d9e> | Aida: Atto III. “Ciel! mio padre!” (Aida, Amonasro |
+| <https://beta.musicbrainz.org/recording/df4cab61-df4e-48f5-beca-e6c2ca77062b> | Aida: Atto III. “Rivedrai le foreste imbalsamate”  |
+| <https://beta.musicbrainz.org/recording/33508b6a-e270-45af-b11b-13953c59c989> | Aida: Atto III: In armi ora si desta il popol nost |
+| <https://beta.musicbrainz.org/recording/4460f377-bb4f-45cd-b7c4-bb5f4400cf87> | Aida: Atto III: Padre! A costoro schiava non sono  |
+| <https://beta.musicbrainz.org/recording/27503d83-0aec-4309-90df-feb70c5327df> | Aida: Atto III: Pur ti riveggo, mia dolce Aida     |
+| <https://beta.musicbrainz.org/recording/bcd6a4ad-0774-4cd9-8837-1854f909cb0b> | Aida: Atto III: Nel fiero anelito di nuova guerra  |
+| <https://beta.musicbrainz.org/recording/5e0b140f-c7cc-4fba-93a9-3dfa79f8fad7> | Aida: Atto III: Fuggiam gli ardori inospiti        |
+| <https://beta.musicbrainz.org/recording/a5f3c89f-7008-49c0-ab73-c234e2b8372b> | Aida: Atto III. “Aida! Tu non m'ami. Va!”          |
+| <https://beta.musicbrainz.org/recording/9a443743-8f97-4a86-8f6a-27582600017b> | Aida: Atto III: Ah no! Fuggiamo!                   |
+| <https://beta.musicbrainz.org/recording/673ccc07-b994-4514-9a09-1369a8737658> | Aida: Atto III. Finale III “Ma dimmi; per qual via |
+| <https://beta.musicbrainz.org/recording/0fe68387-f709-437a-8b5a-474297e7f14a> | Aida: Atto III: Traditor                           |
+| <https://beta.musicbrainz.org/recording/78de4652-5cf3-4496-b997-5a6fb46eb326> | Aida: Atto IV, scena 1. Scena “L'aborrita rivale a |
+| <https://beta.musicbrainz.org/recording/321cf8b4-064f-4645-94bf-0bea433ef01a> | Aida: Atto IV: Io l'amo, io l'amo sempre!          |
+| <https://beta.musicbrainz.org/recording/8e0383f4-c167-46b8-a4ac-96628ad1a595> | Aida: Atto IV, scena 1. “Già i sacerdoti adunansi” |
+| <https://beta.musicbrainz.org/recording/15178cde-5070-4be8-a39e-6ecbcc2c67d0> | Aida: Atto IV: Ah! Du dêi vivere!                  |
+| <https://beta.musicbrainz.org/recording/1ea71c80-13f7-4e37-8873-9ed67107285d> | Aida: Atto IV: Chi ti salva, sciagurato            |
+| <https://beta.musicbrainz.org/recording/093dfd6d-89a8-41ea-82d1-d5f964a022a8> | Aida: Atto IV, scena 1: Scena del giudizio: “Ohimè |
+| <https://beta.musicbrainz.org/recording/3bac1b01-84e5-4b9c-9c38-b155dc56f20a> | Aida: Atto IV: “Spirto del nume, sovra noi discend |
+| <https://beta.musicbrainz.org/recording/d2d1cc51-a0af-4265-baa2-5e9facfd2415> | Aida: Atto IV: Radamès! Radamès! Radamès!          |
+| <https://beta.musicbrainz.org/recording/85a539d5-5c93-45ee-94d1-8bfe408485ad> | Aida: Atto IV: A lui vivo la tomba!                |
+| <https://beta.musicbrainz.org/recording/c19039ba-7b02-4a5f-b4f6-c49dda1be947> | Aida: Atto IV, scena 2. “La fatal pietra sovra me  |
+| <https://beta.musicbrainz.org/recording/8d1b52ca-d9bf-4c98-9a15-03891c786caa> | Aida: Atto IV: Presago il core della tua condanna  |
+| <https://beta.musicbrainz.org/recording/4e13432d-77ef-454f-a453-f4fa5e5f9ed3> | Aida: Atto IV, scena 2. “Vedi? Di morte l’angelo”  |
+| <https://beta.musicbrainz.org/recording/384d4ba8-5c73-4af7-9b4c-2b0af8e65a5b> | Aida: Atto IV, scena 2. “O terra addio” (Aida, Rad |
+| <https://beta.musicbrainz.org/recording/5002ea4b-01e6-4089-8a83-188fda779523> | La Traviata: Act I: Prelude                        |
+| <https://beta.musicbrainz.org/recording/9f935486-1dbe-4439-b002-e4052b3b1fca> | La Traviata: Act I: Dell'invito trascorsa e già l' |
+| <https://beta.musicbrainz.org/recording/d6501198-01c3-49ac-bcdf-f06a9f6dd4d0> | La Traviata: Act I: Libiamo ne' lieti calici (Brin |
+| <https://beta.musicbrainz.org/recording/314537b2-67cb-4a48-8bb1-7c0f0ea7eb25> | La Traviata: Act I: Che è ciò (Waltz Duet)         |
+| <https://beta.musicbrainz.org/recording/6fbcd76d-cfb0-4ac4-8b92-2cbffb8dcd84> | La Traviata: Act I: Un dì felice, eterea           |
+| <https://beta.musicbrainz.org/recording/4127a299-4cdd-4839-8388-12cdaafea0f8> | La Traviata: Act I: Ebben? Che diavol fate?        |
+| <https://beta.musicbrainz.org/recording/5287aea7-d91a-46a4-8e0e-26424ce4294e> | La Traviata: Act I: Si ridesta in ciel l'aurora    |
+| <https://beta.musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4> | La Traviata: Act I: È strano, è strano! ... Ah, fo |
+| <https://beta.musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4> | La Traviata: Act I: È strano, è strano! ... Ah, fo |
+| <https://beta.musicbrainz.org/recording/0c189272-cdc9-42e5-a606-f621b7989384> | La Traviata: Act I: Follie! Follie! Delirio vano   |
+| <https://beta.musicbrainz.org/recording/00ecc95a-771d-444b-a9fc-faa4aab1df4d> | La Traviata: Act I: Sempre libera                  |
+| <https://beta.musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2> | La Traviata: Act II: Scene 1: Lunge da lei ... De' |
+| <https://beta.musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2> | La Traviata: Act II: Scene 1: Lunge da lei ... De' |
+| <https://beta.musicbrainz.org/recording/35092096-6bf6-437e-b404-34fd8d975eff> | La Traviata: Act II: Scene 1: Annina, donde vieni? |
+| <https://beta.musicbrainz.org/recording/10e0931b-b6ab-4632-b2d1-8759e93e0537> | La Traviata: Act II: Scene 1: Alfredo? — Per Parig |
+| <https://beta.musicbrainz.org/recording/a503d7eb-e051-4f7b-9b81-d8577c6b8555> | La Traviata: Act II: Scene 1: Pura siccome un ange |
+| <https://beta.musicbrainz.org/recording/30aa4394-f230-45a5-b8ef-4689e49d2dab> | La Traviata: Act II: Scene 1: Non sapete quale aff |
+| <https://beta.musicbrainz.org/recording/277019d4-8c14-4695-90b8-473d68e768e3> | La Traviata: Act II: Scene 1: Ah, dite alle giovin |
+| <https://beta.musicbrainz.org/recording/f64090f7-36ec-4bac-ad8e-5a52e4709e8d> | La Traviata: Act II: Scene 1: Morrò! Morrò!        |
+| <https://beta.musicbrainz.org/recording/04f928d3-03de-4a4d-8e37-1dab07be0f32> | La Traviata: Act II: Scene 1: Dammi tu forza, o ci |
+| <https://beta.musicbrainz.org/recording/14636ac8-9363-4c05-aa54-db2a913c5e4b> | La Traviata: Act II: Scene 1: Ah, vive sol quel co |
+| <https://beta.musicbrainz.org/recording/de4f5d4d-cc50-412f-ad74-c47d6cdbfb14> | La Traviata: Act II: Scene 1: Di Provenza          |
+| <https://beta.musicbrainz.org/recording/97b7bdb1-3cea-489f-a65e-5ae743023540> | La Traviata: Act II: Scene 1: Ne rispondi          |
+| <https://beta.musicbrainz.org/recording/57dd17ff-3917-42f9-961e-c04ba2a76e35> | La Traviata: Act II: Scene 2: Avrem lieta di masch |
+| <https://beta.musicbrainz.org/recording/bdadc664-d887-476e-8874-6d693838bec1> | La Traviata: Act II: Scene 2: Noi siamo zingarelle |
+| <https://beta.musicbrainz.org/recording/ab4da307-2397-402e-bf10-5cbe0ab286ef> | La Traviata: Act II: Scene 2: Di Madride noi siam  |
+| <https://beta.musicbrainz.org/recording/71d1f3ac-e6f6-4eb6-82bb-fca5f9445ccf> | La Traviata: Act II: Scene 2: Alfredo! Voi?        |
+| <https://beta.musicbrainz.org/recording/4b2ee296-afd6-40b1-8ae9-2fca7fcf58f6> | La Traviata: Act II: Scene 2: Invitato a qui segui |
+| <https://beta.musicbrainz.org/recording/96f428e4-6c73-44d5-a3f3-693bcfc0687e> | La Traviata: Act II: Scene 2: Ogni suo aver tal fe |
+| <https://beta.musicbrainz.org/recording/29c47bdd-7278-49cd-adae-13c3df1ddd31> | La Traviata: Act II: Scene 2: Di sprezzo degno sé  |
+| <https://beta.musicbrainz.org/recording/5a49282c-6fc7-4533-91a1-60927ea02f82> | La Traviata: Act II: Scene 3: Prelude              |
+| <https://beta.musicbrainz.org/recording/25a9d78a-a517-47c7-a406-9c5a7c1ddae8> | La Traviata: Act II: Scene 3: Annina? — Comandate? |
+| <https://beta.musicbrainz.org/recording/ba04f38b-0996-42f1-8ed1-097dddb02e50> | La Traviata: Act II: Scene 3: Teneste la promesa.. |
+| <https://beta.musicbrainz.org/recording/b910e50e-3fba-44f6-8e3e-86a8f73d0cee> | La Traviata: Act II: Scene 3: Addio del passato    |
+| <https://beta.musicbrainz.org/recording/af19449c-262f-40ee-941b-033c96b6e11e> | La Traviata: Act II: Scene 3: Largo al quadrupede  |
+| <https://beta.musicbrainz.org/recording/dd76648f-d176-4c8c-af12-6d0891568d67> | La Traviata: Act II: Scene 3: Signora — Che t'acca |
+| <https://beta.musicbrainz.org/recording/cd94b8f5-8260-4f94-8045-6fc7f0fa6ff1> | La Traviata: Act II: Scene 3: Parigi, o cara       |
+| <https://beta.musicbrainz.org/recording/74314e2d-30be-46fd-a8c6-61d141c10365> | La Traviata: Act II: Scene 3: Ah, non più          |
+| <https://beta.musicbrainz.org/recording/b82bf637-81f1-49b3-aa35-c8a29b4163cd> | La Traviata: Act II: Scene 3: Ah, gran Dio, morir  |
+| <https://beta.musicbrainz.org/recording/07e370d3-999b-459e-b28e-c2499b737175> | La Traviata: Act II: Scene 3: Ah, Violetta! — Voi, |
+| <https://beta.musicbrainz.org/recording/6d83a1a1-2251-4168-b68f-ca6bc78375e4> | La Traviata: Act II: Scene 3: Prendi, quest'è l'im |
+| <https://beta.musicbrainz.org/recording/ae088b43-4fd0-46f3-bdbe-5b44ea0b04d9> | La Traviata: Act II: Scene 3: Finale. È strano!    |
+| <https://beta.musicbrainz.org/recording/dee3e711-38f8-4c35-a7be-b367a899682c> | Requiem Mass no. 1 in C minor: Introitus et Kyrie  |
+| <https://beta.musicbrainz.org/recording/17cbe33b-387b-43b0-b6cb-8d765e4c5ff7> | Requiem Mass no. 1 in C minor: Graduale            |
+| <https://beta.musicbrainz.org/recording/9613f47b-9ea8-4359-9ad3-32664b716c6a> | Requiem Mass no. 1 in C minor: Dies irae           |
+| <https://beta.musicbrainz.org/recording/b39e5096-78b3-4d75-a2ee-fcbde0b355b4> | Requiem Mass no. 1 in C minor: Offertorium         |
+| <https://beta.musicbrainz.org/recording/ba468178-b742-4c08-bedf-23c2753a45c1> | Requiem Mass no. 1 in C minor: Sanctus             |
+| <https://beta.musicbrainz.org/recording/f1ddebbe-a355-4b3e-be58-6bde0e0ee2ec> | Requiem Mass no. 1 in C minor: Pie Jesu            |
+| <https://beta.musicbrainz.org/recording/b1105869-4c78-4ac6-86df-eb08bb8f44db> | Requiem Mass no. 1 in C minor: Agnus Dei           |
+| <https://beta.musicbrainz.org/recording/60d7c787-8fb4-42ef-82a5-b47bda0a7dca> | Mefistofele: Prologue: Ave, Signor degli angeli    |
+| <https://beta.musicbrainz.org/recording/073a1699-46b6-4299-a211-f038fdd53e2a> | Mefistofele: Prologue: Ave, Signor. Perdona        |
+| <https://beta.musicbrainz.org/recording/641eeb6e-2261-443a-b3be-fed1bbd0d3d0> | Mefistofele: Prologue: T'è noto Faust?             |
+| <https://beta.musicbrainz.org/recording/0898a358-44b4-423f-98d6-5e6b282d2ef4> | Mefistofele: Prologue: Siam nimbi volanti          |
+| <https://beta.musicbrainz.org/recording/f14f791c-de18-42b6-8840-64bf216131df> | Mefistofele: Prologue: Salve, Regina!              |
+| <https://beta.musicbrainz.org/recording/4bec2847-7700-4c58-84e3-cdab63308e8a> | I Lombardi: Atto III. Orchestral Opening           |
+| <https://beta.musicbrainz.org/recording/ba24b0cd-234d-460c-9125-d3fd512c2a9d> | I Lombardi: Atto III. Trio “Qui posa il fianco!”   |
+| <https://beta.musicbrainz.org/recording/ac843adf-c060-4714-8acf-cfb7f782a552> | Rigoletto: Act IV: E l’ami?                        |
+| <https://beta.musicbrainz.org/recording/bf10ee53-ca19-48fa-8159-f1e3c298af3d> | Rigoletto: Act IV: La donna è mobile               |
+| <https://beta.musicbrainz.org/recording/94e8c28a-cd44-4475-96eb-c8aa0c0f74f5> | Rigoletto: Act IV: Un dì, se ben rammentomi        |
+| <https://beta.musicbrainz.org/recording/17a0eeea-6497-4298-8b4f-325f67a4b92e> | Rigoletto: Act IV: Bella figlia dell’amore (Quarte |
+| <https://beta.musicbrainz.org/recording/3c50d251-5a92-4dda-8888-df562762b56c> | Rigoletto: Act IV: M’odi! Ritorna a casa           |
+| <https://beta.musicbrainz.org/recording/560aaead-534a-4680-a2c9-cf20d2e2f8d2> | Rigoletto: Act IV: È amabile in vero cotal giovino |
+| <https://beta.musicbrainz.org/recording/7724c90a-f1d4-4000-9776-6046460d1924> | Rigoletto: Act IV: Della vendetta alfin            |
+| <https://beta.musicbrainz.org/recording/ba309b5d-b969-4a01-992e-cc59fa8e85f7> | Rigoletto: Act IV: Chi è mai?                      |
+| <https://beta.musicbrainz.org/recording/db164932-bba5-4ecb-8d76-19c3ce80183a> | Rigoletto: Act IV: V’ho ingannato                  |
+| <https://beta.musicbrainz.org/recording/4e5dc2d9-789e-4ac0-8c1c-6a46711e61ab> | Rigoletto: Act IV: Lassû in cielo                  |
+| <https://beta.musicbrainz.org/recording/f2fabd6b-0f18-4e6f-899c-cd626b382a5f> | Carmen: Aragonaise (Entr'acte Act IV)              |
+| <https://beta.musicbrainz.org/recording/e98225b4-e689-4ed8-b630-5d2306e000dc> | Il segreto di Susanna: Ouverture                   |
+| <https://beta.musicbrainz.org/recording/8fdca9c8-623d-42ed-8115-e9d2c4dbb570> | La Pie Voleuse: Ouverture                          |
+| <https://beta.musicbrainz.org/recording/56f687b4-36f2-4141-9d02-eccb96f9c4c9> | Messa da requiem: Ia. Requiem Aeternam             |
+|-------------------------------------------------------------------------------|----------------------------------------------------|
 
 (1370 rows)
 
