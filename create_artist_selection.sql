@@ -38,6 +38,7 @@ CREATE TABLE composer AS (
             'Franck, César',
             'Glass, Philip',
             'Gounod, Charles-François',
+            'Handel, George Frideric',
             'Haydn, Joseph',
             'Indy, Vincent d’',
             'Liszt, Franz',
@@ -54,6 +55,7 @@ CREATE TABLE composer AS (
             'Shostakovich, Dmitri Dmitrievich',
             'Sibelius, Jean',
             'Tchaikovsky, Pyotr Ilyich',
+            'Vivaldi, Antonio',
             'Wagner, Richard',
             'Webern, Anton'
         )

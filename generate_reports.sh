@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eux
 
-DBDATE="2020-11-14"
+DBDATE="2021-01-13"
 OUTPUTDIR="docs/${DBDATE}/"
 
 PGUSER="musicbrainz"
