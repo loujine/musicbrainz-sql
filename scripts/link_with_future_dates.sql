@@ -16,8 +16,8 @@ link AS (
         link AS l
         INNER JOIN link_type AS lt ON lt.id = l.link_type
     WHERE
-        l.begin_date_year > 2020
-        OR l.end_date_year > 2025
+        l.begin_date_year > date_part('year', now())
+        OR l.end_date_year > date_part('year', now()) + 5
 )
 SELECT
     link.begin,
