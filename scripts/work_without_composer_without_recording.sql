@@ -15,7 +15,20 @@ WHERE
     law.entity1 IS NULL
     AND lrw.entity1 IS NULL
     /* AND (lww.entity1 IS NULL OR lww.entity0 IS NULL) */
-    AND (w.name LIKE '%major%' OR w.name LIKE '%minor%')
+    AND (
+        w.name ILIKE '%major%'
+        OR w.name ILIKE '%minor%'
+        OR w.name ILIKE '%majeurr%'
+        OR w.name ILIKE '%mineur%'
+        OR w.name ILIKE '%-dur%'
+        OR w.name ILIKE '%-moll%'
+        OR w.name ILIKE '% op.%'
+        OR w.name ILIKE '% opus%'
+        OR w.name ILIKE '% act %'
+        OR w.name ILIKE '% acte %'
+        OR w.name ILIKE '% akt %'
+        OR w.name ILIKE '% atto %'
+    )
 ORDER BY
     work_name,
     work_url
