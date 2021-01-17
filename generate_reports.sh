@@ -13,19 +13,24 @@ PGPARAMS=$PGUSER:$PGPW@$PGHOST:$PGPORT/$DATABASE
 
 INDEX="docs/index.md"
 
-for script in [^hc]*sql
+pushd scripts
+for script in *sql
 do
-    mkdir -p $OUTPUTDIR
-    psql postgres://$PGPARAMS -f $script > docs/$DBDATE/${script%.sql}.md
-    sed -i 's/+/|/g' $OUTPUTDIR/${script%.sql}.md
-    sed -i '/^Time/d' $OUTPUTDIR/${script%.sql}.md
-    sed -i 's/^\(([0-9]* rows\)/\n\1/' $OUTPUTDIR/${script%.sql}.md
+    mkdir -p ../$OUTPUTDIR
+    OUTPUTFILE="../$OUTPUTDIR/${script%.sql}.md"
+    psql postgres://$PGPARAMS -f $script > $OUTPUTFILE
+    sed -i 's/+/|/g' $OUTPUTFILE
+    sed -i '/^Time/d' $OUTPUTFILE
+    sed -i 's/^\(([0-9]* rows\)/\n\1/' $OUTPUTFILE
 done
+popd
 
 echo "" >> $INDEX
 echo "## ${DBDATE}" >> $INDEX
-for script in [^hc]*sql
-do
-    echo " - [${script%.sql}](${DBDATE}/${script%.sql}.md)" >> $INDEX
-done
 
+pushd scripts
+for script in *sql
+do
+    echo " - [${script%.sql}](${DBDATE}/${script%.sql}.md)" >> ../$INDEX
+done
+popd
