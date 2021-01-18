@@ -1,4 +1,4 @@
--- works with 'major' or 'minor' in title, without composer without recording
+-- works with classical clue in title, without composer without recording
 -- 2020-04: 43
 -- 2020-05-20: 44
 -- 2020-09-16: 33
@@ -8,17 +8,17 @@ SELECT
     w.name AS work_name
 FROM
     work AS w
-    LEFT OUTER JOIN l_recording_work AS lrw ON w.id = lrw.entity1
     LEFT OUTER JOIN l_artist_work    AS law ON w.id = law.entity1
-    /* LEFT OUTER JOIN l_work_work      AS lww ON w.id = lww.entity1 */
+    LEFT OUTER JOIN l_recording_work AS lrw ON w.id = lrw.entity1
+    -- LEFT OUTER JOIN l_work_work      AS lww ON w.id = lww.entity1
 WHERE
     law.entity1 IS NULL
     AND lrw.entity1 IS NULL
-    /* AND (lww.entity1 IS NULL OR lww.entity0 IS NULL) */
+    -- AND (lww.entity1 IS NULL OR lww.entity0 IS NULL)
     AND (
         w.name ILIKE '%major%'
         OR w.name ILIKE '%minor%'
-        OR w.name ILIKE '%majeurr%'
+        OR w.name ILIKE '%majeur%'
         OR w.name ILIKE '%mineur%'
         OR w.name ILIKE '%-dur%'
         OR w.name ILIKE '%-moll%'

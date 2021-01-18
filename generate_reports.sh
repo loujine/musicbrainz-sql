@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -eux
 
 DBDATE="2021-01-13"
@@ -18,7 +18,10 @@ for script in *sql
 do
     mkdir -p ../$OUTPUTDIR
     OUTPUTFILE="../$OUTPUTDIR/${script%.sql}.md"
-    psql postgres://$PGPARAMS -f $script > $OUTPUTFILE
+    head -1 $script > $OUTPUTFILE
+    sed -i 's/--/##/' $OUTPUTFILE
+    echo "" >> $OUTPUTFILE
+    psql postgres://$PGPARAMS -f $script >> $OUTPUTFILE
     sed -i 's/+/|/g' $OUTPUTFILE
     sed -i '/^Time/d' $OUTPUTFILE
     sed -i 's/^\(([0-9]* rows\)/\n\1/' $OUTPUTFILE

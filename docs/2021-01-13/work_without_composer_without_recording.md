@@ -1,3 +1,5 @@
+## works with classical clue in title, without composer without recording
+
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 |                                 work_url                                 |                                                  work_name                                                   |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -196,6 +198,8 @@
 | <https://beta.musicbrainz.org/work/d7379ebf-a751-4ab2-8b6c-51b0a8482fc7> | The Sleeping Beauty, op. 66: Prologue                                                                        |
 | <https://beta.musicbrainz.org/work/5d4b1603-2d89-4100-93e2-d5fee7a27296> | The Student Prince: Act I                                                                                    |
 | <https://beta.musicbrainz.org/work/232d17a5-81ec-4013-83f2-18d895c8e87a> | Three Pieces, op. 9                                                                                          |
+| <https://beta.musicbrainz.org/work/38c935fe-7dc4-4527-ab5e-ff138126cce6> | Turluterie en ré majeur                                                                                      |
+| <https://beta.musicbrainz.org/work/d2553078-8864-45d8-bc36-14ed138c1f6b> | Turluterie en sol majeur                                                                                     |
 | <https://beta.musicbrainz.org/work/2b74d48e-e520-4a1a-a153-3c726645d91f> | Un giorno di regno, ossia il finto Stanislao: Atto I.                                                        |
 | <https://beta.musicbrainz.org/work/a7323162-3137-467d-87f0-4044b2dcc963> | Un giorno di regno, ossia il finto Stanislao: Atto II.                                                       |
 | <https://beta.musicbrainz.org/work/e30e0288-e081-41e8-b7c7-3a34f52663dd> | Variationen für Oboe und Klaiver, op. 39                                                                     |
@@ -204,4 +208,5 @@
 | <https://beta.musicbrainz.org/work/601f215b-4d72-4abd-aaad-a68345d95cf7> | À la manière de…, op. 17 bis                                                                                 |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 
-(201 rows)
+(203 rows)
+
