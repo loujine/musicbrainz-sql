@@ -4,6 +4,7 @@
 -- 2020-11-14: > 100min: 0
 -- 2020-11-14: >  90min: 24
 -- 2020-11-14: >  86min: 272
+-- 2021-01-13: >  86min: 282
 
 SELECT
     to_cdtoc_url(cdtoc.discid) AS discid,

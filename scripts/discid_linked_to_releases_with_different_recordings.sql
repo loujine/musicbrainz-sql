@@ -1,7 +1,8 @@
--- discids linked to releases where track 1 do not share the same recording
+-- discids linked to releases where track 20 do not share the same recording
 -- track 1 2020-05: 3775
 -- track 20 2020-05: 500
 -- track 30 2020-05: 95
+-- track 8 2021-01-13: 3009
 
 WITH
 toc AS (
@@ -10,8 +11,6 @@ toc AS (
     FROM
         cdtoc AS c
         INNER JOIN medium_cdtoc ON c.id = medium_cdtoc.cdtoc
-    /* WHERE */
-    /*     c.discid IN ('zij46Tv0uT9b0h4Hqv6IDtvZm7g-', 'zmEYQ49GjtBX_qr.93IOC2P0guE-') */
     GROUP BY
         c.id, c.discid
     HAVING
@@ -28,7 +27,7 @@ results AS (
         INNER JOIN track AS t ON t.medium = mc.medium
         INNER JOIN recording AS r ON t.recording = r.id
     WHERE
-        t.position = 8
+        t.position = 20
     GROUP BY
         toc.discid, t.name, r.gid
 )

@@ -2,8 +2,10 @@
 -- 2020-04-22: 2149
 -- 2020-05-20: 2905
 -- 2020-09-16: 2318
+-- 2021-01-13: 3099
 
 SELECT
+    a.sort_name AS pianist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
@@ -14,4 +16,5 @@ FROM
 WHERE
     lrw.entity0 IS NULL
 ORDER BY
+    a.sort_name,
     r.name

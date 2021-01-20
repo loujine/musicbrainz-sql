@@ -729,7 +729,7 @@
 | <https://beta.musicbrainz.org/work/57628d62-0021-4266-aafd-c40690e1e7bd> | I Never Saw Another Butterfly                                                                                                 |        6 |
 | <https://beta.musicbrainz.org/work/a101bccf-28b4-41fd-9cd5-38b181ba21e0> | Poliphème                                                                                                                     |        6 |
 | <https://beta.musicbrainz.org/work/0d79f662-87cc-44cf-9845-a49eea53d5c8> | Suite in F-sharp minor                                                                                                        |        6 |
-| <https://beta.musicbrainz.org/work/4a21c175-eb7f-4b98-bc9a-12c6cfeb3ac6> | Nana | Victorio                                                                                                               |        6 |
+| <https://beta.musicbrainz.org/work/4a21c175-eb7f-4b98-bc9a-12c6cfeb3ac6> | Nana + Victorio                                                                                                               |        6 |
 | <https://beta.musicbrainz.org/work/dc4a1f2f-6a88-430e-8737-c6343d8c97fe> | Water Music Suite                                                                                                             |        6 |
 | <https://beta.musicbrainz.org/work/473d8784-78ca-4f5c-822b-fa75c0cc7962> | Suite de antiguas danzas españolas                                                                                            |        6 |
 | <https://beta.musicbrainz.org/work/22c6fd5d-c724-4477-af4a-311273c4d613> | Ouverture in D-Dur, GWV 420                                                                                                   |        6 |
@@ -6523,7 +6523,7 @@
 | <https://beta.musicbrainz.org/work/92ed5910-7fb9-4652-a1a9-68ea76560e8a> | Trio no. 2 for Violin, Cello and Piano                                                                                        |        3 |
 | <https://beta.musicbrainz.org/work/92fd67ef-c944-4b19-99e0-399ec9baa587> | Quartett Nr. 5 für zwei Violinen, Bratsche und Violoncell, op. 63                                                             |        3 |
 | <https://beta.musicbrainz.org/work/92fd8918-73a7-477b-9d0b-1a79df57d78f> | Sonata for Cello and Piano in F major, op. 17                                                                                 |        3 |
-| <https://beta.musicbrainz.org/work/932177bb-141d-47fc-8d47-2dbbdafcec90> | Symphony [no. 52] in C major, K. 208|102                                                                                      |        3 |
+| <https://beta.musicbrainz.org/work/932177bb-141d-47fc-8d47-2dbbdafcec90> | Symphony [no. 52] in C major, K. 208+102                                                                                      |        3 |
 | <https://beta.musicbrainz.org/work/93639eb7-1dff-46f8-bdf1-1f39e22202f7> | Keelpillikvartett nr. 1, op. 1                                                                                                |        3 |
 | <https://beta.musicbrainz.org/work/936a7c61-a85e-4180-b00d-2e52590d306e> | Third Piano Sonata, op. 35                                                                                                    |        3 |
 | <https://beta.musicbrainz.org/work/93bd92d4-8ad2-4a43-a12a-4c579cb636da> | Sinfonia for Violin and Continuo in B minor, RV 35a                                                                           |        3 |

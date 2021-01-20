@@ -1,11 +1,13 @@
--- missing date on performer xor work relationship on pianists recordings
+-- Missing date on performing Artist xor Work relationship
 
 -- pianists
 -- 2020-04: 1597
 -- 2020-05-20: 1584
 -- 2020-09-16: 1062
+-- 2021-01-13: 1001
 
 SELECT
+    a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
@@ -21,13 +23,18 @@ WHERE
     lt.name = 'instrument'
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
+ORDER BY
+    a.sort_name,
+    r.name
 ;
 
 -- violinist
 -- 2020-05-20: 30
 -- 2020-09-16: 12
+-- 2021-01-13: 14
 
 SELECT
+    a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
@@ -43,13 +50,18 @@ WHERE
     lt.name = 'instrument'
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
+ORDER BY
+    a.sort_name,
+    r.name
 ;
 
 -- quartet
 -- 2020-05-20: 175
 -- 2020-09-16: 25
+-- 2021-01-13: 14
 
 SELECT
+    a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
@@ -65,13 +77,18 @@ WHERE
     lt.name = 'instrument'
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
+ORDER BY
+    a.sort_name,
+    r.name
 ;
 
 -- conductor
 -- 2020-05-20: 1293
 -- 2020-09-16: 807
+-- 2021-01-13: 1370
 
 SELECT
+    a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
 FROM
@@ -87,4 +104,7 @@ WHERE
     lt.name = 'conductor'
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
+ORDER BY
+    a.sort_name,
+    r.name
 ;

@@ -6,8 +6,8 @@ OUTPUTDIR="docs/${DBDATE}/"
 
 PGUSER="musicbrainz"
 PGPW="musicbrainz"
-PGHOST="192.168.1.8"
-PGPORT=5432
+# PGHOST="127.0.0.1"
+# PGPORT=5432
 DATABASE="musicbrainz_db"
 PGPARAMS=$PGUSER:$PGPW@$PGHOST:$PGPORT/$DATABASE
 
@@ -22,7 +22,8 @@ do
     sed -i 's/--/##/' $OUTPUTFILE
     echo "" >> $OUTPUTFILE
     psql postgres://$PGPARAMS -f $script >> $OUTPUTFILE
-    sed -i 's/+/|/g' $OUTPUTFILE
+    sed -i 's/+--/|--/g' $OUTPUTFILE
+    sed -i 's/--+/--|/g' $OUTPUTFILE
     sed -i '/^Time/d' $OUTPUTFILE
     sed -i 's/^\(([0-9]* rows\)/\n\1/' $OUTPUTFILE
 done
