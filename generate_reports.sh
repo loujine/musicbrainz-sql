@@ -2,7 +2,7 @@
 set -eux
 
 DBDATE="2021-01-13"
-OUTPUTDIR="docs/${DBDATE}/"
+OUTPUTDIR="docs/${DBDATE}"
 
 PGUSER="musicbrainz"
 PGPW="musicbrainz"
