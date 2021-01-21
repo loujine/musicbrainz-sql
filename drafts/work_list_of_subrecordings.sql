@@ -14,8 +14,8 @@ subworks AS (
         INNER JOIN link        AS li  ON li.id = lww.link
         INNER JOIN link_type   AS lt  ON lt.id = li.link_type
     WHERE
-        w.gid = 'c35b4956-d4f8-321a-865b-5b13d9ed192b'
-        -- w.gid = 'f8013df4-d091-4233-ba2e-ed564b3b42b2'
+        -- w.gid = 'c35b4956-d4f8-321a-865b-5b13d9ed192b'
+        w.gid = 'f8013df4-d091-4233-ba2e-ed564b3b42b2'
         -- w.gid = '15e0a721-5332-3452-8a56-e00af7b9e4ca'
         AND lt.name = 'parts'
     ORDER BY
@@ -46,7 +46,7 @@ subworks AS (
         SUBSTRING(r.artist for 50) AS artist,
         r.begin_date_year, -- r.begin_date_month, r.begin_date_day,
         r.end_date_year, -- r.end_date_month, r.end_date_day,
-        SUM(r.length) AS total_length,
+        JUSTIFY_INTERVAL(SUM(r.length) * INTERVAL '1 millisecond') AS duration,
         ARRAY_AGG(to_recording_url(r.gid)) AS recordings
     FROM
         recordings AS r
