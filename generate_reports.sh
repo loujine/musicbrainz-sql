@@ -13,7 +13,7 @@ PGPARAMS=$PGUSER:$PGPW@$PGHOST:$PGPORT/$DATABASE
 
 INDEX="docs/index.md"
 
-pushd scripts
+pushd queries
 for script in *sql
 do
     mkdir -p ../$OUTPUTDIR
@@ -32,7 +32,7 @@ popd
 echo "" >> $INDEX
 echo "## ${DBDATE}" >> $INDEX
 
-pushd scripts
+pushd queries
 for script in *sql
 do
     echo " - [${script%.sql}](${DBDATE}/${script%.sql}.md)" >> ../$INDEX
