@@ -49,8 +49,8 @@ FROM
     INNER JOIN medium ON medium.id = limits.medium
     INNER JOIN release ON release.id = medium.release
 WHERE
-    max > 2 * min
-    AND endmax > 2 * endmin
+    ABS(max - 2 * min) < 500
+    AND ABS(endmax - 2 * endmin) < 500
 -- ORDER BY
 --     track_count
 ;
