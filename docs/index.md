@@ -4,6 +4,7 @@
  - [artist_performer_as_recording_artist_and_no_relation](2021-01-13/artist_performer_as_recording_artist_and_no_relation.md)
  - [discid_above_90_minutes](2021-01-13/discid_above_90_minutes.md)
  - [discid_double_duration](2021-01-13/discid_double_duration.md)
+ - [discid_invalid_medium_format](2021-01-13/discid_invalid_medium_format.md)
  - [discid_linked_to_releases_with_different_recordings](2021-01-13/discid_linked_to_releases_with_different_recordings.md)
  - [discid_not_applied](2021-01-13/discid_not_applied.md)
  - [external_link_imslp_pdf](2021-01-13/external_link_imslp_pdf.md)
