@@ -64,7 +64,7 @@ composer_wo_performer AS (
         r.gid
     FROM
         artist_credit_name AS acn
-        INNER JOIN recording AS r USING(artist_credit)
+        INNER JOIN recording AS r USING (artist_credit)
         INNER JOIN composer AS a ON a.id = acn.artist
     EXCEPT (
         SELECT
@@ -72,7 +72,7 @@ composer_wo_performer AS (
             r.gid
         FROM
             artist_credit_name AS acn
-            INNER JOIN recording AS r USING(artist_credit)
+            INNER JOIN recording AS r USING (artist_credit)
             INNER JOIN composer AS a ON a.id = acn.artist
             INNER JOIN l_artist_recording AS lar ON lar.entity0 = a.id
         WHERE

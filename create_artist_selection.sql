@@ -73,7 +73,7 @@ CREATE TABLE pianist AS (
     FROM
         artist
     WHERE
-        name in (
+        name IN (
             'Alfred Brendel',
             'Alfred Cortot',
             'Andreas Staier',
@@ -162,7 +162,7 @@ CREATE TABLE conductor AS (
     FROM
         artist
     WHERE
-        name in (
+        name IN (
             'André Cluytens',
             'Arturo Toscanini',
             'Carlo Maria Giulini',
@@ -197,7 +197,7 @@ CREATE TABLE quartet AS (
     FROM
         artist
     WHERE
-        name in (
+        name IN (
             'Alban Berg Quartett',
             'Amadeus Quartet',
             'Beethoven String Quartet',
@@ -244,7 +244,7 @@ CREATE TABLE violinist AS (
         artist
     WHERE
         sort_name IN (
-            'Ferras, Christian'
+            'Ferras, Christian',
             'Menuhin, Yehudi',
             'Milstein, Nathan',
             'Oistrakh, David Fiodorovich',
