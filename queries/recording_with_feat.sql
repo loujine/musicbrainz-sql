@@ -17,7 +17,7 @@ AS (
         INNER JOIN l_recording_work AS lrw ON work.id = lrw.entity1
         INNER JOIN recording AS r ON r.id = lrw.entity0
 )
-SELECT
+SELECT DISTINCT
     to_recording_url(r.gid) AS recording_url,
     r.name AS recording_name
 FROM
