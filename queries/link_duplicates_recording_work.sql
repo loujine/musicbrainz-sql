@@ -1,9 +1,11 @@
--- duplicate relationships (>= 4) between work and recording (filtered on main composers)
+-- duplicate relationships between work and recording (filtered on main composers)
 
 -- >=4
 -- 2020-09-16: 41
 -- 2021-10-16: 55
 -- 2021-11-07: 0
+-- >=2
+-- 2021-11-07: 974
 
 WITH
 composer_work AS (
@@ -37,6 +39,7 @@ GROUP BY
     rmbid,
     name
 HAVING
-    COUNT(*) > 3
+    COUNT(*) > 1
 ORDER BY
+    cnt DESC,
     name
