@@ -1,387 +1,490 @@
-## same barcode on more than 5 releases
+## same name, barcode, catno, country on releases
 
-|---------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|    barcode    |                               to_release_url                                |                                    name                                    |
-|---------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 075678162527  | <https://beta.musicbrainz.org/release/cd4073dc-f424-4d79-a30e-42025427ab97> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/8d879915-e4fa-4088-abd2-aa3382e12b59> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/cf8bf80c-5810-45de-b335-8212a6af8b51> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/ebaa5ca3-bc05-3fc2-80c7-fe91f054b96e> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/6c6a0a93-051a-4796-a492-492e83455bd7> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/d5544516-4c15-4d47-b839-1b3138827631> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/65b18d8f-404a-4d99-b727-6cf979607818> | 10 From 6                                                                  |
-| 075678162527  | <https://beta.musicbrainz.org/release/c1f34e12-7c99-4110-80ea-c4384323ad1a> | 10 from 6                                                                  |
-| 8809603541796 | <https://beta.musicbrainz.org/release/6dd5e645-42b6-4437-b327-d03c26dcb64d> | 1÷χ=1 (UNDIVIDED)                                                          |
-| 8809603541796 | <https://beta.musicbrainz.org/release/c6bb3581-4a03-4157-8d79-a282d55d1b90> | 1÷χ=1 (UNDIVIDED)                                                          |
-| 8809603541796 | <https://beta.musicbrainz.org/release/6386e7f7-5f04-4f35-8eea-daec5cf83401> | 1÷χ=1 (UNDIVIDED)                                                          |
-| 8809603541796 | <https://beta.musicbrainz.org/release/b19bb5ea-0178-432f-8c7a-058b17a5a920> | 1÷χ=1 (UNDIVIDED)                                                          |
-| 8809603541796 | <https://beta.musicbrainz.org/release/01fc2ccd-afc6-46e7-82a7-0dd419975914> | 1÷χ=1 (UNDIVIDED)                                                          |
-| 8809603541796 | <https://beta.musicbrainz.org/release/d3f5cde6-893e-40cc-8ebf-f2d34865dd77> | 1÷χ=1 (UNDIVIDED)                                                          |
-| 4710243788776 | <https://beta.musicbrainz.org/release/dd989d08-bdbf-4c4e-a1b4-3ae200a1011b> | Ain't A Cigarette                                                          |
-| 020286198253  | <https://beta.musicbrainz.org/release/8904bd06-f081-4692-ae22-62a578af3d9a> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/aadb5d8c-e495-4788-8faa-0aa85b462039> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/849b76ba-4d72-42e8-9eb0-0a09dace4e88> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/1dfb4f75-7683-47d1-b477-db10a8123b56> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/82837040-9633-4582-b08d-4e83ae768c07> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/0c82421c-2f5d-4a88-a7d3-40621d803c16> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/f6232371-9248-42f2-ae72-bdafa0632a4e> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/96c9d267-2901-4af8-a047-7fe57f0cd3a0> | All We Love We Leave Behind                                                |
-| 020286198253  | <https://beta.musicbrainz.org/release/2fce0b17-8b55-4b40-8fb3-da5fa45d545c> | All We Love We Leave Behind                                                |
-| 5028421931029 | <https://beta.musicbrainz.org/release/5431cbcf-aee2-31a5-ba43-e28dd366b15c> | Bach Edition, I: Orchestral Works/Chamber Music                            |
-| 5028421931029 | <https://beta.musicbrainz.org/release/40e4d3b3-afa5-476b-8569-b503c92e4060> | Bach Edition, II: Keyboard Works                                           |
-| 5028421931029 | <https://beta.musicbrainz.org/release/7e3ca0ce-bbe3-4245-81d4-9a2f2bf3006f> | Bach Edition, III: Cantatas I                                              |
-| 5028421931029 | <https://beta.musicbrainz.org/release/ab2eddb4-9195-36c5-b5d4-ef814be58110> | Bach Edition, IV: Cantatas II                                              |
-| 5028421931029 | <https://beta.musicbrainz.org/release/71081b85-b553-3247-aa5a-685af4f50cb8> | Bach Edition, V: Vocal Works                                               |
-| 5028421931029 | <https://beta.musicbrainz.org/release/c4fdd27d-725c-49e7-9346-7c9b5d3687cf> | Bach Edition, VI: Orgelwerke                                               |
-| 724382898429  | <https://beta.musicbrainz.org/release/8c2b0d1b-a42d-497f-a005-c1bde85b9985> | Bestseller                                                                 |
-| 859724266625  | <https://beta.musicbrainz.org/release/43732085-ed95-4217-85db-786e284bae10> | Bote De Carrera                                                            |
-| 8809633189357 | <https://beta.musicbrainz.org/release/e3a73f9c-d6fb-4c43-8f48-a5c8565cfdaf> | Breath of Love : Last Piece                                                |
-| 8809633189357 | <https://beta.musicbrainz.org/release/544b36f3-ac97-42d3-b7d0-2c1113b75714> | Breath of Love : Last Piece                                                |
-| 8809633189357 | <https://beta.musicbrainz.org/release/4aead0d6-2975-4782-8898-2d6e027d7d3f> | Breath of Love : Last Piece                                                |
-| 8809633189357 | <https://beta.musicbrainz.org/release/187ae920-df28-4e1e-a6b7-13437c0a8484> | Breath of Love : Last Piece                                                |
-| 8809633189357 | <https://beta.musicbrainz.org/release/47ce015b-230a-4722-84ae-09b0eb3876ec> | Breath of Love : Last Piece                                                |
-| 8809633189357 | <https://beta.musicbrainz.org/release/9de5cf2e-30d8-4f1c-be3f-fa673f61e9e9> | Breath of Love : Last Piece                                                |
-| 8809633189357 | <https://beta.musicbrainz.org/release/285cb1a3-6b30-4d49-93b4-03923c410167> | Breath of Love : Last Piece                                                |
-| 859724266625  | <https://beta.musicbrainz.org/release/e9045385-1746-4268-aa2b-9bc4dc85af82> | Bregalo                                                                    |
-| 075992526425  | <https://beta.musicbrainz.org/release/00dac2ff-f4d1-433b-a196-89b888591a99> | Brothers in Arms                                                           |
-| 075992526425  | <https://beta.musicbrainz.org/release/e9cdf82f-7606-449f-ac6e-eae7c02b8149> | Brothers in Arms                                                           |
-| 075992526425  | <https://beta.musicbrainz.org/release/4c618c14-0ed3-3b50-b32a-562e0f4cfe28> | Brothers in Arms                                                           |
-| 075992526425  | <https://beta.musicbrainz.org/release/999528b0-c3d3-4306-bb23-9891e60ea1f1> | Brothers in Arms                                                           |
-| 075992526425  | <https://beta.musicbrainz.org/release/05f09fda-8bc4-4e6a-bdce-83f14c5f81ca> | Brothers in Arms                                                           |
-| 075992526425  | <https://beta.musicbrainz.org/release/e2a3c060-8c1c-477d-a2b4-8ce3dbbe0e2c> | Brothers in Arms                                                           |
-| 859724266625  | <https://beta.musicbrainz.org/release/afed6214-fb6b-44c1-a961-e83876e5ce11> | Bucate                                                                     |
-| 4988005499455 | <https://beta.musicbrainz.org/release/9b6aaf7c-c41b-47eb-a935-c7b7f47e3ea0> | Complete Recordings on Deutsche Grammophon (box 10: 1985-1989)             |
-| 4988005499455 | <https://beta.musicbrainz.org/release/579cbaa7-7de5-43c1-a425-a01b6f4467f3> | Complete Recordings on Deutsche Grammophon (box 1: 1938-1943)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/e0bec66c-a0b0-449d-8f30-5cead7c724df> | Complete Recordings on Deutsche Grammophon (box 2: 1959-1965)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/d4f90e81-6a72-4694-9e37-8b820688d1e6> | Complete Recordings on Deutsche Grammophon (box 3: 1965-1966)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/2bb1c24b-2dc6-4eb7-9fef-0b6c5c70886c> | Complete Recordings on Deutsche Grammophon (box 4: 1967-1969)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/8713760f-e546-444b-a0e6-c7d0c1fad700> | Complete Recordings on Deutsche Grammophon (box 5: 1970-1972)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/12f9c0cc-471b-4bec-8b0b-a93d1ba22250> | Complete Recordings on Deutsche Grammophon (box 6: 1973-1975)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/92729535-197b-4f7b-a888-1f883ffea17d> | Complete Recordings on Deutsche Grammophon (box 7: 1976-1979)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/2fe766bf-aebb-4f2d-b89b-3924a45063e4> | Complete Recordings on Deutsche Grammophon (box 8: 1979-1981)              |
-| 4988005499455 | <https://beta.musicbrainz.org/release/f2f91c39-085e-4c3a-b542-e0e4f7f9c32f> | Complete Recordings on Deutsche Grammophon (box 9: 1982-1984)              |
-| 5028421925400 | <https://beta.musicbrainz.org/release/96f70a94-992a-4b8e-bf52-2ab620726173> | Complete Works, Volume 1: Symphonies                                       |
-| 5028421925400 | <https://beta.musicbrainz.org/release/fc4bdada-0237-485f-82f9-062bb24d9490> | Complete Works, Volume 2: Concertos                                        |
-| 5028421925400 | <https://beta.musicbrainz.org/release/c2f50414-369f-4afc-812b-9ac3c88ad179> | Complete Works, Volume 3: Serenades, Divertimenti, Dances                  |
-| 5028421925400 | <https://beta.musicbrainz.org/release/95b68272-a50c-44fc-9302-b87311aa39fd> | Complete Works, Volume 4: Chamber Music                                    |
-| 5028421925400 | <https://beta.musicbrainz.org/release/d21d996a-e390-49fc-b29f-8c672c4aa687> | Complete Works, Volume 5: String Ensembles                                 |
-| 5028421925400 | <https://beta.musicbrainz.org/release/e2f2110b-15ff-4527-8ac8-5f0a4afef568> | Complete Works, Volume 6: Keyboard Works                                   |
-| 5028421925400 | <https://beta.musicbrainz.org/release/47794bbb-795c-49ea-a377-7a859a47e943> | Complete Works, Volume 7: Sacred Works                                     |
-| 5028421925400 | <https://beta.musicbrainz.org/release/6906b993-e27b-4af7-bbb7-5f1db7dc0a16> | Complete Works, Volume 8: Concert Arias, Songs, Canons                     |
-| 5028421925400 | <https://beta.musicbrainz.org/release/57f15b86-6760-44db-b200-bb9b555370d9> | Complete Works, Volume 9: Operas                                           |
-| 9771337619005 | <https://beta.musicbrainz.org/release/a8cbfcf6-b273-4492-9a1d-3e3038b0b969> | Dobšinského Povesti Séria 1 - 1. Diel                                      |
-| 9771337619005 | <https://beta.musicbrainz.org/release/d2b48700-17b8-4e0c-9bb7-f77cb5c16a32> | Dobšinského Povesti Séria 1 - 2. Diel                                      |
-| 9771337619005 | <https://beta.musicbrainz.org/release/6b1d1ead-a912-4816-8e94-72ead0e1d052> | Dobšinského Povesti Séria 1 - 3. Diel                                      |
-| 9771337619005 | <https://beta.musicbrainz.org/release/0ae1ccd1-ec69-4407-9a1a-237cf9294c81> | Dobšinského Povesti Séria 1 - 4. Diel                                      |
-| 9771337619005 | <https://beta.musicbrainz.org/release/df375a10-aff1-488d-bca8-70d0f51cbf42> | Dobšinského Povesti Séria 1 - 5. Diel                                      |
-| 9771337619005 | <https://beta.musicbrainz.org/release/24e0e380-ebae-47ef-97f4-c741347b0478> | Dobšinského Povesti Séria 1 - 6. Diel                                      |
-| 8809269504579 | <https://beta.musicbrainz.org/release/7d68884a-4a68-47be-94ea-91eca185675d> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/8825ef9c-6a37-4d2b-8f50-0d4791b1962a> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/dced6b68-cf6d-40df-9fa5-744bc0e65d4a> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/debae283-5658-48b3-b9d8-341d2415fab4> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/c5e88214-b944-4bc9-84d1-ee36da2f771e> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/bba84f02-ab21-4e13-af0b-4d1e970f0ec5> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/38375bfe-f557-4393-8857-29282c33c8c1> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/cc90e4d0-d039-488a-b419-b7b95c5002d8> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/07e8bd63-8943-4375-a201-b96542089aa2> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/38a52de6-6073-4d52-82c7-099511fe02d6> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/ae96c755-0d3c-4a49-b218-a8b996002104> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/b06f65e7-c3da-4c08-ae37-804d4ee21bdf> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/6b5bfa51-3415-4c8c-8661-5a061407e3d7> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/ac5d2232-7728-4712-b843-a7aaa4ab883a> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/4aa6a4d5-7c25-4d5c-ae1b-ade44eca736a> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/280147c3-8c70-4ea1-ae58-a9bbfde995d0> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/89986a62-0869-45d6-82d2-3d8389d2aa09> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/336186c5-eb9e-4b43-a812-f453fa9f0f2b> | EXODUS                                                                     |
-| 8809269504562 | <https://beta.musicbrainz.org/release/92fc5484-c774-495d-9761-a9467b87cc8c> | EXODUS                                                                     |
-| 8809269504579 | <https://beta.musicbrainz.org/release/5956fe91-109f-4f8b-b3e8-fca071e271ab> | EXODUS                                                                     |
-| 840588100675  | <https://beta.musicbrainz.org/release/0ced4e62-d6b1-4c10-bdd1-05b0e9d48c9c> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/f5d75489-d668-4512-b9ae-ba79c70f3551> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/d7623ff6-686f-4a13-8138-84175ad45ec0> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/06645812-97f7-41bb-bc49-f15c773a2574> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/88a0e6a7-b5d0-40e5-a1a1-daa39c408916> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/1d56f86a-bcb2-40fa-8177-65b2e1db82c1> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/fc99027d-9d9a-4c50-a224-7afa49e09b2d> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/00cc3aae-b562-4b4d-bb13-9c59cd4baf5b> | Extinct                                                                    |
-| 840588100675  | <https://beta.musicbrainz.org/release/c05d9ce9-a236-43df-9229-8acdda490949> | Extincto                                                                   |
-| 4001617203927 | <https://beta.musicbrainz.org/release/ca7d60c3-7812-41c8-bfe9-0ca2aeb484e2> | Frost                                                                      |
-| 4001617203927 | <https://beta.musicbrainz.org/release/7afdba52-d434-4860-bd4c-01d49603ba4a> | Frost                                                                      |
-| 4001617203927 | <https://beta.musicbrainz.org/release/8a4826fd-ac10-47c6-89b8-356010f05903> | Frost                                                                      |
-| 4001617203927 | <https://beta.musicbrainz.org/release/adc51e67-e3da-4a01-ad59-11d6758e1c45> | Frost                                                                      |
-| 4001617203927 | <https://beta.musicbrainz.org/release/d5099c47-0a30-48bc-9e1e-dfff652edd6f> | Frost                                                                      |
-| 4001617203927 | <https://beta.musicbrainz.org/release/a1535a16-1913-4f8c-ab04-1b9c8c2f6756> | Frost                                                                      |
-| 4001617203927 | <https://beta.musicbrainz.org/release/b079aacc-73f9-4f9d-96f0-fd3d49adf50f> | Frost                                                                      |
-| 074640492471  | <https://beta.musicbrainz.org/release/30e0b9f0-be0a-43b5-b1a5-42ba4d2c963b> | Glory Days                                                                 |
-| 074640492471  | <https://beta.musicbrainz.org/release/4267b5a7-cad7-409e-b903-4eea16e3e89b> | Glory Days                                                                 |
-| 074640492471  | <https://beta.musicbrainz.org/release/b34c163f-83d2-4d01-8068-07097b759af0> | Glory Days                                                                 |
-| 074640492471  | <https://beta.musicbrainz.org/release/be3b3cc7-f694-4bb6-aafa-ba7c717a4ee8> | Glory Days                                                                 |
-| 074640492471  | <https://beta.musicbrainz.org/release/77fd299e-42ab-47c6-ab2c-30e602ac297a> | Glory Days                                                                 |
-| 074640492471  | <https://beta.musicbrainz.org/release/36db26d8-b1d3-4156-ba75-26237ff001b5> | Glory Days                                                                 |
-| 074640492471  | <https://beta.musicbrainz.org/release/6040bee5-049b-448b-bb72-5d85521d24a1> | Glory Days                                                                 |
-| 724382898429  | <https://beta.musicbrainz.org/release/c6bfa785-8367-4f2d-935c-ed28678067d7> | Golden Collection 2000                                                     |
-| 724382898429  | <https://beta.musicbrainz.org/release/f10a97fa-d8fe-41f5-b80f-7d483a8d8047> | Golden Collection 2000                                                     |
-| 724382898429  | <https://beta.musicbrainz.org/release/191ecb90-8323-4152-83ff-ac90e343109c> | Golden Collection 2000                                                     |
-| 724382898429  | <https://beta.musicbrainz.org/release/78dde8f8-0e7a-4234-8725-e4ab84ed7cfc> | Golden Collection 2000                                                     |
-| 724382898429  | <https://beta.musicbrainz.org/release/36f5b58b-93e6-4951-8b08-6634c6059661> | Golden Collection 2000                                                     |
-| 724382898429  | <https://beta.musicbrainz.org/release/93602bce-0358-4a1f-b7d4-c9a2e00ef04d> | Golden Collection 2000                                                     |
-| 724382898429  | <https://beta.musicbrainz.org/release/9bf4c7c7-bf3d-4ea3-8d75-794653144233> | Golden Collection 2000                                                     |
-| 859724266625  | <https://beta.musicbrainz.org/release/279576a3-4971-4084-a689-0911bf008fe1> | Guaro                                                                      |
-| 859724266625  | <https://beta.musicbrainz.org/release/7f1bbfce-9569-4d75-91e5-1fe13760556b> | Ha Ha Ha                                                                   |
-| 075679315922  | <https://beta.musicbrainz.org/release/502b8d64-0295-4f54-a1d8-e90d334ccdee> | Harry Potter and the Chamber of Secrets                                    |
-| 075679315922  | <https://beta.musicbrainz.org/release/7c58169d-34a6-49f0-943c-a6b7b3ae9f6d> | Harry Potter and the Chamber of Secrets                                    |
-| 075679315922  | <https://beta.musicbrainz.org/release/fe9c940d-2836-4570-aa51-c56133595a8e> | Harry Potter and the Chamber of Secrets                                    |
-| 075679315922  | <https://beta.musicbrainz.org/release/b8bc5cdb-ea73-4009-9fac-ac6c5859760f> | Harry Potter and the Chamber of Secrets                                    |
-| 075679315922  | <https://beta.musicbrainz.org/release/445f959f-6176-4bf2-9522-5c098d66d9ed> | Harry Potter and the Chamber of Secrets                                    |
-| 075679315922  | <https://beta.musicbrainz.org/release/bfb77a78-a190-4e9f-87bf-4f7875a20100> | Harry Potter and the Chamber of Secrets                                    |
-| 859724266625  | <https://beta.musicbrainz.org/release/f7c53ef8-5436-49d5-a1f3-35a7859dc7b2> | Hello                                                                      |
-| 886448091066  | <https://beta.musicbrainz.org/release/37e6b599-e486-43a9-bb4b-343c05e4f8d4> | Jay Chou The Invincible Concert Tour                                       |
-| 886448091066  | <https://beta.musicbrainz.org/release/cbeac09b-9fdb-4a1b-8496-ed72adf25dc5> | Jay Chou the Invincible Concert Tour (周杰倫地表最強世界巡迴演唱會)        |
-| 4018492239002 | <https://beta.musicbrainz.org/release/741006e4-1842-4696-95e9-845a590c9515> | Klavier Kaiser: 14 große Pianisten (set 01: Arthur Rubinstein)             |
-| 4018492239002 | <https://beta.musicbrainz.org/release/f5d5f784-99f8-4f59-9e10-3c58f3bb51f9> | Klavier Kaiser: 14 große Pianisten (set 02: Edwin Fischer)                 |
-| 4018492239002 | <https://beta.musicbrainz.org/release/2fa3eb84-31c2-4253-86ad-902c78c09501> | Klavier Kaiser: 14 große Pianisten (set 03: Martha Argerich)               |
-| 4018492239002 | <https://beta.musicbrainz.org/release/1f0d88d8-7ec7-4a32-9b75-5de0914c3768> | Klavier Kaiser: 14 große Pianisten (set 04: Artur Schnabel)                |
-| 4018492239002 | <https://beta.musicbrainz.org/release/911a7abc-2dc3-4f07-a3fd-3826d9e9f2dc> | Klavier Kaiser: 14 große Pianisten (set 05: Maurizio Pollini)              |
-| 4018492239002 | <https://beta.musicbrainz.org/release/80b1c845-9a9d-4db5-8495-5951ace2e3f8> | Klavier Kaiser: 14 große Pianisten (set 06: Wilhelm Kempff)                |
-| 4018492239002 | <https://beta.musicbrainz.org/release/64fd357d-2ed1-4be1-9d64-4c46a9d2ac46> | Klavier Kaiser: 14 große Pianisten (set 07: Vladimir Horowitz)             |
-| 4018492239002 | <https://beta.musicbrainz.org/release/cd1443bf-76fb-4881-a8c3-f4e7a70249b1> | Klavier Kaiser: 14 große Pianisten (set 08: Daniel Barenboim)              |
-| 4018492239002 | <https://beta.musicbrainz.org/release/c87d940f-ab4f-4c17-b528-57ebdadccaed> | Klavier Kaiser: 14 große Pianisten (set 09: Arturo Benedetti Michelangeli) |
-| 4018492239002 | <https://beta.musicbrainz.org/release/2589e027-7875-44cd-8dd6-d08010f3ac3e> | Klavier Kaiser: 14 große Pianisten (set 10: Alfred Brendel)                |
-| 4018492239002 | <https://beta.musicbrainz.org/release/04c05d4b-eadc-4663-bc2e-fc3070916a03> | Klavier Kaiser: 14 große Pianisten (set 11: Dinu Lipatti)                  |
-| 4018492239002 | <https://beta.musicbrainz.org/release/91f9ad10-1fd5-46c1-aa8c-e7ccb1812492> | Klavier Kaiser: 14 große Pianisten (set 12: Claudio Arrau)                 |
-| 4018492239002 | <https://beta.musicbrainz.org/release/3db70e18-a7eb-4ba4-961f-4dd2576baf01> | Klavier Kaiser: 14 große Pianisten (set 13: Solomon)                       |
-| 4018492239002 | <https://beta.musicbrainz.org/release/7414e124-a59e-48d1-8015-c25f9d3e81b6> | Klavier Kaiser: 14 große Pianisten (set 14: Glenn Gould)                   |
-| 4018492239002 | <https://beta.musicbrainz.org/release/e09f34a2-3853-46bc-b9ce-246d99f4152e> | Klavier Kaiser: 14 große Pianisten (set 15: Friedrich Gulda)               |
-| 656605366258  | <https://beta.musicbrainz.org/release/8b58bb71-f1a1-43af-9c70-b1fb66ff5556> | Love Yourself / With My Whole Heart                                        |
-| 656605366258  | <https://beta.musicbrainz.org/release/17f1528c-dcdb-4e7f-8a00-43655c0bf1ee> | Love Yourself / With My Whole Heart                                        |
-| 656605366258  | <https://beta.musicbrainz.org/release/10adc86c-999c-4c10-964e-337b54af375d> | Love Yourself / With My Whole Heart                                        |
-| 656605366258  | <https://beta.musicbrainz.org/release/6dd4db61-e93a-49e1-8808-9703a055c19f> | Love Yourself / With My Whole Heart                                        |
-| 656605366258  | <https://beta.musicbrainz.org/release/7ef9cc9d-7581-4110-9893-4aa09a947a6e> | Love Yourself / With My Whole Heart                                        |
-| 656605366258  | <https://beta.musicbrainz.org/release/18800757-b590-4de2-bf52-236b05b718a0> | Love Yourself / With My Whole Heart                                        |
-| 4710243776759 | <https://beta.musicbrainz.org/release/8cc3b140-76d9-4859-9df0-c569d99bb956> | Lovely Hainan Island                                                       |
-| 859724266625  | <https://beta.musicbrainz.org/release/4d5fa6d2-a529-4e4e-9ef5-cc39d513ba58> | M30                                                                        |
-| 042284267120  | <https://beta.musicbrainz.org/release/0e690ef5-ddc9-46d5-86c2-5eef80f0b87b> | Missing… Presumed Having a Good Time                                       |
-| 042284267120  | <https://beta.musicbrainz.org/release/4fbe657a-da49-4678-83f5-41656b147867> | Missing… Presumed Having a Good Time                                       |
-| 042284267120  | <https://beta.musicbrainz.org/release/7f285193-5d49-423f-8e8b-f9c2ad6be5e5> | Missing… Presumed Having a Good Time                                       |
-| 042284267120  | <https://beta.musicbrainz.org/release/e7fffb53-47b8-3871-966d-1358a231ca82> | Missing… Presumed Having a Good Time                                       |
-| 042284267120  | <https://beta.musicbrainz.org/release/d741cba1-8a9a-4631-b1ba-d19165043044> | Missing… Presumed Having a Good Time                                       |
-| 042284267120  | <https://beta.musicbrainz.org/release/1cb78071-a5b8-4d64-a78a-4545c14aba75> | Missing… Presumed Having a Good Time                                       |
-| 042284267120  | <https://beta.musicbrainz.org/release/03364b2e-97db-473b-be13-354460ccc37a> | Missing… Presumed Having a Good Time                                       |
-| 859724266625  | <https://beta.musicbrainz.org/release/cde62efb-dab4-490e-aceb-8a82dae09195> | Mmguebo                                                                    |
-| 089408074622  | <https://beta.musicbrainz.org/release/756d1065-716a-43aa-baa1-c240552247c5> | Mozart - The Great Operas                                                  |
-| 089408074622  | <https://beta.musicbrainz.org/release/c0c5380c-8a75-4874-88c4-e7a208ebd7fe> | Mozart - The Great Operas                                                  |
-| 089408074622  | <https://beta.musicbrainz.org/release/20ab4a40-44ac-4cbf-ac14-323eb7ab4477> | Mozart - The Great Operas                                                  |
-| 089408074622  | <https://beta.musicbrainz.org/release/13a6fa26-28dd-44a4-b7b1-7b733d2fa4ba> | Mozart - The Great Operas                                                  |
-| 089408074622  | <https://beta.musicbrainz.org/release/ee54bf1c-d8b9-4a7c-b4d8-228c364386b0> | Mozart - The Great Operas                                                  |
-| 089408074622  | <https://beta.musicbrainz.org/release/e50d5662-a120-499c-91ce-8fd90aa12366> | Mozart - The Great Operas                                                  |
-| 724382898429  | <https://beta.musicbrainz.org/release/f2c4a877-f72d-4900-9372-e7740b3d1a58> | New Extremal Metall Ballads                                                |
-| 603967157116  | <https://beta.musicbrainz.org/release/96916fde-ae66-40b4-997a-c3ed46f21f3c> | Ours Is Chrome                                                             |
-| 603967157116  | <https://beta.musicbrainz.org/release/d3788f22-a932-4804-9c4a-31b3dd011d0a> | Ours Is Chrome                                                             |
-| 603967157116  | <https://beta.musicbrainz.org/release/eba5a768-9868-4dad-88de-288a03a00936> | Ours Is Chrome                                                             |
-| 603967157116  | <https://beta.musicbrainz.org/release/c5c1a096-c436-4482-bd70-38e2dab0c486> | Ours Is Chrome                                                             |
-| 603967157116  | <https://beta.musicbrainz.org/release/b5616a32-6056-4bcb-885f-b5c048c7458d> | Ours Is Chrome                                                             |
-| 603967157116  | <https://beta.musicbrainz.org/release/c2340718-cbbd-450a-8b1c-c2a7c050e4c6> | Ours Is Chrome                                                             |
-| 603967154115  | <https://beta.musicbrainz.org/release/8c49e8cc-a018-455d-85b7-bade75b975e9> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/45839c73-e9f0-4435-a805-b871e5652433> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/2e3b8510-5408-4635-b364-5fc6f8c32c6e> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/916228c5-22da-4fc4-b4f0-6bf78bdcfad9> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/77d87d27-165f-46e3-8469-21be1293bb96> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/bb59d2f7-a846-4050-bf9f-2268ce9dcefd> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/81584402-15e1-490e-a704-f12be9bfe025> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/b53f8403-2f2f-4ac6-9abb-e23048afa5f4> | PUP                                                                        |
-| 603967154115  | <https://beta.musicbrainz.org/release/3dec1727-2431-4e14-ba72-f7a1e1be556e> | PUP                                                                        |
-| 859724266625  | <https://beta.musicbrainz.org/release/29dee1cd-22f6-4af5-b271-666ddcaaef05> | Salvaje                                                                    |
-| 8809440339334 | <https://beta.musicbrainz.org/release/68d18854-e19c-4ddb-9a1e-aad60b838b92> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/fa57ab5f-d3bb-43a4-a178-b2feda688eb6> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/b2a2efd2-ad67-4a0b-8ebc-9a650d5ff41f> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/7c6f0a69-1a9e-4a1e-895f-319cc9856bd2> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/3a6e25a5-b4d4-4f89-8fd3-f36be98a81d0> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/1258f22b-8e7f-4d37-8c1d-61851e155daa> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/aebdad98-1383-4f58-8870-eb2e505c8ea2> | SuperM                                                                     |
-| 8809440339334 | <https://beta.musicbrainz.org/release/33f237d0-eb54-4ac9-be63-24fd4c29f0a8> | SuperM                                                                     |
-| 4988013925366 | <https://beta.musicbrainz.org/release/1d7f5aa0-b78d-4d2f-951a-a3cf2c8044ea> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1                  |
-| 4988013925366 | <https://beta.musicbrainz.org/release/5ec82ff9-77a0-45bb-9a9e-a1d0bdb66896> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1                  |
-| 4988013925366 | <https://beta.musicbrainz.org/release/6130dc70-13ef-47d1-8197-6d11b35d1732> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1                  |
-| 4988013925366 | <https://beta.musicbrainz.org/release/7ed96009-370d-4cb8-a5df-e74ab5ee521e> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1                  |
-| 4988013925366 | <https://beta.musicbrainz.org/release/650b7385-fb22-47cc-9f6f-5057cf70bd23> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1                  |
-| 4988013925366 | <https://beta.musicbrainz.org/release/446d430a-e011-48bc-83dc-eecdc6b54557> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1                  |
-| 724382898429  | <https://beta.musicbrainz.org/release/04df34c9-c05e-42ea-8739-71c5e422b5e2> | The Best                                                                   |
-| 042282192929  | <https://beta.musicbrainz.org/release/06b59025-56e2-4b29-874a-ec9143c73b05> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/c8a32fb5-9420-4e80-9d4d-42376a79277c> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/201e1d53-7533-44d8-bc07-6ace1ed47bf9> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/403b91e6-398d-4398-887c-b3081f31226d> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/3f59a04f-4534-4ff4-b343-79f515c5588b> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/645e7c32-7736-4fb3-b67e-f385ccef5d99> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/4ebea353-32fc-4146-8451-08d1928b4114> | The Best of Jon and Vangelis                                               |
-| 042282192929  | <https://beta.musicbrainz.org/release/672419b7-7e99-4f74-8d0b-d0fe907181d5> | The Best of Jon and Vangelis                                               |
-| 724382898429  | <https://beta.musicbrainz.org/release/28a5ccbf-5a6e-4ccd-9752-da8391d56376> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/99e3aebd-c4c4-4d24-9b8b-2e5e4ad5d3a5> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/d6127a0a-ba9f-4962-b774-c73629f96602> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/c81eadd3-69a5-4df5-bcc4-d28c03b27ace> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/59355d4d-765b-4ec3-8b75-781169771999> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/d763a709-b6f9-4f71-a7bb-9b32b1f678c4> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/e6a20d86-d8cf-4187-a625-caeca4b22b12> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/d1ef621f-f2d6-4ce4-91d6-8271a5741710> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/12eb7e4c-29a1-46d2-a971-f852655c7587> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/0408eb25-e0d6-424a-a11f-eb8596c49ad6> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/34e1dc38-1263-4a79-aafa-2646a30d2ec7> | The Division Bell                                                          |
-| 724382898429  | <https://beta.musicbrainz.org/release/d171576d-1c6d-4f88-9cd3-31dc93e436d9> | The Division Bell                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/ef65ba68-1daf-4b52-8df3-3292c3dbc4de> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/e1416c80-f25f-44cb-89cd-1e49488725a6> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/5aea320c-794b-4385-9806-b334014bac60> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/bc1bd220-e24d-4194-b26b-a8748e2e6899> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/08f6b4a6-6a3e-4fdc-8e1d-3b38c05b7923> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/66b072f0-f091-4cc3-b1e5-0544509418cf> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/78da4304-9f45-4f33-824b-125c6c412f0c> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/db58f614-cc6c-4ed8-9223-96c6b5867748> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/0daa3d0a-a8b1-43d2-91f1-85062fe6c1a5> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/498dd328-e0d6-43e7-bca7-e66badc0dca0> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/11b68093-c70b-4583-a1b4-9ef21cb3d416> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/db1c7bb1-6674-41d1-a127-e1f7c0f4f1ea> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/95cee4b8-2ea9-4820-a3ef-d1f2fb777f86> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/4166904d-e3a6-4af2-9457-ad4937ee933f> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/9664d9da-4a95-4315-94f9-e52820ba127c> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/ddf44239-246b-45ad-95e8-214f3ea39c56> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/6443e025-330e-4a06-8d10-5582ba9cf3b1> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/fd1239c2-40cd-4cdd-bab6-7bc678baf84a> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/9d7c1e5a-8054-46f7-96ba-a1734d70862c> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/9fb0d1d2-21f2-4691-bac2-d0dd66bb4d50> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/d8d4dce3-0c8f-4d16-a61a-da2fca37dfd0> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/f8634cb6-38dc-41bb-9195-3bbbdb0b8040> | The Dream Is Over                                                          |
-| 603967161519  | <https://beta.musicbrainz.org/release/9b6db103-08ce-4ab9-82ed-529bfa4d07dd> | The Dream Is Over                                                          |
-| 039841414820  | <https://beta.musicbrainz.org/release/ff022035-49ad-4b62-b713-bb2e0b358741> | The Grand Grimoire                                                         |
-| 039841414820  | <https://beta.musicbrainz.org/release/0a381e68-7aaa-413c-baf8-1e03f9f59329> | The Grand Grimoire                                                         |
-| 039841414820  | <https://beta.musicbrainz.org/release/b6ecc75e-5532-4f32-98ee-2377236882c7> | The Grand Grimoire                                                         |
-| 039841414820  | <https://beta.musicbrainz.org/release/c4d99c07-56f2-4690-b130-778018e25950> | The Grand Grimoire                                                         |
-| 039841414820  | <https://beta.musicbrainz.org/release/80946a54-9050-4c16-8f86-719a99980426> | The Grand Grimoire                                                         |
-| 039841414820  | <https://beta.musicbrainz.org/release/81022e92-e8c4-4f8d-834d-2715fe65c975> | The Grand Grimoire                                                         |
-| 039841414820  | <https://beta.musicbrainz.org/release/778d8ed1-a56e-3813-ae6a-97ba04f86c21> | The Grand Grimoire                                                         |
-| 8809633189289 | <https://beta.musicbrainz.org/release/f0028d3f-b532-4040-aa7e-db81e96397dc> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/7a09d30f-5bf5-42ee-8627-76b87ccad79f> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/03ee3844-eb28-4dbc-b8cd-b2bbd00c606a> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/59069c99-73d4-4ece-956d-fc0414050a21> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/cda88c68-dc2c-412f-a33f-9e26259c165a> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/686d4550-eafa-45f3-94e9-2f7d8cd5d1cf> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/02c7dd0c-25c5-4a63-89f3-56639372e8cb> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/3c014851-449d-4d5d-b788-0f9d958af8b4> | The Renaissance                                                            |
-| 8809633189289 | <https://beta.musicbrainz.org/release/7da1fa34-46ff-4233-86f5-aefd55311ebb> | The Renaissance                                                            |
-| 4710243782262 | <https://beta.musicbrainz.org/release/c6dff6a3-01da-456e-8350-334480abb355> | The Stray                                                                  |
-| 4710243782262 | <https://beta.musicbrainz.org/release/e6775a14-287f-4972-b27a-d9f0c183a018> | The Stray                                                                  |
-| 5018615105923 | <https://beta.musicbrainz.org/release/45bae188-fc65-4b3c-b837-c78094d3bfcf> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/11b12bd1-5ac3-4906-b65e-35b7db1924d3> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/79054283-a8cb-4399-b3d5-9c587bb95004> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/cdff03dc-bc8c-4153-8c21-6a8f616aaf4b> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/474685cc-72f1-485c-9fc6-b2d0c31c378b> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/e379ed76-2a9a-4284-a539-032024002fbf> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/4d6342d2-829d-422a-9b0a-6c339708253f> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/d9caa604-5395-401f-a33f-64275bf0ef62> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/c19e4cd8-fdb3-3c0d-b813-e988e14f8fa2> | The Ultimate Incantation                                                   |
-| 5018615105923 | <https://beta.musicbrainz.org/release/cc9accbe-cd13-4c88-90c4-e59ec11a32c9> | The Ultimate Incantation                                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/24e0963d-0714-4bca-91b1-8b1aa4946ece> | The Ultimate Jazz Archive                                                  |
-| 4011222228000 | <https://beta.musicbrainz.org/release/191597a9-88c7-43a3-8384-1e8236880f68> | The Ultimate Jazz Archive, Set 04: Classic Jazz, Ragtime, Dixieland        |
-| 4011222228000 | <https://beta.musicbrainz.org/release/2709a6a6-e4b4-400d-ab23-5f4016e52822> | The Ultimate Jazz Archive, Set 05: Classic Jazz, Ragtime, Dixieland        |
-| 4011222228000 | <https://beta.musicbrainz.org/release/3b698204-6d4b-4dd1-b0a7-1cd0c0b1f08f> | The Ultimate Jazz Archive, Set 06: Classic Jazz, Ragtime, Dixieland        |
-| 4011222228000 | <https://beta.musicbrainz.org/release/6f6a5380-1325-484c-aed9-ff8566de9668> | The Ultimate Jazz Archive, Set 07: Classic Jazz, Ragtime, Dixieland        |
-| 4011222228000 | <https://beta.musicbrainz.org/release/38daf37d-45ac-4a98-b581-18f48c769123> | The Ultimate Jazz Archive, Set 08: Classic Jazz, Ragtime, Dixieland        |
-| 4011222228000 | <https://beta.musicbrainz.org/release/8cec6540-18db-42b2-8625-f839cad9b66f> | The Ultimate Jazz Archive, Set 09: Classic Jazz, Ragtime, Dixieland        |
-| 4011222228000 | <https://beta.musicbrainz.org/release/612bc6f7-6e35-4d1f-bff9-6b70699eef2f> | The Ultimate Jazz Archive, Set 10: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/97987d25-d9fa-469f-b887-17f0a0007748> | The Ultimate Jazz Archive, Set 11: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/dad03ab9-cea0-4d1e-9f45-ce5e8e7f52c5> | The Ultimate Jazz Archive, Set 12: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/1876efd7-3099-4750-8d50-105c6c38b9c4> | The Ultimate Jazz Archive, Set 13: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/52ec1af7-28a1-42e3-896a-0eddc8e338d5> | The Ultimate Jazz Archive, Set 14: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/b8b57d8c-d9df-464f-a071-24698f03f9bc> | The Ultimate Jazz Archive, Set 15: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/b79f6027-d853-4a14-9699-e055c541cc0e> | The Ultimate Jazz Archive, Set 16: Blues                                   |
-| 4011222228000 | <https://beta.musicbrainz.org/release/20cbe6ea-1da1-4703-a863-43cb39cd80bf> | The Ultimate Jazz Archive, Set 17: Boogie Woogie                           |
-| 4011222228000 | <https://beta.musicbrainz.org/release/87f2807e-ee42-4445-8986-8964bc66ee9d> | The Ultimate Jazz Archive, Set 18: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/b56718bc-2c6a-4aec-aed8-cf123bd0bd12> | The Ultimate Jazz Archive, Set 19: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/9148fc69-4d6b-44c0-a14c-56e43afa9325> | The Ultimate Jazz Archive, Set 20: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/4ca7df59-4d2e-412f-8659-8fe61bf7fbf3> | The Ultimate Jazz Archive, Set 21: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/039673a5-7d82-470c-92e9-d2e75ae49d8e> | The Ultimate Jazz Archive, Set 22: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/9f960152-afc3-4577-a020-c1f0dc805d86> | The Ultimate Jazz Archive, Set 23: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/99783a18-88cf-4bcb-aa7e-6e3809bc7a5e> | The Ultimate Jazz Archive, Set 24: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/a2d5247b-0e09-4c7e-8d4c-2c340c29c10d> | The Ultimate Jazz Archive, Set 25: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/03e91651-81a5-49f8-aea5-7aa930ca9a0d> | The Ultimate Jazz Archive, Set 26: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/fa874dec-106f-4fff-851c-6f50d13ec0cb> | The Ultimate Jazz Archive, Set 27: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/89ccfe9a-64f6-4ef8-b7f4-3241a685cb80> | The Ultimate Jazz Archive, Set 28: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/bb7a2352-0506-43d0-8ca6-53de368cd10b> | The Ultimate Jazz Archive, Set 29: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/33d1c9f7-3416-48ea-a547-5df5b7153c5d> | The Ultimate Jazz Archive, Set 30: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/e1cf582a-80f9-4634-98dc-93205cddad21> | The Ultimate Jazz Archive, Set 31: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/d655bae2-e7a9-4894-bdab-12b3ef2e22fe> | The Ultimate Jazz Archive, Set 32: Swing to Bebop, Modern Jazz             |
-| 4011222228000 | <https://beta.musicbrainz.org/release/069d8fe6-34a4-4b82-b7fa-3fcd679b976a> | The Ultimate Jazz Archive, Set 33: Big Band                                |
-| 4011222228000 | <https://beta.musicbrainz.org/release/e675d195-9403-4aa3-ae0e-efb7de79f250> | The Ultimate Jazz Archive, Set 34: Big Band                                |
-| 4011222228000 | <https://beta.musicbrainz.org/release/67cd2a25-def3-4324-bfbf-1b549c00e858> | The Ultimate Jazz Archive, Set 35: Big Band                                |
-| 4011222228000 | <https://beta.musicbrainz.org/release/3e73b92d-120d-4053-9718-7a2cb95194ea> | The Ultimate Jazz Archive, Set 36: Big Band                                |
-| 4011222228000 | <https://beta.musicbrainz.org/release/288ae526-fffd-4a76-b52b-5b72b8a22e0f> | The Ultimate Jazz Archive, Set 37: Big Band                                |
-| 4011222228000 | <https://beta.musicbrainz.org/release/b9b7fb60-1edf-4ac1-8aa4-80dcfeec1070> | The Ultimate Jazz Archive, Set 38: Vocalists                               |
-| 4011222228000 | <https://beta.musicbrainz.org/release/ac3700e0-9328-45ce-a43e-ced490069eec> | The Ultimate Jazz Archive, Set 39: Vocalists                               |
-| 4011222228000 | <https://beta.musicbrainz.org/release/7f1e09ec-11ba-4efc-b0fc-358fae3b3dfd> | The Ultimate Jazz Archive, Set 40: Vocalists                               |
-| 4011222228000 | <https://beta.musicbrainz.org/release/c66cc32e-622d-4047-8148-a78da44bea30> | The Ultimate Jazz Archive, Set 41: Vocalists                               |
-| 4011222228000 | <https://beta.musicbrainz.org/release/0126c57d-0591-44e2-a853-4fb4f74bd69e> | The Ultimate Jazz Archive, Set 42: Vocalists                               |
-| 8809440339242 | <https://beta.musicbrainz.org/release/2babd620-7cc7-435f-85e7-05bd8f2ad09d> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/466d3403-4968-416b-ad0b-400cb00cff0d> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/806d4b90-4f62-496f-9e14-a69ddadaeed8> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/f29097c6-0ab1-4515-8d1a-93da966e677a> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/d28b171e-257c-412b-8853-eeca90ff0626> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/07e9bcda-97a9-413e-b113-59bbe4d56b9c> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/3d335129-e3f9-4f38-a30c-cef566e0369c> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/7b0373f6-26c4-4e12-8d54-1a444ae5943a> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/995d1e21-827f-4109-bc74-6403978c04f7> | Time_Slip                                                                  |
-| 8809440339242 | <https://beta.musicbrainz.org/release/2c459e73-4021-4040-9891-bd998ce445ed> | Time_Slip                                                                  |
-| 724382898429  | <https://beta.musicbrainz.org/release/fc467db9-96c4-4b7f-a799-370addd98d53> | Ultimate Silver: Scratchin' Drum'n'Bass                                    |
-| 859724266625  | <https://beta.musicbrainz.org/release/e691f0d1-6e97-4392-89d2-513d0a6c0acd> | Whip It                                                                    |
-| 4710243776759 | <https://beta.musicbrainz.org/release/50d46959-6cfd-465f-98d2-d581311ad631> | 不到海南岛                                                                 |
-| 4710243776759 | <https://beta.musicbrainz.org/release/15376825-f6b9-4803-a601-1b304ab2761f> | 不到海南岛                                                                 |
-| 4710243776759 | <https://beta.musicbrainz.org/release/ef459c08-0c5f-4fbf-bdcb-79651cf1d740> | 不到海南岛 (Lovely Hainan Island)                                          |
-| 4710243776759 | <https://beta.musicbrainz.org/release/3d7dba19-2835-4b49-8e44-a434841b4b12> | 不到海南岛 (Lovely Hainan Island)                                          |
-| 4710243776759 | <https://beta.musicbrainz.org/release/1adcb8d0-937b-4b63-a3f9-acd1c23ca4b1> | 不到海南島                                                                 |
-| 4713213191927 | <https://beta.musicbrainz.org/release/05b55cc6-2c93-4b71-a96e-9e5b054aff23> | 亲爱的你＿＿怎样的我                                                       |
-| 4713213191927 | <https://beta.musicbrainz.org/release/1a4ca1be-7343-4a36-b2ad-b28e53e695e1> | 亲爱的你＿＿怎样的我                                                       |
-| 886448091066  | <https://beta.musicbrainz.org/release/e1669fca-bfe8-4dc8-95b3-e0aa26c24547> | 周杰伦地表最强世界巡回演唱会                                               |
-| 886448091066  | <https://beta.musicbrainz.org/release/c87527b9-85e0-46a0-ad8b-48c16e72578c> | 周杰伦地表最强世界巡回演唱会 (Jay Chou the Invincible Concert Tour)        |
-| 886448091066  | <https://beta.musicbrainz.org/release/e296597f-fe3a-42d2-a262-498b8eebc4bd> | 周杰倫地表最強世界巡迴演唱會                                               |
-| 886448091066  | <https://beta.musicbrainz.org/release/243d1613-d8d4-4c99-bf41-608ee23419e8> | 周杰倫地表最強世界巡迴演唱會 (Jay Chou the Invincible Concert Tour)        |
-| 4710243788776 | <https://beta.musicbrainz.org/release/36a68da7-2aad-4217-87ee-d632025371c8> | 哥抽烟                                                                     |
-| 4710243788776 | <https://beta.musicbrainz.org/release/c848de17-3886-4175-aa58-8418ed4ff50b> | 哥抽烟                                                                     |
-| 4710243788776 | <https://beta.musicbrainz.org/release/225a21b1-1e25-4aba-b625-a3d44fcc058f> | 哥抽菸                                                                     |
-| 4710243788776 | <https://beta.musicbrainz.org/release/356e45b5-0b96-479d-986c-c321d4f8ab6e> | 哥抽菸                                                                     |
-| 4710243788776 | <https://beta.musicbrainz.org/release/64da0629-e8db-4605-9d24-9c80f42b5fda> | 哥抽菸 (Ain't A Cigarette)                                                 |
-| 4988013324152 | <https://beta.musicbrainz.org/release/ceb1028d-1630-46d8-a73e-4cf3b476c392> | 太陽がいっぱい                                                             |
-| 4988013031517 | <https://beta.musicbrainz.org/release/27cdedac-ea0d-481a-ba6f-586c337d8923> | 太陽がいっぱい                                                             |
-| 4988013324152 | <https://beta.musicbrainz.org/release/d5b39547-7d83-44bf-a95b-df91c38a5135> | 太陽がいっぱい                                                             |
-| 4988013324152 | <https://beta.musicbrainz.org/release/b64dbb77-a6aa-455e-bb15-8ca9f7c01550> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/a7111ef4-49aa-4c58-829b-8def4b83238a> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/72297b0e-bdfd-4f81-91bb-f980c1115fe6> | 太陽がいっぱい                                                             |
-| 4988013324152 | <https://beta.musicbrainz.org/release/58a7b43f-8ea4-44b2-8ef3-657f8d26591e> | 太陽がいっぱい                                                             |
-| 4988013324152 | <https://beta.musicbrainz.org/release/1e8686c1-1116-4538-94b6-840476e0c5e9> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/7455fc57-6721-46d3-bca5-9f4d4b18ddb2> | 太陽がいっぱい                                                             |
-| 4988013031517 | <https://beta.musicbrainz.org/release/0820b9cc-853d-4282-9f5c-1c666a0df2a7> | 太陽がいっぱい                                                             |
-| 4988013031517 | <https://beta.musicbrainz.org/release/ee287e6a-97e9-4da8-8959-04097c4fe89f> | 太陽がいっぱい                                                             |
-| 4988013031517 | <https://beta.musicbrainz.org/release/c0e1ca23-a13d-4dc0-9a89-5641eba42612> | 太陽がいっぱい                                                             |
-| 4988013031517 | <https://beta.musicbrainz.org/release/77d34d7b-6b5e-41e2-9586-783f11c3db28> | 太陽がいっぱい                                                             |
-| 4988013031517 | <https://beta.musicbrainz.org/release/0659d924-62a1-4714-8211-22687bc1c65c> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/ef84deb6-ae89-4472-a6d7-12f6ad6104f7> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/72f82aca-7282-4781-88d2-e5e2ff5a5416> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/4eebbae1-bbcb-4672-871f-4e9f6cb3a0b4> | 太陽がいっぱい                                                             |
-| 4988013112339 | <https://beta.musicbrainz.org/release/37c70cf1-aae1-4a51-822d-d133bc115617> | 太陽がいっぱい                                                             |
-| 4988013324152 | <https://beta.musicbrainz.org/release/813e9c24-ee8c-482a-92fb-48105bb59701> | 太陽がいっぱい                                                             |
-| 4988013324152 | <https://beta.musicbrainz.org/release/351b35df-1b1b-41ca-bb94-3b98d6309ce2> | 太陽がいっぱい                                                             |
-| 4710243775059 | <https://beta.musicbrainz.org/release/d139e785-b99f-49ae-924b-c4556574652e> | 好好嘢                                                                     |
-| 4710243775059 | <https://beta.musicbrainz.org/release/9447f876-223c-461d-a9ba-753740c41e46> | 好好嘢                                                                     |
-| 4710243775059 | <https://beta.musicbrainz.org/release/b4b0dbd3-4098-462d-87ca-abb04d75fee0> | 好好嘢                                                                     |
-| 4710243775059 | <https://beta.musicbrainz.org/release/d89abe94-ee89-4113-8235-eebcb69ae2ce> | 好好嘢                                                                     |
-| 4710243775059 | <https://beta.musicbrainz.org/release/d96048a5-1266-47d1-975e-bea76cf84cca> | 好好嘢                                                                     |
-| 4710243775059 | <https://beta.musicbrainz.org/release/63aa0c41-e326-47d6-9a41-3dd02f4536c5> | 好好嘢                                                                     |
-| 4710243775059 | <https://beta.musicbrainz.org/release/91608fbe-b970-4e32-ac5e-c73564adfa77> | 好好嘢 (Ho Ho Yeah)                                                        |
-| 4710243775059 | <https://beta.musicbrainz.org/release/3f0d1cf4-2b6d-4e83-b20c-64d48f32ce35> | 好好野                                                                     |
-| 4710243782262 | <https://beta.musicbrainz.org/release/97300afb-6a7e-4086-a0ac-884f930033ad> | 流浪狗                                                                     |
-| 4710243782262 | <https://beta.musicbrainz.org/release/a0a0ce4f-4430-437c-ab4a-c0db302e0d0c> | 流浪狗                                                                     |
-| 4710243782262 | <https://beta.musicbrainz.org/release/bd9f1583-3488-4fd3-aa2d-5ffe4cda5b97> | 流浪狗                                                                     |
-| 4710243782262 | <https://beta.musicbrainz.org/release/9668e244-e462-446e-b2c4-d9b623470bd8> | 流浪狗 (The Stray)                                                         |
-| 4713213191927 | <https://beta.musicbrainz.org/release/3bc8c727-a52d-4e1a-ace3-3cc30a881e16> | 親愛的你__怎樣的我                                                         |
-| 4713213191927 | <https://beta.musicbrainz.org/release/0e6b92b2-60dd-4078-b3a0-f596cd8e32c2> | 親愛的你＿＿怎樣的我                                                       |
-| 4713213191927 | <https://beta.musicbrainz.org/release/ea708101-49ed-4878-992e-1258cfbbc0e6> | 親愛的你＿＿怎樣的我                                                       |
-| 4713213191927 | <https://beta.musicbrainz.org/release/9c363a2d-8e5c-44d6-8e6b-2462456a7af7> | 親愛的你＿＿怎樣的我                                                       |
-| 4713213191927 | <https://beta.musicbrainz.org/release/34a90687-98b9-4cb7-a667-4d5358c6a593> | 親愛的你＿＿怎樣的我                                                       |
-|---------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|-----|---------------|-----------------------------------------------------------------------------|-----------------------------------------------------------|----------------------|
+| cnt |    barcode    |                               to_release_url                                |                           name                            |       disambig       |
+|-----|---------------|-----------------------------------------------------------------------------|-----------------------------------------------------------|----------------------|
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/c19e4cd8-fdb3-3c0d-b813-e988e14f8fa2> | The Ultimate Incantation                                  |                      |
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/4d6342d2-829d-422a-9b0a-6c339708253f> | The Ultimate Incantation                                  |                      |
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/474685cc-72f1-485c-9fc6-b2d0c31c378b> | The Ultimate Incantation                                  |                      |
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/cdff03dc-bc8c-4153-8c21-6a8f616aaf4b> | The Ultimate Incantation                                  |                      |
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/e379ed76-2a9a-4284-a539-032024002fbf> | The Ultimate Incantation                                  |                      |
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/45bae188-fc65-4b3c-b837-c78094d3bfcf> | The Ultimate Incantation                                  |                      |
+|   7 | 5018615105923 | <https://beta.musicbrainz.org/release/cc9accbe-cd13-4c88-90c4-e59ec11a32c9> | The Ultimate Incantation                                  |                      |
+|   6 | 081227187422  | <https://beta.musicbrainz.org/release/09bdb106-4e5f-48ad-ad65-a6e65bcbe4a0> | Classics                                                  |                      |
+|   6 | 081227187422  | <https://beta.musicbrainz.org/release/677933a0-f9f5-46a5-9613-0fc7c02f10c0> | Classics                                                  |                      |
+|   6 | 081227187422  | <https://beta.musicbrainz.org/release/05d10998-cf25-46ec-9b90-0eb3b6a30cca> | Classics                                                  |                      |
+|   6 | 081227187422  | <https://beta.musicbrainz.org/release/8a1f4304-29d1-45fa-8174-fd9c29078fad> | Classics                                                  |                      |
+|   6 | 081227187422  | <https://beta.musicbrainz.org/release/d2e3f96a-d09e-4782-bfd5-83f690098a50> | Classics                                                  |                      |
+|   6 | 081227187422  | <https://beta.musicbrainz.org/release/1ef69441-7870-4d95-b15c-57af32c894d2> | Classics                                                  |                      |
+|   5 | 4988013925366 | <https://beta.musicbrainz.org/release/446d430a-e011-48bc-83dc-eecdc6b54557> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1 | pre-release tracks f |
+|   5 | 4988013925366 | <https://beta.musicbrainz.org/release/1d7f5aa0-b78d-4d2f-951a-a3cf2c8044ea> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1 | pre-release tracks f |
+|   5 | 4988013925366 | <https://beta.musicbrainz.org/release/6130dc70-13ef-47d1-8197-6d11b35d1732> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1 | pre-release tracks f |
+|   5 | 4988013925366 | <https://beta.musicbrainz.org/release/5ec82ff9-77a0-45bb-9a9e-a1d0bdb66896> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1 | pre-release tracks f |
+|   5 | 4988013925366 | <https://beta.musicbrainz.org/release/7ed96009-370d-4cb8-a5df-e74ab5ee521e> | TVアニメ「SHOW BY ROCK!!STARS!!」挿入歌ミニアルバム Vol.1 | pre-release tracks f |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/70414886-05c7-4ebc-a041-007463f8e8d7> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/a3f006a7-5be3-4c73-81f7-6eec0974bde9> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/387f2cf0-3cfe-4360-86de-97dfa1de9b10> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/387f2cf0-3cfe-4360-86de-97dfa1de9b10> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/66064098-da77-4064-91d2-48ae3299d072> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/b0ae7ea3-7e2b-4c45-b624-b1073c573f7c> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   5 | 9399746503427 | <https://beta.musicbrainz.org/release/b0ae7ea3-7e2b-4c45-b624-b1073c573f7c> | Bob Dylan’s Greatest Hits, Vol. III                       |                      |
+|   4 | 039841414820  | <https://beta.musicbrainz.org/release/81022e92-e8c4-4f8d-834d-2715fe65c975> | The Grand Grimoire                                        |                      |
+|   4 | 039841414820  | <https://beta.musicbrainz.org/release/c4d99c07-56f2-4690-b130-778018e25950> | The Grand Grimoire                                        |                      |
+|   4 | 039841414820  | <https://beta.musicbrainz.org/release/b6ecc75e-5532-4f32-98ee-2377236882c7> | The Grand Grimoire                                        |                      |
+|   4 | 039841414820  | <https://beta.musicbrainz.org/release/0a381e68-7aaa-413c-baf8-1e03f9f59329> | The Grand Grimoire                                        |                      |
+|   4 | 039841424720  | <https://beta.musicbrainz.org/release/092c7263-d5c0-4c3a-9b4b-733d15a20d65> | Bloody Blasphemy                                          |                      |
+|   4 | 039841424720  | <https://beta.musicbrainz.org/release/a729d986-3874-42cf-bfb8-b9bdb4d5fae5> | Bloody Blasphemy                                          |                      |
+|   4 | 039841424720  | <https://beta.musicbrainz.org/release/81e63ce6-ab93-4f11-a72b-e05169c7699d> | Bloody Blasphemy                                          |                      |
+|   4 | 039841424720  | <https://beta.musicbrainz.org/release/45f08e9e-a53b-469d-8bdd-0e04169b301c> | Bloody Blasphemy                                          |                      |
+|   4 | 074646420027  | <https://beta.musicbrainz.org/release/65ee4ee0-2eb7-33f9-b1b3-aeb8b192a66c> | The Division Bell                                         |                      |
+|   4 | 074646420027  | <https://beta.musicbrainz.org/release/955581e7-6c8b-4915-946d-09bb5f427da1> | The Division Bell                                         |                      |
+|   4 | 074646420027  | <https://beta.musicbrainz.org/release/813bb11b-3c63-409f-9914-6b647138707e> | The Division Bell                                         |                      |
+|   4 | 074646420027  | <https://beta.musicbrainz.org/release/0a7ad34f-6fee-46d2-bdd1-c9efd8054f2d> | The Division Bell                                         |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/ebaa5ca3-bc05-3fc2-80c7-fe91f054b96e> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/ebaa5ca3-bc05-3fc2-80c7-fe91f054b96e> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/8d879915-e4fa-4088-abd2-aa3382e12b59> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/8d879915-e4fa-4088-abd2-aa3382e12b59> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/cd4073dc-f424-4d79-a30e-42025427ab97> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/cd4073dc-f424-4d79-a30e-42025427ab97> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/65b18d8f-404a-4d99-b727-6cf979607818> | 10 From 6                                                 |                      |
+|   4 | 075678162527  | <https://beta.musicbrainz.org/release/65b18d8f-404a-4d99-b727-6cf979607818> | 10 From 6                                                 |                      |
+|   4 | 4001617204627 | <https://beta.musicbrainz.org/release/f6cd1aa1-eaab-4c1a-9ea2-218b40aaf9c0> | Fuck Me Jesus                                             |                      |
+|   4 | 4001617204627 | <https://beta.musicbrainz.org/release/216a3a64-22bc-44ac-a0d0-7402e707cd4f> | Fuck Me Jesus                                             |                      |
+|   4 | 4001617204627 | <https://beta.musicbrainz.org/release/c369845e-cad9-4d22-9360-f97df345278d> | Fuck Me Jesus                                             |                      |
+|   4 | 4001617204627 | <https://beta.musicbrainz.org/release/6a246882-74b9-453a-af6b-d178ed26fb8c> | Fuck Me Jesus                                             |                      |
+|   4 | 4601777102605 | <https://beta.musicbrainz.org/release/e374f2a4-c2b3-46dd-8e78-e44d3d3825e9> | Мама                                                      |                      |
+|   4 | 4601777102605 | <https://beta.musicbrainz.org/release/4680ecd4-a983-46f0-94a0-caa7fe7a26ee> | Мама                                                      |                      |
+|   4 | 4601777102605 | <https://beta.musicbrainz.org/release/90d80110-5d30-4b75-b1ed-56fd3e5cf10d> | Мама                                                      |                      |
+|   4 | 4601777102605 | <https://beta.musicbrainz.org/release/092c2c5b-53c1-4bf2-bc25-5887bdcb4387> | Мама                                                      |                      |
+|   4 | 5018615105923 | <https://beta.musicbrainz.org/release/4d6342d2-829d-422a-9b0a-6c339708253f> | The Ultimate Incantation                                  |                      |
+|   4 | 5018615105923 | <https://beta.musicbrainz.org/release/e379ed76-2a9a-4284-a539-032024002fbf> | The Ultimate Incantation                                  |                      |
+|   4 | 5018615105923 | <https://beta.musicbrainz.org/release/45bae188-fc65-4b3c-b837-c78094d3bfcf> | The Ultimate Incantation                                  |                      |
+|   4 | 5018615105923 | <https://beta.musicbrainz.org/release/11b12bd1-5ac3-4906-b65e-35b7db1924d3> | The Ultimate Incantation                                  |                      |
+|   4 | 5099940474724 | <https://beta.musicbrainz.org/release/cc88aaa1-6cfa-42df-b761-7ff92b13d167> | Caught in the Act                                         |                      |
+|   4 | 5099940474724 | <https://beta.musicbrainz.org/release/9e0a5044-cdeb-4b66-8bb8-69dd17e8c8b3> | Caught in the Act                                         |                      |
+|   4 | 5099940474724 | <https://beta.musicbrainz.org/release/30671312-cdc7-46e3-b390-f841cbbd5ee6> | Caught in the Act                                         |                      |
+|   4 | 5099940474724 | <https://beta.musicbrainz.org/release/f464cc0e-fba9-4f80-be29-ae34a9b86130> | Caught in the Act                                         |                      |
+|   4 | 7277017715125 | <https://beta.musicbrainz.org/release/d1261d8a-631f-46e7-b5ce-1c05c0535b7c> | City                                                      |                      |
+|   4 | 7277017715125 | <https://beta.musicbrainz.org/release/21e19798-9a9d-41bd-8d02-2c1938512c05> | City                                                      |                      |
+|   4 | 7277017715125 | <https://beta.musicbrainz.org/release/3c4a8c3e-88db-40f3-bf7e-828d2923f3b8> | City                                                      |                      |
+|   4 | 7277017715125 | <https://beta.musicbrainz.org/release/f696564d-db24-4816-9e8b-853ea58d7c16> | City                                                      |                      |
+|   4 | 731451700729  | <https://beta.musicbrainz.org/release/bc0048d9-4a60-487b-a8d0-0dac0a6d19e4> | Gold: Greatest Hits                                       |                      |
+|   4 | 731451700729  | <https://beta.musicbrainz.org/release/06a04b36-4717-33fd-abb6-cb97f0d41356> | Gold: Greatest Hits                                       |                      |
+|   4 | 731451700729  | <https://beta.musicbrainz.org/release/0eeb0486-050d-4c82-8fa8-9e13a3536215> | Gold: Greatest Hits                                       |                      |
+|   4 | 731451700729  | <https://beta.musicbrainz.org/release/bd799a63-d408-4c9e-b0d9-20302a94d6a1> | Gold: Greatest Hits                                       |                      |
+|   4 | 731451700729  | <https://beta.musicbrainz.org/release/bd799a63-d408-4c9e-b0d9-20302a94d6a1> | Gold: Greatest Hits                                       |                      |
+|   4 | 790248013527  | <https://beta.musicbrainz.org/release/16c4ec50-db81-49cd-a571-1928bbf084b6> | A Putumayo Blend: Music From the Coffee Lands             |                      |
+|   4 | 790248013527  | <https://beta.musicbrainz.org/release/b8621ea1-acaf-46b5-b292-3a7c9eba9773> | A Putumayo Blend: Music From the Coffee Lands             |                      |
+|   4 | 790248013527  | <https://beta.musicbrainz.org/release/6cc29e58-b05d-4f1b-9283-d188810420c8> | A Putumayo Blend: Music From the Coffee Lands             |                      |
+|   4 | 790248013527  | <https://beta.musicbrainz.org/release/05160528-9098-404a-85dd-28b6e4da0512> | A Putumayo Blend: Music From the Coffee Lands             |                      |
+|   3 | 0035627184024 | <https://beta.musicbrainz.org/release/1a840273-2361-471d-adfd-e363ef366d39> | The Hits Album 8                                          |                      |
+|   3 | 0035627184024 | <https://beta.musicbrainz.org/release/fcdbb517-a893-3ac5-ae4a-653987092d18> | The Hits Album 8                                          |                      |
+|   3 | 0035627184024 | <https://beta.musicbrainz.org/release/942bf730-b97f-3862-9235-b2a9f1718ada> | The Hits Album 8                                          |                      |
+|   3 | 015095200525  | <https://beta.musicbrainz.org/release/6e5d6029-0383-4e20-89b2-24d2f4e00974> | Water & Fireworks Music                                   |                      |
+|   3 | 015095200525  | <https://beta.musicbrainz.org/release/bc248c7b-7774-45e2-8619-83f884867bfc> | Water & Fireworks Music                                   |                      |
+|   3 | 015095200525  | <https://beta.musicbrainz.org/release/f5776ba3-8597-4c56-a050-257ec683afdd> | Water & Fireworks Music                                   |                      |
+|   3 | 015095203625  | <https://beta.musicbrainz.org/release/6e685214-f183-456d-bc58-646835c635ff> | Orchestral Dances                                         |                      |
+|   3 | 015095203625  | <https://beta.musicbrainz.org/release/b341b164-3dbe-4531-a069-c864fa11e6f4> | Orchestral Dances                                         |                      |
+|   3 | 015095203625  | <https://beta.musicbrainz.org/release/f4d3100f-0efd-41ca-bda0-99db0839370d> | Orchestral Dances                                         |                      |
+|   3 | 016861856120  | <https://beta.musicbrainz.org/release/9aeecaae-c88b-458a-9417-8a8aecf711e8> | Digimortal                                                |                      |
+|   3 | 016861856120  | <https://beta.musicbrainz.org/release/1e868bd8-3b31-4b36-b097-62d6a5f4ae0a> | Digimortal                                                |                      |
+|   3 | 016861856120  | <https://beta.musicbrainz.org/release/a3839fd2-cc0d-41b7-813f-735f03304c52> | Digimortal                                                |                      |
+|   3 | 016998101926  | <https://beta.musicbrainz.org/release/f8ae1fa5-6665-4ff7-9f31-e6280d28b7f4> | 3 Feet High and Rising                                    |                      |
+|   3 | 016998101926  | <https://beta.musicbrainz.org/release/589de341-e5c1-4fd1-9e12-a02ae9d0714d> | 3 Feet High and Rising                                    |                      |
+|   3 | 016998101926  | <https://beta.musicbrainz.org/release/6822e1e6-b26d-418c-a74a-298ff566135e> | 3 Feet High and Rising                                    |                      |
+|   3 | 017046190428  | <https://beta.musicbrainz.org/release/79436b67-427c-376d-ba45-af35042f2e68> | Initium                                                   |                      |
+|   3 | 017046190428  | <https://beta.musicbrainz.org/release/01dd8b98-2660-390d-96a3-294f12f440cb> | Initium                                                   |                      |
+|   3 | 017046190428  | <https://beta.musicbrainz.org/release/c47b7cfc-e614-45a9-a288-2ea393ea701e> | Initium                                                   |                      |
+|   3 | 017046190428  | <https://beta.musicbrainz.org/release/c47b7cfc-e614-45a9-a288-2ea393ea701e> | Initium                                                   |                      |
+|   3 | 018111515221  | <https://beta.musicbrainz.org/release/4a3d68f7-5c9a-31fe-82b7-309f8256aa16> | It's Christmas Time                                       |                      |
+|   3 | 018111515221  | <https://beta.musicbrainz.org/release/9ecfa186-9272-4bf9-9587-397e66d294d6> | It's Christmas Time                                       |                      |
+|   3 | 018111515221  | <https://beta.musicbrainz.org/release/1e0ba0d7-8e4f-48b5-b6b2-d4ae9bd185d7> | It's Christmas Time                                       |                      |
+|   3 | 018771953920  | <https://beta.musicbrainz.org/release/1db79b00-f585-4943-a83b-9bd7e6914e06> | Beggars Banquet                                           |                      |
+|   3 | 018771953920  | <https://beta.musicbrainz.org/release/e033b47f-e278-479d-b88d-ae49ac1ac0f4> | Beggars Banquet                                           |                      |
+|   3 | 018771953920  | <https://beta.musicbrainz.org/release/c1fc52c7-1f32-4aa9-bc39-ae8134cfb467> | Beggars Banquet                                           |                      |
+|   3 | 039841429725  | <https://beta.musicbrainz.org/release/a4e6ec23-d2db-377f-9ec4-c04b30a1ae7f> | Litany                                                    |                      |
+|   3 | 039841429725  | <https://beta.musicbrainz.org/release/a9b9a600-9bf3-4a41-a1a3-255b4703a535> | Litany                                                    |                      |
+|   3 | 039841429725  | <https://beta.musicbrainz.org/release/5f534c0d-ebaf-40dd-b9e3-9e42791b17bd> | Litany                                                    |                      |
+|   3 | 042281131226  | <https://beta.musicbrainz.org/release/00ab4c9a-6565-4ee4-a037-fd2761da5d4d> | Love Songs                                                |                      |
+|   3 | 042281131226  | <https://beta.musicbrainz.org/release/00ab4c9a-6565-4ee4-a037-fd2761da5d4d> | Love Songs                                                |                      |
+|   3 | 042281131226  | <https://beta.musicbrainz.org/release/646771ce-97a1-4eaa-bf40-16f63c41f62f> | Love Songs                                                |                      |
+|   3 | 042281131226  | <https://beta.musicbrainz.org/release/1a21e9ab-73a1-4b48-8fb6-b4678e991896> | Love Songs                                                |                      |
+|   3 | 042281133428  | <https://beta.musicbrainz.org/release/05d5bf45-1277-3415-bc7d-d2b1aa20933d> | Passion, Grace & Fire                                     |                      |
+|   3 | 042281133428  | <https://beta.musicbrainz.org/release/b4df1f56-aa8a-4729-86f6-ef51e4aae32b> | Passion, Grace & Fire                                     |                      |
+|   3 | 042281133428  | <https://beta.musicbrainz.org/release/b1b19725-00be-49db-8505-767d632aaa65> | Passion, Grace & Fire                                     |                      |
+|   3 | 042281188145  | <https://beta.musicbrainz.org/release/f7dcf941-32c2-4f28-b3b1-cf91246c6198> | Master série                                              |                      |
+|   3 | 042281188145  | <https://beta.musicbrainz.org/release/9e315522-6067-4929-871f-3a8d8d55fcba> | Master série                                              |                      |
+|   3 | 042281188145  | <https://beta.musicbrainz.org/release/2531d02b-40c8-4b04-803a-c1af302454fa> | Master série                                              |                      |
+|   3 | 042283422728  | <https://beta.musicbrainz.org/release/7613d55b-b29d-4faa-b3c5-b2a06a5ea9f6> | Master Serie, Volume 2                                    |                      |
+|   3 | 042283422728  | <https://beta.musicbrainz.org/release/781c5139-d5df-34de-812a-7cc9eb5e39e3> | Master Serie, Volume 2                                    |                      |
+|   3 | 042283422728  | <https://beta.musicbrainz.org/release/e38eae62-db9b-4505-ac8f-d25cd2209e6e> | Master Serie, Volume 2                                    |                      |
+|   3 | 042283634527  | <https://beta.musicbrainz.org/release/d73adc16-f4a4-3919-8b60-f3399dfb79b4> | New Jersey                                                |                      |
+|   3 | 042283634527  | <https://beta.musicbrainz.org/release/53f9fbf7-815e-4c0a-b2f2-7f5265d0e22f> | New Jersey                                                |                      |
+|   3 | 042283634527  | <https://beta.musicbrainz.org/release/63c19efc-5bdd-43ea-8963-e2eb93a50e2d> | New Jersey                                                |                      |
+|   3 | 042283636828  | <https://beta.musicbrainz.org/release/f4a9d906-2cd1-4f0c-b549-c9f3f1abba5a> | Golden Earrings                                           |                      |
+|   3 | 042283636828  | <https://beta.musicbrainz.org/release/f91300d0-0cea-33ac-bf88-0eed70d87486> | Golden Earrings                                           |                      |
+|   3 | 042283636828  | <https://beta.musicbrainz.org/release/f97e6659-8311-3d2b-8337-07b1bc9a996c> | Golden Earrings                                           |                      |
+|   3 | 042284620321  | <https://beta.musicbrainz.org/release/ac589cf0-f7ca-4ae9-8746-5617e9bd2149> | Live!                                                     |                      |
+|   3 | 042284620321  | <https://beta.musicbrainz.org/release/9893596c-a76d-4c7b-870d-a282e667f72c> | Live!                                                     |                      |
+|   3 | 042284620321  | <https://beta.musicbrainz.org/release/5aaaca00-5b40-4bc9-b805-cec60c96051f> | Live!                                                     |                      |
+|   3 | 042284943321  | <https://beta.musicbrainz.org/release/febfb763-876f-455f-9d4a-c9ce66bb45aa> | Keys of the Kingdom                                       |                      |
+|   3 | 042284943321  | <https://beta.musicbrainz.org/release/d08d2be2-0a28-45ef-8315-ad963b2d87a7> | Keys of the Kingdom                                       |                      |
+|   3 | 042284943321  | <https://beta.musicbrainz.org/release/16760985-9dbc-46c2-85a2-c2d1fc0ecdf5> | Keys of the Kingdom                                       |                      |
+|   3 | 044797001420  | <https://beta.musicbrainz.org/release/2a880c98-e963-363e-857c-8f8c5a963eb9> | Murmur                                                    |                      |
+|   3 | 044797001420  | <https://beta.musicbrainz.org/release/b75f2b19-4244-419e-a03c-ec63eefe64f0> | Murmur                                                    |                      |
+|   3 | 044797001420  | <https://beta.musicbrainz.org/release/01494c0c-af43-48bd-a4df-4b167fce2242> | Murmur                                                    |                      |
+|   3 | 045778034123  | <https://beta.musicbrainz.org/release/32732f5b-92c4-475a-8d3b-1c57a5f43a14> | Mississippi Hill Country Blues                            |                      |
+|   3 | 045778034123  | <https://beta.musicbrainz.org/release/5423efbe-164f-49bf-bc87-de53f20dee2d> | Mississippi Hill Country Blues                            |                      |
+|   3 | 045778034123  | <https://beta.musicbrainz.org/release/95ee4f73-686a-4938-9bac-5f8bb5fe2258> | Mississippi Hill Country Blues                            |                      |
+|   3 | 0718751192829 | <https://beta.musicbrainz.org/release/f4ba50c7-25b4-4613-a709-664c866047ee> | Album 1994                                                |                      |
+|   3 | 0718751192829 | <https://beta.musicbrainz.org/release/779f47e1-5784-3c61-bef5-42caf8fdde64> | Album 1994                                                |                      |
+|   3 | 0718751192829 | <https://beta.musicbrainz.org/release/39004f44-601a-47c8-ab18-ef701c2b3bf4> | Album 1994                                                |                      |
+|   3 | 074643447423  | <https://beta.musicbrainz.org/release/bbabef1d-7252-3e1b-b91a-a443f4d9c74f> | Animals                                                   |                      |
+|   3 | 074643447423  | <https://beta.musicbrainz.org/release/43383b3c-ed73-488b-924b-4bb8373515b0> | Animals                                                   |                      |
+|   3 | 074643447423  | <https://beta.musicbrainz.org/release/903ef994-8efd-4fbd-8952-f96af4cc4962> | Animals                                                   |                      |
+|   3 | 074643497428  | <https://beta.musicbrainz.org/release/7575a571-bd06-3ce0-bb80-06f5ab818871> | Bat out of Hell                                           |                      |
+|   3 | 074643497428  | <https://beta.musicbrainz.org/release/756f284d-b8ba-4d16-8680-79755b965c28> | Bat out of Hell                                           |                      |
+|   3 | 074643497428  | <https://beta.musicbrainz.org/release/33c33a26-93d4-4ec9-997e-d6cf5aadf93f> | Bat out of Hell                                           |                      |
+|   3 | 074643529624  | <https://beta.musicbrainz.org/release/793417fc-2cc7-4097-9357-13ee79cc2aad> | Stained Class                                             |                      |
+|   3 | 074643529624  | <https://beta.musicbrainz.org/release/31567618-49e1-4c08-a457-227665703802> | Stained Class                                             |                      |
+|   3 | 074643529624  | <https://beta.musicbrainz.org/release/be129cce-77d0-40ae-9282-7df8013a96d1> | Stained Class                                             |                      |
+|   3 | 075021536722  | <https://beta.musicbrainz.org/release/9cb87be0-5988-4537-974c-527844c55959> | Waking Up the Neighbours                                  |                      |
+|   3 | 075021536722  | <https://beta.musicbrainz.org/release/a47f668f-806a-4295-be83-844d1be03ee0> | Waking Up the Neighbours                                  |                      |
+|   3 | 075021536722  | <https://beta.musicbrainz.org/release/ea86eb2a-5643-4e95-8046-bf64055dda49> | Waking Up the Neighbours                                  |                      |
+|   3 | 075596043922  | <https://beta.musicbrainz.org/release/fed37cfc-2a6d-4569-9ac0-501a7c7598eb> | Master of Puppets                                         |                      |
+|   3 | 075596043922  | <https://beta.musicbrainz.org/release/435eadc6-6e02-3ba4-ab49-7ed9cc00b420> | Master of Puppets                                         |                      |
+|   3 | 075596043922  | <https://beta.musicbrainz.org/release/4643b83d-6f91-3d4b-9f0f-e6f9b6b91217> | Master of Puppets                                         |                      |
+|   3 | 075596076623  | <https://beta.musicbrainz.org/release/15f5c2cb-41ea-3630-a0f6-2f86785cf608> | Kill ’Em All                                              |                      |
+|   3 | 075596076623  | <https://beta.musicbrainz.org/release/b74f7377-499d-34cc-9e79-9a8ed894bb48> | Kill ’Em All                                              |                      |
+|   3 | 075596076623  | <https://beta.musicbrainz.org/release/6f0e92eb-ed84-4ed0-a176-9ed4fd84d4f5> | Kill ’Em All                                              |                      |
+|   3 | 075596157124  | <https://beta.musicbrainz.org/release/611f1571-3665-3dff-8472-8cc8e4180952> | Welcome to Sky Valley                                     |                      |
+|   3 | 075596157124  | <https://beta.musicbrainz.org/release/78117d44-1eba-4e50-864d-42caa550e7ca> | Welcome to Sky Valley                                     |                      |
+|   3 | 075596157124  | <https://beta.musicbrainz.org/release/c80c0739-09ed-4b74-942d-7b9ac89d491b> | Welcome to Sky Valley                                     |                      |
+|   3 | 075596262620  | <https://beta.musicbrainz.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b> | Break the Cycle                                           |                      |
+|   3 | 075596262620  | <https://beta.musicbrainz.org/release/db31c79d-5b30-4670-89e3-f372207a1fb6> | Break the Cycle                                           |                      |
+|   3 | 075596262620  | <https://beta.musicbrainz.org/release/2b222451-855f-45d2-af54-045d7d7af87e> | Break the Cycle                                           |                      |
+|   3 | 075596262620  | <https://beta.musicbrainz.org/release/2b222451-855f-45d2-af54-045d7d7af87e> | Break the Cycle                                           |                      |
+|   3 | 075597401424  | <https://beta.musicbrainz.org/release/16867edb-dab7-32d2-9cbc-1bfd3dacd41d> | Strange Days                                              |                      |
+|   3 | 075597401424  | <https://beta.musicbrainz.org/release/f8c23d4a-5e4c-48c8-9715-e30adf635fe0> | Strange Days                                              |                      |
+|   3 | 075597401424  | <https://beta.musicbrainz.org/release/7637e99a-0ba0-4afe-8bfc-d082ccbf7019> | Strange Days                                              |                      |
+|   3 | 075678041525  | <https://beta.musicbrainz.org/release/8dbf8496-060c-461a-82c5-1296efe3ee17> | Remasters                                                 |                      |
+|   3 | 075678041525  | <https://beta.musicbrainz.org/release/bb3c389d-0865-4bcf-b0be-8805d5410501> | Remasters                                                 |                      |
+|   3 | 075678041525  | <https://beta.musicbrainz.org/release/f0b7b859-e1df-4ebb-8416-9be7bea3ed48> | Remasters                                                 |                      |
+|   3 | 075678126321  | <https://beta.musicbrainz.org/release/cd70f003-87af-351f-881f-2054e071c990> | Fly on the Wall                                           |                      |
+|   3 | 075678126321  | <https://beta.musicbrainz.org/release/f37e1298-cd27-4a29-9cad-5460edb06b87> | Fly on the Wall                                           |                      |
+|   3 | 075678126321  | <https://beta.musicbrainz.org/release/010f6454-d87c-4479-bb28-a738a6e05e5b> | Fly on the Wall                                           |                      |
+|   3 | 075679261724  | <https://beta.musicbrainz.org/release/219abd52-ee06-4b27-a103-2b0ffc421054> | Magic Box                                                 |                      |
+|   3 | 075679261724  | <https://beta.musicbrainz.org/release/c6126219-c093-4338-b2e5-d54a1720c26d> | Magic Box                                                 |                      |
+|   3 | 075679261724  | <https://beta.musicbrainz.org/release/d2074173-8b85-4505-97d4-b5ff8ab241ae> | Magic Box                                                 |                      |
+|   3 | 075992427821  | <https://beta.musicbrainz.org/release/8c3b4955-f8e2-4744-8874-fd5267196fdc> | Shake Your Money Maker                                    |                      |
+|   3 | 075992427821  | <https://beta.musicbrainz.org/release/6497d08f-e803-3ba5-8fa4-c3593f8e0d7f> | Shake Your Money Maker                                    |                      |
+|   3 | 075992427821  | <https://beta.musicbrainz.org/release/b679f242-06ce-4f61-be6e-c6ef2664847a> | Shake Your Money Maker                                    |                      |
+|   3 | 075992631624  | <https://beta.musicbrainz.org/release/e441d678-b225-3ea1-808c-9c488fdc3ac6> | Music From Twin Peaks                                     |                      |
+|   3 | 075992631624  | <https://beta.musicbrainz.org/release/217b812f-251b-456f-ac63-dcd868f5f6e3> | Music From Twin Peaks                                     |                      |
+|   3 | 075992631624  | <https://beta.musicbrainz.org/release/d6c01e02-2006-4a00-ae52-0cd4d035fbc4> | Music From Twin Peaks                                     |                      |
+|   3 | 075992719926  | <https://beta.musicbrainz.org/release/657edc7f-f7f8-3f8a-bd5e-6aba94f80d04> | Blue                                                      |                      |
+|   3 | 075992719926  | <https://beta.musicbrainz.org/release/a575174c-36c5-4ba5-8f34-1d752815fd99> | Blue                                                      |                      |
+|   3 | 075992719926  | <https://beta.musicbrainz.org/release/1c2e480c-af72-4eec-9b7e-a082010c9f8a> | Blue                                                      |                      |
+|   3 | 077774638425  | <https://beta.musicbrainz.org/release/4c1d3fc7-526e-4abf-a8bf-d34a535fc8c8> | The Piper at the Gates of Dawn                            |                      |
+|   3 | 077774638425  | <https://beta.musicbrainz.org/release/2368be6d-de8e-4b1c-9b40-05149842697e> | The Piper at the Gates of Dawn                            |                      |
+|   3 | 077774638425  | <https://beta.musicbrainz.org/release/e8fbe475-45cc-4c9d-a1b3-02922cb524bd> | The Piper at the Gates of Dawn                            |                      |
+|   3 | 077774644624  | <https://beta.musicbrainz.org/release/9e53c190-5621-3848-8ae4-39ad9f7d9ace> | Abbey Road                                                |                      |
+|   3 | 077774644624  | <https://beta.musicbrainz.org/release/630bce3e-cb1d-4e0c-bfd4-ba164cd2847a> | Abbey Road                                                |                      |
+|   3 | 077774644624  | <https://beta.musicbrainz.org/release/72db542f-9bcc-4fc4-9191-6a487c1d4853> | Abbey Road                                                |                      |
+|   3 | 077774699211  | <https://beta.musicbrainz.org/release/4e8e5d0a-943a-4206-b594-92472f65d057> | More Than Physical                                        |                      |
+|   3 | 077774699211  | <https://beta.musicbrainz.org/release/a4d61850-6f4f-4a2a-b432-9c9b97c5e3f2> | More Than Physical                                        |                      |
+|   3 | 077774699211  | <https://beta.musicbrainz.org/release/115f1698-c428-44ef-940a-cdc74a5c9323> | More Than Physical                                        |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/71d4eb8a-a7b6-4ab3-9f35-936c8b58c37e> | Futurama                                                  |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/71d4eb8a-a7b6-4ab3-9f35-936c8b58c37e> | Futurama                                                  |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/25602ac2-b357-3632-bc4a-a531ebc49f4a> | Futurama                                                  |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/25602ac2-b357-3632-bc4a-a531ebc49f4a> | Futurama                                                  |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/25602ac2-b357-3632-bc4a-a531ebc49f4a> | Futurama                                                  |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/81a76328-26da-4b5f-ab0c-40e47475b281> | Futurama                                                  |                      |
+|   3 | 077779207428  | <https://beta.musicbrainz.org/release/81a76328-26da-4b5f-ab0c-40e47475b281> | Futurama                                                  |                      |
+|   3 | 077779563722  | <https://beta.musicbrainz.org/release/b71bbb22-af11-4c76-9566-ed58f0abf57c> | Ringo                                                     |                      |
+|   3 | 077779563722  | <https://beta.musicbrainz.org/release/ca5e402c-cdcb-4d73-ab37-f036d3f16f76> | Ringo                                                     |                      |
+|   3 | 077779563722  | <https://beta.musicbrainz.org/release/ca5e402c-cdcb-4d73-ab37-f036d3f16f76> | Ringo                                                     |                      |
+|   3 | 077779563722  | <https://beta.musicbrainz.org/release/af2eb046-fb8d-48d7-8907-86296510ff86> | Ringo                                                     |                      |
+|   3 | 077779563722  | <https://beta.musicbrainz.org/release/af2eb046-fb8d-48d7-8907-86296510ff86> | Ringo                                                     |                      |
+|   3 | 078636633626  | <https://beta.musicbrainz.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061> | Enter the Wu‐Tang (36 Chambers)                           |                      |
+|   3 | 078636633626  | <https://beta.musicbrainz.org/release/f711b6b2-1dca-442f-ac69-69009141f60c> | Enter the Wu‐Tang (36 Chambers)                           |                      |
+|   3 | 078636633626  | <https://beta.musicbrainz.org/release/b7a18c7d-b81c-4518-a42e-ebea09440d26> | Enter the Wu‐Tang (36 Chambers)                           |                      |
+|   3 | 082839312929  | <https://beta.musicbrainz.org/release/a6dfedc9-84b3-382f-ae47-dad0c0eee4b6> | Indelibly Stamped                                         |                      |
+|   3 | 082839312929  | <https://beta.musicbrainz.org/release/a86454bd-ede1-3bf0-b0c3-28b164215a26> | Indelibly Stamped                                         |                      |
+|   3 | 082839312929  | <https://beta.musicbrainz.org/release/91645d4f-4372-32d9-8419-1f8134812ab9> | Indelibly Stamped                                         |                      |
+|   3 | 093624978107  | <https://beta.musicbrainz.org/release/a8975138-e341-49af-83fc-4cc954c6d1ec> | Swoon                                                     |                      |
+|   3 | 093624978107  | <https://beta.musicbrainz.org/release/0f167ce8-2e01-45f4-86eb-13b1213c3404> | Swoon                                                     |                      |
+|   3 | 093624978107  | <https://beta.musicbrainz.org/release/5f6b34f3-a080-422d-a234-fd2098a9f8d5> | Swoon                                                     |                      |
+|   3 | 095115650325  | <https://beta.musicbrainz.org/release/5601331f-073c-4968-a5a8-4a2e65d99720> | Dukas: The Sorcerer's Apprentice / Saint-Saëns: Da        |                      |
+|   3 | 095115650325  | <https://beta.musicbrainz.org/release/e8c33c49-d8f7-4e68-9dc0-38adeec95124> | Dukas: The Sorcerer's Apprentice / Saint-Saëns: Da        |                      |
+|   3 | 095115650325  | <https://beta.musicbrainz.org/release/8ef5f6d7-964d-4c57-96ea-6a66b4f1ba70> | Dukas: The Sorcerer's Apprentice / Saint-Saëns: Da        |                      |
+|   3 | 095115656426  | <https://beta.musicbrainz.org/release/018e5389-c869-4ff7-8903-7e797408d181> | Regimental Marches of the British Army, Volume 2          |                      |
+|   3 | 095115656426  | <https://beta.musicbrainz.org/release/dec453f4-99b4-40dc-b274-2e55d9d3c4aa> | Regimental Marches of the British Army, Volume 2          |                      |
+|   3 | 095115656426  | <https://beta.musicbrainz.org/release/025247b1-a8ec-4af3-8791-bcf650866f3e> | Regimental Marches of the British Army, Volume 2          |                      |
+|   3 | 3596971461928 | <https://beta.musicbrainz.org/release/d718af41-7c45-408d-83d4-3d848e454eb5> | Mega Techno                                               |                      |
+|   3 | 3596971461928 | <https://beta.musicbrainz.org/release/d718af41-7c45-408d-83d4-3d848e454eb5> | Mega Techno                                               |                      |
+|   3 | 3596971461928 | <https://beta.musicbrainz.org/release/9e505009-ecfa-4699-ab1e-88d73b55eb54> | Mega Techno                                               |                      |
+|   3 | 3596971461928 | <https://beta.musicbrainz.org/release/22920b4b-e801-43a1-9bf4-fb64b8652377> | Mega Techno                                               |                      |
+|   3 | 3760029026654 | <https://beta.musicbrainz.org/release/22b6a731-5978-4456-9ff0-0ace1cababa4> | La Douce France rétro                                     |                      |
+|   3 | 3760029026654 | <https://beta.musicbrainz.org/release/d383fcd0-0517-45bf-8eb3-b17a601c1d09> | La Douce France rétro                                     |                      |
+|   3 | 3760029026654 | <https://beta.musicbrainz.org/release/e42fbef8-5d31-45c6-9825-6f5e5db257a4> | La Douce France rétro                                     |                      |
+|   3 | 4001617532522 | <https://beta.musicbrainz.org/release/c17f7713-2cd8-4042-a245-fbfd342b0f19> | Kingdom                                                   |                      |
+|   3 | 4001617532522 | <https://beta.musicbrainz.org/release/eac1cf5e-ef83-4b28-a6d3-47e517e1655a> | Kingdom                                                   |                      |
+|   3 | 4001617532522 | <https://beta.musicbrainz.org/release/2d02b261-a4b7-4ba1-89e8-ae5dfbb84292> | Kingdom                                                   |                      |
+|   3 | 4006030013825 | <https://beta.musicbrainz.org/release/c3d637ba-4480-4177-a745-c6d641106988> | No More Color                                             |                      |
+|   3 | 4006030013825 | <https://beta.musicbrainz.org/release/ab26df08-2d4a-4400-82a0-b796cf2c44cf> | No More Color                                             |                      |
+|   3 | 4006030013825 | <https://beta.musicbrainz.org/release/9ff41a62-e481-4339-9fe1-74c400433a54> | No More Color                                             |                      |
+|   3 | 4006758468037 | <https://beta.musicbrainz.org/release/10bf8b24-f2fb-432c-875a-75271cea80a8> | Upstairs at Eric’s                                        |                      |
+|   3 | 4006758468037 | <https://beta.musicbrainz.org/release/c23201d3-02c6-4fd5-bd7b-590533609679> | Upstairs at Eric’s                                        |                      |
+|   3 | 4006758468037 | <https://beta.musicbrainz.org/release/3ba59b8f-877f-4784-9105-0fe80797acf3> | Upstairs at Eric’s                                        |                      |
+|   3 | 4007192591749 | <https://beta.musicbrainz.org/release/e62cf5ec-12b0-44c6-90e9-04d67335d0cf> | Musica è                                                  |                      |
+|   3 | 4007192591749 | <https://beta.musicbrainz.org/release/e62cf5ec-12b0-44c6-90e9-04d67335d0cf> | Musica è                                                  |                      |
+|   3 | 4007192591749 | <https://beta.musicbrainz.org/release/074739d0-da69-451a-b7a4-475d415ac688> | Musica è                                                  |                      |
+|   3 | 4007192591749 | <https://beta.musicbrainz.org/release/a4f6c024-c1cf-4d23-9bab-79e39b3eb13f> | Musica è                                                  |                      |
+|   3 | 4007192591749 | <https://beta.musicbrainz.org/release/a4f6c024-c1cf-4d23-9bab-79e39b3eb13f> | Musica è                                                  |                      |
+|   3 | 4009910401224 | <https://beta.musicbrainz.org/release/dabc8a94-ff14-4b17-ae1e-ca5135324090> | Budgie                                                    |                      |
+|   3 | 4009910401224 | <https://beta.musicbrainz.org/release/e916f04a-90f4-4b37-af40-61d2dc836aa1> | Budgie                                                    |                      |
+|   3 | 4009910401224 | <https://beta.musicbrainz.org/release/ec6717c9-27c9-46ce-b431-413c337e9f31> | Budgie                                                    |                      |
+|   3 | 4015698859720 | <https://beta.musicbrainz.org/release/16739cb0-4297-40ca-8cb5-ab2752590513> | Grey Dawn                                                 |                      |
+|   3 | 4015698859720 | <https://beta.musicbrainz.org/release/d540b459-8939-4703-8d36-82bca6fe3444> | Grey Dawn                                                 |                      |
+|   3 | 4015698859720 | <https://beta.musicbrainz.org/release/e8aafbc1-6ddb-41b1-a90e-3f64d4d83c82> | Grey Dawn                                                 |                      |
+|   3 | 4250001700164 | <https://beta.musicbrainz.org/release/87613578-852e-414a-ad3b-6113239f3fe5> | StormWarrior                                              |                      |
+|   3 | 4250001700164 | <https://beta.musicbrainz.org/release/06aae9c4-9a66-4aec-b65c-6efb263a0488> | StormWarrior                                              |                      |
+|   3 | 4250001700164 | <https://beta.musicbrainz.org/release/4d047b4b-72a3-39aa-99ac-0aa6381ebc81> | StormWarrior                                              |                      |
+|   3 | 4260620831002 | <https://beta.musicbrainz.org/release/cb9085e6-7a65-4cdf-966a-0fd1d1c1e6bd> | Erstausgabe                                               |                      |
+|   3 | 4260620831002 | <https://beta.musicbrainz.org/release/d85ab42e-5f47-4c8c-b276-1fd9d67e8a49> | Erstausgabe                                               |                      |
+|   3 | 4260620831002 | <https://beta.musicbrainz.org/release/01a7dc46-6ed7-4fb2-ac3e-ed13f6aa689c> | Erstausgabe                                               |                      |
+|   3 | 4988004141645 | <https://beta.musicbrainz.org/release/def9a7d7-bdd1-4bec-8dca-93e9c7850c05> | Christmas Love                                            | pre-release tracks f |
+|   3 | 4988004141645 | <https://beta.musicbrainz.org/release/5a0f3310-5bcd-466f-87f5-518102d46f52> | Christmas Love                                            | pre-release tracks f |
+|   3 | 4988004141645 | <https://beta.musicbrainz.org/release/8f6b29b4-e90e-4aa5-90ef-4e8460c38619> | Christmas Love                                            | pre-release tracks f |
+|   3 | 5013705184826 | <https://beta.musicbrainz.org/release/7a0bc091-a201-4597-b984-e0f87d8a29c6> | Greatest Hits                                             |                      |
+|   3 | 5013705184826 | <https://beta.musicbrainz.org/release/691b9eb2-5868-4ac7-8245-fb7b63d6ea34> | Greatest Hits                                             |                      |
+|   3 | 5013705184826 | <https://beta.musicbrainz.org/release/68da99d6-3690-4de4-8e6d-f8ba8c63731d> | Greatest Hits                                             |                      |
+|   3 | 5016025600151 | <https://beta.musicbrainz.org/release/a0d1e862-ec49-4a72-9406-0b6d2d5fb8c3> | Behind the Wheel                                          |                      |
+|   3 | 5016025600151 | <https://beta.musicbrainz.org/release/6b816620-a1bd-4604-8edd-63a7304acb95> | Behind the Wheel                                          |                      |
+|   3 | 5016025600151 | <https://beta.musicbrainz.org/release/71143e52-7b42-3355-8d71-4df23601ef4c> | Behind the Wheel                                          |                      |
+|   3 | 5021958403922 | <https://beta.musicbrainz.org/release/3dd5bae4-0639-4654-bdae-88dff1dbaf57> | Musick to Play in the Dark – Vol 1                        |                      |
+|   3 | 5021958403922 | <https://beta.musicbrainz.org/release/6bae6a5e-54a8-4ac5-a904-64eea8081d64> | Musick to Play in the Dark – Vol 1                        |                      |
+|   3 | 5021958403922 | <https://beta.musicbrainz.org/release/af641250-e296-495f-8d07-f7beb8a1e1be> | Musick to Play in the Dark – Vol 1                        |                      |
+|   3 | 5022911304317 | <https://beta.musicbrainz.org/release/39a16de4-befa-42ff-a854-298d36f13aed> | The Gemini Suite                                          |                      |
+|   3 | 5022911304317 | <https://beta.musicbrainz.org/release/792d2074-5f98-41b0-b3d4-3fec27b3720c> | The Gemini Suite                                          |                      |
+|   3 | 5022911304317 | <https://beta.musicbrainz.org/release/86fce537-a084-4959-b8c3-4404a870ca20> | The Gemini Suite                                          |                      |
+|   3 | 5024545486513 | <https://beta.musicbrainz.org/release/715d4a00-2ad5-4882-b1be-24853344315e> | Untrue                                                    |                      |
+|   3 | 5024545486513 | <https://beta.musicbrainz.org/release/69e9fe77-89e3-4f0e-982a-ab657d9118ff> | Untrue                                                    |                      |
+|   3 | 5024545486513 | <https://beta.musicbrainz.org/release/76d4d6f5-bca8-40e1-9299-1278517ce024> | Untrue                                                    |                      |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/19823f11-b330-4e5f-a8bc-b955a94ad287> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/26b2e817-e85b-4843-b500-942ffe394311> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5051083158879 | <https://beta.musicbrainz.org/release/4e85b97e-44ed-47c3-8449-ca8ea600c0eb> | EPII                                                      | + Skisser EP         |
+|   3 | 5053760022350 | <https://beta.musicbrainz.org/release/383f4251-57ab-470d-a149-83234fdf9f5a> | Wild                                                      |                      |
+|   3 | 5053760022350 | <https://beta.musicbrainz.org/release/cd27e34b-deb6-4da1-aa93-e339b98e0966> | Wild                                                      |                      |
+|   3 | 5053760022350 | <https://beta.musicbrainz.org/release/c3e6289f-dc1b-48c6-8ac5-d1b6b3cb81a9> | Wild                                                      |                      |
+|   3 | 5054429121551 | <https://beta.musicbrainz.org/release/044d750f-bf75-461f-bf29-609685d49704> | Places We Don't Know                                      |                      |
+|   3 | 5054429121551 | <https://beta.musicbrainz.org/release/01d9c518-3c1e-423d-aaa7-9d41814b87ef> | Places We Don't Know                                      |                      |
+|   3 | 5054429121551 | <https://beta.musicbrainz.org/release/95252666-410a-4766-bd33-5a19a5793817> | Places We Don't Know                                      |                      |
+|   3 | 5099746297916 | <https://beta.musicbrainz.org/release/db6713e8-7855-3db3-8fad-b47457178adc> | Everything                                                |                      |
+|   3 | 5099746297916 | <https://beta.musicbrainz.org/release/fe939e1b-619c-4a82-8223-129d0006f48c> | Everything                                                |                      |
+|   3 | 5099746297916 | <https://beta.musicbrainz.org/release/d3f0c259-7b4c-40fd-bba9-5623de50b377> | Everything                                                |                      |
+|   3 | 5099746595128 | <https://beta.musicbrainz.org/release/dcc63f7a-a0fb-4028-a040-7145ea8cfcf4> | Kuschelrock 1                                             |                      |
+|   3 | 5099746595128 | <https://beta.musicbrainz.org/release/2d7c4c97-4633-4ad3-9869-b42030a1a5da> | Kuschelrock 1                                             |                      |
+|   3 | 5099746595128 | <https://beta.musicbrainz.org/release/f8cc4242-9cc3-41a4-b315-07875cb9d9d2> | Kuschelrock 1                                             |                      |
+|   3 | 5099746721725 | <https://beta.musicbrainz.org/release/3399cb96-9d24-46cf-a416-2dc506d9a005> | Debil                                                     |                      |
+|   3 | 5099746721725 | <https://beta.musicbrainz.org/release/f1234750-ce3b-4b14-9262-0171aaae3ac6> | Debil                                                     |                      |
+|   3 | 5099746721725 | <https://beta.musicbrainz.org/release/bf5b130d-876a-46a0-b026-9a056bc80479> | Debil                                                     |                      |
+|   3 | 5099746747527 | <https://beta.musicbrainz.org/release/a3a1dfac-dfc0-499f-b1c2-8dca06b8bb15> | Kuschelrock 4                                             |                      |
+|   3 | 5099746747527 | <https://beta.musicbrainz.org/release/14b5d83b-7d36-3964-b1ec-0d27dc192df6> | Kuschelrock 4                                             |                      |
+|   3 | 5099746747527 | <https://beta.musicbrainz.org/release/0f5a7dc0-0f23-3520-a115-93130d942996> | Kuschelrock 4                                             |                      |
+|   3 | 5099746900120 | <https://beta.musicbrainz.org/release/9ba0d2a3-90b1-47ba-afcb-8b9c282babe9> | Kuschelrock 5                                             |                      |
+|   3 | 5099746900120 | <https://beta.musicbrainz.org/release/d2430ec8-5e05-3513-8fcd-610a72ee65c3> | Kuschelrock 5                                             |                      |
+|   3 | 5099746900120 | <https://beta.musicbrainz.org/release/26e1f165-d7e0-42db-95f0-6f532614e619> | Kuschelrock 5                                             |                      |
+|   3 | 5206318000984 | <https://beta.musicbrainz.org/release/96db13ef-8868-3a29-b89c-e73e9cf295bb> | Music of Ancient Greece                                   |                      |
+|   3 | 5206318000984 | <https://beta.musicbrainz.org/release/109dcc3c-7365-3b24-8a7e-83879ea1ac5b> | Music of Ancient Greece                                   |                      |
+|   3 | 5206318000984 | <https://beta.musicbrainz.org/release/70aa1f29-c309-32e2-907b-9207cb696e49> | Music of Ancient Greece                                   |                      |
+|   3 | 5414939626128 | <https://beta.musicbrainz.org/release/21c9f191-a766-4061-9e32-98a84f89b6ab> | The Brink                                                 |                      |
+|   3 | 5414939626128 | <https://beta.musicbrainz.org/release/068a8db4-adb4-4977-ba95-b229fb603ae7> | The Brink                                                 |                      |
+|   3 | 5414939626128 | <https://beta.musicbrainz.org/release/57457514-ff81-40dc-8da6-4efa98503f2d> | The Brink                                                 |                      |
+|   3 | 5900666000367 | <https://beta.musicbrainz.org/release/3ea480b2-e72c-40db-890d-91290bb95e08> | Infernal Blasting                                         |                      |
+|   3 | 5900666000367 | <https://beta.musicbrainz.org/release/1ee6e6ce-974a-4c3c-aad1-01e1873fd169> | Infernal Blasting                                         |                      |
+|   3 | 5900666000367 | <https://beta.musicbrainz.org/release/5dfe83d3-dc8c-4567-9d2e-32495a1c698b> | Infernal Blasting                                         |                      |
+|   3 | 5903420000023 | <https://beta.musicbrainz.org/release/1c901e41-8094-45b2-89b0-72771b23c3a7> | Platynowa kolekcja: Złote przeboje                        |                      |
+|   3 | 5903420000023 | <https://beta.musicbrainz.org/release/046b24ab-244e-4df0-8cc0-a16bfd394bdb> | Platynowa kolekcja: Złote przeboje                        |                      |
+|   3 | 5903420000023 | <https://beta.musicbrainz.org/release/bd0b1695-9bdf-4909-b182-02deffeb7057> | Platynowa kolekcja: Złote przeboje                        |                      |
+|   3 | 600353075429  | <https://beta.musicbrainz.org/release/4511c6e3-7fad-43bb-a632-fcbb40ecbaa5> | Underground Communication                                 |                      |
+|   3 | 600353075429  | <https://beta.musicbrainz.org/release/7096c506-8579-4b32-b43f-ff07f35ac84b> | Underground Communication                                 |                      |
+|   3 | 600353075429  | <https://beta.musicbrainz.org/release/a301cc21-e105-4d9b-8540-65586e3d9d35> | Underground Communication                                 |                      |
+|   3 | 602577327018  | <https://beta.musicbrainz.org/release/72b63b55-91c3-4eaa-a00c-a25d57252e6d> | Spider‐Man: Into the Spider‐Verse (Soundtrack from        | target exclusive     |
+|   3 | 602577327018  | <https://beta.musicbrainz.org/release/c319ca25-d29d-4b72-bc19-dbf18170431c> | Spider‐Man: Into the Spider‐Verse (Soundtrack from        | target exclusive     |
+|   3 | 602577327018  | <https://beta.musicbrainz.org/release/37866514-75cd-48c8-95ef-7fae479d659d> | Spider‐Man: Into the Spider‐Verse (Soundtrack from        | target exclusive     |
+|   3 | 603497882182  | <https://beta.musicbrainz.org/release/4a3f0456-0a0f-42d7-8615-57ee6c8f6a54> | The Atlantic Albums Collection                            |                      |
+|   3 | 603497882182  | <https://beta.musicbrainz.org/release/19ae67d5-fe86-4fa2-a0f8-8af2188290a1> | The Atlantic Albums Collection                            |                      |
+|   3 | 603497882182  | <https://beta.musicbrainz.org/release/0b12b77a-ab75-4a55-8534-07a6f2e0e4e3> | The Atlantic Albums Collection                            |                      |
+|   3 | 606949335625  | <https://beta.musicbrainz.org/release/a840e69a-3a92-4bf9-843c-e2b1fec44e3c> | Hard Candy                                                |                      |
+|   3 | 606949335625  | <https://beta.musicbrainz.org/release/c3351ad6-9a4a-4b11-84c7-9c346c099cff> | Hard Candy                                                |                      |
+|   3 | 606949335625  | <https://beta.musicbrainz.org/release/bb392adb-407a-492a-a83e-e90d0c77ff2b> | Hard Candy                                                |                      |
+|   3 | 611214381214  | <https://beta.musicbrainz.org/release/ab6fb3fc-3c16-44df-a9ce-36de71a70052> | De profundis                                              |                      |
+|   3 | 611214381214  | <https://beta.musicbrainz.org/release/959c16a2-3a37-4f5d-90ac-0fec568f94cb> | De profundis                                              |                      |
+|   3 | 611214381214  | <https://beta.musicbrainz.org/release/726ac80c-53fe-47a7-96a3-361f2adb079f> | De profundis                                              |                      |
+|   3 | 655035704111  | <https://beta.musicbrainz.org/release/ee682dab-a6a8-40ff-bd31-4c36de4d290f> | Panopticon                                                |                      |
+|   3 | 655035704111  | <https://beta.musicbrainz.org/release/196d38d2-454f-4e76-bd0a-9e18514a5ff8> | Panopticon                                                |                      |
+|   3 | 655035704111  | <https://beta.musicbrainz.org/release/34799b97-410e-4d47-8358-4030b142727c> | Panopticon                                                |                      |
+|   3 | 664612201325  | <https://beta.musicbrainz.org/release/34b915fa-01de-4048-8f25-3e0fe976dd9a> | Global Underground 013: Sasha in Ibiza                    |                      |
+|   3 | 664612201325  | <https://beta.musicbrainz.org/release/caca5070-da90-49fd-a473-5fc39434bcf6> | Global Underground 013: Sasha in Ibiza                    |                      |
+|   3 | 664612201325  | <https://beta.musicbrainz.org/release/a43583ed-d82b-4aa4-8911-5b7e3c8152f4> | Global Underground 013: Sasha in Ibiza                    |                      |
+|   3 | 673855044873  | <https://beta.musicbrainz.org/release/449c1fe5-2017-4b74-b212-7060765622e0> | Primitive Girl                                            |                      |
+|   3 | 673855044873  | <https://beta.musicbrainz.org/release/95222b36-008b-4b9d-8b8a-68c41da6dc38> | Primitive Girl                                            |                      |
+|   3 | 673855044873  | <https://beta.musicbrainz.org/release/4f335fc8-f419-472e-9822-244ce1e5f331> | Primitive Girl                                            |                      |
+|   3 | 674797000422  | <https://beta.musicbrainz.org/release/258f4d0f-3fda-446e-81c8-6af26ec65069> | The Rainbow Children                                      |                      |
+|   3 | 674797000422  | <https://beta.musicbrainz.org/release/5491a49c-4754-3bd2-88df-d14a1f0fcf2d> | The Rainbow Children                                      |                      |
+|   3 | 674797000422  | <https://beta.musicbrainz.org/release/554a81ee-b469-446f-a3a2-600ef876dfc0> | The Rainbow Children                                      |                      |
+|   3 | 720616102027  | <https://beta.musicbrainz.org/release/718f8981-b6ab-3bcd-8b0a-353319275280> | Innuendo                                                  |                      |
+|   3 | 720616102027  | <https://beta.musicbrainz.org/release/eeb2c495-e842-45dd-b312-7941824319f7> | Innuendo                                                  |                      |
+|   3 | 720616102027  | <https://beta.musicbrainz.org/release/3a07e559-dae7-45ff-a0cd-b732c810b7cd> | Innuendo                                                  |                      |
+|   3 | 720616106629  | <https://beta.musicbrainz.org/release/86b5a0f7-a0e9-364b-b109-d25834cb7ef9> | Live Killers                                              |                      |
+|   3 | 720616106629  | <https://beta.musicbrainz.org/release/e11b292d-2ec8-3fc9-9173-31e5f99b7535> | Live Killers                                              |                      |
+|   3 | 720616106629  | <https://beta.musicbrainz.org/release/77a2cfb8-9d7a-4bd4-902e-7eaade7650c3> | Live Killers                                              |                      |
+|   3 | 720616123220  | <https://beta.musicbrainz.org/release/4fff808c-8200-43a9-b2eb-2fb5f17f3bbf> | Queen II                                                  |                      |
+|   3 | 720616123220  | <https://beta.musicbrainz.org/release/ec8ade04-06c2-4b71-8f15-2b9623e68ff1> | Queen II                                                  |                      |
+|   3 | 720616123220  | <https://beta.musicbrainz.org/release/9d91438d-d62f-4e10-8cb9-1510a24c3b9f> | Queen II                                                  |                      |
+|   3 | 720642510520  | <https://beta.musicbrainz.org/release/7815072f-cc05-3f9d-bebe-c41eaac24a09> | From the Muddy Banks of the Wishkah                       |                      |
+|   3 | 720642510520  | <https://beta.musicbrainz.org/release/8e338202-54e6-4dca-ab7c-2f553c55325d> | From the Muddy Banks of the Wishkah                       |                      |
+|   3 | 720642510520  | <https://beta.musicbrainz.org/release/f3cdc87a-b483-4aea-b3e2-80a94f704463> | From the Muddy Banks of the Wishkah                       |                      |
+|   3 | 724354221026  | <https://beta.musicbrainz.org/release/4aa42a2b-846a-3b54-8fc4-2a3d5ef4545b> | Christmas With the Rat Pack                               |                      |
+|   3 | 724354221026  | <https://beta.musicbrainz.org/release/15e9a08a-fd9a-425c-a58e-125b5f4b1b2c> | Christmas With the Rat Pack                               |                      |
+|   3 | 724354221026  | <https://beta.musicbrainz.org/release/1c54eb27-e562-4401-aa40-a4b313533a5e> | Christmas With the Rat Pack                               |                      |
+|   3 | 7277017719024 | <https://beta.musicbrainz.org/release/b97878ff-708b-4bc5-94a7-d9d1f903f600> | Sin / Pecado                                              |                      |
+|   3 | 7277017719024 | <https://beta.musicbrainz.org/release/db034203-d033-4fba-b1c5-4e635a3965a8> | Sin / Pecado                                              |                      |
+|   3 | 7277017719024 | <https://beta.musicbrainz.org/release/ddcdb215-c966-442b-ac8d-2ad20354fea7> | Sin / Pecado                                              |                      |
+|   3 | 727701784823  | <https://beta.musicbrainz.org/release/27d6480b-f4ec-4bf0-b8ac-a3c3a2d61a77> | Anthems to the Welkin at Dusk                             |                      |
+|   3 | 727701784823  | <https://beta.musicbrainz.org/release/3f796b4f-57ec-4f71-8c26-49aae8ae73ef> | Anthems to the Welkin at Dusk                             |                      |
+|   3 | 727701784823  | <https://beta.musicbrainz.org/release/a5de1435-5a81-46c6-98cb-a4d59333e8ec> | Anthems to the Welkin at Dusk                             |                      |
+|   3 | 7277018804521 | <https://beta.musicbrainz.org/release/c156a739-d0a3-476e-bd1f-d83bda6ae172> | Survival of the Sickest!                                  |                      |
+|   3 | 7277018804521 | <https://beta.musicbrainz.org/release/985752e4-94b6-4432-9374-5222d441393a> | Survival of the Sickest!                                  |                      |
+|   3 | 7277018804521 | <https://beta.musicbrainz.org/release/5266c500-b09b-4f07-9d53-5e5fb70b021a> | Survival of the Sickest!                                  |                      |
+|   3 | 731451034725  | <https://beta.musicbrainz.org/release/0cdefc52-868c-3c80-aa89-6530332365a5> | Achtung Baby                                              |                      |
+|   3 | 731451034725  | <https://beta.musicbrainz.org/release/0cdefc52-868c-3c80-aa89-6530332365a5> | Achtung Baby                                              |                      |
+|   3 | 731451034725  | <https://beta.musicbrainz.org/release/e5af923d-4356-4649-8299-ddcfb6f71db4> | Achtung Baby                                              |                      |
+|   3 | 731451034725  | <https://beta.musicbrainz.org/release/e5af923d-4356-4649-8299-ddcfb6f71db4> | Achtung Baby                                              |                      |
+|   3 | 731451034725  | <https://beta.musicbrainz.org/release/c744d79f-f1a9-45f8-8231-be34cf6b4be5> | Achtung Baby                                              |                      |
+|   3 | 731451034725  | <https://beta.musicbrainz.org/release/c744d79f-f1a9-45f8-8231-be34cf6b4be5> | Achtung Baby                                              |                      |
+|   3 | 731451088025  | <https://beta.musicbrainz.org/release/090cc3a0-228f-311d-ac36-7c8c029927c8> | Scott 2                                                   |                      |
+|   3 | 731451088025  | <https://beta.musicbrainz.org/release/4afab783-73d6-3ce6-9f72-2a4ea6ff6768> | Scott 2                                                   |                      |
+|   3 | 731451088025  | <https://beta.musicbrainz.org/release/765d6862-d15a-4dbf-91c9-41627ff4e6f4> | Scott 2                                                   |                      |
+|   3 | 731452669926  | <https://beta.musicbrainz.org/release/6f97f9f9-9931-31aa-b2db-5a5791400661> | Relish                                                    |                      |
+|   3 | 731452669926  | <https://beta.musicbrainz.org/release/6f97f9f9-9931-31aa-b2db-5a5791400661> | Relish                                                    |                      |
+|   3 | 731452669926  | <https://beta.musicbrainz.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee> | Relish                                                    |                      |
+|   3 | 731452669926  | <https://beta.musicbrainz.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee> | Relish                                                    |                      |
+|   3 | 731452669926  | <https://beta.musicbrainz.org/release/69ce9c0c-9238-4eb6-a746-352be45e5fce> | Relish                                                    |                      |
+|   3 | 731452669926  | <https://beta.musicbrainz.org/release/69ce9c0c-9238-4eb6-a746-352be45e5fce> | Relish                                                    |                      |
+|   3 | 731453779822  | <https://beta.musicbrainz.org/release/709f090c-6659-46af-a9ec-dbcd9ca4058c> | Khmer                                                     |                      |
+|   3 | 731453779822  | <https://beta.musicbrainz.org/release/a05fba84-a09f-408f-948e-1765139ada40> | Khmer                                                     |                      |
+|   3 | 731453779822  | <https://beta.musicbrainz.org/release/00ba3f1b-48f8-46ae-9483-ed09e86a5782> | Khmer                                                     |                      |
+|   3 | 731455121025  | <https://beta.musicbrainz.org/release/285906e0-13b4-45c5-b1b6-bbb29ff3212a> | Planet Claire                                             |                      |
+|   3 | 731455121025  | <https://beta.musicbrainz.org/release/5ab93b28-b576-3d7b-9739-8d4a8ac11dfe> | Planet Claire                                             |                      |
+|   3 | 731455121025  | <https://beta.musicbrainz.org/release/24343de1-93f2-4a41-97c4-23ee9767a1d2> | Planet Claire                                             |                      |
+|   3 | 745316005928  | <https://beta.musicbrainz.org/release/b7410992-1ddf-3b7a-95a8-9a9930836f68> | The Ultimate Incantation                                  |                      |
+|   3 | 745316005928  | <https://beta.musicbrainz.org/release/4f24d1c7-2758-4328-a805-0e59b33d33f7> | The Ultimate Incantation                                  |                      |
+|   3 | 745316005928  | <https://beta.musicbrainz.org/release/aa2b88c4-e7ef-4ff3-bb1f-58aed15b297c> | The Ultimate Incantation                                  |                      |
+|   3 | 757347340473  | <https://beta.musicbrainz.org/release/d906107c-f4b1-46e8-a237-5230b962ddcb> | Amuse Deuce                                               |                      |
+|   3 | 757347340473  | <https://beta.musicbrainz.org/release/00a708fe-bc5e-43fd-af33-aad4760e10c3> | Amuse Deuce                                               |                      |
+|   3 | 757347340473  | <https://beta.musicbrainz.org/release/dea23dd5-4af4-48ad-a3e9-48a861b1c7b6> | Amuse Deuce                                               |                      |
+|   3 | 779836366924  | <https://beta.musicbrainz.org/release/7a0eb6d3-b5de-4dfd-9f98-1a93c8e1b4c6> | Yoga                                                      |                      |
+|   3 | 779836366924  | <https://beta.musicbrainz.org/release/766ec8bd-9749-4087-be3f-3bb9018b6f65> | Yoga                                                      |                      |
+|   3 | 779836366924  | <https://beta.musicbrainz.org/release/85b7ae6c-d1bb-4228-9dc9-b25880cc0a32> | Yoga                                                      |                      |
+|   3 | 781676711222  | <https://beta.musicbrainz.org/release/e8e76fec-116c-4cb8-8d91-1d7f18e7e658> | Leveling the Plane of Existence                           |                      |
+|   3 | 781676711222  | <https://beta.musicbrainz.org/release/e1c85bc5-6847-466b-a41c-ce5ab4d2ae9a> | Leveling the Plane of Existence                           |                      |
+|   3 | 781676711222  | <https://beta.musicbrainz.org/release/b5ba3575-b173-4332-b48f-d05225d08f9c> | Leveling the Plane of Existence                           |                      |
+|   3 | 822603170221  | <https://beta.musicbrainz.org/release/89077cc9-d49b-4c89-98ab-9e57b6b52fe0> | Frost                                                     |                      |
+|   3 | 822603170221  | <https://beta.musicbrainz.org/release/dee78eba-38bc-4e12-9663-cd1d1ce4a052> | Frost                                                     |                      |
+|   3 | 822603170221  | <https://beta.musicbrainz.org/release/2c62fbe4-449b-4f20-84fb-e38fe0235dd2> | Frost                                                     |                      |
+|   3 | 842803002511  | <https://beta.musicbrainz.org/release/e11f35b3-d065-4a6d-9f7b-457543a57254> | Swoon                                                     |                      |
+|   3 | 842803002511  | <https://beta.musicbrainz.org/release/ca43c95a-4389-4a3c-9d82-1cf8e671f321> | Swoon                                                     |                      |
+|   3 | 842803002511  | <https://beta.musicbrainz.org/release/47032401-9a22-4be6-b905-4438e3633d76> | Swoon                                                     |                      |
+|   3 | 843930000661  | <https://beta.musicbrainz.org/release/9e537e38-be89-41db-be3f-f3a31dfa53c5> | iTunes Live From SoHo                                     |                      |
+|   3 | 843930000661  | <https://beta.musicbrainz.org/release/9e537e38-be89-41db-be3f-f3a31dfa53c5> | iTunes Live From SoHo                                     |                      |
+|   3 | 843930000661  | <https://beta.musicbrainz.org/release/edd3c2ef-7908-4c84-bb98-bd6c94646f7c> | iTunes Live From SoHo                                     |                      |
+|   3 | 843930000661  | <https://beta.musicbrainz.org/release/edd3c2ef-7908-4c84-bb98-bd6c94646f7c> | iTunes Live From SoHo                                     |                      |
+|   3 | 843930000661  | <https://beta.musicbrainz.org/release/f8e91383-6d76-4c44-8341-00104efe9881> | iTunes Live From SoHo                                     |                      |
+|   3 | 843930000661  | <https://beta.musicbrainz.org/release/f8e91383-6d76-4c44-8341-00104efe9881> | iTunes Live From SoHo                                     |                      |
+|   3 | 855579006546  | <https://beta.musicbrainz.org/release/487334e8-33c7-460a-b069-7bdf233308eb> | The Baby                                                  |                      |
+|   3 | 855579006546  | <https://beta.musicbrainz.org/release/a83626b3-a558-4eca-bb08-1893fadf1ad2> | The Baby                                                  |                      |
+|   3 | 855579006546  | <https://beta.musicbrainz.org/release/69ded4ad-ce21-415f-b273-8e9cb31cd468> | The Baby                                                  |                      |
+|   3 | 859703859220  | <https://beta.musicbrainz.org/release/ea561ddc-0a99-49d8-8b2c-dc1f883d2c74> | The Narrative                                             |                      |
+|   3 | 859703859220  | <https://beta.musicbrainz.org/release/61574e3d-0acc-424d-ad58-5aa7c66f4b38> | The Narrative                                             |                      |
+|   3 | 859703859220  | <https://beta.musicbrainz.org/release/3158a7d7-1cf8-45c6-b34d-19a81d8eb051> | The Narrative                                             |                      |
+|   3 | 886979297326  | <https://beta.musicbrainz.org/release/ebcfa57a-e3d4-418d-aaa8-2c3fc4f571c8> | Tabaluga und die Zeichen der Zeit                         |                      |
+|   3 | 886979297326  | <https://beta.musicbrainz.org/release/d34ac613-85b0-41cc-9311-914170aea150> | Tabaluga und die Zeichen der Zeit                         |                      |
+|   3 | 886979297326  | <https://beta.musicbrainz.org/release/5fc1caff-7236-43a1-ac25-987c6c9f0d13> | Tabaluga und die Zeichen der Zeit                         |                      |
+|   3 | 9399084229829 | <https://beta.musicbrainz.org/release/e08f21bf-e63e-31f7-9cc3-6aac550a382a> | The Joshua Tree                                           |                      |
+|   3 | 9399084229829 | <https://beta.musicbrainz.org/release/e08f21bf-e63e-31f7-9cc3-6aac550a382a> | The Joshua Tree                                           |                      |
+|   3 | 9399084229829 | <https://beta.musicbrainz.org/release/e4d4017b-ce51-3a4b-99c9-618b6af1328a> | The Joshua Tree                                           |                      |
+|   3 | 9399084229829 | <https://beta.musicbrainz.org/release/82bcd715-85ee-483f-9309-da42debaa287> | The Joshua Tree                                           |                      |
+|   3 | 9399747142328 | <https://beta.musicbrainz.org/release/0e7ec507-0437-48d1-8cb5-324350b4b2d5> | Human Touch                                               |                      |
+|   3 | 9399747142328 | <https://beta.musicbrainz.org/release/923da54d-74d1-42e4-85ab-54bcdea93848> | Human Touch                                               |                      |
+|   3 | 9399747142328 | <https://beta.musicbrainz.org/release/2613057c-be6e-4267-b478-9a66148ddcfa> | Human Touch                                               |                      |
+|   3 | 9399747142328 | <https://beta.musicbrainz.org/release/2613057c-be6e-4267-b478-9a66148ddcfa> | Human Touch                                               |                      |
+|   3 | 9781561791903 | <https://beta.musicbrainz.org/release/3f9c452e-ffa4-49fb-b3eb-41c0cb865ca3> | Volume 16: Flights of Imagination                         |                      |
+|   3 | 9781561791903 | <https://beta.musicbrainz.org/release/b779e80e-dc2b-4069-b12a-6697c19fef97> | Volume 16: Flights of Imagination                         |                      |
+|   3 | 9781561791903 | <https://beta.musicbrainz.org/release/27a75cea-1dcc-4d92-a1d8-30499d2b7ae2> | Volume 16: Flights of Imagination                         |                      |
+|   3 | 9781561792665 | <https://beta.musicbrainz.org/release/936e2212-dcda-41e7-a6bf-310db187f987> | Volume 19: Passport to Adventure                          |                      |
+|   3 | 9781561792665 | <https://beta.musicbrainz.org/release/efbb26e5-4f94-4cf7-a494-a04ba6f42fa4> | Volume 19: Passport to Adventure                          |                      |
+|   3 | 9781561792665 | <https://beta.musicbrainz.org/release/141eae51-6849-47f9-af88-58fd7c9bb993> | Volume 19: Passport to Adventure                          |                      |
+|   3 | 9781561793129 | <https://beta.musicbrainz.org/release/a16513bb-faed-4fce-a95c-9b337a8c97be> | Volume 20: A Journey of Choices                           |                      |
+|   3 | 9781561793129 | <https://beta.musicbrainz.org/release/4ef7b9b8-07d4-4a9d-a3a8-699b648b7f8a> | Volume 20: A Journey of Choices                           |                      |
+|   3 | 9781561793129 | <https://beta.musicbrainz.org/release/dcd76198-512c-48b8-b745-4d646c667301> | Volume 20: A Journey of Choices                           |                      |
+|   3 | 9781561793174 | <https://beta.musicbrainz.org/release/82df4030-812d-4bbe-a0c0-2b072ef3f72d> | Volume 21: Wish You Were Here!                            |                      |
+|   3 | 9781561793174 | <https://beta.musicbrainz.org/release/76fc7b1d-333f-49c6-88c9-fae9ea49d83b> | Volume 21: Wish You Were Here!                            |                      |
+|   3 | 9781561793174 | <https://beta.musicbrainz.org/release/fa37a1a3-41fa-410d-b98b-9d807c52c9b8> | Volume 21: Wish You Were Here!                            |                      |
+|   3 | 9781561794492 | <https://beta.musicbrainz.org/release/78d0e1b8-d838-45df-a50d-2a94e7c9ac77> | Volume 25: Darkness Before Dawn                           |                      |
+|   3 | 9781561794492 | <https://beta.musicbrainz.org/release/529f0343-64fe-4351-9760-80a72319b744> | Volume 25: Darkness Before Dawn                           |                      |
+|   3 | 9781561794492 | <https://beta.musicbrainz.org/release/d1376c54-ad2a-4201-ae85-e4859a78e790> | Volume 25: Darkness Before Dawn                           |                      |
+|   3 | 9781589970755 | <https://beta.musicbrainz.org/release/e02e7fb3-9172-4705-b7fc-2fe5645d727a> | Volume 08: Beyond Expectations                            |                      |
+|   3 | 9781589970755 | <https://beta.musicbrainz.org/release/8dcc7b96-79bf-4738-b4bb-5ea8e82f87fd> | Volume 08: Beyond Expectations                            |                      |
+|   3 | 9781589970755 | <https://beta.musicbrainz.org/release/5c52d01f-6ced-4c74-a06b-872ad13c48d8> | Volume 08: Beyond Expectations                            |                      |
+|   3 | 9781589970762 | <https://beta.musicbrainz.org/release/58247958-5352-4681-ab58-bdef14ebdb14> | Volume 09: Just in Time                                   |                      |
+|   3 | 9781589970762 | <https://beta.musicbrainz.org/release/268923bc-555c-48af-8ef3-c3fe67e20093> | Volume 09: Just in Time                                   |                      |
+|   3 | 9781589970762 | <https://beta.musicbrainz.org/release/9794a0f4-b822-4cd9-8a98-d2dd93741f6f> | Volume 09: Just in Time                                   |                      |
+|   3 | 9781589972322 | <https://beta.musicbrainz.org/release/740a8e8a-4d94-4e0b-bcef-d748a6b647c7> | Volume 06: Mission: Accomplished                          |                      |
+|   3 | 9781589972322 | <https://beta.musicbrainz.org/release/cf5d4085-8c28-4aff-a7f2-7b84c525ef69> | Volume 06: Mission: Accomplished                          |                      |
+|   3 | 9781589972322 | <https://beta.musicbrainz.org/release/b0c040b2-6217-4ac2-8d2d-1b300ae42fd9> | Volume 06: Mission: Accomplished                          |                      |
+|   3 | 9781589972346 | <https://beta.musicbrainz.org/release/b1cfb74e-7fe0-471c-a666-cf2235fd2c50> | Volume 07: On Thin Ice                                    |                      |
+|   3 | 9781589972346 | <https://beta.musicbrainz.org/release/f0605922-7032-47fe-8eee-2e595a77563a> | Volume 07: On Thin Ice                                    |                      |
+|   3 | 9781589972346 | <https://beta.musicbrainz.org/release/94e936f8-06fc-49a8-99a4-94e1d2fcef74> | Volume 07: On Thin Ice                                    |                      |
+|   3 | 9781589972896 | <https://beta.musicbrainz.org/release/6e9940c9-7cd0-4f66-93f7-4afe821adb05> | Volume 12: At Home and Abroad                             |                      |
+|   3 | 9781589972896 | <https://beta.musicbrainz.org/release/2c744539-893a-46ce-9280-957e4014dbc3> | Volume 12: At Home and Abroad                             |                      |
+|   3 | 9781589972896 | <https://beta.musicbrainz.org/release/64a2bd39-1cf1-4200-8f1c-1f3d85474dbb> | Volume 12: At Home and Abroad                             |                      |
+|   3 | 9781589973312 | <https://beta.musicbrainz.org/release/4fd58323-b39b-4f2e-be44-ec42f6bea8f9> | Volume 45: Lost & Found                                   |                      |
+|   3 | 9781589973312 | <https://beta.musicbrainz.org/release/5ede0f65-0230-4870-a174-5b5e19bc183e> | Volume 45: Lost & Found                                   |                      |
+|   3 | 9781589973312 | <https://beta.musicbrainz.org/release/f4752d43-6c9d-4119-b9c7-570f7c8774be> | Volume 45: Lost & Found                                   |                      |
+|   3 | 9781589973633 | <https://beta.musicbrainz.org/release/9f3455b2-988e-45fa-93e2-6a179e2ee6c3> | The Lost Episodes                                         |                      |
+|   3 | 9781589973633 | <https://beta.musicbrainz.org/release/35b5d726-6d36-4568-9c04-8f6e8992c66e> | The Lost Episodes                                         |                      |
+|   3 | 9781589973633 | <https://beta.musicbrainz.org/release/83b5bbc0-30c3-44a4-8136-bf95e49b63d0> | The Lost Episodes                                         |                      |
+|   3 | 9783837100341 | <https://beta.musicbrainz.org/release/2e208932-82e0-4c4a-bedc-8f49065ac28e> | Dr. Impossible schlägt zurück                             |                      |
+|   3 | 9783837100341 | <https://beta.musicbrainz.org/release/703874f5-aab5-4a81-853e-4c0bf2877ff1> | Dr. Impossible schlägt zurück                             |                      |
+|   3 | 9783837100341 | <https://beta.musicbrainz.org/release/a38f028b-47e2-4943-9c99-c78ed9ab8d1d> | Dr. Impossible schlägt zurück                             |                      |
+|-----|---------------|-----------------------------------------------------------------------------|-----------------------------------------------------------|----------------------|
 
-(378 rows)
+(481 rows)
 
