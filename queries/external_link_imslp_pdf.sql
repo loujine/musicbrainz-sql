@@ -1,6 +1,7 @@
 -- wrong imslp links with '(File:)pdf'
 
 -- 2020-09-16: 9
+-- 2021-10-16: 5
 
 SELECT
     to_work_url(w.gid) AS work_url,
