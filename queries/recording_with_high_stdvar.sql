@@ -12,6 +12,8 @@ FROM
     INNER JOIN pianist AS a ON a.id = lar.entity0
     INNER JOIN recording AS r ON r.id = lar.entity1
     INNER JOIN track AS t ON r.id = t.recording
+WHERE
+    t.length > 60000
 ORDER BY
     r.name
 ),
@@ -52,6 +54,8 @@ FROM
     INNER JOIN violinist AS a ON a.id = lar.entity0
     INNER JOIN recording AS r ON r.id = lar.entity1
     INNER JOIN track AS t ON r.id = t.recording
+WHERE
+    t.length > 60000
 ORDER BY
     r.name
 ),
@@ -92,6 +96,8 @@ FROM
     INNER JOIN quartet AS a ON a.id = lar.entity0
     INNER JOIN recording AS r ON r.id = lar.entity1
     INNER JOIN track AS t ON r.id = t.recording
+WHERE
+    t.length > 60000
 ORDER BY
     r.name
 ),
@@ -132,6 +138,8 @@ FROM
     INNER JOIN conductor AS a ON a.id = lar.entity0
     INNER JOIN recording AS r ON r.id = lar.entity1
     INNER JOIN track AS t ON r.id = t.recording
+WHERE
+    t.length > 60000
 ORDER BY
     r.name
 ),
