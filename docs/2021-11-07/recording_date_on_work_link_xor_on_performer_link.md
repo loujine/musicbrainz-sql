@@ -9,13 +9,13 @@
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/ed12030e-1da5-451b-b8b9-3ffebddd106e> | Cello Sonata no. 2 in G minor, op. 5, no. 2: II. A |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/27b53c5c-ec8e-4d47-9c81-a64f6b77513a> | Cello Sonata no. 2 in G minor, op. 5, no. 2: III.  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/5fb3b281-a559-4773-8385-10f8280eed6f> | Concertino for Two Pianos in A minor, op. 94: Adag |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/49701818-9278-45b9-93c9-ea5b4df65e09> | Concertino for piano, two violins, viola, clarinet |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/d6bbc4ba-dd5f-4a06-86c5-6f5beedf2b54> | Concertino for piano, two violins, viola, clarinet |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/eaa64cae-b6c0-48d8-a3e2-f7d38b499ded> | Concertino for piano, two violins, viola, clarinet |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/fdeb7a27-ef0f-40bb-bb08-bf8642844598> | Concertino for piano, two violins, viola, clarinet |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/d6bbc4ba-dd5f-4a06-86c5-6f5beedf2b54> | Concertino for piano, two violins, viola, clarinet |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/49701818-9278-45b9-93c9-ea5b4df65e09> | Concertino for piano, two violins, viola, clarinet |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/4a33999e-152f-4a39-ab05-5ff31807339a> | Concerto for Piano, Trumpet and Strings in C minor |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/8a59aff7-802c-40e9-a938-b6b2ab8b7bc2> | Concerto for Piano, Trumpet and Strings in C minor |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/a53f8350-0cfc-4c04-87ba-50d71189502f> | Concerto for Piano, Trumpet and Strings in C minor |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/4a33999e-152f-4a39-ab05-5ff31807339a> | Concerto for Piano, Trumpet and Strings in C minor |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/c278d3e2-8346-4cbf-a135-1e222f25930e> | Concerto for Piano, Trumpet and Strings in C minor |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/c47c9aea-7674-4bd7-8a87-192acccbbfb5> | Drei Fantasiestücke, Op. 73: II. Lebhaft, leicht   |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/9e7e59f1-f7eb-4e81-b23b-43b670bd3ff6> | Fantasiestücke, Op. 88: I. Romanze: Nicht schnell, |
@@ -65,20 +65,20 @@
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/9f2f0577-c1ef-46dc-940f-cfd7b49319a2> | Piano Trio in D major, Op. 70, No. 1 "Ghost": II.  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/65eb5d12-f639-4d5b-8670-1862a38a622c> | Piano Trio in D major, Op. 70, No. 1 "Ghost": III. |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/42fc20ab-1315-4569-bccf-428eef8e9957> | Prélude e-moll op.28 Nr.4                          |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/9d211302-ff76-4f38-842a-73c3c00f2852> | Quintet for Piano and Strings in G minor, op. 57:  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/1494a895-9da9-4879-8273-8085f0d9af1d> | Quintet for Piano and Strings in G minor, op. 57:  |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/2ae9856e-ea12-4418-a707-6137df85e0f6> | Quintet for Piano and Strings in G minor, op. 57:  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/603387ca-491c-4e41-b5cf-48e8b7d4ecc1> | Quintet for Piano and Strings in G minor, op. 57:  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/65db894e-5d65-4998-a8f8-06dc7b151ae6> | Quintet for Piano and Strings in G minor, op. 57:  |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/2ae9856e-ea12-4418-a707-6137df85e0f6> | Quintet for Piano and Strings in G minor, op. 57:  |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/9d211302-ff76-4f38-842a-73c3c00f2852> | Quintet for Piano and Strings in G minor, op. 57:  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/d8946091-193d-4a5a-97c4-e53101c1b621> | Sonata for Violin and Piano no. 1: I. Allegro appa |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/c1221d8b-3169-413f-9b13-8a8aad2bdffc> | Sonata in D Major for 2 Pianos, K.448: III. Molto  |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/665c92e2-6841-43ae-aed8-431c0a5ea1a3> | The Nutcracker Suite, op. 71a: I. Ouverture miniat |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/5b0ff96f-e364-4937-afd9-2d6c11838b96> | The Nutcracker Suite, op. 71a: II. Danses caractér |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/e24ca1e6-6d97-4471-95e3-1c37701a1435> | The Nutcracker Suite, op. 71a: II. Danses caractér |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/322cc636-b0d1-4a81-ab41-ecc39486a63f> | The Nutcracker Suite, op. 71a: II. Danses caractér |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/3b98185e-3bfa-40db-b842-ff467255aa03> | The Nutcracker Suite, op. 71a: II. Danses caractér |
-| Argerich, Martha                | <https://beta.musicbrainz.org/recording/aa3f586c-9431-48f0-a7cd-72b091365314> | The Nutcracker Suite, op. 71a: II. Danses caractér |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/3cc60c07-7a0d-45a9-b9e5-e3ab8c65f31d> | The Nutcracker Suite, op. 71a: II. Danses caractér |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/5b0ff96f-e364-4937-afd9-2d6c11838b96> | The Nutcracker Suite, op. 71a: II. Danses caractér |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/aa3f586c-9431-48f0-a7cd-72b091365314> | The Nutcracker Suite, op. 71a: II. Danses caractér |
+| Argerich, Martha                | <https://beta.musicbrainz.org/recording/e24ca1e6-6d97-4471-95e3-1c37701a1435> | The Nutcracker Suite, op. 71a: II. Danses caractér |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/396b3d02-ba73-4e99-837d-363d3434d24f> | The Nutcracker Suite, op. 71a: III. Valse des fleu |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/135dbbca-8e1d-4dfc-a1ea-c10e6972ef8a> | Violin Sonata No. 1 in A minor, Op. 105: I. Mit le |
 | Argerich, Martha                | <https://beta.musicbrainz.org/recording/88f3de7f-1090-496d-835d-de48d040a3a2> | Violin Sonata No. 1 in A minor, Op. 105: II. Alleg |
@@ -105,7 +105,6 @@
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/7158d77c-d5b8-414d-a5f5-2634c6477967> | Ballade No.2 in F Major, Op.38                     |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/a9f1b15d-a462-4ee7-ac40-61efb5710f74> | By the Gates of the Holy Dwelling                  |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1> | Concerto No. 3 in D Minor, Op 30: II. Intermezzo:  |
-| Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/31698989-548d-40ab-adbd-a2455cd75ea1> | Concerto No. 3 in D Minor, Op 30: II. Intermezzo:  |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/3f92a7f7-33c3-4f8c-a353-d712c0b7ac0e> | Concerto no. 3 in D minor, op. 30: I. Allegro ma n |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/199d3f51-1d57-4415-9d64-dafbe0a64165> | Impromptu no. 4 in C-sharp minor, op. 66 "Fantaisi |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/cc87567e-3d07-40ee-a38e-5c2b370b2da1> | Mazurka No.21 in C Sharp Minor, Op.30 No.4         |
@@ -119,7 +118,6 @@
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/4b973e61-232b-42e1-8071-7f092835e7e8> | Piano Concerto no. 4 in G major: I. Andante con mo |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/2f631f9e-491e-4a98-819a-d23fe77dcfc3> | Piano Quintet in F minor, op. 34: 1. Allegro non t |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/b9537ec8-de8c-449a-9d83-7f60a0900f11> | Piano Sonata No. 8 in B-flat major, Op. 84: II. An |
-| Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c> | Pictures at an Exhibition, for Piano: Promenade: G |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/f50dcc7b-44bd-4953-afdd-f930ac78e45c> | Pictures at an Exhibition, for Piano: Promenade: G |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/a0c0261f-b117-49b4-95e6-9bd43ae58876> | Prelude no. 1. in C-Sharp minor, op. 3 no. 2       |
 | Ashkenazy, Vladimir             | <https://beta.musicbrainz.org/recording/dac2b92e-501f-4f6f-ba39-d62eb481c834> | Quatre morceaux, op. 51                            |
@@ -136,8 +134,8 @@
 | Badura-Skoda, Paul              | <https://beta.musicbrainz.org/recording/8cfec465-dba2-405b-91e1-ffd8ea795782> | Sonate en sol majeur, opus 14/II: II. Andante      |
 | Badura-Skoda, Paul              | <https://beta.musicbrainz.org/recording/9b7195f5-df47-4711-9f35-52e061608b07> | Variations symphoniques, FWV 46                    |
 | Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/4057e939-4239-49bf-8ede-76e71d86e60c> | Cello Sonata in G minor, op. 65: II. Scherzo: Alle |
-| Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/a753755c-d9fe-440c-b073-34c39bc6eba2> | Concerto for Piano and Orchestra no. 2 in B-flat m |
 | Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/59e3d47f-643e-4581-8bb4-074cff45d608> | Concerto for Piano and Orchestra no. 2 in B-flat m |
+| Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/a753755c-d9fe-440c-b073-34c39bc6eba2> | Concerto for Piano and Orchestra no. 2 in B-flat m |
 | Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/d430734c-1c9f-42f3-80e3-dc5b7c22f056> | Concerto for Piano and Orchestra no. 2 in B-flat m |
 | Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/da77829b-3886-4ecc-abfe-4c0942f81954> | Concerto for Piano and Orchestra no. 2 in B-flat m |
 | Barenboim, Daniel               | <https://beta.musicbrainz.org/recording/6ef8f040-ca4f-4f11-b85e-c4794380a70f> | Concerto for Piano, Violin, Cello, and Orchestra i |
@@ -177,8 +175,6 @@
 | Ciani, Dino                     | <https://beta.musicbrainz.org/recording/2207aa75-69f3-4cfb-bf5c-ad951e074eb5> | Children's Corner, L 113: 6. Golliwogg's Cakewalk  |
 | Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/e6afb8a7-d8c2-46e3-bdec-702669472d91> | 7 Variations in E-flat major on Mozart's The Magic |
 | Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8> | Au bord d'une source                               |
-| Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8> | Au bord d'une source                               |
-| Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/07de5252-eea7-4a76-9e68-adfa8f3de0b8> | Au bord d'une source                               |
 | Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/2a73d132-9973-4d5d-854d-77bd405a307c> | Impromptu no. 2 in F-sharp major, op. 36           |
 | Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/7e07b8ce-d35f-4ef6-9827-261130d7a0fe> | Piano Concerto No. 4 in C minor, Op. 44: Ia. Alleg |
 | Cortot, Alfred                  | <https://beta.musicbrainz.org/recording/df782936-5bdb-4b3b-97a7-387cdb36d4c2> | Piano Concerto No. 4 in C minor, Op. 44: Ib. Andan |
@@ -198,8 +194,8 @@
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/3f6f5524-7b23-48a2-91b7-370f045d9a38> | 7 Bagatelles, Op. 33 No. 7 in A-flat major: Presto |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/56e51e52-cf95-4294-8b5b-4751d41b9c63> | Concerto for Piano and Orchestra no. 3 in D major, |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/9fe02739-5b59-4388-b9e6-7883a6049a8f> | Concerto for Piano and Orchestra no. 5 in F minor, |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/f52920f5-f72c-4e65-823f-b6c56f4eaad8> | Fantasy for Violin and Piano Accompaniment, Op. 47 |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/2d2f2b36-b7c4-42bb-86d8-feb91161faab> | Fantasy for Violin and Piano Accompaniment, Op. 47 |
+| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/f52920f5-f72c-4e65-823f-b6c56f4eaad8> | Fantasy for Violin and Piano Accompaniment, Op. 47 |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/b5c37a85-5ba4-4e78-9747-d43c9cab6aa2> | French Suite No. 4 in E-flat major, BWV 815        |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/f7c7fb18-f659-4a78-8230-8b11714ba079> | French Suite No. 5 in G major, BWV 816             |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/eb243841-8c24-4aa3-a383-fd4b9376c917> | French Suite No. 6 in E major, BWV 817             |
@@ -208,30 +204,17 @@
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/feff41ae-be69-499d-9c0c-f0beb4c1a4cb> | Overture in the French Style, BWV 831              |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/12c7595c-8ef4-4ea1-810e-7e89fed895c5> | Overture in the French Style, BWV 831: VI. Passepi |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a> | Sonata for Piano No. 15 in F major, K. 494/533: I. |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a> | Sonata for Piano No. 15 in F major, K. 494/533: I. |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/5be5863d-d73f-4a28-be79-c268ba32541a> | Sonata for Piano No. 15 in F major, K. 494/533: I. |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14> | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14> | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/8a782e3d-39e6-422b-bd3d-6f313904fa14> | Sonata for Piano No. 15 in F major, K. 494/533: II |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
+| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/ce7bfa7e-7a12-422c-91dd-55fab484454f> | Sonata for Piano No. 15 in F major, K. 494/533: II |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/0ef23731-9dcb-4efe-bad4-82a094625c76> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/f1fc5bb1-59ed-45de-b987-0c0d9b67546a> | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
+| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/6c959751-e073-42a0-8801-36e3bcac6056> | Sonata for Piano No. 17 in B-flat major, K. 570: I |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/27e37ee8-a63b-4f84-88ce-6529c89f202d> | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
+| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/f1fc5bb1-59ed-45de-b987-0c0d9b67546a> | Sonata for Piano No. 4 in E-flat major, K. 189g/28 |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/f085a93f-7c0f-4690-b499-c410378051be> | Sonata for Piano No. 6 in D major, K. 205b/284 "Dü |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/e9fa35d6-e3dc-4a58-a1f7-7cf08a78a9ec> | Sonata for Piano No. 9 in D major, K. 284c/311: II |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/89bad6f9-a4a7-44b9-addb-35ccc4f30e49> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/ed3f152b-21c8-49e6-a878-c43e8eb59bee> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
+| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/fc2097a3-e1ba-4634-a8b7-ce61b911e2e6> | Sonata for Piano no. 10 in G major, op. 14 no. 2:  |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/55945c2d-ec52-4408-98cb-523f031db83d> | Sonata for Piano, Op. 1                            |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/55e38ce9-5762-4d79-bf19-1260c6d47a0c> | Suite For Piano, Op. 25: II. Gavotte               |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/490a4d5f-db80-4255-bf50-05eac74f6a18> | Suite For Piano, Op. 25: III. Musette              |
@@ -242,7 +225,6 @@
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/fc9d7f21-37b7-4aa8-a8f3-0393ee42162a> | Suite No. 3 in D minor, HWV 428: Variatio III      |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/86c46ead-70ab-4e72-bdbd-eb3f784e685e> | Suite No. 3 in D minor, HWV 428: Variatio IV       |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/b23af04a-a7c2-42f4-b112-d383c992e617> | Suite No. 3 in D minor, HWV 428: Variatio V        |
-| Gould, Glenn                    | <https://beta.musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36> | Suite für Klavier, Op. 25: II. Gavotte; Musette    |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/3201b89d-760c-43c9-8763-0290cbf24b36> | Suite für Klavier, Op. 25: II. Gavotte; Musette    |
 | Gould, Glenn                    | <https://beta.musicbrainz.org/recording/abdf9b8f-78ee-4c89-aa58-6f4c09969a8f> | Sérénade n° 9 en ré majeur "Posthorn" K. 320 : Iii |
 | Grimaud, Hélène                 | <https://beta.musicbrainz.org/recording/051ea95d-1823-429b-97b9-4aa052d8aac6> | Choral Fantasy, op. 80                             |
@@ -256,149 +238,53 @@
 | Gulda, Friedrich                | <https://beta.musicbrainz.org/recording/9f8413ef-7deb-494c-878c-b49e7de5a8c0> | What Is This Thing Called Love                     |
 | Gulda, Friedrich                | <https://beta.musicbrainz.org/recording/523978cb-2972-4e01-bef0-cb1928b56711> | ’Round Midnight                                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4> | Canonic Variations and Fugue, BVB40                |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4> | Canonic Variations and Fugue, BVB40                |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/671f5e61-f7ee-4823-8f04-b3e68562efc4> | Canonic Variations and Fugue, BVB40                |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7> | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7> | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/91a95854-056f-4194-9fb5-cb8ebb642ed7> | Elegies, BV249: No. 1. Nach der Wendung (Recueille |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b> | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b> | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8feac7b7-802c-4f04-b01c-b6d8d8f8d89b> | Elegies, BV249: No. 2. All'Italia! (In modo napoli |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96> | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96> | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/bc799b29-f6da-4b51-8df7-3491c0e18b96> | Elegies, BV249: No. 3. Meine Seele bangt und hofft |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c> | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c> | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/645740ab-5266-444e-a4b8-b681593e943c> | Elegies, BV249: No. 4. Turandots Frauengemach (Int |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea> | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea> | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/f930acab-071b-49db-b33b-d81b5d08feea> | Elegies, BV249: No. 5. Die Nächtlichen (Walzer)    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b> | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b> | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/758d4537-f7f6-436b-beec-d7765caf424b> | Elegies, BV249: No. 6. Erscheinung (Notturno)      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b> | Elegies, BV249: No. 7. Berceuse                    |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b> | Elegies, BV249: No. 7. Berceuse                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/bbb575a3-d40f-4858-bad2-d95b6d913b3b> | Elegies, BV249: No. 7. Berceuse                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14> | Giga, bolero e variazione, BV254                   |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14> | Giga, bolero e variazione, BV254                   |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/0861f164-8896-4105-8f42-e9a70ddd4d14> | Giga, bolero e variazione, BV254                   |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a> | Indianisches Erntelied                             |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a> | Indianisches Erntelied                             |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/377225e7-52c0-4b0d-becb-b9d7ba408d1a> | Indianisches Erntelied                             |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398> | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398> | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/72c1317a-24c9-44f9-9f1a-64b276bbb398> | Indianisches Tagebuch, Book 1, BV267: Allegretto a |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e> | Indianisches Tagebuch, Book 1, BV267: Andante      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e> | Indianisches Tagebuch, Book 1, BV267: Andante      |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/91a6f430-16e7-4286-b27c-469407a6875e> | Indianisches Tagebuch, Book 1, BV267: Andante      |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3> | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3> | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/5fac1e8d-3bb3-4602-945a-25cb9af860e3> | Indianisches Tagebuch, Book 1, BV267: Maestoso ma  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4> | Indianisches Tagebuch, Book 1, BV267: Vivace       |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4> | Indianisches Tagebuch, Book 1, BV267: Vivace       |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/39f74a9c-c034-4ec9-818a-929104b3f6e4> | Indianisches Tagebuch, Book 1, BV267: Vivace       |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc> | Klavierübung: Allegro                              |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc> | Klavierübung: Allegro                              |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/348bef93-2d47-452c-911d-d933538991fc> | Klavierübung: Allegro                              |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9> | Klavierübung: Motive: Allegro risoluto             |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9> | Klavierübung: Motive: Allegro risoluto             |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/619a863d-51a3-45a0-9c65-adf2d5a93ed9> | Klavierübung: Motive: Allegro risoluto             |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96> | Klavierübung: Preludio (without the third finger): |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96> | Klavierübung: Preludio (without the third finger): |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e7a75678-c4a7-4da7-a965-b8aa29f4bc96> | Klavierübung: Preludio (without the third finger): |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73> | Klavierübung: Preludio: Allegro festivo            |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73> | Klavierübung: Preludio: Allegro festivo            |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/37477bb4-71d2-4027-a6a2-6315819fec73> | Klavierübung: Preludio: Allegro festivo            |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad> | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad> | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/5de4d598-8c01-4921-b0de-657be9d7c8ad> | Klavierübung: Variations-Studie nach Mozart, 1 [Se |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32> | Klavierübung: Veloce e leggiero                    |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32> | Klavierübung: Veloce e leggiero                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/583db228-5f63-455b-9b27-1ee06f87aa32> | Klavierübung: Veloce e leggiero                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6> | Klavierübung: Vivace moderato, con precisione      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6> | Klavierübung: Vivace moderato, con precisione      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/35a37495-33d5-40d9-a270-2cf9c03d16b6> | Klavierübung: Vivace moderato, con precisione      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe> | Nine Variations on a Chopin Prelude (in C minor, o |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe> | Nine Variations on a Chopin Prelude (in C minor, o |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c76c0129-45a0-4c2c-a524-6b9575077ebe> | Nine Variations on a Chopin Prelude (in C minor, o |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d> | Nuits de Noël, BV251                               |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d> | Nuits de Noël, BV251                               |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c05d1088-fde0-4648-a61d-f358ff7b295d> | Nuits de Noël, BV251                               |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653> | Perpetuum mobile, BV 293                           |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653> | Perpetuum mobile, BV 293                           |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/4f263190-1ba0-43b7-896f-ed27a2cfb653> | Perpetuum mobile, BV 293                           |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9> | Prologo, BV279                                     |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9> | Prologo, BV279                                     |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ab33592d-f774-486e-afca-b2698326e1a9> | Prologo, BV279                                     |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2> | Prélude et étude en arpèges, BV 297: Prélude: Ario |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2> | Prélude et étude en arpèges, BV 297: Prélude: Ario |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/969c1ff8-54ba-4ee4-b949-2877858e85a2> | Prélude et étude en arpèges, BV 297: Prélude: Ario |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746> | Prélude et étude en arpèges, BV 297: Étude: Allegr |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746> | Prélude et étude en arpèges, BV 297: Étude: Allegr |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/7f59a9eb-173f-4383-900e-8c8a1f52f746> | Prélude et étude en arpèges, BV 297: Étude: Allegr |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/2857e1ad-692f-45f4-aab8-ccc16c4d79ae> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5> | Seven Short Pieces for the Cultivation of Polyphon |
+| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
+| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/92513e09-b220-4b94-8383-f7ab64d10dd5> | Seven Short Pieces for the Cultivation of Polyphon |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/c07e2a46-f03e-4ef4-a9c8-1aba8aca756c> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/61efad97-f630-4d83-9a3f-e955abd81d55> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/3001e24e-14cd-4432-83f7-80e654a5a311> | Seven Short Pieces for the Cultivation of Polyphon |
+| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/ccb945cf-d0c5-4f2d-928f-4f2f0d5a6f3e> | Seven Short Pieces for the Cultivation of Polyphon |
+| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/e3ff6d3a-cd99-414f-b7be-e814f263daf6> | Seven Short Pieces for the Cultivation of Polyphon |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/a58b3241-dcd2-4d15-b60f-9a23de02fb66> | Sonate-fantaisie in G-sharp minor, op. posth.      |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/18d8a34f-9671-4908-a6f9-764a66518deb> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/4a10098c-9fb0-4488-9c54-c35616b2219d> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
+| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/50c1834a-20e4-420a-8e0b-cf22b7170599> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/7be813fb-a296-4233-8022-cf5be88c2e36> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba> | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba> | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
+| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/8f30df04-776a-475e-af5c-ddbbe41724d2> | Sonatina no. 3, “ad usum infantis Madeline M* Amer |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/d49ed96b-8628-4a32-b5e9-61eb13f78cba> | Sonatina no. 4, “in diem nativitatis Christi MCMXV |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454> | Sonatina no. 5, brevis “in signo Joannis Sebastini |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454> | Sonatina no. 5, brevis “in signo Joannis Sebastini |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/cf611635-a9c5-4fb2-89c6-547d5a38f454> | Sonatina no. 5, brevis “in signo Joannis Sebastini |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c> | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c> | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/95016f4c-4ea6-4cac-8aa7-31b3c8a5586c> | Sonatina no. 6, Kammer-Fantasie über Carmen, BV284 |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09> | Sonatina seconda, BV259                            |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09> | Sonatina seconda, BV259                            |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/a7d94dbd-b324-4576-884b-b3ad8ac8ff09> | Sonatina seconda, BV259                            |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23> | Sonatina, BV257                                    |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23> | Sonatina, BV257                                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/57754f7b-73f4-445d-8eca-cb128b18fd23> | Sonatina, BV257                                    |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d> | Three Albumleaves, BV289: Andante                  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d> | Three Albumleaves, BV289: Andante                  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/d62ba17b-41bd-4f27-b0d5-d2743db8b52d> | Three Albumleaves, BV289: Andante                  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d> | Three Albumleaves, BV289: Andantino sostenuto      |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d> | Three Albumleaves, BV289: Andantino sostenuto      |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/188a4a32-347c-4766-91cf-785614588e2d> | Three Albumleaves, BV289: Andantino sostenuto      |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b> | Three Albumleaves, BV289: Sostenuto religioso (in  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b> | Three Albumleaves, BV289: Sostenuto religioso (in  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/f497c69b-306c-4fd7-9d27-fe6bc0b52c7b> | Three Albumleaves, BV289: Sostenuto religioso (in  |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77> | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
-| Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77> | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
 | Hamelin, Marc-André             | <https://beta.musicbrainz.org/recording/1df2afc3-fe85-4f3e-abab-176002b7cf77> | Toccata: Preludio, Fantasia, Ciaccona, BV287       |
 | Heisser, Jean‐François          | <https://beta.musicbrainz.org/recording/044a6a3c-ad3a-4699-abf4-72bdd011b943> | Trois danses du Lac des Cygnes: N°1 Danse Russe (t |
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/0ac81e43-6b9b-4563-907e-3b1ba4cb81cd> | Concert No 1 G-dur : Allemande (Légèrement)        |
@@ -429,16 +315,13 @@
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/32e82a98-7c30-49fd-aa0f-e921a23b5528> | French Suite no. 6, E major                        |
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/66883010-8cfd-44a0-8407-2ac95b3610f3> | Italian Concerto in F major, BWV 971               |
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde> | Prelude and Fugue No. 2 in C minor, BWV 847        |
-| Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/97be28b0-d7ff-431d-906a-b66ae1810cde> | Prelude and Fugue No. 2 in C minor, BWV 847        |
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/605658c0-bfd9-4014-9a0f-d94e62246594> | Prelude and Fugue No. 24 in B minor, BWV 869       |
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/dbffe985-38b2-491b-b315-2a5e74014de5> | Prelude in C major, BWV 846                        |
-| Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27> | Variations Goldberg - Variatio 19 à 1 clav.        |
 | Jaccottet, Christiane           | <https://beta.musicbrainz.org/recording/a7390fe1-b6f9-407f-a4d1-3df33ef73a27> | Variations Goldberg - Variatio 19 à 1 clav.        |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/95c0f2a2-e175-4dda-9731-d2923b3017d7> | "Es ist gewisslich an der Zeit", BWV 307 et 734: C |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/303b79e0-3966-48e5-a13b-c41d50b7efae> | "Orphée et Eurydice": Acte I. Plainte d'Orphée     |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/aa824688-371b-41bf-a914-91b7f21bf6e1> | "Orphée et Eurydice": Acte II. Danse des ombres he |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/689dbe56-249e-42b6-80f3-2b75d15a677c> | Choral-Prélude "In dulci jubilo", BWV 751          |
-| Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb> | Fantasias, op. 116: VI. Intermezzo in E            |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/e2227dae-5344-483d-b140-f10444da9feb> | Fantasias, op. 116: VI. Intermezzo in E            |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/5892df2b-9a6e-4c2b-9bf3-9ae1d5b89d62> | Le Clavier bien tempéré : "Prélude n°1"            |
 | Kempff, Wilhelm                 | <https://beta.musicbrainz.org/recording/e66f39df-944b-42b6-9532-c87e91de833a> | Suite anglaise no. 3 en sol mineur, BWV 808: IVb.  |
@@ -448,11 +331,11 @@
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/783abce0-57bd-4b05-8b00-b10656d06aab> | Cantata BWV 206, "Schleicht, spielende Wellen,": A |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/8d87fb2c-0469-48c3-b77b-9ea4f6f946bc> | Cantata BWV 206, "Schleicht, spielende Wellen,": R |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/ac6cb614-b7b6-4816-a04b-09a3febda851> | Cantata BWV 206, "Schleicht, spielende Wellen,": R |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/aae4ff8f-ca6d-4026-b67a-744932d6f530> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/7caffade-082d-4fcb-bec6-bf5354e2a12e> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/f2e16406-ccb0-49b1-b8f9-4b4b56a0c32b> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/28f2ee65-a683-4892-b4a0-7afde6b976d4> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/0f933636-a87b-46f0-9a9f-a3f798522f87> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
+| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/28f2ee65-a683-4892-b4a0-7afde6b976d4> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
+| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/7caffade-082d-4fcb-bec6-bf5354e2a12e> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
+| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/aae4ff8f-ca6d-4026-b67a-744932d6f530> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
+| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/f2e16406-ccb0-49b1-b8f9-4b4b56a0c32b> | Cantata No. 206, 'Schleicht, spielende Wellen,' BW |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/efce85c6-3906-4aa9-a92b-71164ae949c1> | Cinquieme Concert: La Cupis                        |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/04ea0e98-da39-4cf0-ba41-7268dc416b60> | Cinquieme Concert: La Forqueray                    |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/a4e75c48-b185-4275-83fa-3992bc2578db> | Cinquieme Concert: La Marais                       |
@@ -462,17 +345,16 @@
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/2f555fe0-dfc3-473f-b5fc-f1848454b556> | Deuxieme Concert: La Boucan                        |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/2e13a92a-70fa-44b0-9ac1-adadd9f626dc> | Deuxieme Concert: La Laborde                       |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff> | Deuxieme Concert: Menuet (I + II)                  |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/2cdac506-5714-4e31-b0cc-3c9811291dff> | Deuxieme Concert: Menuet (I + II)                  |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/3c7fe616-f479-40c6-8ce9-01fdeb84f322> | Fantasia                                           |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/af9bc8d0-d2bc-46d8-b158-709def76b427> | Fantasia II                                        |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/0bc69817-ca83-472d-ae11-38bde7e07fe0> | Flute Sonata in B minor, BWV 1030: I. Andante      |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/67028611-a9c5-4305-a147-6f188f8d6ce8> | Flute Sonata in B minor, BWV 1030: II. Largo e dol |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/aacad11a-1921-41e9-ac4d-f0c405b8dd92> | Flute Sonata in B minor, BWV 1030: III. Presto     |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/daef5add-e26f-476f-9f86-4292ad148e38> | Kanonische Veränderungen über "Vom Himmel hoch, da |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/0bd62eac-9219-4d9b-b0a7-785a0c462aa8> | Kanonische Veränderungen über "Vom Himmel hoch, da |
-| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/afe37a77-52b0-4a0a-85d5-ed0798133a91> | Kanonische Veränderungen über "Vom Himmel hoch, da |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/47b36650-a055-41e2-ac3e-eacb887974b8> | Kanonische Veränderungen über "Vom Himmel hoch, da |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/5004a0c5-f8f9-4c80-a454-382149543efa> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/afe37a77-52b0-4a0a-85d5-ed0798133a91> | Kanonische Veränderungen über "Vom Himmel hoch, da |
+| Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/daef5add-e26f-476f-9f86-4292ad148e38> | Kanonische Veränderungen über "Vom Himmel hoch, da |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/0ba13319-c13f-4636-a690-f11d165247ed> | Kyrie, Gott heiliger Geist, BWV 671                |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/608f62ce-ef94-423e-a512-552a362b6b85> | Pieces de clavecin en concerts: La Coulicam        |
 | Leonhardt, Gustav               | <https://beta.musicbrainz.org/recording/5b38da80-e024-4d12-bd4f-4b2dcf9964ca> | Pieces de clavecin en concerts: La Livri           |
@@ -549,9 +431,9 @@
 | Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/9d8e67a3-5cfb-44e6-862a-e944a2a628a1> | Das Wohltemperierte Klavier, Book I: Prelude and F |
 | Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/0ca43729-f177-45f9-a1a7-4d88528ce170> | Prelude and Fugue in A, op 87/7                    |
 | Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/2c24cff1-5d9a-49e1-a5a0-1528be33265e> | The Well-tempered Clavier (excerpts): Prelude and  |
-| Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/c2e197c0-9e64-4cc4-96a5-1378840996d9> | The Well-tempered Clavier (excerpts): Prelude and  |
 | Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/53e0a403-f7df-4d7f-a937-f41b30fcd62c> | The Well-tempered Clavier (excerpts): Prelude and  |
 | Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/9ade10f5-405c-4765-85c1-5d615b797262> | The Well-tempered Clavier (excerpts): Prelude and  |
+| Nikolayeva, Tatiana Petrovna    | <https://beta.musicbrainz.org/recording/c2e197c0-9e64-4cc4-96a5-1378840996d9> | The Well-tempered Clavier (excerpts): Prelude and  |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/501d17fa-1298-494a-913b-6ea20c6c357a> | Canon and Gigue in D major, T. 377: I. Canon       |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/f987fbe8-c123-408e-82dd-dd2cc6ae2fae> | Canon and Gigue: II. Gigue                         |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/397c6034-ad5c-4a94-9973-ff76da647aea> | Concerto for Cello, Strings and Continuo in B mino |
@@ -559,18 +441,16 @@
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/598e7cd1-44b3-4754-9f22-afd04ae95340> | Concerto for Violin, Strings and Continuo in C maj |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/d61d6425-0567-4a53-a16d-a3ddfa35aa91> | Concerto for Violin, Strings and Continuo in D maj |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b> | Deuxième concert: Premier menuet en rondeau. Deuxi |
-| Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/c9f79f14-ea82-4718-90d2-919eb559d87b> | Deuxième concert: Premier menuet en rondeau. Deuxi |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/164e15d2-2c08-4dcf-ae09-2fa37c3fb068> | Italienisches Konzert F-dur, BWV 971: Allegro      |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/e1e550bc-ec04-4f8b-a6fc-f0499fe41b8c> | Italienisches Konzert F-dur, BWV 971: Andante      |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/bc82ec35-d2c4-4368-b08a-9c2a2e05d918> | Italienisches Konzert F-dur, BWV 971: Presto       |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/d3546ec4-d99c-45fd-bff0-b8e45c4bcaf1> | Prelude and Fugue in A minor, BWV 894: Fughetta    |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/f4aa3193-221b-4811-84df-b9f54cf9a00e> | Prelude and Fugue in A minor, BWV 894: Praeludium  |
-| Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/8e8ae4a3-de59-4858-a6b8-2dab97d9b5fc> | Toccata in F sharp minor, BWV 910: [no tempo indic |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/349b083e-79bd-4f69-8a58-e3a7612839cb> | Toccata in F sharp minor, BWV 910: [no tempo indic |
-| Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/fc496ef4-3a06-4cc2-9c55-45ffdd046f69> | Toccata in F sharp minor, BWV 910: [no tempo indic |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/60db03a6-75c3-4bfe-a76f-cd8bfd3bc1be> | Toccata in F sharp minor, BWV 910: [no tempo indic |
+| Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/8e8ae4a3-de59-4858-a6b8-2dab97d9b5fc> | Toccata in F sharp minor, BWV 910: [no tempo indic |
+| Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/fc496ef4-3a06-4cc2-9c55-45ffdd046f69> | Toccata in F sharp minor, BWV 910: [no tempo indic |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/044655a4-71ae-4376-be4c-01983cbca73e> | Trosième concert: La Timide, Premier rondeau graci |
-| Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01> | Trosième concert: Premier tambourin en rondeau. De |
 | Pinnock, Trevor                 | <https://beta.musicbrainz.org/recording/d9350f1d-2e60-4928-bafe-304852adbd01> | Trosième concert: Premier tambourin en rondeau. De |
 | Pollini, Maurizio               | <https://beta.musicbrainz.org/recording/a9eae5d9-e88b-4edc-ad33-cfe8b9952a46> | ....sofferte onde serene...                        |
 | Pollini, Maurizio               | <https://beta.musicbrainz.org/recording/52a710d6-d8b3-47fb-9918-e5a6d07ebefc> | Allegro in B minor, Op. 8                          |
@@ -612,21 +492,20 @@
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/079f58d9-aa32-4a65-bfbd-c27c96ea4a3b> | Études-tableaux, op. 33 (excerpts): no. 4 in D min |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/6fa00cd0-a747-4205-b1a8-33d12dbf19e4> | Études-tableaux, op. 33 (excerpts): no. 5 in E-fla |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/102222b5-abc7-43e1-82a1-cacda7b08fe0> | Études-tableaux, op. 33 (excerpts): no. 8 in C-Cha |
-| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/52884f6a-8be2-4cd7-ad9b-9453715ab8be> | Études-tableaux, op. 39 (excerpts): no. 1 in C min |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/0a6cc24b-464d-4522-b09d-e6ac9829dd5a> | Études-tableaux, op. 39 (excerpts): no. 1 in C min |
+| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/52884f6a-8be2-4cd7-ad9b-9453715ab8be> | Études-tableaux, op. 39 (excerpts): no. 1 in C min |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/d1c2031e-8251-4b7d-b2e2-3d1386d15b58> | Études-tableaux, op. 39 (excerpts): no. 2 in A min |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/d327daa5-d092-4329-aabf-e7d74eb43c08> | Études-tableaux, op. 39 (excerpts): no. 2 in A min |
-| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/1ee96459-ffd9-4fe1-8e29-2bc64975d9cb> | Études-tableaux, op. 39 (excerpts): no. 3 in F-sha |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/0449448e-b0ab-4a98-9fa8-c8c034f3ab3e> | Études-tableaux, op. 39 (excerpts): no. 3 in F-sha |
-| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/45e9a96b-4e17-40d8-86e1-907a8f36a07a> | Études-tableaux, op. 39 (excerpts): no. 4 in B min |
+| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/1ee96459-ffd9-4fe1-8e29-2bc64975d9cb> | Études-tableaux, op. 39 (excerpts): no. 3 in F-sha |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/3cafcb11-234c-4f5c-80dd-90df581250aa> | Études-tableaux, op. 39 (excerpts): no. 4 in B min |
-| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/d29338bd-67da-4db6-92b1-8fb72adae0d7> | Études-tableaux, op. 39 (excerpts): no. 9 in D maj |
+| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/45e9a96b-4e17-40d8-86e1-907a8f36a07a> | Études-tableaux, op. 39 (excerpts): no. 4 in B min |
 | Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/a076e2df-1659-424e-b792-2e4c70f39b32> | Études-tableaux, op. 39 (excerpts): no. 9 in D maj |
+| Richter, Sviatoslav Teofilovich | <https://beta.musicbrainz.org/recording/d29338bd-67da-4db6-92b1-8fb72adae0d7> | Études-tableaux, op. 39 (excerpts): no. 9 in D maj |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/47af724c-c69d-41a1-a66d-aa482a0b2851> | Chromatic Fantasia and Fugue, for keyboard in D mi |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/1dff307a-041a-4fa4-ae29-5a0bda580046> | Concerto for 2 Keyboards in C major, BWV 1061a: 1. |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/daff0a08-234c-47f3-8381-2310ff855d4f> | Concerto for 2 Keyboards in C major, BWV 1061a: 2. |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/7c1a375e-b3f3-43a7-842e-5fcf8e0a33e1> | Concerto for 2 Keyboards in C major, BWV 1061a: 3. |
-| Rousset, Christophe             | <https://beta.musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661> | Fairest Isle of Isles Excelling                    |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/09125354-4cd9-4155-86e9-95ea7a34c661> | Fairest Isle of Isles Excelling                    |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/63fe9dfc-734b-40cc-90b9-a2b0715ea9c2> | Italian Concerto, for solo keyboard in F major (Cl |
 | Rousset, Christophe             | <https://beta.musicbrainz.org/recording/339b64f5-3838-4fb9-85f1-587e46de71fe> | Overture in the French Manner, partita for keyboar |
@@ -647,157 +526,55 @@
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c2dc870f-e1aa-4e91-9821-b57651e58ebe> | Impromptu no. 3 in G-flat, op. 51                  |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b0e71fb9-310e-4124-968d-cd84352dc874> | Intermezzo in E minor, Op. 115, No. 5              |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe> | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe> | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/21d86e59-3ab9-442c-b397-65c81ae0eabe> | Mazurka no. 1 in F-sharp minor, op. 6, no. 1       |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8> | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8> | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/86de6f72-8432-43d1-ba4b-4b482556dff8> | Mazurka no. 10 in B-flat major, op. 17, no. 1      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d> | Mazurka no. 11 in E minor, op. 17, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d> | Mazurka no. 11 in E minor, op. 17, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/ac71dbd7-0998-46bf-a976-19b3662bc15d> | Mazurka no. 11 in E minor, op. 17, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da> | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da> | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/ff308d81-aea2-48ea-966e-62dcca6578da> | Mazurka no. 12 in A-flat major, op. 17, no. 3      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07> | Mazurka no. 13 in A minor, op. 17, no. 4           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07> | Mazurka no. 13 in A minor, op. 17, no. 4           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/805b6a13-d653-4da2-a46c-164cd7d63b07> | Mazurka no. 13 in A minor, op. 17, no. 4           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a> | Mazurka no. 14 in G minor, op. 24, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a> | Mazurka no. 14 in G minor, op. 24, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/dbf49e59-e45c-4309-8d17-b7d934ec5a2a> | Mazurka no. 14 in G minor, op. 24, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe> | Mazurka no. 15 in C major, op. 24, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe> | Mazurka no. 15 in C major, op. 24, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/cd607e5d-462a-46c2-8baa-dfdd9a8e1cfe> | Mazurka no. 15 in C major, op. 24, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9> | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9> | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/e0f8065c-2f10-4442-add5-71a20c3b44b9> | Mazurka no. 16 in A-flat major, op. 24, no. 3      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1> | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1> | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/5fc60619-0bfe-42c7-9c6b-f9f0d5f8b1c1> | Mazurka no. 17 in B-flat minor, op. 24, no. 4      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf> | Mazurka no. 18 in C minor, op. 30, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf> | Mazurka no. 18 in C minor, op. 30, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c0142557-ca08-461b-b63f-a9fbffd5bddf> | Mazurka no. 18 in C minor, op. 30, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0> | Mazurka no. 19 in B minor, op. 30, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0> | Mazurka no. 19 in B minor, op. 30, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/be968158-be9a-46dc-a925-7ff3f83985a0> | Mazurka no. 19 in B minor, op. 30, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024> | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024> | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3d484054-c752-45c5-96ed-1e56541f1024> | Mazurka no. 2 in C-sharp minor, op. 6, no. 2       |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa> | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa> | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/04f6b175-06ef-43ad-a68c-12e3776b18aa> | Mazurka no. 20 in D-flat major, op. 30, no. 3      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5> | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5> | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/968dce74-b9fd-42e6-8d42-a00c368e4dd5> | Mazurka no. 21 in C-sharp minor, op. 30, no. 4     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5> | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5> | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/75c1ebec-b638-40c7-9128-3ec9a69831a5> | Mazurka no. 22 in G-sharp minor, op. 33, no. 1     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f> | Mazurka no. 23 in D major, op. 33, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f> | Mazurka no. 23 in D major, op. 33, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/94a9b33e-0c76-4aa5-aa7c-4fd4da584c8f> | Mazurka no. 23 in D major, op. 33, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1> | Mazurka no. 24 in C major, op. 33, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1> | Mazurka no. 24 in C major, op. 33, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/8e86248c-5216-4b0d-9ac2-709198428ee1> | Mazurka no. 24 in C major, op. 33, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb> | Mazurka no. 25 in B minor, op. 33, no. 4           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb> | Mazurka no. 25 in B minor, op. 33, no. 4           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6ab856ed-66a8-47ad-9618-ee90ad492fcb> | Mazurka no. 25 in B minor, op. 33, no. 4           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb> | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb> | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/c3c38336-7bc3-459c-83c4-1feb773e04eb> | Mazurka no. 26 in C-sharp minor, op. 41, no. 1     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49> | Mazurka no. 27 in E minor, op. 41, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49> | Mazurka no. 27 in E minor, op. 41, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f33a489d-9a4d-4ad7-bd73-54189330dd49> | Mazurka no. 27 in E minor, op. 41, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865> | Mazurka no. 28 in B major, op. 41, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865> | Mazurka no. 28 in B major, op. 41, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d3c3fcf9-b345-460f-8bc6-de3c49695865> | Mazurka no. 28 in B major, op. 41, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1> | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1> | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/5a7f3e54-0730-4e0f-a5e1-abca5fafd2f1> | Mazurka no. 29 in A-flat major, op. 41, no. 4      |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da> | Mazurka no. 3 in E major, op. 6, no. 3             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da> | Mazurka no. 3 in E major, op. 6, no. 3             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f42c2686-af2f-47b0-b3e3-7e537bee12da> | Mazurka no. 3 in E major, op. 6, no. 3             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7> | Mazurka no. 30 in G major, op. 50, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7> | Mazurka no. 30 in G major, op. 50, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/eb39af80-455b-4afa-a931-2b9e0fdcb2f7> | Mazurka no. 30 in G major, op. 50, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a> | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a> | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/7c5729ee-bba0-47b8-9216-7520a0a4233a> | Mazurka no. 31 in A-flat major, op. 50, no. 2      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa> | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa> | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6b3efa34-2fba-4f88-b228-c53322e2a9fa> | Mazurka no. 32 in C-sharp minor, op. 50, no. 3     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5> | Mazurka no. 33 in B major, op. 56, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5> | Mazurka no. 33 in B major, op. 56, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0f75374d-e95c-4148-aa8e-c4376ae0f8e5> | Mazurka no. 33 in B major, op. 56, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9> | Mazurka no. 34 in C major, op. 56, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9> | Mazurka no. 34 in C major, op. 56, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/70044f97-c473-49aa-bf97-bd97c907c5b9> | Mazurka no. 34 in C major, op. 56, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287> | Mazurka no. 35 in C minor, op. 56, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287> | Mazurka no. 35 in C minor, op. 56, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/df927168-9911-4257-baa0-f765599fb287> | Mazurka no. 35 in C minor, op. 56, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892> | Mazurka no. 36 in A minor, op. 59, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892> | Mazurka no. 36 in A minor, op. 59, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f75a9c64-4b65-4314-a619-5a5b94cc9892> | Mazurka no. 36 in A minor, op. 59, no. 1           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d> | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d> | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/89451353-c7b5-4daa-a8e5-d94403ec8f1d> | Mazurka no. 37 in A-flat major, op. 59, no. 2      |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4> | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4> | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/91bb45b7-c0a8-4bba-812b-bc4e5601a2b4> | Mazurka no. 38 in F-sharp minor, op. 59, no. 3     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51> | Mazurka no. 39 in B major, op. 63, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51> | Mazurka no. 39 in B major, op. 63, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/8c8ed82f-5546-48cf-8498-44dbbffece51> | Mazurka no. 39 in B major, op. 63, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d> | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d> | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f4df8a29-58e8-413d-be00-48002b7e3e7d> | Mazurka no. 4 in E-flat minor, op. 6, no. 4        |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90> | Mazurka no. 40 in F minor, op. 63, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90> | Mazurka no. 40 in F minor, op. 63, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3b3abd28-d528-44ef-84f3-238c9eabbf90> | Mazurka no. 40 in F minor, op. 63, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1> | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1> | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/24cdf529-26f1-4005-84b7-18c9c39706f1> | Mazurka no. 41 in C-sharp minor, op. 63, no. 3     |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf> | Mazurka no. 42 in G major, op. 67, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf> | Mazurka no. 42 in G major, op. 67, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/15bc0788-442b-4c65-b8d4-751907290daf> | Mazurka no. 42 in G major, op. 67, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494> | Mazurka no. 43 in G minor, op. 67, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494> | Mazurka no. 43 in G minor, op. 67, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b15b801c-48ba-41c4-82c2-b66f6f477494> | Mazurka no. 43 in G minor, op. 67, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc> | Mazurka no. 44 in C major, op. 67, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc> | Mazurka no. 44 in C major, op. 67, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/6c376e52-cbbf-4246-a61f-e53215688ffc> | Mazurka no. 44 in C major, op. 67, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da> | Mazurka no. 45 in A minor, op. 67, no. 4           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da> | Mazurka no. 45 in A minor, op. 67, no. 4           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/3db94523-883d-4999-a773-46e2718fb2da> | Mazurka no. 45 in A minor, op. 67, no. 4           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba> | Mazurka no. 46 in C major, op. 68, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba> | Mazurka no. 46 in C major, op. 68, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/38e16ea6-261b-4c71-bb38-edc5577996ba> | Mazurka no. 46 in C major, op. 68, no. 1           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f> | Mazurka no. 47 in A minor, op. 68, no. 2           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f> | Mazurka no. 47 in A minor, op. 68, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/dd284ea7-26a0-48c1-9f86-c261abff794f> | Mazurka no. 47 in A minor, op. 68, no. 2           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0> | Mazurka no. 48 in F major, op. 68, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0> | Mazurka no. 48 in F major, op. 68, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/585bdc82-fce3-48c0-8d68-8977bf8a9bc0> | Mazurka no. 48 in F major, op. 68, no. 3           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf> | Mazurka no. 49 in F minor, op. 68, no. 4           |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf> | Mazurka no. 49 in F minor, op. 68, no. 4           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/88e6af23-22b4-4a60-83f7-1c23512c8bcf> | Mazurka no. 49 in F minor, op. 68, no. 4           |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd> | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd> | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0a765678-8e69-43e9-8624-33b36cc298fd> | Mazurka no. 5 in B-flat major, op. 7, no. 1        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184> | Mazurka no. 50 in A minor, op. posth., "Notre temp |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184> | Mazurka no. 50 in A minor, op. posth., "Notre temp |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d62d6a8a-6905-4de1-a561-191cd0a10184> | Mazurka no. 50 in A minor, op. posth., "Notre temp |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153> | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153> | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/d69b605a-e3a3-4063-9544-1ffae076e153> | Mazurka no. 51 in A minor, op. posth., "A Emile Ga |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a> | Mazurka no. 6 in A minor, op. 7, no. 2             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a> | Mazurka no. 6 in A minor, op. 7, no. 2             |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/a16dbccb-e3be-4980-9f35-6cae6726b37a> | Mazurka no. 6 in A minor, op. 7, no. 2             |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b> | Mazurka no. 7 in F minor, op. 7, no. 3             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b> | Mazurka no. 7 in F minor, op. 7, no. 3             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/4b43cd39-c585-4ab3-a07e-77e12469f92b> | Mazurka no. 7 in F minor, op. 7, no. 3             |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34> | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34> | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/df195181-65f9-4f09-aece-e82158aaad34> | Mazurka no. 8 in A-flat major, op. 7, no. 4        |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce> | Mazurka no. 9 in C major, op. 7, no. 5             |
-| Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce> | Mazurka no. 9 in C major, op. 7, no. 5             |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/b5fd8981-4c7b-4590-ab25-943026acfdce> | Mazurka no. 9 in C major, op. 7, no. 5             |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0bfa8d26-57a0-4e8f-8c1c-1e0560219d96> | Noches en los jardines de Espana: I. en el General |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/4da8927b-c926-4cac-83d9-468a6ea10f01> | Noches en los jardines de Espana: II. Danza lejana |
@@ -820,12 +597,12 @@
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/69839619-9b0f-4dac-b627-78ab81ec01ed> | Visions fugitives, op. 22: no. 2: Andante          |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/f5a474d9-94ea-441e-9e2c-e6d6e0d7d3d6> | Widmung op. 25 no. 1                               |
 | Rubinstein, Arthur              | <https://beta.musicbrainz.org/recording/0a4e1128-7f20-497b-bc0f-52318a284aa1> | Wiegenlied op. 49 no. 4                            |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/cd8f95d0-7561-4c37-8c3d-853ae0888964> | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/709b90e3-1265-4b96-852f-059b765780de> | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/cd8f95d0-7561-4c37-8c3d-853ae0888964> | Chromatic Fantasy and Fugue in D minor, BWV 903: I |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/1cd14107-6936-499c-b44c-0e35eab1f84e> | Concerto for Piano and Orchestra no. 1 in C major, |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/9a0b2c99-3833-458d-aab9-f21e4868e65e> | Contrasts (Kontrasztok) for Clarinet, Violin and P |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/a4c2641a-685b-4a65-9a36-1a6df9f9c209> | Contrasts (Kontrasztok) for Clarinet, Violin and P |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/df5daacf-d284-4b0f-b1c4-673dd330ba14> | Contrasts (Kontrasztok) for Clarinet, Violin and P |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/9a0b2c99-3833-458d-aab9-f21e4868e65e> | Contrasts (Kontrasztok) for Clarinet, Violin and P |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/4577863a-43cb-486d-b5c7-8619f1ad9684> | Diabelli-Variationen op. 120: Thema. Vivace        |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/e7007385-64c7-4f4c-a95b-1547f867bf65> | Diabelli-Variationen op. 120: Var. I Alla marcia m |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/6e70e222-7d59-4e88-8242-19fff75c6faa> | Diabelli-Variationen op. 120: Var. II Poco allegro |
@@ -896,33 +673,33 @@
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/198bcf10-3183-4c63-a899-a529a401330a> | Diabelli-Variationen, op. 120: Var. XXXIII Tempo d |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/a2a9ad0d-59fe-4f71-a0e2-e1b9b0c6eacc> | Fantasie C-Dur für Klavier, D 760 "Wanderer-Fantas |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/001d7c2b-ea40-4bfb-9beb-989ee74e7f3e> | Fantasie C-Dur für Violine and Klavier, D 934      |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/21e8f3de-dd45-48a7-8ddc-5ea8d91e38e3> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/e062081f-57b2-4454-821a-08df9213e73b> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/962cbf7d-7e39-458f-8306-45de78c628aa> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/183784fa-5c93-4cb1-951d-444791a6cc76> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/21e8f3de-dd45-48a7-8ddc-5ea8d91e38e3> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/962cbf7d-7e39-458f-8306-45de78c628aa> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/991a3f29-4a7f-4290-910a-7cae2e9c9069> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/e062081f-57b2-4454-821a-08df9213e73b> | Five Songs on Poems by Endre Ady (Öt dal Ady Endre |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/4f835f0c-d675-41fe-9367-0b329c6b76a6> | Lieder ohne Worte, op. 62: no. 1 Andante espressiv |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/f6f7c3a9-7bf1-49b4-b9b0-c25d5775f2d5> | Lieder ohne Worte, op. 67, Arr. Hardenberger/Pönti |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/63ec0e9f-cc1a-4f8e-b9cc-a6db06127aa2> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/7b81d519-ea37-424f-98ab-19dd7a44d253> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/d22633cb-4a99-42c4-9b69-74dc03378fc7> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/f7444d64-d50b-4bbd-9853-4f796edb0b4b> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/7b81d519-ea37-424f-98ab-19dd7a44d253> | Piano Quintet in A major, Op. 114, D 667, "The Tro |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/1f40134b-0c63-49d6-8681-12a4c593654b> | Sechs Bagatellen, op. 126: Allegro                 |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/4d1025f3-1d9b-41e1-91c9-19029bc2c7b4> | Sechs Bagatellen, op. 126: Andante cantabile e gra |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/44087d86-8b92-4c8f-ad50-bfa172bd7303> | Sechs Bagatellen, op. 126: Andante con moto cantab |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/7870cbf2-35fc-4200-947d-b3f8b8753216> | Sechs Bagatellen, op. 126: Presto                  |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/5d86c2bf-11c3-4339-b013-96276e16c154> | Sechs Bagatellen, op. 126: Presto-Andante amabile  |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/e97c9d54-b0a6-413b-98e5-ab2bec5fd519> | Sechs Bagatellen, op. 126: Quasi Allegretto        |
-| Schiff, András                  | <https://beta.musicbrainz.org/recording/c08ea6cd-c738-4de3-98c2-ff7b60bf7f5a> | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/a81ee781-088e-407e-b5ec-4d67ca73a37e> | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
+| Schiff, András                  | <https://beta.musicbrainz.org/recording/c08ea6cd-c738-4de3-98c2-ff7b60bf7f5a> | Sonata for Piano no. 16 in C major, K. 545 "Sonata |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/e15a59f1-5618-498d-a150-2c2e72c4565f> | Sonata in E minor, K. 304: II. Tempo di menuetto   |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/e92227b8-c0c5-4dd0-a151-00cc818a778b> | Sonata no. 32 in C minor, op. 111: Arietta. Adagio |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/c830938b-c021-45ae-9764-ceacb5cfa6b3> | Sonata no. 32 in C minor, op. 111: Maestoso-Allegr |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/3b3bc7c4-c469-4708-b089-281809ffed41> | Suite no. 2 in A minor, BWV 807: V. Bourrée I alte |
 | Schiff, András                  | <https://beta.musicbrainz.org/recording/eb7a5518-4aa8-41b7-a65a-b82642894dc2> | Venetian Boat Song op. 19, no. 6                   |
 | Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/beca747d-e4ed-4a2e-9e4a-4265b9d1ea4a> | Divertissement sur des motifs originaux francais:  |
-| Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/3fec7567-12e0-45d6-adf4-b236c836bf1d> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
 | Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/14156adf-3143-4812-ac32-5e4519c99a42> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
+| Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/3fec7567-12e0-45d6-adf4-b236c836bf1d> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
 | Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/5d45ece6-8ae2-4e84-b658-6a1784410fd8> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
 | Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/9a684bb2-1997-4d5a-858b-0d12796ce4ba> | Sonata for Piano No. 13 in E-flat major, Op. 27 No |
 | Schnabel, Artur                 | <https://beta.musicbrainz.org/recording/71dc8d5a-7bbf-4cd1-a0a6-4a823da4a1c5> | Sonata for Piano No. 32 in C minor, Op. 111: Ia. M |
@@ -950,11 +727,10 @@
 | Verlet, Blandine                | <https://beta.musicbrainz.org/recording/75a8df7e-6fd9-4281-bf75-c18ebbc051db> | Cinq pièces (1741), L'Indiscrète                   |
 | Verlet, Blandine                | <https://beta.musicbrainz.org/recording/effc3feb-8871-43a0-9aa1-23e8aef3a1d1> | Cinq pièces (1741), La Livri                       |
 | Verlet, Blandine                | <https://beta.musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1> | Cinq pièces (1741), La Timide : 1er Rondeau, 2e Ro |
-| Verlet, Blandine                | <https://beta.musicbrainz.org/recording/5880aa6f-c08f-446f-8cff-3eae1620d6d1> | Cinq pièces (1741), La Timide : 1er Rondeau, 2e Ro |
 | Verlet, Blandine                | <https://beta.musicbrainz.org/recording/c6c9cb32-d206-4f13-a2a1-655ec2e9a3ec> | Gigues en Rondeau                                  |
 |---------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
 
-(949 rows)
+(725 rows)
 
 |-------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
 |    artist_name    |                                 recording_url                                 |                   recording_name                   |
@@ -962,43 +738,28 @@
 | Ferras, Christian | <https://beta.musicbrainz.org/recording/0bfbd985-b2a8-4a34-9e04-f8475258f079> | Konzert für Violine und Orchester in D-dur, op. 77 |
 | Ferras, Christian | <https://beta.musicbrainz.org/recording/7751960d-5258-41be-a2ce-0da701ff4779> | Violin Concerto in D major, op. 35: I. Allegro mod |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4f6c35d2-f024-4964-8310-75387b315588> | 24 Caprices, op. 1: No. 13 in B-flat               |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4f6c35d2-f024-4964-8310-75387b315588> | 24 Caprices, op. 1: No. 13 in B-flat               |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a13264cf-bb2f-47c0-85e7-824c79beaf37> | 24 Caprices, op. 1: No. 20 in D                    |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a13264cf-bb2f-47c0-85e7-824c79beaf37> | 24 Caprices, op. 1: No. 20 in D                    |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7fe18709-0db8-4e4a-9f24-3022c8062d59> | 24 Caprices, op. 1: No. 6 in G minor               |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7fe18709-0db8-4e4a-9f24-3022c8062d59> | 24 Caprices, op. 1: No. 6 in G minor               |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2b2984f5-98bd-4ef1-9267-9a550fc8b6af> | 5 Pieces for string orchestra, op. 44 no. 4: V. Le |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/1899c88d-1507-47ca-a918-06ab95d9a642> | Air from Orchestral Suite no. 3 in D, BWV 1068     |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0ab205bd-6284-4c7f-8c65-4b71b16dae25> | Capriccio, op. 1 no. 23                            |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0ab205bd-6284-4c7f-8c65-4b71b16dae25> | Capriccio, op. 1 no. 23                            |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/57276544-ea26-4e78-95e7-c2187956ac51> | Capriccio, op. 1 no. 24                            |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/57276544-ea26-4e78-95e7-c2187956ac51> | Capriccio, op. 1 no. 24                            |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d8243c99-27ae-4b0f-b4d1-03ee2aa7aaf2> | Capriccio, op. 1 no. 9                             |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d8243c99-27ae-4b0f-b4d1-03ee2aa7aaf2> | Capriccio, op. 1 no. 9                             |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/1999176b-19bc-4321-b84a-e91329f27d76> | Change Partners                                    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c41528df-1f89-4f01-b01f-cf4b52f2cbf2> | Concerto in D minor for 2 Violins and Cello, op. 3 |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b01b7c83-18fc-4b1b-8a7b-c1269c47a4a7> | Di tanti palpiti, op. 13: Introduzione - Larghetto |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c04ce9ab-d525-41e2-a58c-d07c2443dd36> | Di tanti palpiti, op. 13: Introduzione: Larghetto  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c04ce9ab-d525-41e2-a58c-d07c2443dd36> | Di tanti palpiti, op. 13: Introduzione: Larghetto  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0232cfe8-f292-4126-8273-e6e247760189> | Di tanti palpiti, op. 13: Tema - Andantino         |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3a338c06-2b46-481a-83c2-9c03aaf2b4b0> | Di tanti palpiti, op. 13: Tema: Andantino          |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3a338c06-2b46-481a-83c2-9c03aaf2b4b0> | Di tanti palpiti, op. 13: Tema: Andantino          |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/924f695f-3c1c-4554-b137-8633f9753501> | Di tanti palpiti, op. 13: Variation 1              |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/1a641487-462d-4c2d-9156-636334a48901> | Di tanti palpiti, op. 13: Variation 2 - Un poco le |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/baea93b7-0608-41ec-a6d1-24a3079121f8> | Di tanti palpiti, op. 13: Variation 3 - Quasi pres |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/1ed8f109-919c-4f4b-b153-4dd27e1adfd5> | Di tanti palpiti, op. 13: Variation I              |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/1ed8f109-919c-4f4b-b153-4dd27e1adfd5> | Di tanti palpiti, op. 13: Variation I              |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/9775b363-1e04-4792-9eca-0496674576a8> | Di tanti palpiti, op. 13: Variation II: Un poco le |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/9775b363-1e04-4792-9eca-0496674576a8> | Di tanti palpiti, op. 13: Variation II: Un poco le |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/df87d279-97cf-4007-9b47-81771af9f520> | Di tanti palpiti, op. 13: Variation III: Quasi pre |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/df87d279-97cf-4007-9b47-81771af9f520> | Di tanti palpiti, op. 13: Variation III: Quasi pre |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/bfb1572a-7b9f-4243-be59-109c65023cda> | From Violin Sonata no. 5, op. 24, "Spring": Rondo. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/bfb1572a-7b9f-4243-be59-109c65023cda> | From Violin Sonata no. 5, op. 24, "Spring": Rondo. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/bfb1572a-7b9f-4243-be59-109c65023cda> | From Violin Sonata no. 5, op. 24, "Spring": Rondo. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/6b317e53-9a2b-4eec-a6a0-aba69a57ebaf> | I Get a Kick Out of You                            |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/274672a9-57b7-4453-b625-799065e25749> | Isn't This a Lovely Day?                           |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/274672a9-57b7-4453-b625-799065e25749> | Isn't This a Lovely Day?                           |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/98f6228c-acc5-4e11-9f23-f411719b2c78> | Looking at You                                     |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/98f6228c-acc5-4e11-9f23-f411719b2c78> | Looking at You                                     |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c0c9a3a9-0305-4fbc-bc62-cd32878e61bc> | My Funny Valentine                                 |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b54ffe4a-e46c-488c-b490-fc4a9fc188cf> | Mythes: Trois poèmesk, op. 30: III. Dryades et Pan |
@@ -1027,214 +788,107 @@
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/acf2eeb9-e5be-486c-a471-d9e942b10aaf> | Sleeping Beauty, Op. 66: Act III. No. 28: Pas de D |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/df3b3ee8-f48e-49a3-99a6-f0f327fc5676> | Solo Partita No. 3 in E: Prelude                   |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0949a4b0-1924-4b00-96e4-cb4f308c1377> | Sonata for Violin & Piano (1943): I. Allegro con f |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0949a4b0-1924-4b00-96e4-cb4f308c1377> | Sonata for Violin & Piano (1943): I. Allegro con f |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/96c1de86-0898-4e4c-817a-d77fe17a5989> | Sonata for Violin & Piano (1943): II. Intermezzo   |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/96c1de86-0898-4e4c-817a-d77fe17a5989> | Sonata for Violin & Piano (1943): II. Intermezzo   |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ad75abd7-c84c-41fa-99cc-23fb0be9d14f> | Sonata for Violin & Piano (1943): III. Presto trag |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ad75abd7-c84c-41fa-99cc-23fb0be9d14f> | Sonata for Violin & Piano (1943): III. Presto trag |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/db218add-6014-4fed-bb66-8b2b9e3e874f> | Sonata for Violin and Piano No. 2 in A major, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/db218add-6014-4fed-bb66-8b2b9e3e874f> | Sonata for Violin and Piano No. 2 in A major, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/45e82496-6aa5-4eb4-bdc2-7794fa1725e6> | Sonata for Violin and Piano No. 2 in A major, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/45e82496-6aa5-4eb4-bdc2-7794fa1725e6> | Sonata for Violin and Piano No. 2 in A major, Op.  |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/db218add-6014-4fed-bb66-8b2b9e3e874f> | Sonata for Violin and Piano No. 2 in A major, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e9876014-f5bc-45a1-a79b-e056f060e8a9> | Sonata for Violin and Piano No. 2 in A major, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e9876014-f5bc-45a1-a79b-e056f060e8a9> | Sonata for Violin and Piano No. 2 in A major, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5d2186d5-0255-478e-8026-85afb32c3269> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5d2186d5-0255-478e-8026-85afb32c3269> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/030a407a-0a8d-4e5b-a1e3-ec10e73f1e21> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/030a407a-0a8d-4e5b-a1e3-ec10e73f1e21> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c2b4efe0-5e10-4455-8b3d-37873afd7ea5> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5d2186d5-0255-478e-8026-85afb32c3269> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c2b4efe0-5e10-4455-8b3d-37873afd7ea5> | Sonata for Violin and Piano No. 4 in A minor, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/980ac8d8-7396-4a05-9441-9dd73da22db2> | Sonata for Violin and Piano No. 5 in F major, Op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ef63748d-6b26-4fed-8305-526b26ce94a6> | Sonata for Violin and Piano No. 5 in F major, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/bc51d54e-7034-4a0d-bd3b-b943d633b950> | Sonata for Violin and Piano No. 5 in F major, Op.  |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ef63748d-6b26-4fed-8305-526b26ce94a6> | Sonata for Violin and Piano No. 5 in F major, Op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/db11566d-d6ef-4163-aa71-ed8a0bf101ac> | Sonata for violin and cello: I. Allegro            |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4d938d1f-9a42-48b9-b62f-8da7e15ef69e> | Sonata for violin and cello: II. Très vif          |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2cab0c5d-fac3-48d2-95b6-f1d2fe891999> | Sonata for violin and cello: III. Lent             |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/38ca9772-29df-4c7d-97c0-1b05516468b3> | Sonata for violin and cello: IV. Vif, avec entrain |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f69be279-7c46-4c33-a1a7-241c55a31348> | Sonata in D Minor, Op. 5 No. 12 "La Follia"        |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f69be279-7c46-4c33-a1a7-241c55a31348> | Sonata in D Minor, Op. 5 No. 12 "La Follia"        |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cc7b7435-3fd6-4f9f-8077-4a90368fe94f> | Sonata no. 1 in D for violin & continuo, op. 5: I. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cc7b7435-3fd6-4f9f-8077-4a90368fe94f> | Sonata no. 1 in D for violin & continuo, op. 5: I. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e68ef671-54fd-4416-b90d-dd49ca66895b> | Sonata no. 1 in D for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e68ef671-54fd-4416-b90d-dd49ca66895b> | Sonata no. 1 in D for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/537139c2-c755-4890-85fe-f16c0999b1e2> | Sonata no. 1 in D for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/537139c2-c755-4890-85fe-f16c0999b1e2> | Sonata no. 1 in D for violin & continuo, op. 5: II |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e68ef671-54fd-4416-b90d-dd49ca66895b> | Sonata no. 1 in D for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7110f012-278d-4c1d-9031-89108be636d0> | Sonata no. 1 in D for violin & continuo, op. 5: IV |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7110f012-278d-4c1d-9031-89108be636d0> | Sonata no. 1 in D for violin & continuo, op. 5: IV |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0fee4dce-4624-431d-a360-9d021f8ca953> | Sonata no. 1 in D for violin & continuo, op. 5: V. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0fee4dce-4624-431d-a360-9d021f8ca953> | Sonata no. 1 in D for violin & continuo, op. 5: V. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/76dfeeae-8e2f-4e7d-a17e-2c20bfbed277> | Sonata no. 1 in G minor, BWV 1001: I. Adagio       |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/78719b68-556a-41fe-aa8a-698b534798d8> | Sonata no. 1 in G minor, BWV 1001: II. Fuga: Alleg |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3e5ee642-2824-4dc5-9761-7d5e20fdff97> | Sonata no. 10 in F for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3e5ee642-2824-4dc5-9761-7d5e20fdff97> | Sonata no. 10 in F for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/efd56af4-c7a7-48f9-89c2-f188d8af0659> | Sonata no. 10 in F for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/efd56af4-c7a7-48f9-89c2-f188d8af0659> | Sonata no. 10 in F for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/821599ca-ffac-4ac3-bbda-f5da1cfe552e> | Sonata no. 10 in F for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/821599ca-ffac-4ac3-bbda-f5da1cfe552e> | Sonata no. 10 in F for violin & continuo, op. 5: I |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/75ec0338-efe3-4f48-be6a-f06191816ab8> | Sonata no. 10 in F for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/75ec0338-efe3-4f48-be6a-f06191816ab8> | Sonata no. 10 in F for violin & continuo, op. 5: I |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/821599ca-ffac-4ac3-bbda-f5da1cfe552e> | Sonata no. 10 in F for violin & continuo, op. 5: I |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/efd56af4-c7a7-48f9-89c2-f188d8af0659> | Sonata no. 10 in F for violin & continuo, op. 5: I |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b45552a1-ee2c-4802-9031-381cfd96a744> | Sonata no. 10 in F for violin & continuo, op. 5: V |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b45552a1-ee2c-4802-9031-381cfd96a744> | Sonata no. 10 in F for violin & continuo, op. 5: V |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7b916a65-a1c8-4383-9962-62421272a0e6> | Sonata no. 11 in E for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7b916a65-a1c8-4383-9962-62421272a0e6> | Sonata no. 11 in E for violin & continuo, op. 5: I |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/47c20fa9-c7a5-4604-82b6-454433c7a8ab> | Sonata no. 11 in E for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/47c20fa9-c7a5-4604-82b6-454433c7a8ab> | Sonata no. 11 in E for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/af41a984-beb4-4475-9326-f85a01ce0724> | Sonata no. 11 in E for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/af41a984-beb4-4475-9326-f85a01ce0724> | Sonata no. 11 in E for violin & continuo, op. 5: I |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/6d1d2c08-2938-48c5-9c34-78172056a8ae> | Sonata no. 11 in E for violin & continuo, op. 5: I |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/6d1d2c08-2938-48c5-9c34-78172056a8ae> | Sonata no. 11 in E for violin & continuo, op. 5: I |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7b916a65-a1c8-4383-9962-62421272a0e6> | Sonata no. 11 in E for violin & continuo, op. 5: I |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/af41a984-beb4-4475-9326-f85a01ce0724> | Sonata no. 11 in E for violin & continuo, op. 5: I |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d7aafe91-8ba4-42a2-bcc1-e306fb576ff8> | Sonata no. 11 in E for violin & continuo, op. 5: V |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d7aafe91-8ba4-42a2-bcc1-e306fb576ff8> | Sonata no. 11 in E for violin & continuo, op. 5: V |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/689b9010-7d21-420a-9de6-d1e021be1bb1> | Sonata no. 2 in B-flat for violin & continuo, op.  |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2bd24693-fccf-47c0-86c2-e0426a779608> | Sonata no. 2 in B-flat for violin & continuo, op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/689b9010-7d21-420a-9de6-d1e021be1bb1> | Sonata no. 2 in B-flat for violin & continuo, op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cc6fa336-b356-4e11-9437-a087fc963185> | Sonata no. 2 in B-flat for violin & continuo, op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cc6fa336-b356-4e11-9437-a087fc963185> | Sonata no. 2 in B-flat for violin & continuo, op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d509b1e3-32c2-4ec5-b818-13ef5c30bbc1> | Sonata no. 2 in B-flat for violin & continuo, op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d509b1e3-32c2-4ec5-b818-13ef5c30bbc1> | Sonata no. 2 in B-flat for violin & continuo, op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d4c0f6cb-1a32-454b-b06e-4acb2ec24cfe> | Sonata no. 2 in B-flat for violin & continuo, op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d4c0f6cb-1a32-454b-b06e-4acb2ec24cfe> | Sonata no. 2 in B-flat for violin & continuo, op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2bd24693-fccf-47c0-86c2-e0426a779608> | Sonata no. 2 in B-flat for violin & continuo, op.  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2bd24693-fccf-47c0-86c2-e0426a779608> | Sonata no. 2 in B-flat for violin & continuo, op.  |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d509b1e3-32c2-4ec5-b818-13ef5c30bbc1> | Sonata no. 2 in B-flat for violin & continuo, op.  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/63e46843-8b32-4053-b25f-19009d3e760a> | Sonata no. 3 in C for violin & continuo, op. 5: I. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/63e46843-8b32-4053-b25f-19009d3e760a> | Sonata no. 3 in C for violin & continuo, op. 5: I. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/627fe77a-7b54-45a7-9d06-79889d0c84c6> | Sonata no. 3 in C for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/627fe77a-7b54-45a7-9d06-79889d0c84c6> | Sonata no. 3 in C for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4d609dd3-6c5b-493d-93a4-eae5177f66e8> | Sonata no. 3 in C for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4d609dd3-6c5b-493d-93a4-eae5177f66e8> | Sonata no. 3 in C for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ed642b54-507c-439a-bb3e-3199d81a9650> | Sonata no. 3 in C for violin & continuo, op. 5: IV |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/627fe77a-7b54-45a7-9d06-79889d0c84c6> | Sonata no. 3 in C for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ed642b54-507c-439a-bb3e-3199d81a9650> | Sonata no. 3 in C for violin & continuo, op. 5: IV |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/01190e70-68f0-48a5-a713-5fd48edd78c9> | Sonata no. 3 in C for violin & continuo, op. 5: V. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/01190e70-68f0-48a5-a713-5fd48edd78c9> | Sonata no. 3 in C for violin & continuo, op. 5: V. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cd191ec1-636a-4a0e-92d4-c236527b3a0c> | Sonata no. 4 in F for violin & continuo, op. 5: I. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cd191ec1-636a-4a0e-92d4-c236527b3a0c> | Sonata no. 4 in F for violin & continuo, op. 5: I. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/37cdc8db-34cb-489c-afcb-291ebb38d1f6> | Sonata no. 4 in F for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/37cdc8db-34cb-489c-afcb-291ebb38d1f6> | Sonata no. 4 in F for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e26c720d-9ac5-4ed8-8fce-d497e194fa1e> | Sonata no. 4 in F for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e26c720d-9ac5-4ed8-8fce-d497e194fa1e> | Sonata no. 4 in F for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/269d1f9e-0c41-4c89-af36-62e13d1a6be2> | Sonata no. 4 in F for violin & continuo, op. 5: IV |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/269d1f9e-0c41-4c89-af36-62e13d1a6be2> | Sonata no. 4 in F for violin & continuo, op. 5: IV |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c5ddd118-6253-4bb1-adf6-64c917639e05> | Sonata no. 4 in F for violin & continuo, op. 5: V. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c5ddd118-6253-4bb1-adf6-64c917639e05> | Sonata no. 4 in F for violin & continuo, op. 5: V. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cd992c20-6b26-44f8-9c2c-1e180af936ff> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cd992c20-6b26-44f8-9c2c-1e180af936ff> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/804a88a9-4100-4f07-b117-9dd7d3e4b83f> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/804a88a9-4100-4f07-b117-9dd7d3e4b83f> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d0dd4262-4008-47f5-8b59-13e7e5db99bd> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d0dd4262-4008-47f5-8b59-13e7e5db99bd> | Sonata no. 5 in G minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/328d1ffa-ff46-47a6-ab75-215d2b531d7f> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/328d1ffa-ff46-47a6-ab75-215d2b531d7f> | Sonata no. 5 in G minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/fd0a8fbb-98d6-42bd-a370-ec46115b787a> | Sonata no. 5 in G minor for violin & continuo, op. |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/804a88a9-4100-4f07-b117-9dd7d3e4b83f> | Sonata no. 5 in G minor for violin & continuo, op. |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cd992c20-6b26-44f8-9c2c-1e180af936ff> | Sonata no. 5 in G minor for violin & continuo, op. |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d0dd4262-4008-47f5-8b59-13e7e5db99bd> | Sonata no. 5 in G minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/fd0a8fbb-98d6-42bd-a370-ec46115b787a> | Sonata no. 5 in G minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a4e4bb34-f89e-4206-b1af-42e752627bdb> | Sonata no. 6 in A for violin & continuo, op. 5: I. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a4e4bb34-f89e-4206-b1af-42e752627bdb> | Sonata no. 6 in A for violin & continuo, op. 5: I. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/99fc8d79-7807-4e67-83c6-c3b0a596a1bc> | Sonata no. 6 in A for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/99fc8d79-7807-4e67-83c6-c3b0a596a1bc> | Sonata no. 6 in A for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0411e8ef-f41a-40bf-bb76-414cc7dd452d> | Sonata no. 6 in A for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0411e8ef-f41a-40bf-bb76-414cc7dd452d> | Sonata no. 6 in A for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b36dba20-3ecb-4e3a-b947-6a3d0d5a1c26> | Sonata no. 6 in A for violin & continuo, op. 5: IV |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/99fc8d79-7807-4e67-83c6-c3b0a596a1bc> | Sonata no. 6 in A for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b36dba20-3ecb-4e3a-b947-6a3d0d5a1c26> | Sonata no. 6 in A for violin & continuo, op. 5: IV |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cbd3442d-9935-4edb-80f9-6adf37fd2863> | Sonata no. 6 in A for violin & continuo, op. 5: V. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cbd3442d-9935-4edb-80f9-6adf37fd2863> | Sonata no. 6 in A for violin & continuo, op. 5: V. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/291fdec2-2cb4-4ecf-bcec-0deaa542e329> | Sonata no. 7 in D minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/291fdec2-2cb4-4ecf-bcec-0deaa542e329> | Sonata no. 7 in D minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/75ba4712-25ba-490d-ae43-b51f00c9b478> | Sonata no. 7 in D minor for violin & continuo, op. |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4679642d-e849-4aae-9f91-36a8e52a0c31> | Sonata no. 7 in D minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/75ba4712-25ba-490d-ae43-b51f00c9b478> | Sonata no. 7 in D minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7876f391-65ec-4221-83cf-abd6a404e822> | Sonata no. 7 in D minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7876f391-65ec-4221-83cf-abd6a404e822> | Sonata no. 7 in D minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4679642d-e849-4aae-9f91-36a8e52a0c31> | Sonata no. 7 in D minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4679642d-e849-4aae-9f91-36a8e52a0c31> | Sonata no. 7 in D minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/8e0d673f-67cf-4c2c-94be-8e40ea7f3d9f> | Sonata no. 8 in E minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/8e0d673f-67cf-4c2c-94be-8e40ea7f3d9f> | Sonata no. 8 in E minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2205eccc-ba9c-4dd3-9080-1df44c38300e> | Sonata no. 8 in E minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2205eccc-ba9c-4dd3-9080-1df44c38300e> | Sonata no. 8 in E minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/10a83c46-354c-4fcf-9623-064699645dfc> | Sonata no. 8 in E minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/10a83c46-354c-4fcf-9623-064699645dfc> | Sonata no. 8 in E minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/14d5162c-9624-4c20-a6e4-3eed57e63ca3> | Sonata no. 8 in E minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/14d5162c-9624-4c20-a6e4-3eed57e63ca3> | Sonata no. 8 in E minor for violin & continuo, op. |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/576a3a82-4b46-490c-83c1-0677646681a0> | Sonata no. 9 in A for violin & continuo, op. 5: I. |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2205eccc-ba9c-4dd3-9080-1df44c38300e> | Sonata no. 8 in E minor for violin & continuo, op. |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/8e0d673f-67cf-4c2c-94be-8e40ea7f3d9f> | Sonata no. 8 in E minor for violin & continuo, op. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/576a3a82-4b46-490c-83c1-0677646681a0> | Sonata no. 9 in A for violin & continuo, op. 5: I. |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/843a66a1-3c08-4c4b-9cc9-1d396fc13757> | Sonata no. 9 in A for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/843a66a1-3c08-4c4b-9cc9-1d396fc13757> | Sonata no. 9 in A for violin & continuo, op. 5: II |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d7e50b78-4529-4a49-99ee-140ed5632b4b> | Sonata no. 9 in A for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d7e50b78-4529-4a49-99ee-140ed5632b4b> | Sonata no. 9 in A for violin & continuo, op. 5: II |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/352588f7-7267-4357-980b-34295c45b569> | Sonata no. 9 in A for violin & continuo, op. 5: IV |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/352588f7-7267-4357-980b-34295c45b569> | Sonata no. 9 in A for violin & continuo, op. 5: IV |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b6becde0-2426-4c63-8f40-290226e80353> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b6becde0-2426-4c63-8f40-290226e80353> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b6becde0-2426-4c63-8f40-290226e80353> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/52c5d684-b5fb-4c8c-953f-6ce3f0637b9f> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/52c5d684-b5fb-4c8c-953f-6ce3f0637b9f> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/52c5d684-b5fb-4c8c-953f-6ce3f0637b9f> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f83bf83c-b242-4ffa-815a-f0ed93b1fbf9> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f83bf83c-b242-4ffa-815a-f0ed93b1fbf9> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/b6becde0-2426-4c63-8f40-290226e80353> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f83bf83c-b242-4ffa-815a-f0ed93b1fbf9> | Sonate pour violon et piano No. 5 en Fa majeur, Op |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/61b9cfc8-2638-4d3a-8f59-bdf4008f6fd4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/61b9cfc8-2638-4d3a-8f59-bdf4008f6fd4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/61b9cfc8-2638-4d3a-8f59-bdf4008f6fd4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/61b9cfc8-2638-4d3a-8f59-bdf4008f6fd4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/61b9cfc8-2638-4d3a-8f59-bdf4008f6fd4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90352c4a-12b1-4378-9a4a-3c498693dbb8> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90352c4a-12b1-4378-9a4a-3c498693dbb8> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90352c4a-12b1-4378-9a4a-3c498693dbb8> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90352c4a-12b1-4378-9a4a-3c498693dbb8> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90352c4a-12b1-4378-9a4a-3c498693dbb8> | Sonate pour violon et piano No. 9 en La majeur, Op |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/654b331a-857b-47c6-9b74-9592023112c4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/654b331a-857b-47c6-9b74-9592023112c4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/654b331a-857b-47c6-9b74-9592023112c4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/654b331a-857b-47c6-9b74-9592023112c4> | Sonate pour violon et piano No. 9 en La majeur, Op |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/654b331a-857b-47c6-9b74-9592023112c4> | Sonate pour violon et piano No. 9 en La majeur, Op |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90352c4a-12b1-4378-9a4a-3c498693dbb8> | Sonate pour violon et piano No. 9 en La majeur, Op |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/76a66090-148b-4cff-846b-47397b40afd9> | Spanish Dances, op. 22 no. 1: Romanza andaluza     |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ee8ec511-b3f7-4761-a5d1-c20c6d54a6e8> | Suite no. 1 for Solo Violin: I. Prelude            |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ee8ec511-b3f7-4761-a5d1-c20c6d54a6e8> | Suite no. 1 for Solo Violin: I. Prelude            |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ee8ec511-b3f7-4761-a5d1-c20c6d54a6e8> | Suite no. 1 for Solo Violin: I. Prelude            |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a71b3767-91c1-459c-9aa2-ecf94ff9ca8f> | Suite no. 1 for Solo Violin: II. Andante tranquill |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a71b3767-91c1-459c-9aa2-ecf94ff9ca8f> | Suite no. 1 for Solo Violin: II. Andante tranquill |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a71b3767-91c1-459c-9aa2-ecf94ff9ca8f> | Suite no. 1 for Solo Violin: II. Andante tranquill |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/65aaa207-1d83-478c-8043-c6c32abf4dfe> | Suite no. 1 for solo violin: Allegro - Andante     |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/65aaa207-1d83-478c-8043-c6c32abf4dfe> | Suite no. 1 for solo violin: Allegro - Andante     |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/65aaa207-1d83-478c-8043-c6c32abf4dfe> | Suite no. 1 for solo violin: Allegro - Andante     |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/05b82bac-d53b-4ab7-a6df-f72b02683362> | Suite no. 1 for solo violin: Allegro energico      |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/05b82bac-d53b-4ab7-a6df-f72b02683362> | Suite no. 1 for solo violin: Allegro energico      |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/05b82bac-d53b-4ab7-a6df-f72b02683362> | Suite no. 1 for solo violin: Allegro energico      |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ac74e3d3-275e-4d87-ba69-47d30756f822> | Suite no. 2 for Solo Violin: I. Energico, deciso   |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ac74e3d3-275e-4d87-ba69-47d30756f822> | Suite no. 2 for Solo Violin: I. Energico, deciso   |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ac74e3d3-275e-4d87-ba69-47d30756f822> | Suite no. 2 for Solo Violin: I. Energico, deciso   |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/37a71f80-9f98-4be8-bebf-18636b8e16b1> | Suite no. 2 for Solo Violin: II. Moderato          |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/37a71f80-9f98-4be8-bebf-18636b8e16b1> | Suite no. 2 for Solo Violin: II. Moderato          |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/37a71f80-9f98-4be8-bebf-18636b8e16b1> | Suite no. 2 for Solo Violin: II. Moderato          |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4f75cc8d-af9c-4013-96f4-c85658edc4f1> | Suite no. 2 for Solo Violin: III. Andante          |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4f75cc8d-af9c-4013-96f4-c85658edc4f1> | Suite no. 2 for Solo Violin: III. Andante          |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4f75cc8d-af9c-4013-96f4-c85658edc4f1> | Suite no. 2 for Solo Violin: III. Andante          |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/739a138f-aa30-481a-aff8-cc87c54a3629> | Suite no. 2 for Solo Violin: IV. Allegro molto     |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/739a138f-aa30-481a-aff8-cc87c54a3629> | Suite no. 2 for Solo Violin: IV. Allegro molto     |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/739a138f-aa30-481a-aff8-cc87c54a3629> | Suite no. 2 for Solo Violin: IV. Allegro molto     |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/fa4f8ab6-8fa6-4fd4-b87a-c56b65da2c6d> | Swan Lake, Op. 20: Act I. No. 13: Andante - Andant |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/fa4f8ab6-8fa6-4fd4-b87a-c56b65da2c6d> | Swan Lake, Op. 20: Act I. No. 13: Andante - Andant |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/fa4f8ab6-8fa6-4fd4-b87a-c56b65da2c6d> | Swan Lake, Op. 20: Act I. No. 13: Andante - Andant |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/fa4f8ab6-8fa6-4fd4-b87a-c56b65da2c6d> | Swan Lake, Op. 20: Act I. No. 13: Andante - Andant |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/9caf0bc3-a235-427a-802e-12a58e666c50> | Swan Lake, Op. 20: Act I. No. 5: Tempo di Valse -  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/9caf0bc3-a235-427a-802e-12a58e666c50> | Swan Lake, Op. 20: Act I. No. 5: Tempo di Valse -  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/9caf0bc3-a235-427a-802e-12a58e666c50> | Swan Lake, Op. 20: Act I. No. 5: Tempo di Valse -  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/9caf0bc3-a235-427a-802e-12a58e666c50> | Swan Lake, Op. 20: Act I. No. 5: Tempo di Valse -  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5cece0ad-aeb2-4a61-a922-f98cf77fdb1f> | Swan Lake, Op. 20: Act III. No. 20: Danse Russe    |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5cece0ad-aeb2-4a61-a922-f98cf77fdb1f> | Swan Lake, Op. 20: Act III. No. 20: Danse Russe    |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5cece0ad-aeb2-4a61-a922-f98cf77fdb1f> | Swan Lake, Op. 20: Act III. No. 20: Danse Russe    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5cece0ad-aeb2-4a61-a922-f98cf77fdb1f> | Swan Lake, Op. 20: Act III. No. 20: Danse Russe    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/1a45295f-aa0b-43f6-b9e1-751bd86f51e4> | Swan Lake, op. 20: Act III. Hungarian Dance        |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d12818da-2c2d-4d1b-8c4c-3dbf6518b232> | The Piccolino                                      |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d9226208-0fa3-4708-90e4-57c1d14ab9f9> | The Way You Look Tonight                           |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d9226208-0fa3-4708-90e4-57c1d14ab9f9> | The Way You Look Tonight                           |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/39322e24-1336-437f-9dd8-ded0b39550a4> | Thou Swell                                         |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/04433187-5651-4029-bcab-c545270dec2a> | Top Hat, White Tie and Tails                       |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/04433187-5651-4029-bcab-c545270dec2a> | Top Hat, White Tie and Tails                       |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d8095af7-b99f-4924-a9b5-ccd2dedb5905> | Trio Sonata in G minor, Op. 2 No. 8: I. Andante    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e1d8b921-69c8-4dc4-a5f9-087405c76b3d> | Trio Sonata in G minor, Op. 2 No. 8: II. Allegro   |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/afa34c05-5c75-43af-9ec2-9054296004b8> | Trio Sonata in G minor, Op. 2 No. 8: III. Largo    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/eb9feda1-8985-4f32-ab50-bc1b61206e9c> | Trio Sonata in G minor, Op. 2 No. 8: IV. Allegro   |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/41c7ba9d-7b87-402d-95d9-77d52df4318e> | Trio pour piano, vilon & violoncelle n2 en mi bémo |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2fdb2d9a-b688-4dbf-b38f-a9bdd81330b1> | Trio pour piano, vilon & violoncelle n2 en mi bémo |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e2c267e6-f13a-4c5e-943f-431d552a00fc> | Trio pour piano, vilon & violoncelle n2 en mi bémo |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/41c7ba9d-7b87-402d-95d9-77d52df4318e> | Trio pour piano, vilon & violoncelle n2 en mi bémo |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d296cbb6-1193-49a4-af9b-bccf15eccc9e> | Trio pour piano, vilon & violoncelle n2 en mi bémo |
+| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e2c267e6-f13a-4c5e-943f-431d552a00fc> | Trio pour piano, vilon & violoncelle n2 en mi bémo |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5938ae65-b123-42e1-9de7-eb20311e138c> | Violin Concerto in D minor, BWV 1052R: I. Allegro  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f6f1b5fb-3d5e-41f9-8071-b9d6ce79c35d> | Violin Concerto in D minor, BWV 1052R: II. Adagio  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/ccb3ebe9-5350-44e7-ad68-88084b4fa3c9> | Violin Concerto in D minor, BWV 1052R: III. Allegr |
@@ -1245,16 +899,10 @@
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/d3c1243b-a483-4dac-bd19-9a866b9ef8f0> | Violin Concerto no. 1 in D, op. 6: II. Adagio espr |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/00fd5a19-03b0-4993-ada4-55f663bbce18> | Violin Concerto no. 1 in D, op. 6: III. Rondo: All |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f9b0b17d-0c58-474f-ad52-b874aacbbc95> | Violin Concerto no. 16 in E minor, G. 85: I. Adagi |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f9b0b17d-0c58-474f-ad52-b874aacbbc95> | Violin Concerto no. 16 in E minor, G. 85: I. Adagi |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/22bac105-659c-4732-a600-f8af6e0c6758> | Violin Concerto no. 16 in E minor, G. 85: II. Adag |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/22bac105-659c-4732-a600-f8af6e0c6758> | Violin Concerto no. 16 in E minor, G. 85: II. Adag |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e57df91a-bae5-4de8-bca4-61307f958966> | Violin Concerto no. 16 in E minor, G. 85: III. Ron |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/e57df91a-bae5-4de8-bca4-61307f958966> | Violin Concerto no. 16 in E minor, G. 85: III. Ron |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/29b3143b-5ba8-4e7d-854b-df21cf9678eb> | Violin Concerto no. 2 in D minor, op. 44: I. Adagi |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/29b3143b-5ba8-4e7d-854b-df21cf9678eb> | Violin Concerto no. 2 in D minor, op. 44: I. Adagi |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5b985982-4d33-4e83-b003-cc30f99cf4be> | Violin Concerto no. 2 in D minor, op. 44: II. Reci |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/5b985982-4d33-4e83-b003-cc30f99cf4be> | Violin Concerto no. 2 in D minor, op. 44: II. Reci |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/96cde753-f2b1-435f-b23e-a5e164115b9b> | Violin Concerto no. 2 in D minor, op. 44: III. Fin |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/96cde753-f2b1-435f-b23e-a5e164115b9b> | Violin Concerto no. 2 in D minor, op. 44: III. Fin |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/89eee0bc-0032-4190-ab01-374d97021280> | Violin Concerto no. 2 in E, BWV 1042: I. Allegro   |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/06b46f82-ef69-4c59-9cf4-17b680cafc95> | Violin Concerto no. 2 in E, BWV 1042: II. Adagio   |
@@ -1271,43 +919,25 @@
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/93df7bdb-5040-4a0a-b27b-345a8055a828> | Violin Concerto: II. Allegro molto vivace con brio |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/f4d36d2f-61a2-4322-8572-2aceab2c7cd8> | Violin Concerto: III. Lento appassionato           |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/bbcfb402-900f-4c47-93bc-f847e9319db3> | Violin Sonata in A: I. Allegretto ben moderato     |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/bbcfb402-900f-4c47-93bc-f847e9319db3> | Violin Sonata in A: I. Allegretto ben moderato     |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4646c985-6e82-4cef-9a5e-fb1971aa68a1> | Violin Sonata in A: II. Allegro                    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/4646c985-6e82-4cef-9a5e-fb1971aa68a1> | Violin Sonata in A: II. Allegro                    |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c278d372-27bc-4edc-a464-bb14b4515123> | Violin Sonata in A: III. Ben moderato: Recitativo  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/c278d372-27bc-4edc-a464-bb14b4515123> | Violin Sonata in A: III. Ben moderato: Recitativo  |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3a4fa451-94a0-424b-8c4e-e66f9d838aff> | Violin Sonata in A: IV. Allegretto poco mosso      |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3a4fa451-94a0-424b-8c4e-e66f9d838aff> | Violin Sonata in A: IV. Allegretto poco mosso      |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/90a050a0-de3c-4e94-ace2-7229c41da03d> | Violin Sonata in F, K. 376: I. Allegro             |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2b2c7e39-7785-45da-8768-6a80116faf79> | Violin Sonata in F, K. 376: II. Andante            |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/67eefd9b-208c-4a14-90af-d89e95103d27> | Violin Sonata in F, K. 376: III. Rondo: Allegretto |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/41054fce-502b-4b5f-81b2-e4de33ff2b17> | Violin Sonata no. 1, Sz. 75: I. Allegro appassiona |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/41054fce-502b-4b5f-81b2-e4de33ff2b17> | Violin Sonata no. 1, Sz. 75: I. Allegro appassiona |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0bc5d242-f924-4ff0-9e85-6569597b7a17> | Violin Sonata no. 1, Sz. 75: II. Adagio            |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/0bc5d242-f924-4ff0-9e85-6569597b7a17> | Violin Sonata no. 1, Sz. 75: II. Adagio            |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2a246831-0d1c-4a65-9abd-5f2486107ca6> | Violin Sonata no. 1, Sz. 75: III. Allegro          |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2a246831-0d1c-4a65-9abd-5f2486107ca6> | Violin Sonata no. 1, Sz. 75: III. Allegro          |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2d9d439d-5068-420d-821e-108bd2412c3f> | Violin Sonata no. 2 in A, op. 100: I. Allegro amab |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2d9d439d-5068-420d-821e-108bd2412c3f> | Violin Sonata no. 2 in A, op. 100: I. Allegro amab |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/01986930-3010-49c8-b0a5-d5318bfa5015> | Violin Sonata no. 2 in A, op. 100: II. Andante tra |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/01986930-3010-49c8-b0a5-d5318bfa5015> | Violin Sonata no. 2 in A, op. 100: II. Andante tra |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2bf950ad-e3d0-4822-9d14-e8223dbc3d18> | Violin Sonata no. 2 in A, op. 100: III. Allegretto |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/2bf950ad-e3d0-4822-9d14-e8223dbc3d18> | Violin Sonata no. 2 in A, op. 100: III. Allegretto |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/93a81cc2-21bc-4a7f-b112-85543789c3b1> | Violin Sonata no. 2 in D minor, op. 121: I. Ziemli |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/93a81cc2-21bc-4a7f-b112-85543789c3b1> | Violin Sonata no. 2 in D minor, op. 121: I. Ziemli |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/344cebb6-c538-4b0e-8583-42e5a3b11f2e> | Violin Sonata no. 2 in D minor, op. 121: II. Sehr  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/344cebb6-c538-4b0e-8583-42e5a3b11f2e> | Violin Sonata no. 2 in D minor, op. 121: II. Sehr  |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7d7fb300-e0f9-4873-8e08-b4ac9ddc444e> | Violin Sonata no. 2 in D minor, op. 121: III. Leis |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/7d7fb300-e0f9-4873-8e08-b4ac9ddc444e> | Violin Sonata no. 2 in D minor, op. 121: III. Leis |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cb922fe2-da33-41e8-834b-73c708e07a82> | Violin Sonata no. 2 in D minor, op. 121: IV. Beweg |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/cb922fe2-da33-41e8-834b-73c708e07a82> | Violin Sonata no. 2 in D minor, op. 121: IV. Beweg |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/50bceb5e-e9ee-4080-b867-08dead7b6ccb> | Violin Sonata no. 3 in D minor, op. 108: I. Allegr |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/50bceb5e-e9ee-4080-b867-08dead7b6ccb> | Violin Sonata no. 3 in D minor, op. 108: I. Allegr |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/210ad065-9722-4e51-8370-5201b9748fda> | Violin Sonata no. 3 in D minor, op. 108: II. Adagi |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/210ad065-9722-4e51-8370-5201b9748fda> | Violin Sonata no. 3 in D minor, op. 108: II. Adagi |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/72e87be9-7586-4734-bcfd-d002a0d3c5fd> | Violin Sonata no. 3 in D minor, op. 108: III. Un p |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/72e87be9-7586-4734-bcfd-d002a0d3c5fd> | Violin Sonata no. 3 in D minor, op. 108: III. Un p |
-| Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a8dfdae3-a9a1-47bd-9e11-32ccef148337> | Violin Sonata no. 3 in D minor, op. 108: IV. Prest |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/a8dfdae3-a9a1-47bd-9e11-32ccef148337> | Violin Sonata no. 3 in D minor, op. 108: IV. Prest |
 | Menuhin, Yehudi   | <https://beta.musicbrainz.org/recording/3db537d0-e6b2-4e19-a6aa-7ac2e1e66861> | Why Do I Love You?                                 |
 | Milstein, Nathan  | <https://beta.musicbrainz.org/recording/a7a56ef7-e8ba-47e5-af97-a1c46de2cc50> | Concerto In A (K.219) "Turkish"                    |
@@ -1322,7 +952,7 @@
 | Milstein, Nathan  | <https://beta.musicbrainz.org/recording/fb4e6be0-61c5-4bb1-8d87-998ee267cc39> | Tales of an Old Grandmother, op. 31: III. Andante  |
 |-------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
 
-(361 rows)
+(215 rows)
 
 |--------------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
 |       artist_name        |                                 recording_url                                 |                   recording_name                   |
@@ -1380,7 +1010,6 @@
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/00c87bf8-163a-4496-aed2-fc5ae444a56e> | Il barbiere di Siviglia: Act I, no. 7. Duetto “Dun |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/1a84d083-0e9a-4981-8992-d9f12a13270b> | Il barbiere di Siviglia: Act II, no. 11. Aria “Con |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/7da0aa8b-eee9-4b30-90e0-14b21a3c92b8> | Il barbiere di Siviglia: Atto I. Cavatina "Ecco, r |
-| Abbado, Claudio       | <https://beta.musicbrainz.org/recording/7da0aa8b-eee9-4b30-90e0-14b21a3c92b8> | Il barbiere di Siviglia: Atto I. Cavatina "Ecco, r |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/26a8101e-3b4b-46f5-b834-bd6cfa723733> | Il barbiere di Siviglia: Atto I. No. 2. Cavatina " |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/0e58b751-cd20-46af-aaf9-08711f92df21> | Il barbiere di Siviglia: Atto II, No. 12. Arietta  |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/a669da55-1f12-4f98-b94e-a8997f3bb42c> | Il trovatore: Atto III. “Ah, si, ben mio”          |
@@ -1404,7 +1033,6 @@
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/26e6a7d6-5d28-4562-9af9-2a572f022339> | MacBeth: Atto I. Scena e cavatina. "Vieni! t'affre |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/66cacd3c-d85f-4dc1-b5f1-aecfc2146164> | MacBeth: Atto I. Scena e duetto. "Due vaticini com |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db> | MacBeth: Atto I. Scena e sestetto - Finale I. "Di  |
-| Abbado, Claudio       | <https://beta.musicbrainz.org/recording/7a400034-070a-4a99-9e64-2093c88cb5db> | MacBeth: Atto I. Scena e sestetto - Finale I. "Di  |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/1393c72a-1960-496a-a814-8c59db823fe3> | MacBeth: Atto II. Coro di sicari, gran scena. "Stu |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/f9432b7f-e38f-4aac-a24f-0a82b46dd37a> | MacBeth: Atto II. Coro di sicari. "Chi osò mandarv |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/9501ffde-4410-4b70-94ac-9831f388b0c0> | MacBeth: Atto II. Finale II. "Va', spirto d'abisso |
@@ -1415,14 +1043,12 @@
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/07f68613-6250-49c3-b6ad-d0b241a2f2b0> | MacBeth: Atto III. Gran scena delle apparizioni. " |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/334dd265-30a2-49c2-aeea-b60cb11ab648> | MacBeth: Atto III. Gran scena delle apparizioni. " |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71> | MacBeth: Atto III. Scena e duetto - Finale III. "O |
-| Abbado, Claudio       | <https://beta.musicbrainz.org/recording/c1668555-1e72-496f-a1f0-096630351b71> | MacBeth: Atto III. Scena e duetto - Finale III. "O |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/e867c786-be82-4647-8000-ece1e5e13dc9> | MacBeth: Atto IV. Coro di profughi scozzesi. "Patr |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/09230167-a342-41de-962b-e3fe283ac077> | MacBeth: Atto IV. Gran scena del sonnambulismo. "U |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/67f96049-521a-472a-832a-c6a8c6751a24> | MacBeth: Atto IV. Gran scena del sonnambulismo. "V |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/934bf578-6fe1-4035-98cd-adb4899db8e8> | MacBeth: Atto IV. Inno di vittoria - Finale. "Vitt |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/80bc2255-22f8-49a3-af96-cc99103a474d> | MacBeth: Atto IV. Morte di Macbeth. "Mal per te me |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/74e88ff8-6cfc-4d86-8d6b-0358a0064e0f> | MacBeth: Atto IV. Scena e battaglia. "Ella è morta |
-| Abbado, Claudio       | <https://beta.musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd> | MacBeth: Atto IV. Scena ed aria. "O figli, o figli |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/f6a31542-c1df-45ad-92b1-643b6fd8d0bd> | MacBeth: Atto IV. Scena ed aria. "O figli, o figli |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/8d76f843-0576-410e-ac05-d5e4b8fbe9a9> | MacBeth: Atto IV. Scena ed aria. "Perfidi! All'ang |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/47f6e145-c8d9-4df0-95fc-7bbbf3745987> | MacBeth: Atto IV. Scena ed aria. "Pietà, rispetto, |
@@ -1438,7 +1064,6 @@
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/1f4b29b7-2014-4d8c-b14c-d2c7eb09fe2f> | Macbeth: Atto III. “Finche appelli, silenti m'atte |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/1c6d1b97-54d2-4983-ad37-911a5efbe28f> | Macbeth: Atto III. “Ondine e Silfidi dall'ali cand |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/b74bf2e0-3718-4c35-9ba9-3fef0f78b840> | Macbeth: Atto III. “Ove son io?”                   |
-| Abbado, Claudio       | <https://beta.musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d> | Macbeth: Atto IV, scena 1. “O figli, o figli miei! |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/31489a73-aec7-49c8-a759-d762cc256d8d> | Macbeth: Atto IV, scena 1. “O figli, o figli miei! |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/7748fe5f-a7a8-414f-a68e-5ad9220297fe> | Macbeth: Atto IV, scena 1. “Patria oppressa!”      |
 | Abbado, Claudio       | <https://beta.musicbrainz.org/recording/e277accc-2ed8-47e5-927f-4e0247a22ef4> | Macbeth: Atto IV, scena 2. “Vegliammo invan due no |
@@ -1484,7 +1109,6 @@
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/b87be973-d45a-40af-bbcd-81275eb675eb> | ...Explosante-fixe...                              |
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/d9086be6-474f-48a6-8498-392056151c3b> | Ameriques                                          |
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/58371574-47d8-496d-ba44-41e5f4a2d2b3> | Dance Suite no. 5: Comodo - Finale. Allegro        |
-| Boulez, Pierre        | <https://beta.musicbrainz.org/recording/58371574-47d8-496d-ba44-41e5f4a2d2b3> | Dance Suite no. 5: Comodo - Finale. Allegro        |
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/af2798fc-dc65-4c98-8959-c0f59ce5833f> | Die Walküre: Act I, Scene II. "Ich weiß ein wildes |
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/2648c525-c75f-4e2d-a0a2-a32dbb87414c> | Die Walküre: Act II, Scene I. "Nun zäume dein Roß" |
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/ded5c35f-03be-4d59-b034-88a66f1071a4> | Die Walküre: Act III, Scene I. Ritt der Walküren   |
@@ -1494,8 +1118,6 @@
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/3247ec81-2ac7-47a2-91c0-20086d6ee80e> | Parsifal: Nun achte wohl, und laß mich seh'n - Zum |
 | Boulez, Pierre        | <https://beta.musicbrainz.org/recording/6be30997-7e23-4805-9545-5f695d071419> | The Firebird: Infernal Dance                       |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/f76b288d-a61c-406a-86e4-1b027c9fc048> | Arabella: Akt I. “Aber der Richtige, wenn's einen  |
-| Böhm, Karl            | <https://beta.musicbrainz.org/recording/0089a358-295e-47d2-9ae0-0e99b6ea625e> | Arabella: Akt I. “Bin nicht in der Lage, länger zu |
-| Böhm, Karl            | <https://beta.musicbrainz.org/recording/0089a358-295e-47d2-9ae0-0e99b6ea625e> | Arabella: Akt I. “Bin nicht in der Lage, länger zu |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/0089a358-295e-47d2-9ae0-0e99b6ea625e> | Arabella: Akt I. “Bin nicht in der Lage, länger zu |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/f1b804f4-2db7-4ed3-aa1d-74bd107b3fc7> | Arabella: Akt I. “Das ist der Schlitten vom Elemer |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/b44848a3-8ee3-46e8-81b8-9910dc6de363> | Arabella: Akt I. “Die Karten fallen besser als das |
@@ -1509,8 +1131,6 @@
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/4c69d678-948b-473f-abc5-7818682c58a3> | Arabella: Akt II. Zwischenspiel - Walzer           |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/9bfe9a04-46c8-4274-bcb5-d97c69d2d36d> | Arabella: Akt II. “Das ist ein Engel, der vom Himm |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/e33c6017-6554-47ee-b86d-2257213cc3bd> | Arabella: Akt II. “Der Ball begehrt nach seiner Kö |
-| Böhm, Karl            | <https://beta.musicbrainz.org/recording/70fafd03-fd34-4b5c-bea9-11f1675765d4> | Arabella: Akt II. “Ein Feigling bin ich” (Matteo,  |
-| Böhm, Karl            | <https://beta.musicbrainz.org/recording/70fafd03-fd34-4b5c-bea9-11f1675765d4> | Arabella: Akt II. “Ein Feigling bin ich” (Matteo,  |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/70fafd03-fd34-4b5c-bea9-11f1675765d4> | Arabella: Akt II. “Ein Feigling bin ich” (Matteo,  |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/38c59988-fbb1-4b99-845b-3444c521d3ec> | Arabella: Akt II. “Sie seh'n nicht aus wie jemand, |
 | Böhm, Karl            | <https://beta.musicbrainz.org/recording/561392ed-1c1e-4692-9610-1fb45be13daa> | Arabella: Akt II. “Sie sind allein? Wo ist Arabell |
@@ -1557,9 +1177,9 @@
 | Cluytens, André       | <https://beta.musicbrainz.org/recording/318283c9-4bf0-4c8a-b4e1-a8d48e66b482> | Symphony in D minor: II. Allegretto                |
 | Cluytens, André       | <https://beta.musicbrainz.org/recording/67d62cca-29c9-448e-a307-73f891c23a77> | Symphony in D minor: III. Allegro non troppo       |
 | Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/3c3c8f64-e978-4d7a-a36b-564d16c80a83> | Concertante Musik für Orchester, Op. 10: Moderato  |
+| Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/4241a817-d5a6-4cc6-b243-a74b0ac74a65> | Concerto for Violin and large Chamber Orchestra: I |
 | Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/5ee526c4-d4f5-46ce-b663-d3a9daacec21> | Concerto for Violin and large Chamber Orchestra: I |
 | Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/fe67ce91-224c-48b1-b15c-76d09c55dd30> | Concerto for Violin and large Chamber Orchestra: I |
-| Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/4241a817-d5a6-4cc6-b243-a74b0ac74a65> | Concerto for Violin and large Chamber Orchestra: I |
 | Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/c2caac83-fd74-4415-97a8-cbcfd341b9ad> | Daphnis et Chloé - Suite n. 2                      |
 | Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/787ed6b2-a7da-46d7-bf37-cd115fe4041d> | Music to Johann Wolfgang von Goethe's Tragedy “Egm |
 | Furtwängler, Wilhelm  | <https://beta.musicbrainz.org/recording/75cfe951-eaa2-4fa6-a322-b081f47bf918> | Symphony No. 2 in D major, Op. 73: I. Allegro non  |
@@ -1577,9 +1197,6 @@
 | Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/4dfe4b3f-81dc-43d1-b3a2-8ba32de1502b> | Il Trovatore - Vedi! le fosche notturne spoglie    |
 | Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/5ef0bf5c-1fd6-45fe-85d9-744102835ceb> | Il barbiere di Siviglia: Overture                  |
 | Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/5dcef208-82fc-4c6f-8902-01cfe4c0a5a6> | Io la vidi                                         |
-| Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
-| Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
-| Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
 | Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/e4350253-c411-465a-87e2-4f882be4192b> | Le nozze di Figaro: Overture / Non più andrai farf |
 | Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/c483b826-57d1-4faf-8a6b-7f45a9edff9e> | Messa da Requiem - Dies irae                       |
 | Giulini, Carlo Maria  | <https://beta.musicbrainz.org/recording/019d8bd2-a399-4b82-afeb-e1f8d9b64290> | Requiem - Pie Jesu                                 |
@@ -1614,66 +1231,66 @@
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/b07484cb-d810-4484-8def-75ecc001a87d> | "Gott ist unsre Zuversicht", BWV 197: 9. Recitativ |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/a7ebe3ec-943b-47a4-8d3d-995601961683> | An der schönen blauen Donau, op. 314               |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/3d36f856-6ece-4398-8c86-84e57103ac0f> | Aufforderung zum Tanz (Rondo brillant) op. 65, Inv |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/14f9e41d-7461-4aa7-946c-741750ad23da> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/64aaeaab-3168-49e0-8ee5-d2c123f72bdd> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/7afab6fa-440e-4cb3-ba34-9e977441550b> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/14f9e41d-7461-4aa7-946c-741750ad23da> | Brandenburgisches Konzert No. 4 in G-Dur, BWV 1049 |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ba55351e-4858-4277-987a-bd3f8480f1cd> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1681f9bc-2c83-45e6-a1e0-55edb5821ab8> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/190722d0-d5c9-49b3-b5d5-fa04d8f66e3e> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1a2548ba-70fa-4c7e-9e93-e8aef969238a> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/20fdf9b6-920b-4952-a489-16839f4d6a8c> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/2dbd5a0a-2896-4171-92be-c8962258cfa4> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/4916fd47-2b40-45f1-9828-dddd1a863f43> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/5c181dd3-17e7-44a4-a947-3be94eaf6533> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/9211179e-ee86-490d-b468-4364a8475dcc> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/a252f7c9-e3d0-4f6d-86c1-b3973449237b> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/a3aba407-a63b-4f41-989d-74441a4741be> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ba55351e-4858-4277-987a-bd3f8480f1cd> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/d8990611-6c6b-4d50-9d43-ec4948154da9> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/e7549457-5f32-452d-b6c0-6c49787e03ee> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ec521844-623a-4b60-aeeb-90775f003b20> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ef4d2355-93e0-4e46-9a25-57146f11dd0e> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/e7549457-5f32-452d-b6c0-6c49787e03ee> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/9211179e-ee86-490d-b468-4364a8475dcc> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1681f9bc-2c83-45e6-a1e0-55edb5821ab8> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/4916fd47-2b40-45f1-9828-dddd1a863f43> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/190722d0-d5c9-49b3-b5d5-fa04d8f66e3e> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/d8990611-6c6b-4d50-9d43-ec4948154da9> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/2dbd5a0a-2896-4171-92be-c8962258cfa4> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/20fdf9b6-920b-4952-a489-16839f4d6a8c> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/a3aba407-a63b-4f41-989d-74441a4741be> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1a2548ba-70fa-4c7e-9e93-e8aef969238a> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/a252f7c9-e3d0-4f6d-86c1-b3973449237b> | Cantata BWV 205, "Zerreisset, zersprenget, zertrüm |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/93dcabf3-573d-423a-a150-c83e3d886966> | Cantata No.68, aria ‘Mein gläubiges Herze’ (extrac |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/0d67b09d-f409-4173-b38f-5ff7b32e8f82> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/67d12056-08b9-4aea-b217-8b87b54ef947> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/361c6a38-a5b5-4b76-aa0b-1785bf850b06> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/f6c555e5-05bb-4983-a45f-88db8605c00a> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/bde344c0-09bd-473e-83b6-2047539b968e> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/b8b00b8a-15ed-4f83-a1d1-e1bbf78ea5b9> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/67d12056-08b9-4aea-b217-8b87b54ef947> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/8238c533-3882-48f0-a333-7bb4f8f7fd87> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/8c2611aa-4cc4-4132-bf59-d7725c340dfb> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/f36ba0c9-7309-4ba3-a1bb-8c8f71541b77> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/b8b00b8a-15ed-4f83-a1d1-e1bbf78ea5b9> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/bde344c0-09bd-473e-83b6-2047539b968e> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/f6c555e5-05bb-4983-a45f-88db8605c00a> | Cantata, BWV 101 "Nimm von uns, Herr, du treuer Go |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1b4d6074-ed85-4b96-8812-6519136dfe07> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/66cc913e-73fc-459b-8e46-566837526ad1> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/e9158e83-a0ab-4cb6-9fb4-61fd5dfd0a83> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/bcdab71b-157b-4495-97fe-7c30a9004ae3> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/8c2611aa-4cc4-4132-bf59-d7725c340dfb> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/adc3fb1d-8c9f-4b20-92f5-86af947ab5c1> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/bcdab71b-157b-4495-97fe-7c30a9004ae3> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/e9158e83-a0ab-4cb6-9fb4-61fd5dfd0a83> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/f36ba0c9-7309-4ba3-a1bb-8c8f71541b77> | Cantata, BWV 102 "Herr, deine Augen sehen nach dem |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/54c0c221-f739-45da-b32a-52ba1701bdb3> | Cantata, BWV 104 "Du Hirte Israel, höre," I. Coro. |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/aa29d418-46de-4f70-bd16-bd745b365901> | Cantata, BWV 104 "Du Hirte Israel, höre," II. Reci |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/16fcdee9-765b-4af2-8f3e-214f80d62690> | Cantata, BWV 104 "Du Hirte Israel, höre," III. Ari |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/b5d67478-8cb2-4d61-affa-0aebc7b94d80> | Cantata, BWV 104 "Du Hirte Israel, höre," IV. Reci |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/04ce4042-ddda-41b0-86dc-13a79d7959e4> | Cantata, BWV 104 "Du Hirte Israel, höre," V. Aria  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/57615c38-e408-4c96-b140-d905b8ad44b5> | Cantata, BWV 104 "Du Hirte Israel, höre," VI. Chor |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/b2b6afc7-6310-41e4-8af3-c3ee191ae330> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/99bb24fe-9ac7-4b6b-a41f-f52e6072f4e6> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1f069cc5-5772-4ed0-bdc9-430755ae1630> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1122a72b-bb71-4506-bbbd-84f679a4791b> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1f069cc5-5772-4ed0-bdc9-430755ae1630> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/99bb24fe-9ac7-4b6b-a41f-f52e6072f4e6> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/b2b6afc7-6310-41e4-8af3-c3ee191ae330> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," I |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/237e4041-2f74-4e1d-91ab-cc4b0695596d> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," V |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/a9d8e191-2b07-40b3-9c4d-ed2c191d1deb> | Cantata, BWV 105 "Herr, gehe nicht ins Gericht," V |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/2d7174c8-1891-4ddf-9a67-9129355cc4e3> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/45cd4f1f-2266-4703-b3cf-b6b3434eb072> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1e9022a1-59a9-420b-b72d-62856c288d0e> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/36e7e6ca-11ec-48e3-9e16-e0b86d73f7d5> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/008299ec-4f56-4fd2-b969-e0236bb6ed08> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/1e9022a1-59a9-420b-b72d-62856c288d0e> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/2d7174c8-1891-4ddf-9a67-9129355cc4e3> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/36e7e6ca-11ec-48e3-9e16-e0b86d73f7d5> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/45cd4f1f-2266-4703-b3cf-b6b3434eb072> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/d09512c0-95ac-4e20-9ab4-837badedf091> | Cantata, BWV 111 "Was mein Gott will, das g'scheh  |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/901921f6-b615-4ee5-8ce6-15344ff841a5> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/c523ed7f-507f-4f0f-8b9a-0e1f7ef1d8d1> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/32573f2f-76cc-47a8-974d-36099cea189a> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/200c11e8-c54d-4ed3-861d-07e33c268bbc> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/6076447f-7e48-469c-9594-98fd1564eeb8> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/3ee82635-65d7-41dd-ae2d-7dd738804886> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/cabad17a-d06e-4b56-bf6b-0a6a8c8d2e8c> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/0332565f-b073-45b6-bed8-055892e42331> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/0dc4c39c-0020-46c2-90e0-f5ba9697f1a3> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/200c11e8-c54d-4ed3-861d-07e33c268bbc> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/32573f2f-76cc-47a8-974d-36099cea189a> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/3ee82635-65d7-41dd-ae2d-7dd738804886> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/6076447f-7e48-469c-9594-98fd1564eeb8> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/901921f6-b615-4ee5-8ce6-15344ff841a5> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/c523ed7f-507f-4f0f-8b9a-0e1f7ef1d8d1> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
+| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/cabad17a-d06e-4b56-bf6b-0a6a8c8d2e8c> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/d6109637-5945-4bee-8b4e-0a008f468931> | Coffee Cantata BWV 211, "Schweigt stille, plaudert |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/3ee1a8b0-9b67-4d33-aa80-d0b8dcfc9dbf> | Concerto for Piano no. 5 in E-flat major, op. 73 “ |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/e932b447-660c-46e6-a2fb-480f0daaead0> | Concerto for oboe d'amore in A major, BWV 1055R: 1 |
@@ -1731,7 +1348,6 @@
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/8111baa0-ce43-4f84-a4a3-75d67dbd60ec> | Water Music, Suite no. 1 in F major, HWV 348: I. O |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/e798c080-f32d-44de-b355-3ab31229a5b2> | Water Music, Suite no. 1 in F major, HWV 348: II.  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd> | Water Music, Suite no. 1 in F major, HWV 348: III. |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/c7f2c1cb-06be-4d35-be4e-0be88358fefd> | Water Music, Suite no. 1 in F major, HWV 348: III. |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/9fc589dc-2a77-439e-b1ca-e384748b2cfe> | Water Music, Suite no. 1 in F major, HWV 348: IV.  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ee0b51c2-413b-4fc3-84d9-b7fec444057d> | Water Music, Suite no. 1 in F major, HWV 348: IX.  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/cd1dddc0-8129-4ea2-864a-7dea5758a4bf> | Water Music, Suite no. 1 in F major, HWV 348: V. A |
@@ -1745,21 +1361,13 @@
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/4be7ea29-da3f-48ec-82fd-0279960f5b01> | Water Music, Suite no. 1 in F major, HWV 348: XVI. |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/9172dc77-bfa2-4511-a816-fca4d30a35d4> | Water Music, Suite no. 1 in F major, HWV 348: XX.  |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55> | Weihnachts-Oratorium, BWV 248: Teil I, II. Evangel |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/edfe4ba6-bbbf-47ed-ad36-6093f1faea55> | Weihnachts-Oratorium, BWV 248: Teil I, II. Evangel |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586> | Weihnachts-Oratorium, BWV 248: Teil I, VI. Evangel |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/004a5edc-5a3d-4b88-bb3a-b1b6b4937586> | Weihnachts-Oratorium, BWV 248: Teil I, VI. Evangel |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932> | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932> | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/ad7b6f69-b1dd-4c8b-9213-4d69a01cd932> | Weihnachts-Oratorium, BWV 248: Teil III, XXV. Evan |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f> | Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Evang |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/81352c99-2d23-47ff-b2d9-a33b8af8969f> | Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Evang |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694> | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
-| Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694> | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/fc1181a5-e651-4403-864b-e2f56c1b4694> | Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Eva |
 | Harnoncourt, Nikolaus | <https://beta.musicbrainz.org/recording/f94a93d7-5e17-479a-a6c2-a8e4e5c8a697> | Weihnachts-Oratorium, BWV 248: Teil VI, LX. Evange |
 | Jochum, Eugen         | <https://beta.musicbrainz.org/recording/c0cbe9dc-bce2-4643-9985-d9255f88224c> | Carmina Burana - O Fortuna                         |
 | Jochum, Eugen         | <https://beta.musicbrainz.org/recording/1e0e9659-d26d-4d38-b3a7-65e5ddaf9b36> | Christmas Oratorio, BWV 248: Part II. Sinfonia     |
-| Jochum, Eugen         | <https://beta.musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc> | Mass in B minor, BWV 232: Credo: Crucifixus / Et r |
 | Jochum, Eugen         | <https://beta.musicbrainz.org/recording/6c24230d-a69b-4ca7-800f-eaec3d3d88dc> | Mass in B minor, BWV 232: Credo: Crucifixus / Et r |
 | Jochum, Eugen         | <https://beta.musicbrainz.org/recording/939de82b-e06e-40b9-8206-b31348acec18> | Overture “Leonore”, op. 138                        |
 | Jochum, Eugen         | <https://beta.musicbrainz.org/recording/4cd34940-c096-4dfd-a65f-8d643b99127b> | Praise to God in all lands Cantata Nr. 51: Alleluj |
@@ -1862,13 +1470,12 @@
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/e9fd3da2-de31-401c-b487-763a9474861e> | Fidelio, Act II: III. Nur hurtig fort              |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/316086d5-b9dc-45e5-bb0e-2e73d94be767> | Fidelio, Act II: IV. Er erwacht!                   |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9> | Fidelio: Mir ist so wunderbar / Komn, Hoffnung     |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/7022f808-776c-43d5-9cc9-f2ab9c7213a9> | Fidelio: Mir ist so wunderbar / Komn, Hoffnung     |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/a54bc417-d4ac-44e5-990c-b891cab3f5cb> | Fire-Bringers                                      |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/36f0be16-7b41-4f5c-aa0c-f37674bcb7c5> | Kleine Dreigroschenmusik: Ballade                  |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/159cdb98-2fbc-472d-bd74-041f8b15d2b8> | Kleine Dreigroschenmusik: Die Ballade vom angenehm |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/bac49c91-378f-47a5-a3fd-46502d5caeee> | Kleine Dreigroschenmusik: Die Moritat von Mackie M |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/a6a2ab42-afb3-49a5-ac12-f36c616be065> | Kleine Dreigroschenmusik: Kanonensong              |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/7563b63a-7917-450e-8413-cf8b548647c3> | Kleine Dreigroschenmusik: Kanonensong              |
+| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/a6a2ab42-afb3-49a5-ac12-f36c616be065> | Kleine Dreigroschenmusik: Kanonensong              |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/a75b2d51-8dfa-4181-8da1-93a4e90e2000> | Kleine Dreigroschenmusik: Moritat (Mack, the Knife |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/d54e241b-868c-4507-acca-5251d9aa5909> | Kleine Dreigroschenmusik: Tango-Ballade            |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/72019db5-e2f9-40f8-b3df-7516edd7827d> | Kleine Dreigroschenmusik: Tango‐Ballade            |
@@ -1878,20 +1485,8 @@
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/ad52869e-0cd2-43ba-ae0e-7fb2f2352d76> | Overture “Leonore” no. 3, op. 72b: Adagio - Allegr |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/56cf495b-2725-480c-8f41-fdd96180b951> | Salome, op. 54: Tanz der sieben Schleier           |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/c5bcf122-c1af-4178-a6f2-e29bf05787f5> | Symphony no. 1 in C minor, op. 68: I. Un poco sost |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f76633f1-d398-49fe-ae53-a61dd19d2e8c> | Symphony no. 1 in C minor, op. 68: II. Andante sos |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/d15ff358-c281-46db-99f9-4bb8d6bba5b7> | Symphony no. 1 in C minor, op. 68: III. Un poco al |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
-| Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
 | Klemperer, Otto       | <https://beta.musicbrainz.org/recording/f6e41d1e-3b57-4a74-99dc-57ca4897a051> | Symphony no. 1 in C minor, op. 68: IV. Adagio - Pi |
 | Knappertsbusch, Hans  | <https://beta.musicbrainz.org/recording/58cd22db-cb25-4537-9363-20af61a452b6> | Der Rosenkavalier, op. 59: Act I. "Als Morgengabe, |
 | Knappertsbusch, Hans  | <https://beta.musicbrainz.org/recording/a2fcbd2b-28e5-4544-b109-765fd059739f> | Der Rosenkavalier, op. 59: Act I. "Da geht er hin" |
@@ -1928,7 +1523,6 @@
 | Knappertsbusch, Hans  | <https://beta.musicbrainz.org/recording/37b82e3b-f21b-4bf0-a64f-ede61bf6dcbc> | Tristan und Isolde: 3. Aufzug "Wie kan ich her?"   |
 | Knappertsbusch, Hans  | <https://beta.musicbrainz.org/recording/a449478b-fe54-4312-884a-51a0f69ee5bc> | Tristan und Isolde: Mild und leise (Liebestod)     |
 | Knappertsbusch, Hans  | <https://beta.musicbrainz.org/recording/84c7491c-7d87-482f-bb8b-6c20cb1e6753> | Wesendonk Lieder (Five Poems for Female Voice): "T |
-| Maazel, Lorin         | <https://beta.musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c> | Aida: Atto I, scena 1. “Or di Vulcano al tempio” ( |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/12e5d863-6efb-4a8e-aa2b-299b7916e27c> | Aida: Atto I, scena 1. “Or di Vulcano al tempio” ( |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/6c67425a-5494-4f78-8700-82190475076d> | Also sprach Zarathustra - Introduction             |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/6712a820-61d5-4bf0-8b28-6ffaaa43ec52> | Carmen: Je vais dancer en votre honneur            |
@@ -1986,7 +1580,6 @@
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/9b017ad0-05d5-4f6e-bba2-6c3d95ab1583> | Madama Butterfly: Act II. Un bel di, vedremo       |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/58d01dac-3743-49af-a9f7-a08e5202081b> | Manfred Symphony, op. 58: I. Lento lugubre – Moder |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/8bb1adcc-4826-42a7-be34-6616bd0c4a61> | Manfred Symphony, op. 58: IV. Allegro con fuoco    |
-| Maazel, Lorin         | <https://beta.musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c> | Messe in h-Moll, BWV 232: Gloria                   |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/b24dc27a-5eb0-4e67-9326-f5e1cdb6697c> | Messe in h-Moll, BWV 232: Gloria                   |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/e5065ae2-6e64-41aa-a1af-435c5bfce78a> | Orpheus In the Underworld - Can-Can                |
 | Maazel, Lorin         | <https://beta.musicbrainz.org/recording/ded82a79-aec6-4069-810d-6e0ea747bab1> | Otello: E qual certezza sognate voi                |
@@ -2051,7 +1644,6 @@
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/98e7b2c8-2af1-4a93-9bd7-bf1e37b0606f> | Pagliacci: Prologo. Introduzione orchestrale       |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/78b34af1-5b1a-426d-bc97-ef68853abc55> | Pagliacci: Prologo. “Si può? Signore! Signori!” (T |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1> | Requiem: Libera me Dies Irae                       |
-| Muti, Riccardo        | <https://beta.musicbrainz.org/recording/4b029c4a-d390-4211-9de4-d910690211b1> | Requiem: Libera me Dies Irae                       |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/a4fcc850-41b3-4798-87c9-a1e74505349f> | Rigoletto: Atto I, scena 2. “Soccorso, padre mio.. |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/18ada081-221b-4dfb-86fb-1beeca7096ee> | Rigoletto: Atto II. “Parmi veder le lagrime“       |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/56d921d0-82da-4e80-9ffb-aefdc56bbca9> | Romeo and Juliet Suite no. 1, op. 64a: 7. Tybalt’s |
@@ -2061,9 +1653,7 @@
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/0a9c1237-c937-48e2-a8e8-9c410b0543d5> | Tragic Overture, op. 81                            |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/b1487fdf-e886-4633-b4bb-a1293dd0da27> | Un ballo in maschera: Atto I, scena 2. “Su profete |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316> | Water Music Suite no. 2 in D major, HWV 349: IX. A |
-| Muti, Riccardo        | <https://beta.musicbrainz.org/recording/065a6585-f997-48d5-b6b6-13c16a16d316> | Water Music Suite no. 2 in D major, HWV 349: IX. A |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/4b391999-a920-4c3f-aee9-5bbff6f9cfa9> | Water Music Suite no. 2 in D major, HWV 349: XI. M |
-| Muti, Riccardo        | <https://beta.musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665> | Water Music Suite no. 2 in D major, HWV 349: XII.  |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/8cea3143-cb7b-4af5-a3e2-0fbaaecaa665> | Water Music Suite no. 2 in D major, HWV 349: XII.  |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/69a2e053-5051-4c45-becb-c2fad30b136b> | Water Music Suite no. 3 in G major, HWV 350: XIV.  |
 | Muti, Riccardo        | <https://beta.musicbrainz.org/recording/d08c4ed6-7784-4ee4-be18-38ea888f65e2> | Water Music Suite no. 3 in G major, HWV 350: XV. R |
@@ -2207,8 +1797,6 @@
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/3b254025-d54d-416d-9e6d-4d8a0409d01a> | Aida: Atto II: Dance of the Moorish Slaves         |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/4400eb8e-ce19-4741-8509-2bc8846c9c19> | Aida: Atto II: Fa' cor: della tua patria           |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f> | Aida: Atto II: Ma tu, re, tu, signore possente     |
-| Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/7e16706f-7ac7-4486-a22f-f92d60bfab1f> | Aida: Atto II: Ma tu, re, tu, signore possente     |
-| Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146> | Aida: Atto II: March & Ballet                      |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/c050ecfa-879d-4d39-93e6-8160bdc33146> | Aida: Atto II: March & Ballet                      |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/32092ccc-1676-45d4-a47c-4b0ace642063> | Aida: Atto II: O re, pei sacri numi                |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/3fb7f84a-effb-4dcf-a6ee-fe280c888c35> | Aida: Atto II: Quest'assisa ch'io vesto vi dica    |
@@ -2259,14 +1847,12 @@
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/5287aea7-d91a-46a4-8e0e-26424ce4294e> | La Traviata: Act I: Si ridesta in ciel l'aurora    |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/6fbcd76d-cfb0-4ac4-8b92-2cbffb8dcd84> | La Traviata: Act I: Un dì felice, eterea           |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4> | La Traviata: Act I: È strano, è strano! ... Ah, fo |
-| Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/67481723-ada7-41b4-8990-998af4904ec4> | La Traviata: Act I: È strano, è strano! ... Ah, fo |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/277019d4-8c14-4695-90b8-473d68e768e3> | La Traviata: Act II: Scene 1: Ah, dite alle giovin |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/14636ac8-9363-4c05-aa54-db2a913c5e4b> | La Traviata: Act II: Scene 1: Ah, vive sol quel co |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/10e0931b-b6ab-4632-b2d1-8759e93e0537> | La Traviata: Act II: Scene 1: Alfredo? — Per Parig |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/35092096-6bf6-437e-b404-34fd8d975eff> | La Traviata: Act II: Scene 1: Annina, donde vieni? |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/04f928d3-03de-4a4d-8e37-1dab07be0f32> | La Traviata: Act II: Scene 1: Dammi tu forza, o ci |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/de4f5d4d-cc50-412f-ad74-c47d6cdbfb14> | La Traviata: Act II: Scene 1: Di Provenza          |
-| Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2> | La Traviata: Act II: Scene 1: Lunge da lei ... De' |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/c2f46d43-7758-451e-8ed1-83e882d1acf2> | La Traviata: Act II: Scene 1: Lunge da lei ... De' |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/f64090f7-36ec-4bac-ad8e-5a52e4709e8d> | La Traviata: Act II: Scene 1: Morrò! Morrò!        |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/97b7bdb1-3cea-489f-a65e-5ae743023540> | La Traviata: Act II: Scene 1: Ne rispondi          |
@@ -2319,9 +1905,9 @@
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/641eeb6e-2261-443a-b3be-fed1bbd0d3d0> | Mefistofele: Prologue: T'è noto Faust?             |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/56f687b4-36f2-4141-9d02-eccb96f9c4c9> | Messa da requiem: Ia. Requiem Aeternam             |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/e83727a6-4569-4f40-97b8-97b7b4853ce5> | Passacaglia & Fugue in C minor                     |
+| Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/1659bf87-1891-4097-ad25-2d9b34972291> | Pétrouchka: Tableau I : Fête populaire de la semai |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/c4bfda6f-5fbf-4b3f-b686-075fb5d079dd> | Pétrouchka: Tableau I : Fête populaire de la semai |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/cec2e159-45d8-43d2-afd8-77e528eb22dc> | Pétrouchka: Tableau I : Fête populaire de la semai |
-| Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/1659bf87-1891-4097-ad25-2d9b34972291> | Pétrouchka: Tableau I : Fête populaire de la semai |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/b1105869-4c78-4ac6-86df-eb08bb8f44db> | Requiem Mass no. 1 in C minor: Agnus Dei           |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/9613f47b-9ea8-4359-9ad3-32664b716c6a> | Requiem Mass no. 1 in C minor: Dies irae           |
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/17cbe33b-387b-43b0-b6cb-8d765e4c5ff7> | Requiem Mass no. 1 in C minor: Graduale            |
@@ -2341,5 +1927,5 @@
 | Toscanini, Arturo     | <https://beta.musicbrainz.org/recording/560aaead-534a-4680-a2c9-cf20d2e2f8d2> | Rigoletto: Act IV: È amabile in vero cotal giovino |
 |-----------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
 
-(995 rows)
+(951 rows)
 

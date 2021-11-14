@@ -5,8 +5,9 @@
 -- 2020-05-20: 1584
 -- 2020-09-16: 1062
 -- 2021-01-13: 1001
+-- 2021-11-07: 725
 
-SELECT
+SELECT DISTINCT
     a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
@@ -24,16 +25,18 @@ WHERE
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
 ORDER BY
-    a.sort_name,
-    r.name
+    artist_name,
+    recording_name,
+    recording_url
 ;
 
 -- violinist
 -- 2020-05-20: 30
 -- 2020-09-16: 12
 -- 2021-01-13: 14
+-- 2021-11-07: 215
 
-SELECT
+SELECT DISTINCT
     a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
@@ -51,16 +54,18 @@ WHERE
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
 ORDER BY
-    a.sort_name,
-    r.name
+    artist_name,
+    recording_name,
+    recording_url
 ;
 
 -- quartet
 -- 2020-05-20: 175
 -- 2020-09-16: 25
 -- 2021-01-13: 14
+-- 2021-11-07: 10
 
-SELECT
+SELECT DISTINCT
     a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
@@ -78,16 +83,18 @@ WHERE
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
 ORDER BY
-    a.sort_name,
-    r.name
+    artist_name,
+    recording_name,
+    recording_url
 ;
 
 -- conductor
 -- 2020-05-20: 1293
 -- 2020-09-16: 807
 -- 2021-01-13: 1370
+-- 2021-11-07: 951
 
-SELECT
+SELECT DISTINCT
     a.sort_name AS artist_name,
     to_recording_url(r.gid) AS recording_url,
     SUBSTRING(r.name for 50) AS recording_name
@@ -105,6 +112,7 @@ WHERE
     AND ((lia.begin_date_year IS NOT NULL AND liw.begin_date_year IS NULL)
          OR (lia.begin_date_year IS NULL AND liw.begin_date_year IS NOT NULL))
 ORDER BY
-    a.sort_name,
-    r.name
+    artist_name,
+    recording_name,
+    recording_url
 ;
