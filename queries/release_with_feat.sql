@@ -14,7 +14,7 @@ results AS (
         INNER JOIN composer AS a ON a.id = acn.artist
         INNER JOIN release AS r ON r.artist_credit = acn.artist_credit
 )
-SELECT
+SELECT DISTINCT
     to_release_url(r.gid) AS release_url,
     r.name AS release_name
 FROM

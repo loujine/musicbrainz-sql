@@ -1,0 +1,15 @@
+## wrong imslp links with '(File:)pdf'
+
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|                                 work_url                                 |                                                   work_name                                                   |                                                        url                                                         |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| <https://beta.musicbrainz.org/work/0914d272-d738-44f8-932d-3914915d1c5d> | Arie in C per organo o clavicembalo No. 2                                                                     | http://petrucci.mus.auth.gr/imglnks/usimg/2/2e/IMSLP132224-WIMA.b168-Pasquini_3_Arias.pdf                          |
+| <https://beta.musicbrainz.org/work/208f3ea0-b89e-4b54-a869-5bc9bdb83fdc> | Balletto secondo a tre & a quattro                                                                            | https://imslp.org/wiki/File:WIMA.b0c4-2ballet.pdf                                                                  |
+| <https://beta.musicbrainz.org/work/98174ce7-059a-4dc6-9bce-b21412cd39f2> | Der Fluyten Lust-Hof, Eerste Deel                                                                             | http://javanese.imslp.info/files/imglnks/usimg/2/21/IMSLP177614-PMLP201599-der_fluyten_lusthof_amsterdam_1649.pdf  |
+| <https://beta.musicbrainz.org/work/226e9ac1-a69c-4ed2-94dc-aeabee280052> | Götterdämmerung, WWV 86D: Vorspiel "Welch' Licht leuchtet dort?"                                              | https://s9.imslp.org/files/imglnks/usimg/8/8e/IMSLP47958-PMLP34545-Wagner_-_G%C3%B6tterd%C3%A4mmerung_-_Prolog.pdf |
+| <https://beta.musicbrainz.org/work/382645cb-04f5-30cb-84a2-5a4fad723ab1> | Kantate, BWV 111 "Was mein Gott will, das gscheh allzeit": VI. Choral "Noch eins, Herr, will ich bitten dich" | https://imslp.org/wiki/File:WIMA.f0c6-BWV244_BA4.83_342.was_mein_gott_will.pdf                                     |
+| <https://beta.musicbrainz.org/work/12c98608-4f85-40e8-a8d6-d160a6a877fb> | Sonata for trumpet, 2 violins, viola & continuo in D major "Sonate spirituosa", TWV 44:DA3                    | http://imslp.eu/files/imglnks/euimg/0/0f/IMSLP182519-WIMA.8a12-Tel41DA3Sco.pdf                                     |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+
+(6 rows)
+
