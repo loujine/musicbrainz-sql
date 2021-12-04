@@ -13,7 +13,7 @@ string_type AS (
     WHERE
         name = 'strings'
 )
-SELECT
+SELECT DISTINCT
     to_recording_url(r.gid) AS recording_url,
     r.name
 FROM
