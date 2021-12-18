@@ -8,11 +8,13 @@
 
 SELECT
     to_work_url(gid) AS work_url,
-    name
+    SUBSTRING(name for 70) AS name
 FROM
     work
 WHERE
     name LIKE '%Op. %'
+ORDER BY
+    name
 ;
 
 -- 2020-09-16: 119
