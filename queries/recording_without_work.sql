@@ -17,4 +17,5 @@ WHERE
     lrw.entity0 IS NULL
 ORDER BY
     a.sort_name,
-    r.name
+    r.name,
+    r.gid

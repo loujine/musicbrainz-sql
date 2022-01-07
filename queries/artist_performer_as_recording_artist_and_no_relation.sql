@@ -19,7 +19,8 @@ WHERE
     lar.entity0 IS NULL
 ORDER BY
     a.sort_name,
-    r.name
+    r.name,
+    r.gid
 ;
 
 
@@ -42,7 +43,8 @@ WHERE
     lar.entity0 IS NULL
 ORDER BY
     a.sort_name,
-    r.name
+    r.name,
+    r.gid
 ;
 
 
@@ -65,7 +67,8 @@ WHERE
     lar.entity0 IS NULL
 ORDER BY
     a.sort_name,
-    r.name
+    r.name,
+    r.gid
 ;
 
 
@@ -88,5 +91,6 @@ WHERE
     lar.entity0 IS NULL
 ORDER BY
     a.sort_name,
-    r.name
+    r.name,
+    r.gid
 ;

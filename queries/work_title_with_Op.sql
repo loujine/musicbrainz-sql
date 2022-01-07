@@ -14,7 +14,8 @@ FROM
 WHERE
     name LIKE '%Op. %'
 ORDER BY
-    name
+    name,
+    gid
 ;
 
 -- 2020-09-16: 119
