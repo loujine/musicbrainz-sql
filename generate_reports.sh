@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eux
 
-DBDATE="2021-12-23"
+DBDATE="2022-01-07"
 OUTPUTDIR="docs/${DBDATE}"
 
 PGUSER="musicbrainz"
@@ -37,4 +37,8 @@ for script in *sql
 do
     echo " - [${script%.sql}](${DBDATE}/${script%.sql}.md)" >> ../$INDEX
 done
+popd
+
+pushd ${OUTPUTDIR}
+wc -l -- *md | sed -e 's/\ \ \ \ \ \ /000000/' | sed -e 's/\ \ \ \ \ /00000/' | sed -e 's/\ \ \ \ /0000/' | sed -e 's/\ \ \ /000/' | sort > ../${DBDATE}.counts
 popd
