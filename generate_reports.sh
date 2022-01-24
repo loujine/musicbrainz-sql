@@ -40,5 +40,5 @@ done
 popd
 
 pushd ${OUTPUTDIR}
-wc -l -- *md | sed -e 's/\ \ \ \ \ \ /000000/' | sed -e 's/\ \ \ \ \ /00000/' | sed -e 's/\ \ \ \ /0000/' | sed -e 's/\ \ \ /000/' | sort > ../${DBDATE}.counts
+wc -l -- *md | sort -g > ../../counts/${DBDATE}.counts
 popd
