@@ -39,7 +39,9 @@ WITH
             wmbid, rmbid, name, link_id
     )
 SELECT DISTINCT
-    to_recording_url(rmbid), name -- , attrs
+    to_recording_url(rmbid),
+    SUBSTRING(name for 50) AS name -- ,
+    -- attrs
 FROM
     link_with_attrs
 WHERE

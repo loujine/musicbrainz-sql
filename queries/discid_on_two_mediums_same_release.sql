@@ -1,7 +1,7 @@
 -- Same discid set on different mediums of the same release
 
 SELECT DISTINCT
-    to_release_url(release.gid), release.name
+    to_release_url(release.gid), SUBSTRING(release.name for 50)
 FROM
     medium_cdtoc
     INNER JOIN medium ON medium.id = medium_cdtoc.medium
@@ -11,5 +11,5 @@ GROUP BY
 HAVING
     COUNT(*) > 1
 ORDER BY
-    release.name
+    to_release_url(release.gid), SUBSTRING(release.name for 50)
 ;

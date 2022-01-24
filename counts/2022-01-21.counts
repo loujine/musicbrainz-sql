@@ -2,16 +2,20 @@
      15 external_link_imslp_pdf.md
      18 work_without_composer_without_recording.md
      19 discid_double_duration.md
+     24 discid_with_null_length_tracks.md
      24 release_catno_like_label_code.md
      29 link_with_future_dates.md
+     41 discid_different_manual_durations.md
      45 artist_composer_as_recording_artist.md
      45 discid_linked_to_releases_with_different_recordings.md
      52 instrument_strings_credited_string_quartet.md
      59 recording_with_feat_piano.md
      93 release_with_composer_relationship.md
     113 recording_with_high_stdvar.md
+    157 discid_on_two_mediums_same_release.md
     167 discid_not_applied.md
     185 release_with_feat.md
+    276 link_duplicates_recording_work_incompatible_attrs.md
     292 recording_with_feat.md
     323 discid_above_90_minutes.md
     383 work_title_with_Op.md
@@ -21,6 +25,8 @@
     969 artist_icelanders_with_wrong_sortname.md
    1105 link_duplicates_recording_performer.md
    1779 recording_date_on_work_link_xor_on_performer_link.md
+   1801 work_opera_subworks_not_acts.md
    2310 recording_without_work.md
+   3673 work_classical_subworks_not_movements.md
    4869 artist_performer_as_recording_artist_and_no_relation.md
-  14580 total
+  20552 total

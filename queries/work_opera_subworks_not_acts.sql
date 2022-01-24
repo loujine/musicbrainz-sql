@@ -3,7 +3,7 @@
 
 SELECT
     to_work_url(sw.gid),
-    sw.name
+    SUBSTRING(sw.name for 50) AS name
 FROM
     work                   AS w
     INNER JOIN work_type   AS wt  ON w.type = wt.id
@@ -32,7 +32,7 @@ ORDER BY
 SELECT
     to_work_url(sw.gid),
     -- lat.name,
-    sw.name
+    SUBSTRING(sw.name for 50) AS name
 FROM
     work                      AS w
     INNER JOIN work_type      AS wt  ON w.type = wt.id
@@ -64,7 +64,7 @@ ORDER BY
 SELECT
     to_work_url(sw.gid),
     -- lat.name,
-    sw.name
+    SUBSTRING(sw.name for 50) AS name
 FROM
     work                      AS w
     INNER JOIN work_type      AS wt  ON w.type = wt.id
