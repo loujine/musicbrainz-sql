@@ -23,7 +23,7 @@ WITH barcount AS (
     ORDER BY
         cnt DESC
     )
-SELECT
+SELECT DISTINCT
     barcount.cnt,
     r.barcode,
     to_release_url(r.gid),
@@ -35,4 +35,6 @@ FROM
 ORDER BY
     barcount.cnt DESC,
     r.barcode,
-    r.id
+    to_release_url(r.gid),
+    SUBSTRING(r.name for 50),
+    SUBSTRING(r.comment for 20)
